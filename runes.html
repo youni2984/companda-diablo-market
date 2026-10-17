@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<meta name="theme-color" content="#0b0d10" />
+<title>컴판다 D2R 룬 업그레이드 전체표</title>
+<style>
+:root{color-scheme:dark;--bg:#090b0e;--card:#11151b;--line:#29313b;--text:#f2ead8;--muted:#aab3bd;--gold:#d8aa55;--accent:#7eb6ff;--good:#73d49b}*{box-sizing:border-box}body{margin:0;background:linear-gradient(180deg,#07090c,#0d1117);color:var(--text);font-family:system-ui,-apple-system,"Noto Sans KR",sans-serif}.wrap{max-width:1100px;margin:auto;padding:18px}.card{background:rgba(17,21,27,.96);border:1px solid var(--line);border-radius:16px;padding:18px;margin-bottom:16px;box-shadow:0 12px 34px #0005}.hero h1{margin:.2rem 0 .5rem;color:var(--gold)}.hero p{margin:.2rem 0;color:var(--muted)}.toolbar{display:grid;grid-template-columns:1fr 180px;gap:10px}input,select,button{width:100%;border:1px solid #36414d;border-radius:10px;background:#0b0f14;color:var(--text);padding:12px;font:inherit}button{cursor:pointer;background:#182230;border-color:#40536a}.table-wrap{overflow:auto;border-radius:12px;border:1px solid var(--line)}table{width:100%;border-collapse:collapse;min-width:760px}th,td{padding:11px 10px;border-bottom:1px solid #252d36;text-align:left;white-space:nowrap}th{position:sticky;top:0;background:#171c23;color:var(--gold);z-index:1}tr:hover td{background:#141a21}.num{color:#8894a0;width:60px}.rune{font-weight:800;color:#ffd98b}.recipe{color:#dce6f1}.gem{color:#b8c7d9}.final{color:var(--good);font-weight:800}.calc-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:12px}.result{margin-top:14px;padding:14px;border:1px solid #334354;border-radius:12px;background:#0b1118;line-height:1.65}.badge{display:inline-block;padding:3px 8px;border:1px solid #4a5968;border-radius:999px;color:#c5d2df;font-size:.82rem}.note{font-size:.92rem;color:var(--muted)}.back{display:inline-block;margin-bottom:12px;color:var(--accent);text-decoration:none}@media(max-width:720px){.wrap{padding:10px}.toolbar,.calc-grid{grid-template-columns:1fr}.card{padding:13px}th,td{padding:9px 8px;font-size:.9rem}}
+</style>
+</head>
+<body>
+<main class="wrap">
+<a class="back" href="./">← 메인으로</a>
+<section class="card hero"><span class="badge">D2R · Horadric Cube</span><h1>룬 1~33 업그레이드 전체 공식</h1><p>엘(El)부터 조드(Zod)까지 번호 · 영문명 · 다음 룬 · 큐브 조합 재료를 한 번에 확인합니다.</p></section>
+<section class="card"><div class="toolbar"><input id="q" type="search" placeholder="룬 이름/번호/보석 검색 (예: Ber, 베르, 30, 자수정)" /><select id="range"><option value="all">전체 1~33</option><option value="low">하급 1~20</option><option value="high">고급 21~33</option></select></div></section>
+<section class="card"><div class="table-wrap"><table><thead><tr><th>번호</th><th>룬</th><th>다음 룬</th><th>업그레이드 공식</th><th>보석</th></tr></thead><tbody id="rows"></tbody></table></div></section>
+<section class="card"><h2>룬 업그레이드 계산기</h2><p class="note">시작 룬에서 목표 룬까지 순차 업그레이드할 때 필요한 수량을 계산합니다. 중간 단계에서 요구되는 보석도 합산합니다.</p><div class="calc-grid"><label>시작 룬<select id="from"></select></label><label>목표 룬<select id="to"></select></label><label>목표 수량<input id="qty" type="number" min="1" max="999" value="1" /></label></div><div id="calc" class="result"></div></section>
+<section class="card note"><strong>사용법:</strong> 필요한 룬과 보석을 호라드림의 함에 넣고 변환합니다. 조드(Zod)는 최종 33번 룬이라 상위 업그레이드 공식이 없습니다.</section>
+</main>
+<script>
+const R=[
+[1,'엘','El','Eld',3,''],[2,'엘드','Eld','Tir',3,''],[3,'티르','Tir','Nef',3,''],[4,'네프','Nef','Eth',3,''],[5,'에드','Eth','Ith',3,''],[6,'아이드','Ith','Tal',3,''],[7,'탈','Tal','Ral',3,''],[8,'랄','Ral','Ort',3,''],[9,'오르트','Ort','Thul',3,''],
+[10,'주울','Thul','Amn',3,'최하급 토파즈'],[11,'앰','Amn','Sol',3,'최하급 자수정'],[12,'솔','Sol','Shael',3,'최하급 사파이어'],[13,'샤엘','Shael','Dol',3,'최하급 루비'],[14,'돌','Dol','Hel',3,'최하급 에메랄드'],[15,'헬','Hel','Io',3,'최하급 다이아몬드'],
+[16,'포','Io','Lum',3,'하급 토파즈'],[17,'룸','Lum','Ko',3,'하급 자수정'],[18,'코','Ko','Fal',3,'하급 사파이어'],[19,'팔','Fal','Lem',3,'하급 루비'],[20,'렘','Lem','Pul',3,'하급 에메랄드'],[21,'풀','Pul','Um',2,'하급 다이아몬드'],
+[22,'우움','Um','Mal',2,'토파즈'],[23,'말','Mal','Ist',2,'자수정'],[24,'아이스트','Ist','Gul',2,'사파이어'],[25,'굴','Gul','Vex',2,'루비'],[26,'벡스','Vex','Ohm',2,'에메랄드'],[27,'오움','Ohm','Lo',2,'다이아몬드'],
+[28,'로','Lo','Sur',2,'상급 토파즈'],[29,'수르','Sur','Ber',2,'상급 자수정'],[30,'베르','Ber','Jah',2,'상급 사파이어'],[31,'자','Jah','Cham',2,'상급 루비'],[32,'참','Cham','Zod',2,'상급 에메랄드'],[33,'조드','Zod','',0,'']
+];
+const $=s=>document.querySelector(s); const esc=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+function render(){const q=$('#q').value.trim().toLowerCase(),rg=$('#range').value;$('#rows').innerHTML=R.filter(r=>(rg==='all'||(rg==='low'?r[0]<=20:r[0]>=21))&&(!q||r.join(' ').toLowerCase().includes(q))).map(r=>`<tr><td class="num">${r[0]}</td><td><span class="rune">${r[1]} · ${r[2]}</span></td><td>${r[0]===33?'<span class="final">최종 룬</span>':r[3]}</td><td class="recipe">${r[0]===33?'—':`${r[4]} × ${r[2]}${r[5]?` + ${r[5]}`:''} → ${r[3]}`}</td><td class="gem">${r[5]||'—'}</td></tr>`).join('')}
+function opts(){const html=R.map(r=>`<option value="${r[0]}">${r[0]}. ${r[1]} (${r[2]})</option>`).join('');$('#from').innerHTML=html;$('#to').innerHTML=html;$('#from').value='1';$('#to').value='33'}
+function calc(){let a=+$('#from').value,b=+$('#to').value,q=Math.max(1,+$('#qty').value||1);if(a>b){$('#calc').innerHTML='목표 룬은 시작 룬보다 같거나 높은 번호를 선택하세요.';return}if(a===b){$('#calc').innerHTML=`${R[a-1][2]} 룬 <strong>${q}개</strong>가 필요합니다.`;return}let need=q,gems={};for(let n=b-1;n>=a;n--){const row=R[n-1],mult=row[4];if(row[5])gems[row[5]]=(gems[row[5]]||0)+need;need*=mult}const gl=Object.entries(gems).map(([k,v])=>`${k} ${v}개`).join(' · ')||'없음';$('#calc').innerHTML=`목표 <strong>${R[b-1][2]} ${q}개</strong>를 처음부터 제작하려면 시작 룬 <strong>${R[a-1][2]} ${need.toLocaleString()}개</strong>가 필요합니다.<br>단계별 필요 보석: <strong>${gl}</strong><br><span class="note">※ 중간 룬을 이미 보유하고 있다면 실제 필요 수량은 줄어듭니다.</span>`}
+$('#q').addEventListener('input',render);$('#range').addEventListener('change',render);['from','to','qty'].forEach(id=>$('#'+id).addEventListener('input',calc));opts();render();calc();
+</script>
+</body></html>
