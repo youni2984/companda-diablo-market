@@ -1,19 +1,170 @@
 {
   "source": "https://www.playnote.co.kr/trade/itemmarket?index=1",
   "scope": "public-listings-only",
-  "updatedAt": "2026-10-17T19:18:08.379612+00:00",
-  "listingCount": 18,
+  "updatedAt": "2026-10-17T21:42:21.544573+00:00",
+  "listingCount": 20,
   "itemCount": 10,
   "items": [
     {
-      "name": "래더 우움룬",
-      "category": "룬",
-      "listingCount": 3,
+      "name": "래더 거대 부적",
+      "category": "부적",
+      "listingCount": 6,
       "price": {
         "currency": "P",
-        "min": 200,
-        "median": 200,
-        "max": 200
+        "min": 500,
+        "median": 600,
+        "max": 1000
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "5.",
+        "번개 기술(원소술사 전용)",
+        "블루루",
+        "생명력",
+        "함성(야만용사 전용)"
+      ],
+      "samples": [
+        {
+          "name": "래더 거대 부적",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 10,
+          "priceP": 500,
+          "unitPriceP": 500,
+          "options": [
+            {
+              "label": "번개 기술(원소술사 전용)",
+              "value": "1"
+            },
+            {
+              "label": "블루루",
+              "value": "100"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=387594"
+        },
+        {
+          "name": "래더 거대 부적",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 10,
+          "priceP": 500,
+          "unitPriceP": 500,
+          "options": [
+            {
+              "label": "번개 기술(원소술사 전용)",
+              "value": "1"
+            }
+          ],
+          "url": null
+        },
+        {
+          "name": "래더 거대 부적",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 10,
+          "priceP": 600,
+          "unitPriceP": 600,
+          "options": [
+            {
+              "label": "함성(야만용사 전용)",
+              "value": "1"
+            },
+            {
+              "label": "블루루",
+              "value": "100"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=375249"
+        },
+        {
+          "name": "래더 거대 부적",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 10,
+          "priceP": 600,
+          "unitPriceP": 600,
+          "options": [
+            {
+              "label": "함성(야만용사 전용)",
+              "value": "1"
+            }
+          ],
+          "url": null
+        },
+        {
+          "name": "래더 거대 부적",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 3,
+          "priceP": 1000,
+          "unitPriceP": 1000,
+          "options": [
+            {
+              "label": "함성(야만용사 전용)",
+              "value": "1"
+            },
+            {
+              "label": "생명력",
+              "value": "30"
+            },
+            {
+              "label": "블루루",
+              "value": "100"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=365484"
+        },
+        {
+          "name": "래더 거대 부적",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 3,
+          "priceP": 1000,
+          "unitPriceP": 1000,
+          "options": [
+            {
+              "label": "함성(야만용사 전용)",
+              "value": "1"
+            },
+            {
+              "label": "생명력",
+              "value": "30"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 거미 그물띠 스파이더웹 새시",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 700,
+        "median": 700,
+        "max": 700
       },
       "servers": [
         "악군"
@@ -24,24 +175,13 @@
       ],
       "samples": [
         {
-          "name": "래더 우움룬",
-          "category": "룬",
+          "name": "래더 거미 그물띠 스파이더웹 새시",
+          "category": "기타",
           "server": "악군",
           "status": "",
-          "quantity": 5,
-          "priceP": 200,
-          "unitPriceP": 200,
-          "options": [],
-          "url": null
-        },
-        {
-          "name": "래더 우움룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 84,
-          "priceP": 200,
-          "unitPriceP": 200,
+          "quantity": 2,
+          "priceP": 700,
+          "unitPriceP": 700,
           "options": [
             {
               "label": "블루루",
@@ -52,494 +192,334 @@
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=304446"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=395633"
         },
         {
-          "name": "래더 우움룬",
+          "name": "래더 거미 그물띠 스파이더웹 새시",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 2,
+          "priceP": 700,
+          "unitPriceP": 700,
+          "options": [],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 북부 세계석 조각",
+      "category": "세트",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 300,
+        "median": 300,
+        "max": 300
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "#자수정",
+        "#퍼자",
+        "5.",
+        "랄룬",
+        "번개 기술(원소술사 전용)",
+        "블루루",
+        "생명력",
+        "잡주얼 총",
+        "주얼",
+        "함성(야만용사 전용)"
+      ],
+      "samples": [
+        {
+          "name": "래더 북부 세계석 조각",
+          "category": "세트",
+          "server": "악군",
+          "status": "거래완료",
+          "quantity": 5,
+          "priceP": 300,
+          "unitPriceP": 300,
+          "options": [
+            {
+              "label": "블루루",
+              "value": "100"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            },
+            {
+              "label": "#자수정",
+              "value": "20"
+            },
+            {
+              "label": "랄룬",
+              "value": "20"
+            },
+            {
+              "label": "잡주얼 총",
+              "value": "60"
+            },
+            {
+              "label": "번개 기술(원소술사 전용)",
+              "value": "1"
+            },
+            {
+              "label": "함성(야만용사 전용)",
+              "value": "1"
+            },
+            {
+              "label": "생명력",
+              "value": "30"
+            },
+            {
+              "label": "#퍼자",
+              "value": "20"
+            },
+            {
+              "label": "주얼",
+              "value": "20"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemmarket?index=1"
+        },
+        {
+          "name": "래더 북부 세계석 조각",
+          "category": "세트",
+          "server": "악군",
+          "status": "",
+          "quantity": 5,
+          "priceP": 300,
+          "unitPriceP": 300,
+          "options": [
+            {
+              "label": "블루루",
+              "value": "100"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=415883"
+        }
+      ]
+    },
+    {
+      "name": "래더 캐스터목걸이 크래프트 세트",
+      "category": "세트",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 1700,
+        "median": 1700,
+        "max": 1700
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "#퍼자",
+        "5.",
+        "랄룬",
+        "블루루",
+        "주얼"
+      ],
+      "samples": [
+        {
+          "name": "래더 캐스터목걸이 크래프트 세트",
+          "category": "세트",
+          "server": "악군",
+          "status": "",
+          "quantity": 10,
+          "priceP": 1700,
+          "unitPriceP": 1700,
+          "options": [
+            {
+              "label": "#퍼자",
+              "value": "20"
+            },
+            {
+              "label": "랄룬",
+              "value": "20"
+            },
+            {
+              "label": "주얼",
+              "value": "20"
+            },
+            {
+              "label": "블루루",
+              "value": "100"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=353442"
+        },
+        {
+          "name": "래더 캐스터목걸이 크래프트 세트",
+          "category": "세트",
+          "server": "악군",
+          "status": "",
+          "quantity": 10,
+          "priceP": 1700,
+          "unitPriceP": 1700,
+          "options": [],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 탈릭의 고뇌",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 100,
+        "median": 100,
+        "max": 100
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "5.",
+        "블루루"
+      ],
+      "samples": [
+        {
+          "name": "래더 탈릭의 고뇌",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 90,
+          "priceP": 100,
+          "unitPriceP": 100,
+          "options": [
+            {
+              "label": "블루루",
+              "value": "100"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=412207"
+        },
+        {
+          "name": "래더 탈릭의 고뇌",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 90,
+          "priceP": 100,
+          "unitPriceP": 100,
+          "options": [],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "스탠 이스트룬",
+      "category": "룬",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 280,
+        "median": 280,
+        "max": 280
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "5.",
+        "블루루"
+      ],
+      "samples": [
+        {
+          "name": "스탠 이스트룬",
           "category": "룬",
           "server": "악군",
           "status": "",
-          "quantity": 84,
-          "priceP": 200,
-          "unitPriceP": 200,
+          "quantity": 53,
+          "priceP": 280,
+          "unitPriceP": 280,
+          "options": [
+            {
+              "label": "블루루",
+              "value": "100"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=380717"
+        },
+        {
+          "name": "스탠 이스트룬",
+          "category": "룬",
+          "server": "악군",
+          "status": "",
+          "quantity": 53,
+          "priceP": 280,
+          "unitPriceP": 280,
           "options": [],
           "url": null
         }
       ]
     },
     {
-      "name": "래더 공포의 열쇠",
-      "category": "기타",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 100,
-        "median": 100,
-        "max": 100
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "검은강"
-      ],
-      "samples": [
-        {
-          "name": "래더 공포의 열쇠",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 13,
-          "priceP": 100,
-          "unitPriceP": 100,
-          "options": [
-            {
-              "label": "검은강",
-              "value": "47"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=413589"
-        },
-        {
-          "name": "래더 공포의 열쇠",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 13,
-          "priceP": 100,
-          "unitPriceP": 100,
-          "options": [],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 서슬꼬리 샤크스킨 벨트",
-      "category": "기타",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 200,
-        "median": 200,
-        "max": 200
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "dufwjd",
-        "방어력%"
-      ],
-      "samples": [
-        {
-          "name": "래더 서슬꼬리 샤크스킨 벨트",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 200,
-          "unitPriceP": 200,
-          "options": [
-            {
-              "label": "방어력%",
-              "value": "143"
-            },
-            {
-              "label": "dufwjd",
-              "value": "39"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=418512"
-        },
-        {
-          "name": "래더 서슬꼬리 샤크스킨 벨트",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 200,
-          "unitPriceP": 200,
-          "options": [
-            {
-              "label": "방어력%",
-              "value": "143"
-            }
-          ],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 아르스 알디아볼로스 신성모독 마법서",
-      "category": "기타",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 1500,
-        "median": 1500,
-        "max": 1500
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "도란도란",
-        "방어력%",
-        "시야",
-        "적 처치 시 마나 회복",
-        "종말(악마술사 전용)",
-        "화염 기술 피해%",
-        "화염 저항%"
-      ],
-      "samples": [
-        {
-          "name": "래더 아르스 알디아볼로스 신성모독 마법서",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 1500,
-          "unitPriceP": 1500,
-          "options": [
-            {
-              "label": "화염 기술 피해%",
-              "value": "17"
-            },
-            {
-              "label": "종말(악마술사 전용)",
-              "value": "5"
-            },
-            {
-              "label": "방어력%",
-              "value": "178"
-            },
-            {
-              "label": "화염 저항%",
-              "value": "24"
-            },
-            {
-              "label": "적 처치 시 마나 회복",
-              "value": "8"
-            },
-            {
-              "label": "시야",
-              "value": "7"
-            },
-            {
-              "label": "도란도란",
-              "value": "27"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=418511"
-        },
-        {
-          "name": "래더 아르스 알디아볼로스 신성모독 마법서",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 1500,
-          "unitPriceP": 1500,
-          "options": [
-            {
-              "label": "화염 기술 피해%",
-              "value": "17"
-            },
-            {
-              "label": "종말(악마술사 전용)",
-              "value": "5"
-            },
-            {
-              "label": "방어력%",
-              "value": "178"
-            },
-            {
-              "label": "화염 저항%",
-              "value": "24"
-            },
-            {
-              "label": "적 처치 시 마나 회복",
-              "value": "8"
-            },
-            {
-              "label": "시야",
-              "value": "7"
-            }
-          ],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 작은 부적",
-      "category": "부적",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 900,
-        "median": 900,
-        "max": 900
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "4.",
-        "모든 저항",
-        "통팥"
-      ],
-      "samples": [
-        {
-          "name": "래더 작은 부적",
-          "category": "부적",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 900,
-          "unitPriceP": 900,
-          "options": [
-            {
-              "label": "모든 저항",
-              "value": "5"
-            },
-            {
-              "label": "통팥",
-              "value": "65"
-            },
-            {
-              "label": "4.",
-              "value": "80"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=413714"
-        },
-        {
-          "name": "래더 작은 부적",
-          "category": "부적",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 900,
-          "unitPriceP": 900,
-          "options": [
-            {
-              "label": "모든 저항",
-              "value": "5"
-            }
-          ],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 증오의 열쇠",
-      "category": "기타",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 100,
-        "median": 100,
-        "max": 100
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "검은강"
-      ],
-      "samples": [
-        {
-          "name": "래더 증오의 열쇠",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 100,
-          "unitPriceP": 100,
-          "options": [
-            {
-              "label": "검은강",
-              "value": "47"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=418516"
-        },
-        {
-          "name": "래더 증오의 열쇠",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 100,
-          "unitPriceP": 100,
-          "options": [],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 탈 라샤의 보호",
-      "category": "기타",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 200,
-        "median": 200,
-        "max": 200
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "총 방어력",
-        "쿠마적"
-      ],
-      "samples": [
-        {
-          "name": "래더 탈 라샤의 보호",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 200,
-          "unitPriceP": 200,
-          "options": [
-            {
-              "label": "총 방어력",
-              "value": "916"
-            },
-            {
-              "label": "쿠마적",
-              "value": "71"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=418515"
-        },
-        {
-          "name": "래더 탈 라샤의 보호",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 200,
-          "unitPriceP": 200,
-          "options": [
-            {
-              "label": "총 방어력",
-              "value": "916"
-            }
-          ],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 수수께끼",
-      "category": "기타",
-      "listingCount": 1,
-      "price": {
-        "currency": "P",
-        "min": 4000,
-        "median": 4000,
-        "max": 4000
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "방어력"
-      ],
-      "samples": [
-        {
-          "name": "래더 수수께끼",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 4000,
-          "unitPriceP": 4000,
-          "options": [
-            {
-              "label": "방어력",
-              "value": "1311"
-            }
-          ],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 증오의 열쇠",
+      "name": "래더 북부 세계석 조각",
       "category": "룬워드",
       "listingCount": 1,
       "price": {
         "currency": "P",
-        "min": 100,
-        "median": 100,
-        "max": 100
+        "min": 300,
+        "median": 300,
+        "max": 300
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "0.",
-        "4.",
+        "#자수정",
+        "#퍼자",
+        "-부산중구",
+        "1,",
         "5.",
-        "dufwjd",
-        "거래 상대방",
-        "검은강",
-        "도란도란",
         "디아블로",
-        "모든 저항",
-        "방어력",
-        "방어력%",
+        "랄룬",
+        "번개 기술(원소술사 전용)",
+        "부산광역시 남구 전포대로",
         "블루루",
-        "시야",
+        "사업자등록번호:",
+        "생명력",
+        "연락처",
         "옵션",
-        "적 처치 시 마나 회복",
-        "종말(악마술사 전용)",
+        "자주묻는질문",
+        "잡주얼 총",
+        "주얼",
         "지금 시작하면, 멤버십 PLUS",
-        "총 방어력",
-        "쿠마적",
-        "통팥",
+        "통신판매신고번호: 제",
         "플레이디아 디아블로",
-        "화염 기술 피해%",
-        "화염 저항%"
+        "함성(야만용사 전용)"
       ],
       "samples": [
         {
-          "name": "래더 증오의 열쇠",
+          "name": "래더 북부 세계석 조각",
           "category": "룬워드",
           "server": "악군",
           "status": "거래완료",
-          "quantity": 1,
-          "priceP": 100,
-          "unitPriceP": 100,
+          "quantity": 5,
+          "priceP": 300,
+          "unitPriceP": 300,
           "options": [
             {
               "label": "지금 시작하면, 멤버십 PLUS",
@@ -554,88 +534,76 @@
               "value": "2"
             },
             {
-              "label": "검은강",
-              "value": "47"
+              "label": "블루루",
+              "value": "100"
             },
             {
               "label": "5.",
               "value": "00"
             },
             {
-              "label": "총 방어력",
-              "value": "916"
+              "label": "#자수정",
+              "value": "20"
             },
             {
-              "label": "쿠마적",
-              "value": "71"
+              "label": "랄룬",
+              "value": "20"
             },
             {
-              "label": "방어력",
-              "value": "1311"
+              "label": "잡주얼 총",
+              "value": "60"
             },
             {
-              "label": "거래 상대방",
+              "label": "번개 기술(원소술사 전용)",
               "value": "1"
             },
             {
-              "label": "0.",
-              "value": "00"
+              "label": "함성(야만용사 전용)",
+              "value": "1"
             },
             {
-              "label": "블루루",
-              "value": "100"
+              "label": "생명력",
+              "value": "30"
             },
             {
-              "label": "방어력%",
-              "value": "143"
+              "label": "#퍼자",
+              "value": "20"
             },
             {
-              "label": "dufwjd",
-              "value": "39"
-            },
-            {
-              "label": "화염 기술 피해%",
-              "value": "17"
-            },
-            {
-              "label": "종말(악마술사 전용)",
-              "value": "5"
-            },
-            {
-              "label": "방어력%",
-              "value": "178"
-            },
-            {
-              "label": "화염 저항%",
-              "value": "24"
-            },
-            {
-              "label": "적 처치 시 마나 회복",
-              "value": "8"
-            },
-            {
-              "label": "시야",
-              "value": "7"
-            },
-            {
-              "label": "도란도란",
-              "value": "27"
-            },
-            {
-              "label": "모든 저항",
-              "value": "5"
-            },
-            {
-              "label": "통팥",
-              "value": "65"
-            },
-            {
-              "label": "4.",
-              "value": "80"
+              "label": "주얼",
+              "value": "20"
             },
             {
               "label": "옵션",
               "value": "0"
+            },
+            {
+              "label": "1,",
+              "value": "000"
+            },
+            {
+              "label": "사업자등록번호:",
+              "value": "148"
+            },
+            {
+              "label": "통신판매신고번호: 제",
+              "value": "2021"
+            },
+            {
+              "label": "-부산중구",
+              "value": "0282"
+            },
+            {
+              "label": "부산광역시 남구 전포대로",
+              "value": "116"
+            },
+            {
+              "label": "연락처",
+              "value": "070"
+            },
+            {
+              "label": "자주묻는질문",
+              "value": "1"
             }
           ],
           "url": "https://www.playnote.co.kr/customer/noticedetail?Index=5"
@@ -643,131 +611,113 @@
       ]
     },
     {
-      "name": "래더 증오의 열쇠",
-      "category": "부적",
+      "name": "래더 북부 세계석 조각",
+      "category": "기타",
       "listingCount": 1,
       "price": {
         "currency": "P",
-        "min": 100,
-        "median": 100,
-        "max": 100
+        "min": 300,
+        "median": 300,
+        "max": 300
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [],
+      "samples": [
+        {
+          "name": "래더 북부 세계석 조각",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 5,
+          "priceP": 300,
+          "unitPriceP": 300,
+          "options": [],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 최상급 자수정",
+      "category": "세트",
+      "listingCount": 1,
+      "price": {
+        "currency": "P",
+        "min": 1700,
+        "median": 1700,
+        "max": 1700
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "0.",
-        "4.",
+        "#자수정",
         "5.",
-        "dufwjd",
-        "거래 상대방",
-        "검은강",
-        "도란도란",
-        "모든 저항",
-        "방어력",
-        "방어력%",
+        "랄룬",
         "블루루",
-        "시야",
-        "적 처치 시 마나 회복",
-        "종말(악마술사 전용)",
-        "총 방어력",
-        "쿠마적",
-        "통팥",
-        "화염 기술 피해%",
-        "화염 저항%"
+        "잡주얼 총"
       ],
       "samples": [
         {
-          "name": "래더 증오의 열쇠",
-          "category": "부적",
+          "name": "래더 최상급 자수정",
+          "category": "세트",
           "server": "악군",
-          "status": "거래완료",
-          "quantity": 1,
-          "priceP": 100,
-          "unitPriceP": 100,
+          "status": "",
+          "quantity": 5,
+          "priceP": 1700,
+          "unitPriceP": 1700,
           "options": [
             {
-              "label": "검은강",
-              "value": "47"
+              "label": "#자수정",
+              "value": "20"
             },
             {
-              "label": "5.",
-              "value": "00"
+              "label": "랄룬",
+              "value": "20"
             },
             {
-              "label": "총 방어력",
-              "value": "916"
-            },
-            {
-              "label": "쿠마적",
-              "value": "71"
-            },
-            {
-              "label": "방어력",
-              "value": "1311"
-            },
-            {
-              "label": "거래 상대방",
-              "value": "1"
-            },
-            {
-              "label": "0.",
-              "value": "00"
+              "label": "잡주얼 총",
+              "value": "60"
             },
             {
               "label": "블루루",
               "value": "100"
             },
             {
-              "label": "방어력%",
-              "value": "143"
-            },
-            {
-              "label": "dufwjd",
-              "value": "39"
-            },
-            {
-              "label": "화염 기술 피해%",
-              "value": "17"
-            },
-            {
-              "label": "종말(악마술사 전용)",
-              "value": "5"
-            },
-            {
-              "label": "방어력%",
-              "value": "178"
-            },
-            {
-              "label": "화염 저항%",
-              "value": "24"
-            },
-            {
-              "label": "적 처치 시 마나 회복",
-              "value": "8"
-            },
-            {
-              "label": "시야",
-              "value": "7"
-            },
-            {
-              "label": "도란도란",
-              "value": "27"
-            },
-            {
-              "label": "모든 저항",
-              "value": "5"
-            },
-            {
-              "label": "통팥",
-              "value": "65"
-            },
-            {
-              "label": "4.",
-              "value": "80"
+              "label": "5.",
+              "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemmarket?index=1"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=390690"
+        }
+      ]
+    },
+    {
+      "name": "래더 최상급 자수정",
+      "category": "기타",
+      "listingCount": 1,
+      "price": {
+        "currency": "P",
+        "min": 1700,
+        "median": 1700,
+        "max": 1700
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [],
+      "samples": [
+        {
+          "name": "래더 최상급 자수정",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 5,
+          "priceP": 1700,
+          "unitPriceP": 1700,
+          "options": [],
+          "url": null
         }
       ]
     }
