@@ -16,7 +16,7 @@ const YUPGOOLG_REFERENCE = {
   modParts: ['재설계된 스킬 시스템','수백 개 신규/재설계 아이템','새로운 룬어·세트·전설/유니크 장비','맵 기반 엔드게임과 보스 콘텐츠','레벨 110 진행 시스템','단조·재롤링·접두사·소켓 제어 등 복합 크래프팅']
 };
 
-function yupEscape(value='') {return String(value).replace(/[&<>"']/g,(c)=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot',"'":'&#39;'}[c]));}
+function yupEscape(value='') {return String(value).replace(/[&<>"']/g,(c)=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));}
 
 function addYupgoolgStyles(){
   if(document.getElementById('yupgoolgStyles'))return;
@@ -68,4 +68,5 @@ loadCompandaExtension('inventory-cube.js','inventory-cube',()=>{
   const legacyRunePanel=document.getElementById('runes');if(legacyRunePanel)legacyRunePanel.style.display='none';
   document.querySelectorAll('[data-open-tab="runes"]').forEach(el=>{el.dataset.openTab='inventoryCube';const b=el.querySelector('b');const span=el.querySelector('span');if(b)b.textContent='인벤·큐빙';if(span)span.textContent='룬 수량·캐릭터/개인/공유 창고·큐빙';});
   loadCompandaExtension('battlenet-profile.js','battlenet-profile');
+  loadCompandaExtension('scan-inventory-bridge.js','scan-inventory-bridge');
 });
