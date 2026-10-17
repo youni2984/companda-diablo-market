@@ -1,5 +1,10 @@
 const SITE_VERSION = '1.5.0';
 
+const siteStyle = document.createElement('link');
+siteStyle.rel = 'stylesheet';
+siteStyle.href = 'site.css';
+document.head.appendChild(siteStyle);
+
 function openSiteTab(id) {
   document.querySelectorAll('.tab').forEach((b) => b.classList.toggle('active', b.dataset.tab === id));
   document.querySelectorAll('.panel').forEach((p) => p.classList.toggle('active', p.id === id));
@@ -82,7 +87,7 @@ function parseNumber(text, patterns) {
 function analyzeDetectedItem() {
   const text = ocrText?.value || '';
   const lower = text.toLowerCase();
-  let detected = ITEM_KEYWORDS.find(([name]) => lower.includes(name.toLowerCase()));
+  const detected = ITEM_KEYWORDS.find(([name]) => lower.includes(name.toLowerCase()));
   const name = detected?.[0] || (text.split(/\r?\n/).map(v=>v.trim()).find(Boolean) || '아이템명 확인 필요');
   const quality = detected?.[1] || (/룬어|runeword/i.test(text) ? 'runeword' : /고유|unique/i.test(text) ? 'unique' : /세트|set/i.test(text) ? 'set' : 'normal');
   const allSkills = parseNumber(text, [/(?:모든 기술|all skills)[^+\d]*\+?(\d+)/i, /\+(\d+)\s*(?:모든 기술|to all skills)/i]);
