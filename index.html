@@ -4,6 +4,7 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="theme-color" content="#0b0d10" />
+  <meta name="description" content="컴판다 디아블로2 레저렉션 도우미 - 육성, 룬워드, 장비 비교, 카메라 판독, 시세, 3D 외형" />
   <title>컴판다 디아블로2 레저렉션 도우미</title>
   <link rel="stylesheet" href="styles.css" />
 </head>
@@ -14,9 +15,9 @@
       <h1>사용자 패턴 인증</h1>
       <p class="auth-desc">3×3 점을 등록된 순서대로 드래그해 연결하세요.</p>
       <div id="patternGrid" class="pattern-grid" aria-label="3×3 패턴 입력">
-        <button class="pattern-dot" data-node="1" aria-label="패턴 점 1"><span>1</span></button><button class="pattern-dot" data-node="2" aria-label="패턴 점 2"><span>2</span></button><button class="pattern-dot" data-node="3" aria-label="패턴 점 3"><span>3</span></button>
-        <button class="pattern-dot" data-node="4" aria-label="패턴 점 4"><span>4</span></button><button class="pattern-dot" data-node="5" aria-label="패턴 점 5"><span>5</span></button><button class="pattern-dot" data-node="6" aria-label="패턴 점 6"><span>6</span></button>
-        <button class="pattern-dot" data-node="7" aria-label="패턴 점 7"><span>7</span></button><button class="pattern-dot" data-node="8" aria-label="패턴 점 8"><span>8</span></button><button class="pattern-dot" data-node="9" aria-label="패턴 점 9"><span>9</span></button>
+        <button class="pattern-dot" data-node="1"><span>1</span></button><button class="pattern-dot" data-node="2"><span>2</span></button><button class="pattern-dot" data-node="3"><span>3</span></button>
+        <button class="pattern-dot" data-node="4"><span>4</span></button><button class="pattern-dot" data-node="5"><span>5</span></button><button class="pattern-dot" data-node="6"><span>6</span></button>
+        <button class="pattern-dot" data-node="7"><span>7</span></button><button class="pattern-dot" data-node="8"><span>8</span></button><button class="pattern-dot" data-node="9"><span>9</span></button>
       </div>
       <div class="pattern-meta"><span id="patternLength">0개 선택</span><button id="patternReset" class="ghost" type="button">다시 입력</button></div>
       <p id="authStatus" class="auth-status" aria-live="polite">첫 점을 누른 상태로 드래그하세요.</p>
@@ -24,67 +25,133 @@
   </section>
 
   <main id="appShell" class="wrap app-locked" aria-hidden="true">
-    <header class="card hero">
-      <div><p class="eyebrow">COMPANDA D2R HELPER</p><h1>컴판다 디아블로2 레저렉션 도우미</h1><p>공식 패치 기준 · 룬워드 · 직업 육성 · 필드 사냥 · 장비/딜 변화 계산을 서버 없이 처리합니다.</p></div>
-      <div class="version">v1.4.0 · PATCH 3.3</div>
+    <header class="card hero site-hero">
+      <div>
+        <p class="eyebrow">COMPANDA D2R HELPER</p>
+        <h1>컴판다 디아블로2 레저렉션 도우미</h1>
+        <p>육성 · 룬워드 · 장비 비교 · AI 카메라 판독 · 시세 · 3D 외형을 하나의 정적 사이트에서 처리합니다.</p>
+      </div>
+      <div class="version">v1.5.0 · PATCH 3.3</div>
     </header>
 
     <section class="card official-banner">
-      <strong>2026 현재 공식 기준</strong>
-      <span>래더 15시즌 · 패치 3.3 · 악마술사 · 공포의 영역/위압적인 고대인 반영</span>
-      <small>블리자드 공식 사실과 컴판다 추천 육성법/계산값은 구분 표시합니다.</small>
+      <strong>현재 데이터 기준</strong>
+      <span>래더 15시즌 · 패치 3.3 · 악마술사 · 엽굵스킨 v5.5 정보 분리 반영</span>
+      <small>공식 사실 / 추천 육성 / 예상 계산 / 외부 시세 참고를 구분 표시합니다.</small>
     </section>
 
-    <nav class="tabs tabs-6" aria-label="도우미 메뉴">
-      <button class="tab active" data-tab="guide">육성 가이드</button>
-      <button class="tab" data-tab="simulator">장비·딜 변화</button>
+    <nav class="tabs site-tabs" aria-label="도우미 메뉴">
+      <button class="tab active" data-tab="home">홈</button>
+      <button class="tab" data-tab="guide">육성</button>
+      <button class="tab" data-tab="simulator">장비·딜</button>
+      <button class="tab" data-tab="scan">카메라·시세</button>
+      <button class="tab" data-tab="visual3d">3D 장비</button>
       <button class="tab" data-tab="runewords">룬워드</button>
       <button class="tab" data-tab="runes">룬 보유</button>
-      <button class="tab" data-tab="mf">매찬 분석</button>
+      <button class="tab" data-tab="mf">매찬</button>
       <button class="tab" data-tab="about">정보</button>
     </nav>
 
-    <section id="guide" class="panel active">
-      <section class="card guide-controls">
-        <label>직업<select id="guideClass"></select></label>
-        <label>현재 레벨<input id="guideLevel" type="number" min="1" max="99" value="1" /></label>
+    <section id="home" class="panel active">
+      <section class="dashboard-grid">
+        <button class="dash-card" data-open-tab="guide"><b>직업 육성</b><span>8직업 · 레벨별 스탯/스킬/사냥터</span></button>
+        <button class="dash-card" data-open-tab="simulator"><b>장비·딜 변화</b><span>착용 전후 예상 피해·저항 변화</span></button>
+        <button class="dash-card" data-open-tab="scan"><b>AI 카메라 판독</b><span>스크린샷 OCR · 아이템명/옵션 추출 · 시세 비교</span></button>
+        <button class="dash-card" data-open-tab="visual3d"><b>3D 장비 미리보기</b><span>직업·부위별 재질/색상 매칭</span></button>
+        <button class="dash-card" data-open-tab="runewords"><b>룬워드</b><span>룬 순서 · 홈 · 요구 레벨 검색</span></button>
+        <button class="dash-card" data-open-tab="runes"><b>보유 룬</b><span>체크한 룬으로 제작 가능 조합 확인</span></button>
+        <button class="dash-card" data-open-tab="mf"><b>매찬 분석</b><span>유니크·세트·레어 실효 MF</span></button>
+        <button class="dash-card" data-open-tab="yupgoolg"><b>엽굵 정보</b><span>스킨 기능 파트별 확인</span></button>
       </section>
+      <section class="card home-status">
+        <div><span class="status-dot"></span><strong>정적 사이트</strong><small>별도 Node/PHP/Python 서버 불필요</small></div>
+        <div><span class="status-dot"></span><strong>브라우저 저장</strong><small>룬 보유 상태 localStorage 사용</small></div>
+        <div><span class="status-dot"></span><strong>반응형 UI</strong><small>PC · 태블릿 · 스마트폰 대응</small></div>
+      </section>
+    </section>
+
+    <section id="guide" class="panel">
+      <section class="card guide-controls"><label>직업<select id="guideClass"></select></label><label>현재 레벨<input id="guideLevel" type="number" min="1" max="99" value="1" /></label></section>
       <section class="card guide-hero"><p class="eyebrow">추천 육성 루트</p><h2 id="guideBuildTitle"></h2><p id="guideSummary"></p></section>
       <section id="guideGrid" class="guide-grid"></section>
-      <section class="card note"><h2>실전 메모</h2><p id="guideNotes"></p><p class="muted">육성 순서와 사냥터는 공식 의무 지침이 아니라 패치 3.3 환경을 기준으로 정리한 추천안입니다. 장비, 파티 인원, 래더/비래더에 따라 달라질 수 있습니다.</p></section>
+      <section class="card note"><h2>실전 메모</h2><p id="guideNotes"></p><p class="muted">육성 순서와 사냥터는 추천안이며 장비·파티·래더 환경에 따라 달라질 수 있습니다.</p></section>
     </section>
 
     <section id="simulator" class="panel">
-      <section class="card prose"><h2>장비 착용 전후 능력치·딜 변화 계산</h2><p>게임 캐릭터 창/기술 툴팁의 현재 피해를 기준값으로 입력하고 장비 옵션을 더해 변화 과정을 계산합니다. 기술마다 내부 공식과 시너지가 다르므로 아래 결과는 <strong>비교용 예상치</strong>입니다.</p></section>
+      <section class="card prose"><h2>장비 착용 전후 능력치·딜 변화</h2><p>현재 캐릭터 창/기술 툴팁 피해를 기준으로 교체 장비 효과를 비교합니다.</p></section>
       <section class="card sim-controls">
         <label>피해 유형<select id="simMode"><option value="elemental">원소/마법 기술</option><option value="physical">물리 공격</option></select></label>
-        <label>현재 최소 피해<input id="simBaseMin" type="number" min="0" value="1000" /></label>
-        <label>현재 최대 피해<input id="simBaseMax" type="number" min="0" value="1200" /></label>
-        <label>무기 피해 증가 %<input id="simWeaponED" type="number" value="0" /></label>
-        <label>무기 외 피해 증가 %<input id="simOffED" type="number" value="0" /></label>
-        <label>속성/기술 피해 증가 %<input id="simSkillPct" type="number" value="0" /></label>
-        <label>치명적 공격 기대 확률 %<input id="simDeadly" type="number" min="0" max="100" value="0" /></label>
-        <label>대상 저항 %<input id="simEnemyRes" type="number" min="-100" max="100" value="0" /></label>
-        <label>적 저항 감소 %<input id="simMinusRes" type="number" min="0" value="0" /></label>
+        <label>현재 최소 피해<input id="simBaseMin" type="number" min="0" value="1000" /></label><label>현재 최대 피해<input id="simBaseMax" type="number" min="0" value="1200" /></label>
+        <label>무기 피해 증가 %<input id="simWeaponED" type="number" value="0" /></label><label>무기 외 피해 증가 %<input id="simOffED" type="number" value="0" /></label><label>속성/기술 피해 증가 %<input id="simSkillPct" type="number" value="0" /></label>
+        <label>치명적 공격 기대 확률 %<input id="simDeadly" type="number" min="0" max="100" value="0" /></label><label>대상 저항 %<input id="simEnemyRes" type="number" min="-100" max="100" value="0" /></label><label>적 저항 감소 %<input id="simMinusRes" type="number" min="0" value="0" /></label>
       </section>
       <section id="simResult" class="card sim-result"></section>
-      <section class="card note"><h2>변화 확인 순서</h2><p>① 장비 전 캐릭터 창/기술 피해 입력 → ② 새 장비의 피해 증가·속성 피해·적 저항 감소 입력 → ③ 예상 피해 범위와 증가율 확인 → ④ 실제 게임 툴팁과 비교해 보정.</p></section>
+    </section>
+
+    <section id="scan" class="panel">
+      <section class="scan-layout">
+        <section class="card scan-card">
+          <p class="eyebrow">CAMERA / SCREENSHOT OCR</p><h2>아이템 카메라 판독</h2>
+          <label class="upload-box" for="itemImage"><strong>카메라 촬영 또는 이미지 선택</strong><span>게임 아이템 툴팁이 크게 보이는 사진을 사용하세요.</span></label>
+          <input id="itemImage" class="visually-hidden" type="file" accept="image/*" capture="environment" />
+          <img id="itemPreview" class="item-preview" alt="아이템 판독 이미지 미리보기" hidden />
+          <button id="runOcr" class="primary-btn" type="button" disabled>문자 판독 시작</button>
+          <div id="ocrProgress" class="muted"></div>
+        </section>
+        <section class="card scan-card">
+          <h2>판독 결과</h2>
+          <label>추출 문자<textarea id="ocrText" rows="10" placeholder="OCR 결과 또는 직접 아이템 옵션을 붙여넣으세요."></textarea></label>
+          <div class="scan-actions"><button id="analyzeItem" class="primary-btn" type="button">아이템 분석</button><button id="clearScan" class="ghost" type="button">초기화</button></div>
+          <div id="itemAnalysis" class="analysis-box"></div>
+        </section>
+      </section>
+      <section class="card price-card">
+        <div class="section-head"><h2>시세 비교</h2><span class="badge">표본 중앙값</span></div>
+        <p class="muted">실시간 거래 API를 직접 긁지 않고, 확인한 등록가/거래가 표본을 입력해 중앙값을 계산합니다. 외부 거래소 값은 참고용이며 실제 거래가격은 옵션·래더·플랫폼에 따라 달라집니다.</p>
+        <div class="price-grid"><label>비교 가격 표본<textarea id="priceSamples" rows="4" placeholder="예: 3.5, 4, 4.2, 5 (동일 단위)"></textarea></label><div id="priceResult" class="price-result">표본을 입력하세요.</div></div>
+        <div class="market-links"><a id="traderieLink" class="source" href="https://traderie.com/diablo2resurrected" target="_blank" rel="noopener noreferrer">Traderie 검색</a><a id="d2jspLink" class="source" href="https://forums.d2jsp.org/forum.php?f=268" target="_blank" rel="noopener noreferrer">d2jsp 참고</a></div>
+      </section>
+    </section>
+
+    <section id="visual3d" class="panel">
+      <section class="visual-layout">
+        <section class="card visual-controls">
+          <p class="eyebrow">3D EQUIPMENT PREVIEW</p><h2>캐릭터 장비 외형</h2>
+          <label>직업<select id="visualClass"><option>원소술사</option><option>아마존</option><option>성기사</option><option>강령술사</option><option>암살자</option><option>야만용사</option><option>드루이드</option><option>악마술사</option></select></label>
+          <label>아이템명<input id="visualItemName" type="text" value="할리퀸 관모" /></label>
+          <label>부위<select id="visualSlot"><option value="head">투구</option><option value="body">갑옷</option><option value="shield">방패</option><option value="weaponMain">주무기</option><option value="weaponOff">보조무기</option><option value="gloves">장갑</option><option value="boots">부츠</option></select></label>
+          <label>품질<select id="visualQuality"><option value="unique">고유</option><option value="set">세트</option><option value="runeword">룬어</option><option value="rare">희귀</option><option value="magic">마법</option><option value="crafted">제작</option><option value="normal">일반</option></select></label>
+          <label>재질<select id="visualMaterial"><option value="steel">금속</option><option value="darkSteel">암철</option><option value="gold">금색 금속</option><option value="bronze">청동</option><option value="leather">가죽</option><option value="bone">뼈</option><option value="cloth">천</option><option value="wood">목재</option><option value="crystal">수정</option><option value="demon">악마</option></select></label>
+          <label>착용 색상<input id="visualColor" type="color" value="#5f6b49" /></label>
+          <button id="applyVisual" class="primary-btn" type="button">외형 적용</button>
+        </section>
+        <section class="card mannequin-card">
+          <div id="mannequin" class="mannequin" aria-label="3D 스타일 장비 미리보기">
+            <div class="m-head"></div><div class="m-body"></div><div class="m-arm left"></div><div class="m-arm right"></div><div class="m-leg left"></div><div class="m-leg right"></div><div class="m-shield"></div><div class="m-weapon"></div>
+          </div>
+          <div id="visualInfo" class="visual-info"></div>
+          <p class="muted">현재는 브라우저 3D 스타일 프리뷰입니다. GLB 캐릭터 모델이 추가되면 같은 색상/재질 메타데이터를 WebGL 모델에 그대로 적용하도록 설계되어 있습니다.</p>
+        </section>
+      </section>
     </section>
 
     <section id="runewords" class="panel">
       <section class="card filters"><input id="rwSearch" type="search" placeholder="룬워드·룬·부위 검색" autocomplete="off" /><select id="rwType"><option value="all">전체 방어구</option><option value="갑옷">갑옷</option><option value="투구">투구</option><option value="방패">방패</option></select><select id="rwSockets"><option value="all">전체 홈</option><option value="2">2홈</option><option value="3">3홈</option><option value="4">4홈</option></select><input id="rwLevel" type="number" min="1" max="99" value="99" aria-label="최대 요구 레벨" /></section>
-      <div class="section-head"><h2>방어구 룬워드</h2><span id="rwCount"></span></div><section id="runewordGrid" class="grid cards"></section>
+      <div class="section-head"><h2>룬워드</h2><span id="rwCount"></span></div><section id="runewordGrid" class="grid cards"></section>
     </section>
 
-    <section id="runes" class="panel"><section class="card"><div class="section-head"><h2>보유 룬 체크</h2><button id="clearRunes" class="ghost">전체 해제</button></div><p class="muted">체크 상태는 이 브라우저에만 저장됩니다. 서버 전송은 없습니다.</p><div id="runeGrid" class="rune-grid"></div></section><section class="card result-box"><h2>현재 만들 수 있는 룬워드</h2><div id="craftable"></div></section></section>
+    <section id="runes" class="panel"><section class="card"><div class="section-head"><h2>보유 룬 체크</h2><button id="clearRunes" class="ghost">전체 해제</button></div><p class="muted">체크 상태는 이 브라우저에만 저장됩니다.</p><div id="runeGrid" class="rune-grid"></div></section><section class="card result-box"><h2>현재 만들 수 있는 룬워드</h2><div id="craftable"></div></section></section>
 
-    <section id="mf" class="panel"><section class="card controls"><label>현재 매찬 %<input id="mfValue" type="number" min="0" max="5000" step="1" value="250" /></label><label>시간당 평균 사냥 횟수<input id="runs" type="number" min="1" max="1000" step="1" value="20" /></label></section><section id="mfResults" class="grid mf-grid"></section><section class="card note"><h2>매찬 해석</h2><p>MF는 유니크·세트·레어·매직 품질 판정 효율에 영향을 주지만 룬 드랍 수량 자체를 직접 높이지 않습니다. 처치 속도까지 함께 고려하세요.</p></section></section>
+    <section id="mf" class="panel"><section class="card controls"><label>현재 매찬 %<input id="mfValue" type="number" min="0" max="5000" value="250" /></label><label>시간당 평균 사냥 횟수<input id="runs" type="number" min="1" max="1000" value="20" /></label></section><section id="mfResults" class="grid mf-grid"></section></section>
 
-    <section id="about" class="panel"><section class="card prose"><h2>공식 기준</h2><p>현재 도우미는 블리자드 한국어 공식 페이지의 래더 15시즌/3.3 패치와 악마술사의 군림 내용을 기준으로 구성했습니다.</p><p>패치 3.3에서는 일부 아이템 변경, 공포의 영역/위압적인 고대인 드롭 조정, 악마술사 기술 관련 수정 등이 적용되었습니다.</p><h2>장비 외형 색상</h2><p>3D 장비 미리보기 연결 시 아이템별 실제 착용 외형 색상과 재질 메타데이터를 우선 적용합니다. 룬어는 베이스 아이템 외형을 상속할 수 있고, 고유/세트 장비는 전용 색상·재질·발광값을 지정할 수 있습니다.</p><h2>구조</h2><p><strong>서버 없음.</strong> HTML/CSS/JavaScript 정적 파일만 사용합니다. 패턴 인증과 계산도 브라우저 내부에서 처리합니다.</p><p>룬 보유 체크는 <code>localStorage</code>, 인증 완료 여부는 <code>sessionStorage</code>에 저장됩니다.</p><a class="source" href="https://news.blizzard.com/ko-kr/article/24296140/ii-15" target="_blank" rel="noopener noreferrer">블리자드 공식 래더 15시즌 · 패치 3.3</a><br><a class="source" href="https://diablo2.blizzard.com/ko-kr" target="_blank" rel="noopener noreferrer">디아블로 II: 레저렉션 공식 한국어 페이지</a><br><a class="source" href="https://d2lab.dev-inventory.com/runewords?tab=armor" target="_blank" rel="noopener noreferrer">D2Lab 룬워드 참고</a></section></section>
+    <section id="about" class="panel"><section class="card prose"><h2>사이트 구조</h2><p>정적 HTML/CSS/JavaScript 사이트입니다. 패턴 인증과 계산은 브라우저 내부에서 수행하며 GitHub Pages로 배포됩니다.</p><h2>기준 자료</h2><p>Blizzard 공식 패치/시즌 정보, D2R 공개 게임 정보, D2Lab 룬워드 자료, 엽굵 공개 스킨 정보를 각 목적에 맞게 분리하여 사용합니다.</p><a class="source" href="https://diablo2.blizzard.com/ko-kr" target="_blank" rel="noopener noreferrer">Diablo II: Resurrected 공식</a></section></section>
   </main>
+
+  <script src="https://cdn.jsdelivr.net/npm/tesseract.js@5/dist/tesseract.min.js" defer></script>
   <script src="app.js"></script>
   <script src="build-guide.js"></script>
-  <script src="yupgoolg-info.js"></script>
   <script src="item-visual.js"></script>
+  <script src="yupgoolg-info.js"></script>
+  <script src="site-ui.js"></script>
 </body>
 </html>
