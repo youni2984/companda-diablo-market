@@ -8,14 +8,38 @@
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
-  <main class="wrap">
+  <section id="authGate" class="auth-gate" aria-label="패턴 인증">
+    <div class="auth-card">
+      <p class="eyebrow">COMPANDA AUTH</p>
+      <h1>사용자 패턴 인증</h1>
+      <p class="auth-desc">3×3 점을 등록된 순서대로 드래그해 연결하세요.</p>
+      <div id="patternGrid" class="pattern-grid" aria-label="3×3 패턴 입력">
+        <button class="pattern-dot" data-node="1" aria-label="패턴 점 1"><span>1</span></button>
+        <button class="pattern-dot" data-node="2" aria-label="패턴 점 2"><span>2</span></button>
+        <button class="pattern-dot" data-node="3" aria-label="패턴 점 3"><span>3</span></button>
+        <button class="pattern-dot" data-node="4" aria-label="패턴 점 4"><span>4</span></button>
+        <button class="pattern-dot" data-node="5" aria-label="패턴 점 5"><span>5</span></button>
+        <button class="pattern-dot" data-node="6" aria-label="패턴 점 6"><span>6</span></button>
+        <button class="pattern-dot" data-node="7" aria-label="패턴 점 7"><span>7</span></button>
+        <button class="pattern-dot" data-node="8" aria-label="패턴 점 8"><span>8</span></button>
+        <button class="pattern-dot" data-node="9" aria-label="패턴 점 9"><span>9</span></button>
+      </div>
+      <div class="pattern-meta">
+        <span id="patternLength">0개 선택</span>
+        <button id="patternReset" class="ghost" type="button">다시 입력</button>
+      </div>
+      <p id="authStatus" class="auth-status" aria-live="polite">첫 점을 누른 상태로 드래그하세요.</p>
+    </div>
+  </section>
+
+  <main id="appShell" class="wrap app-locked" aria-hidden="true">
     <header class="card hero">
       <div>
         <p class="eyebrow">COMPANDA D2R HELPER</p>
         <h1>컴판다 디아블로2 레저렉션 도우미</h1>
         <p>룬워드 검색 · 보유 룬 체크 · 매찬 효율 계산을 서버 없이 브라우저에서 처리합니다.</p>
       </div>
-      <div class="version">v1.0.0 · STATIC</div>
+      <div class="version">v1.1.0 · STATIC</div>
     </header>
 
     <nav class="tabs" aria-label="도우미 메뉴">
@@ -73,7 +97,8 @@
     <section id="about" class="panel">
       <section class="card prose">
         <h2>구조</h2>
-        <p><strong>서버 없음.</strong> HTML/CSS/JavaScript 정적 파일만 사용하며 로그인, 세션, OAuth, JWT, API Key, refresh token이 없습니다.</p>
+        <p><strong>서버 없음.</strong> HTML/CSS/JavaScript 정적 파일만 사용합니다. 별도 로그인 서버, 세션 서버, OAuth, JWT, API Key, refresh token은 없습니다.</p>
+        <p>앱 진입 시 3×3 드래그 패턴을 브라우저 내부에서 검증하고, 인증 완료 상태는 현재 브라우저 탭 세션에만 유지됩니다.</p>
         <p>룬 보유 체크는 <code>localStorage</code>에 저장됩니다. 저장값은 현재 브라우저 밖으로 전송되지 않습니다.</p>
         <h2>데이터 기준</h2>
         <p>룬워드 이름·룬 순서·홈 수·요구 레벨·부위는 D2R 공개 게임 정보와 D2Lab 룬워드 페이지를 참고해 도우미용으로 재구성했습니다.</p>
