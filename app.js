@@ -1,5 +1,100 @@
-const VERSION = '1.0.0';
+const VERSION = '1.1.0';
 const $ = (id) => document.getElementById(id);
+
+const AUTH_SESSION_KEY = 'companda-d2r-pattern-auth';
+const USER_PATTERN = [4, 2, 1, 5, 7];
+let patternPath = [];
+let patternDragging = false;
+
+function setAuthStatus(message, state = '') {
+  const el = $('authStatus');
+  el.textContent = message;
+  el.className = `auth-status ${state}`.trim();
+}
+
+function paintPattern() {
+  document.querySelectorAll('.pattern-dot').forEach((dot) => {
+    dot.classList.toggle('selected', patternPath.includes(Number(dot.dataset.node)));
+  });
+  $('patternLength').textContent = `${patternPath.length}개 선택`;
+}
+
+function resetPattern(message = '첫 점을 누른 상태로 드래그하세요.') {
+  patternPath = [];
+  patternDragging = false;
+  paintPattern();
+  setAuthStatus(message);
+}
+
+function addPatternNode(dot) {
+  if (!dot) return;
+  const node = Number(dot.dataset.node);
+  if (!patternPath.includes(node)) {
+    patternPath.push(node);
+    paintPattern();
+  }
+}
+
+function unlockApp() {
+  sessionStorage.setItem(AUTH_SESSION_KEY, 'ok');
+  $('authGate').classList.add('authenticated');
+  $('appShell').classList.remove('app-locked');
+  $('appShell').setAttribute('aria-hidden', 'false');
+}
+
+function validatePattern() {
+  if (!patternPath.length) return;
+  const valid = patternPath.length === USER_PATTERN.length &&
+    patternPath.every((node, index) => node === USER_PATTERN[index]);
+
+  if (valid) {
+    setAuthStatus('인증되었습니다.', 'success');
+    setTimeout(unlockApp, 180);
+  } else {
+    setAuthStatus('패턴이 일치하지 않습니다. 다시 입력하세요.', 'error');
+    document.querySelectorAll('.pattern-dot.selected').forEach((dot) => dot.classList.add('wrong'));
+    setTimeout(() => resetPattern(), 650);
+  }
+}
+
+function initPatternAuth() {
+  if (sessionStorage.getItem(AUTH_SESSION_KEY) === 'ok') {
+    unlockApp();
+    return;
+  }
+
+  const grid = $('patternGrid');
+  grid.addEventListener('pointerdown', (event) => {
+    const dot = event.target.closest('.pattern-dot');
+    if (!dot) return;
+    event.preventDefault();
+    patternPath = [];
+    patternDragging = true;
+    document.querySelectorAll('.pattern-dot').forEach((el) => el.classList.remove('wrong'));
+    addPatternNode(dot);
+    setAuthStatus('드래그 중…');
+    try { grid.setPointerCapture(event.pointerId); } catch {}
+  });
+
+  grid.addEventListener('pointermove', (event) => {
+    if (!patternDragging) return;
+    event.preventDefault();
+    const target = document.elementFromPoint(event.clientX, event.clientY);
+    addPatternNode(target?.closest?.('.pattern-dot'));
+  });
+
+  const finish = (event) => {
+    if (!patternDragging) return;
+    event.preventDefault();
+    patternDragging = false;
+    try { grid.releasePointerCapture(event.pointerId); } catch {}
+    validatePattern();
+  };
+
+  grid.addEventListener('pointerup', finish);
+  grid.addEventListener('pointercancel', () => resetPattern());
+  $('patternReset').addEventListener('click', () => resetPattern());
+}
 
 const RUNES = ['El','Eld','Tir','Nef','Eth','Ith','Tal','Ral','Ort','Thul','Amn','Sol','Shael','Dol','Hel','Io','Lum','Ko','Fal','Lem','Pul','Um','Mal','Ist','Gul','Vex','Ohm','Lo','Sur','Ber','Jah','Cham','Zod'];
 
@@ -131,6 +226,7 @@ function activateTab(id) {
   history.replaceState(null, '', `#${id}`);
 }
 
+initPatternAuth();
 document.querySelectorAll('.tab').forEach((b) => b.addEventListener('click', () => activateTab(b.dataset.tab)));
 ['rwSearch','rwType','rwSockets','rwLevel'].forEach((id) => $(id).addEventListener('input', renderRunewords));
 ['mfValue','runs'].forEach((id) => $(id).addEventListener('input', renderMF));
@@ -142,4 +238,4 @@ renderRunewords();
 renderRunes();
 renderCraftable();
 renderMF();
-console.info(`Companda D2R Helper v${VERSION} · static/no-server`);
+console.info(`Companda D2R Helper v${VERSION} · static/no-server · pattern-gate`);
