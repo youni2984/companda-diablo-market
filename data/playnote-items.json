@@ -1,0 +1,13 @@
+{
+  "source": "https://www.playnote.co.kr/trade/itemmarket?index=1",
+  "scope": "public-listings-only",
+  "updatedAt": null,
+  "listingCount": 0,
+  "itemCount": 0,
+  "items": [],
+  "notes": [
+    "로그인·인증 우회 없이 공개 아이템 마켓에 표시되는 정보만 수집합니다.",
+    "가격은 등록가 표본이며 실제 거래 완료가를 보장하지 않습니다.",
+    "사이트 구조 변경 또는 접근 제한 시 기존 스냅샷을 유지합니다."
+  ]
+}
