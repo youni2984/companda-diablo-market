@@ -1,0 +1,45 @@
+name: Sync Playnote Public D2R Items
+
+on:
+  schedule:
+    - cron: '7,37 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: playnote-public-sync
+  cancel-in-progress: true
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install parser dependencies
+        run: python -m pip install --disable-pip-version-check requests beautifulsoup4
+
+      - name: Sync public Playnote item listings
+        run: python scripts/sync_playnote.py
+
+      - name: Commit changed snapshot
+        run: |
+          if git diff --quiet -- data/playnote-items.json; then
+            echo "No public market changes"
+            exit 0
+          fi
+          git config user.name "companda-data-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/playnote-items.json
+          git commit -m "data: sync Playnote public D2R items"
+          git push origin HEAD:main
