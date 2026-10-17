@@ -57,3 +57,12 @@ function buildYupgoolgPanel() {
 
 buildYupgoolgPanel();
 console.info(`Companda Yupgoolg reference · skin ${YUPGOOLG_REFERENCE.latestSkin} · checked ${YUPGOOLG_REFERENCE.checkedAt}`);
+
+// v1.7 inventory/cube module loader
+if(!document.querySelector('script[data-companda-inventory-cube]')){
+  const invScript=document.createElement('script');
+  invScript.src='inventory-cube.js';
+  invScript.defer=true;
+  invScript.dataset.compandaInventoryCube='1';
+  document.body.appendChild(invScript);
+}
