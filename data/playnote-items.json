@@ -1,10 +1,925 @@
 {
   "source": "https://www.playnote.co.kr/trade/itemmarket?index=1",
   "scope": "public-listings-only",
-  "updatedAt": null,
-  "listingCount": 0,
-  "itemCount": 0,
-  "items": [],
+  "updatedAt": "2026-10-17T13:53:55.122586+00:00",
+  "listingCount": 22,
+  "itemCount": 8,
+  "items": [
+    {
+      "name": "래더 애니참",
+      "category": "부적",
+      "listingCount": 6,
+      "price": {
+        "currency": "P",
+        "min": 100,
+        "median": 300,
+        "max": 700
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "#레지으뜸 경치으뜸",
+        "#레지으뜸능력",
+        "5.",
+        "경험치 획득량%",
+        "돜킨",
+        "모든 능력치",
+        "모든 저항"
+      ],
+      "samples": [
+        {
+          "name": "래더 애니참",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 700,
+          "unitPriceP": 700,
+          "options": [
+            {
+              "label": "모든 능력치",
+              "value": "17"
+            },
+            {
+              "label": "모든 저항",
+              "value": "20"
+            },
+            {
+              "label": "경험치 획득량%",
+              "value": "5"
+            },
+            {
+              "label": "#레지으뜸능력",
+              "value": "17"
+            },
+            {
+              "label": "돜킨",
+              "value": "101"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=415203"
+        },
+        {
+          "name": "래더 애니참",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 700,
+          "unitPriceP": 700,
+          "options": [
+            {
+              "label": "모든 능력치",
+              "value": "17"
+            },
+            {
+              "label": "모든 저항",
+              "value": "20"
+            },
+            {
+              "label": "경험치 획득량%",
+              "value": "5"
+            }
+          ],
+          "url": null
+        },
+        {
+          "name": "래더 애니참",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 300,
+          "unitPriceP": 300,
+          "options": [
+            {
+              "label": "모든 능력치",
+              "value": "12"
+            },
+            {
+              "label": "모든 저항",
+              "value": "20"
+            },
+            {
+              "label": "경험치 획득량%",
+              "value": "10"
+            },
+            {
+              "label": "#레지으뜸 경치으뜸",
+              "value": "12"
+            },
+            {
+              "label": "돜킨",
+              "value": "101"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=415190"
+        },
+        {
+          "name": "래더 애니참",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 300,
+          "unitPriceP": 300,
+          "options": [
+            {
+              "label": "모든 능력치",
+              "value": "12"
+            },
+            {
+              "label": "모든 저항",
+              "value": "20"
+            },
+            {
+              "label": "경험치 획득량%",
+              "value": "10"
+            }
+          ],
+          "url": null
+        },
+        {
+          "name": "래더 애니참",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 100,
+          "unitPriceP": 100,
+          "options": [
+            {
+              "label": "모든 능력치",
+              "value": "12"
+            },
+            {
+              "label": "모든 저항",
+              "value": "13"
+            },
+            {
+              "label": "경험치 획득량%",
+              "value": "9"
+            },
+            {
+              "label": "돜킨",
+              "value": "101"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=415183"
+        },
+        {
+          "name": "래더 애니참",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 100,
+          "unitPriceP": 100,
+          "options": [
+            {
+              "label": "모든 능력치",
+              "value": "12"
+            },
+            {
+              "label": "모든 저항",
+              "value": "13"
+            },
+            {
+              "label": "경험치 획득량%",
+              "value": "9"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 최상급 자수정",
+      "category": "기타",
+      "listingCount": 4,
+      "price": {
+        "currency": "P",
+        "min": 1400,
+        "median": 2450,
+        "max": 3500
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "#새벽",
+        "5.",
+        "돜킨"
+      ],
+      "samples": [
+        {
+          "name": "래더 최상급 자수정",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 100,
+          "priceP": 3500,
+          "unitPriceP": 3500,
+          "options": [
+            {
+              "label": "#새벽",
+              "value": "2"
+            },
+            {
+              "label": "돜킨",
+              "value": "101"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=416922"
+        },
+        {
+          "name": "래더 최상급 자수정",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 100,
+          "priceP": 3500,
+          "unitPriceP": 3500,
+          "options": [],
+          "url": null
+        },
+        {
+          "name": "래더 최상급 자수정",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 40,
+          "priceP": 1400,
+          "unitPriceP": 1400,
+          "options": [
+            {
+              "label": "#새벽",
+              "value": "2"
+            },
+            {
+              "label": "돜킨",
+              "value": "101"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=415456"
+        },
+        {
+          "name": "래더 최상급 자수정",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 40,
+          "priceP": 1400,
+          "unitPriceP": 1400,
+          "options": [],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "스탠 새로워진 천상의 틈 거대 부적",
+      "category": "부적",
+      "listingCount": 3,
+      "price": {
+        "currency": "P",
+        "min": 10000,
+        "median": 10000,
+        "max": 10000
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "#레지으뜸 경치으뜸",
+        "#레지으뜸능력",
+        "#번깍",
+        "#새벽",
+        "5.",
+        "경험치 획득량%",
+        "괴물에게서 얻는 금화%",
+        "김콩",
+        "돜킨",
+        "마법 피해 감소",
+        "명중률",
+        "모든 능력치",
+        "모든 저항",
+        "번개 저항-%",
+        "생명력",
+        "적의 번개 저항-%",
+        "최대 피해",
+        "타격 회복 속도%",
+        "활과 쇠뇌 기술(아마존 전용)"
+      ],
+      "samples": [
+        {
+          "name": "스탠 새로워진 천상의 틈 거대 부적",
+          "category": "부적",
+          "server": "악군",
+          "status": "거래완료",
+          "quantity": 1,
+          "priceP": 10000,
+          "unitPriceP": 10000,
+          "options": [
+            {
+              "label": "번개 저항-%",
+              "value": "70"
+            },
+            {
+              "label": "적의 번개 저항-%",
+              "value": "10"
+            },
+            {
+              "label": "괴물에게서 얻는 금화%",
+              "value": "38"
+            },
+            {
+              "label": "생명력",
+              "value": "20"
+            },
+            {
+              "label": "타격 회복 속도%",
+              "value": "17"
+            },
+            {
+              "label": "마법 피해 감소",
+              "value": "6"
+            },
+            {
+              "label": "#번깍",
+              "value": "10"
+            },
+            {
+              "label": "김콩",
+              "value": "6"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            },
+            {
+              "label": "#새벽",
+              "value": "2"
+            },
+            {
+              "label": "돜킨",
+              "value": "101"
+            },
+            {
+              "label": "모든 능력치",
+              "value": "17"
+            },
+            {
+              "label": "모든 저항",
+              "value": "20"
+            },
+            {
+              "label": "경험치 획득량%",
+              "value": "5"
+            },
+            {
+              "label": "#레지으뜸능력",
+              "value": "17"
+            },
+            {
+              "label": "모든 능력치",
+              "value": "12"
+            },
+            {
+              "label": "경험치 획득량%",
+              "value": "10"
+            },
+            {
+              "label": "#레지으뜸 경치으뜸",
+              "value": "12"
+            },
+            {
+              "label": "모든 저항",
+              "value": "13"
+            },
+            {
+              "label": "경험치 획득량%",
+              "value": "9"
+            },
+            {
+              "label": "활과 쇠뇌 기술(아마존 전용)",
+              "value": "1"
+            },
+            {
+              "label": "최대 피해",
+              "value": "3"
+            },
+            {
+              "label": "명중률",
+              "value": "18"
+            },
+            {
+              "label": "생명력",
+              "value": "15"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemmarket?index=1"
+        },
+        {
+          "name": "스탠 새로워진 천상의 틈 거대 부적",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 10000,
+          "unitPriceP": 10000,
+          "options": [
+            {
+              "label": "번개 저항-%",
+              "value": "70"
+            },
+            {
+              "label": "적의 번개 저항-%",
+              "value": "10"
+            },
+            {
+              "label": "괴물에게서 얻는 금화%",
+              "value": "38"
+            },
+            {
+              "label": "생명력",
+              "value": "20"
+            },
+            {
+              "label": "타격 회복 속도%",
+              "value": "17"
+            },
+            {
+              "label": "마법 피해 감소",
+              "value": "6"
+            },
+            {
+              "label": "#번깍",
+              "value": "10"
+            },
+            {
+              "label": "김콩",
+              "value": "6"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=417572"
+        },
+        {
+          "name": "스탠 새로워진 천상의 틈 거대 부적",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 10000,
+          "unitPriceP": 10000,
+          "options": [
+            {
+              "label": "번개 저항-%",
+              "value": "70"
+            },
+            {
+              "label": "적의 번개 저항-%",
+              "value": "10"
+            },
+            {
+              "label": "괴물에게서 얻는 금화%",
+              "value": "38"
+            },
+            {
+              "label": "생명력",
+              "value": "20"
+            },
+            {
+              "label": "타격 회복 속도%",
+              "value": "17"
+            },
+            {
+              "label": "마법 피해 감소",
+              "value": "6"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 거대 부적",
+      "category": "부적",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 100,
+        "median": 100,
+        "max": 100
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "5.",
+        "돜킨",
+        "활과 쇠뇌 기술(아마존 전용)"
+      ],
+      "samples": [
+        {
+          "name": "래더 거대 부적",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 100,
+          "unitPriceP": 100,
+          "options": [
+            {
+              "label": "활과 쇠뇌 기술(아마존 전용)",
+              "value": "1"
+            },
+            {
+              "label": "돜킨",
+              "value": "101"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=413862"
+        },
+        {
+          "name": "래더 거대 부적",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 100,
+          "unitPriceP": 100,
+          "options": [
+            {
+              "label": "활과 쇠뇌 기술(아마존 전용)",
+              "value": "1"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 대량 활력의 포션",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 100,
+        "median": 100,
+        "max": 100
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "5.",
+        "돜킨"
+      ],
+      "samples": [
+        {
+          "name": "래더 대량 활력의 포션",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 150,
+          "priceP": 100,
+          "unitPriceP": 100,
+          "options": [
+            {
+              "label": "돜킨",
+              "value": "101"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=413424"
+        },
+        {
+          "name": "래더 대량 활력의 포션",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 150,
+          "priceP": 100,
+          "unitPriceP": 100,
+          "options": [],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 작은 부적",
+      "category": "부적",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 3000,
+        "median": 3000,
+        "max": 3000
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "#맥어레피참",
+        "5.",
+        "돜킨",
+        "명중률",
+        "생명력",
+        "최대 피해"
+      ],
+      "samples": [
+        {
+          "name": "래더 작은 부적",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 3000,
+          "unitPriceP": 3000,
+          "options": [
+            {
+              "label": "최대 피해",
+              "value": "3"
+            },
+            {
+              "label": "명중률",
+              "value": "18"
+            },
+            {
+              "label": "생명력",
+              "value": "15"
+            },
+            {
+              "label": "#맥어레피참",
+              "value": "15"
+            },
+            {
+              "label": "돜킨",
+              "value": "101"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=413609"
+        },
+        {
+          "name": "래더 작은 부적",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 3000,
+          "unitPriceP": 3000,
+          "options": [
+            {
+              "label": "최대 피해",
+              "value": "3"
+            },
+            {
+              "label": "명중률",
+              "value": "18"
+            },
+            {
+              "label": "생명력",
+              "value": "15"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 차오른 증오의 정수",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 200,
+        "median": 200,
+        "max": 200
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "5.",
+        "돜킨"
+      ],
+      "samples": [
+        {
+          "name": "래더 차오른 증오의 정수",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 3,
+          "priceP": 200,
+          "unitPriceP": 200,
+          "options": [
+            {
+              "label": "돜킨",
+              "value": "101"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=410125"
+        },
+        {
+          "name": "래더 차오른 증오의 정수",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 3,
+          "priceP": 200,
+          "unitPriceP": 200,
+          "options": [],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "스탠 새로워진 천상의 틈 거대 부적",
+      "category": "룬워드",
+      "listingCount": 1,
+      "price": {
+        "currency": "P",
+        "min": 10000,
+        "median": 10000,
+        "max": 10000
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "#레지으뜸 경치으뜸",
+        "#레지으뜸능력",
+        "#번깍",
+        "#새벽",
+        "5.",
+        "경험치 획득량%",
+        "괴물에게서 얻는 금화%",
+        "김콩",
+        "돜킨",
+        "디아블로",
+        "마법 피해 감소",
+        "모든 능력치",
+        "모든 저항",
+        "번개 저항-%",
+        "생명력",
+        "적의 번개 저항-%",
+        "지금 시작하면, 멤버십 PLUS",
+        "타격 회복 속도%",
+        "플레이디아 디아블로",
+        "활과 쇠뇌 기술(아마존 전용)"
+      ],
+      "samples": [
+        {
+          "name": "스탠 새로워진 천상의 틈 거대 부적",
+          "category": "룬워드",
+          "server": "악군",
+          "status": "거래완료",
+          "quantity": 1,
+          "priceP": 10000,
+          "unitPriceP": 10000,
+          "options": [
+            {
+              "label": "지금 시작하면, 멤버십 PLUS",
+              "value": "1"
+            },
+            {
+              "label": "플레이디아 디아블로",
+              "value": "2"
+            },
+            {
+              "label": "디아블로",
+              "value": "2"
+            },
+            {
+              "label": "번개 저항-%",
+              "value": "70"
+            },
+            {
+              "label": "적의 번개 저항-%",
+              "value": "10"
+            },
+            {
+              "label": "괴물에게서 얻는 금화%",
+              "value": "38"
+            },
+            {
+              "label": "생명력",
+              "value": "20"
+            },
+            {
+              "label": "타격 회복 속도%",
+              "value": "17"
+            },
+            {
+              "label": "마법 피해 감소",
+              "value": "6"
+            },
+            {
+              "label": "#번깍",
+              "value": "10"
+            },
+            {
+              "label": "김콩",
+              "value": "6"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            },
+            {
+              "label": "#새벽",
+              "value": "2"
+            },
+            {
+              "label": "돜킨",
+              "value": "101"
+            },
+            {
+              "label": "모든 능력치",
+              "value": "17"
+            },
+            {
+              "label": "모든 저항",
+              "value": "20"
+            },
+            {
+              "label": "경험치 획득량%",
+              "value": "5"
+            },
+            {
+              "label": "#레지으뜸능력",
+              "value": "17"
+            },
+            {
+              "label": "모든 능력치",
+              "value": "12"
+            },
+            {
+              "label": "경험치 획득량%",
+              "value": "10"
+            },
+            {
+              "label": "#레지으뜸 경치으뜸",
+              "value": "12"
+            },
+            {
+              "label": "모든 저항",
+              "value": "13"
+            },
+            {
+              "label": "경험치 획득량%",
+              "value": "9"
+            },
+            {
+              "label": "활과 쇠뇌 기술(아마존 전용)",
+              "value": "1"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/customer/noticedetail?Index=5"
+        }
+      ]
+    }
+  ],
   "notes": [
     "로그인·인증 우회 없이 공개 아이템 마켓에 표시되는 정보만 수집합니다.",
     "가격은 등록가 표본이며 실제 거래 완료가를 보장하지 않습니다.",
