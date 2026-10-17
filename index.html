@@ -26,7 +26,7 @@
   <main id="appShell" class="wrap app-locked" aria-hidden="true">
     <header class="card hero">
       <div><p class="eyebrow">COMPANDA D2R HELPER</p><h1>컴판다 디아블로2 레저렉션 도우미</h1><p>공식 패치 기준 · 룬워드 · 직업 육성 · 필드 사냥 · 장비/딜 변화 계산을 서버 없이 처리합니다.</p></div>
-      <div class="version">v1.3.0 · PATCH 3.3</div>
+      <div class="version">v1.4.0 · PATCH 3.3</div>
     </header>
 
     <section class="card official-banner">
@@ -80,10 +80,11 @@
 
     <section id="mf" class="panel"><section class="card controls"><label>현재 매찬 %<input id="mfValue" type="number" min="0" max="5000" step="1" value="250" /></label><label>시간당 평균 사냥 횟수<input id="runs" type="number" min="1" max="1000" step="1" value="20" /></label></section><section id="mfResults" class="grid mf-grid"></section><section class="card note"><h2>매찬 해석</h2><p>MF는 유니크·세트·레어·매직 품질 판정 효율에 영향을 주지만 룬 드랍 수량 자체를 직접 높이지 않습니다. 처치 속도까지 함께 고려하세요.</p></section></section>
 
-    <section id="about" class="panel"><section class="card prose"><h2>공식 기준</h2><p>현재 도우미는 블리자드 한국어 공식 페이지의 래더 15시즌/3.3 패치와 악마술사의 군림 내용을 기준으로 구성했습니다.</p><p>패치 3.3에서는 일부 아이템 변경, 공포의 영역/위압적인 고대인 드롭 조정, 악마술사 기술 관련 수정 등이 적용되었습니다.</p><h2>구조</h2><p><strong>서버 없음.</strong> HTML/CSS/JavaScript 정적 파일만 사용합니다. 패턴 인증과 계산도 브라우저 내부에서 처리합니다.</p><p>룬 보유 체크는 <code>localStorage</code>, 인증 완료 여부는 <code>sessionStorage</code>에 저장됩니다.</p><a class="source" href="https://news.blizzard.com/ko-kr/article/24296140/ii-15" target="_blank" rel="noopener noreferrer">블리자드 공식 래더 15시즌 · 패치 3.3</a><br><a class="source" href="https://diablo2.blizzard.com/ko-kr" target="_blank" rel="noopener noreferrer">디아블로 II: 레저렉션 공식 한국어 페이지</a><br><a class="source" href="https://d2lab.dev-inventory.com/runewords?tab=armor" target="_blank" rel="noopener noreferrer">D2Lab 룬워드 참고</a></section></section>
+    <section id="about" class="panel"><section class="card prose"><h2>공식 기준</h2><p>현재 도우미는 블리자드 한국어 공식 페이지의 래더 15시즌/3.3 패치와 악마술사의 군림 내용을 기준으로 구성했습니다.</p><p>패치 3.3에서는 일부 아이템 변경, 공포의 영역/위압적인 고대인 드롭 조정, 악마술사 기술 관련 수정 등이 적용되었습니다.</p><h2>장비 외형 색상</h2><p>3D 장비 미리보기 연결 시 아이템별 실제 착용 외형 색상과 재질 메타데이터를 우선 적용합니다. 룬어는 베이스 아이템 외형을 상속할 수 있고, 고유/세트 장비는 전용 색상·재질·발광값을 지정할 수 있습니다.</p><h2>구조</h2><p><strong>서버 없음.</strong> HTML/CSS/JavaScript 정적 파일만 사용합니다. 패턴 인증과 계산도 브라우저 내부에서 처리합니다.</p><p>룬 보유 체크는 <code>localStorage</code>, 인증 완료 여부는 <code>sessionStorage</code>에 저장됩니다.</p><a class="source" href="https://news.blizzard.com/ko-kr/article/24296140/ii-15" target="_blank" rel="noopener noreferrer">블리자드 공식 래더 15시즌 · 패치 3.3</a><br><a class="source" href="https://diablo2.blizzard.com/ko-kr" target="_blank" rel="noopener noreferrer">디아블로 II: 레저렉션 공식 한국어 페이지</a><br><a class="source" href="https://d2lab.dev-inventory.com/runewords?tab=armor" target="_blank" rel="noopener noreferrer">D2Lab 룬워드 참고</a></section></section>
   </main>
   <script src="app.js"></script>
   <script src="build-guide.js"></script>
   <script src="yupgoolg-info.js"></script>
+  <script src="item-visual.js"></script>
 </body>
 </html>
