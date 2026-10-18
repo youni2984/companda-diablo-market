@@ -1,507 +1,430 @@
 {
   "source": "https://www.playnote.co.kr/trade/itemmarket?index=1",
   "scope": "public-listings-only",
-  "updatedAt": "2026-10-17T23:58:22.431306+00:00",
+  "updatedAt": "2026-10-18T04:20:13.360850+00:00",
   "listingCount": 20,
   "itemCount": 10,
   "items": [
     {
-      "name": "스탠 작은 부적",
-      "category": "부적",
-      "listingCount": 4,
+      "name": "래더 마지막 소원",
+      "category": "기타",
+      "listingCount": 3,
       "price": {
         "currency": "P",
-        "min": 600,
-        "median": 650,
-        "max": 700
+        "min": 25000,
+        "median": 25000,
+        "max": 25000
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
         "5.",
-        "REDAPPLE",
+        "qqwweee",
+        "xoox",
+        "강타 확률%",
+        "내구도",
+        "냉기 저항%",
+        "마나",
+        "모든 능력치",
+        "모든 저항",
+        "방어력",
+        "방어력%",
         "번개 저항%",
-        "타격 회복 속도%",
-        "패힛",
+        "생명력",
+        "악마 기술(악마술사)",
+        "일등늑대",
+        "착용 조건-%",
+        "총 방어력",
+        "크림초코빵",
+        "피해%",
+        "홈 있음(소켓)",
+        "화염 저항%",
+        "회복 ("
+      ],
+      "samples": [
+        {
+          "name": "래더 마지막 소원",
+          "category": "기타",
+          "server": "악군",
+          "status": "거래완료",
+          "quantity": 1,
+          "priceP": 25000,
+          "unitPriceP": 25000,
+          "options": [
+            {
+              "label": "피해%",
+              "value": "380"
+            },
+            {
+              "label": "강타 확률%",
+              "value": "68"
+            },
+            {
+              "label": "일등늑대",
+              "value": "79"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            },
+            {
+              "label": "총 방어력",
+              "value": "1237"
+            },
+            {
+              "label": "방어력%",
+              "value": "83"
+            },
+            {
+              "label": "생명력",
+              "value": "22"
+            },
+            {
+              "label": "번개 저항%",
+              "value": "6"
+            },
+            {
+              "label": "내구도",
+              "value": "1"
+            },
+            {
+              "label": "회복 (",
+              "value": "20"
+            },
+            {
+              "label": "착용 조건-%",
+              "value": "20"
+            },
+            {
+              "label": "홈 있음(소켓)",
+              "value": "2"
+            },
+            {
+              "label": "xoox",
+              "value": "7"
+            },
+            {
+              "label": "모든 능력치",
+              "value": "19"
+            },
+            {
+              "label": "모든 저항",
+              "value": "14"
+            },
+            {
+              "label": "qqwweee",
+              "value": "164"
+            },
+            {
+              "label": "크림초코빵",
+              "value": "108"
+            },
+            {
+              "label": "방어력",
+              "value": "456"
+            },
+            {
+              "label": "악마 기술(악마술사)",
+              "value": "2"
+            },
+            {
+              "label": "방어력%",
+              "value": "87"
+            },
+            {
+              "label": "마나",
+              "value": "77"
+            },
+            {
+              "label": "냉기 저항%",
+              "value": "15"
+            },
+            {
+              "label": "번개 저항%",
+              "value": "17"
+            },
+            {
+              "label": "화염 저항%",
+              "value": "16"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemmarket?index=1"
+        },
+        {
+          "name": "래더 마지막 소원",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 25000,
+          "unitPriceP": 25000,
+          "options": [
+            {
+              "label": "피해%",
+              "value": "380"
+            },
+            {
+              "label": "강타 확률%",
+              "value": "68"
+            },
+            {
+              "label": "일등늑대",
+              "value": "79"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=417888"
+        },
+        {
+          "name": "래더 마지막 소원",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 25000,
+          "unitPriceP": 25000,
+          "options": [
+            {
+              "label": "피해%",
+              "value": "380"
+            },
+            {
+              "label": "강타 확률%",
+              "value": "68"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 호라존의 지배 러셋 아머",
+      "category": "기타",
+      "listingCount": 3,
+      "price": {
+        "currency": "P",
+        "min": 200,
+        "median": 200,
+        "max": 200
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "5.",
+        "냉기 저항%",
+        "마나",
+        "방어력",
+        "방어력%",
+        "번개 저항%",
+        "악마 기술(악마술사)",
+        "크림초코빵",
         "화염 저항%"
       ],
       "samples": [
         {
-          "name": "스탠 작은 부적",
-          "category": "부적",
+          "name": "래더 호라존의 지배 러셋 아머",
+          "category": "기타",
           "server": "악군",
           "status": "",
-          "quantity": 12,
-          "priceP": 700,
-          "unitPriceP": 700,
+          "quantity": 1,
+          "priceP": 200,
+          "unitPriceP": 200,
           "options": [
             {
-              "label": "타격 회복 속도%",
-              "value": "5"
+              "label": "방어력",
+              "value": "456"
+            },
+            {
+              "label": "악마 기술(악마술사)",
+              "value": "2"
+            },
+            {
+              "label": "방어력%",
+              "value": "87"
+            },
+            {
+              "label": "마나",
+              "value": "77"
+            },
+            {
+              "label": "냉기 저항%",
+              "value": "15"
+            },
+            {
+              "label": "번개 저항%",
+              "value": "17"
             },
             {
               "label": "화염 저항%",
-              "value": "11"
+              "value": "16"
             },
             {
-              "label": "패힛",
-              "value": "11"
-            },
-            {
-              "label": "REDAPPLE",
-              "value": "68"
+              "label": "크림초코빵",
+              "value": "108"
             },
             {
               "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=404146"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=416403"
         },
         {
-          "name": "스탠 작은 부적",
-          "category": "부적",
+          "name": "래더 호라존의 지배 러셋 아머",
+          "category": "기타",
           "server": "악군",
           "status": "",
-          "quantity": 12,
-          "priceP": 700,
-          "unitPriceP": 700,
-          "options": [
-            {
-              "label": "타격 회복 속도%",
-              "value": "5"
-            },
-            {
-              "label": "화염 저항%",
-              "value": "11"
-            }
-          ],
+          "quantity": 1,
+          "priceP": 200,
+          "unitPriceP": 200,
+          "options": [],
           "url": null
         },
         {
-          "name": "스탠 작은 부적",
-          "category": "부적",
+          "name": "래더 호라존의 지배 러셋 아머",
+          "category": "기타",
           "server": "악군",
           "status": "",
-          "quantity": 11,
-          "priceP": 600,
-          "unitPriceP": 600,
+          "quantity": 1,
+          "priceP": 200,
+          "unitPriceP": 200,
           "options": [
             {
-              "label": "타격 회복 속도%",
-              "value": "5"
-            },
-            {
-              "label": "번개 저항%",
-              "value": "11"
-            },
-            {
-              "label": "패힛",
-              "value": "11"
-            },
-            {
-              "label": "REDAPPLE",
-              "value": "68"
+              "label": "크림초코빵",
+              "value": "108"
             },
             {
               "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=404143"
-        },
-        {
-          "name": "스탠 작은 부적",
-          "category": "부적",
-          "server": "악군",
-          "status": "",
-          "quantity": 11,
-          "priceP": 600,
-          "unitPriceP": 600,
-          "options": [
-            {
-              "label": "타격 회복 속도%",
-              "value": "5"
-            },
-            {
-              "label": "번개 저항%",
-              "value": "11"
-            }
-          ],
-          "url": null
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=409036"
         }
       ]
     },
     {
-      "name": "스탠 꿈(투구)",
+      "name": "래더 오네이트 플레이트",
       "category": "기타",
       "listingCount": 2,
       "price": {
         "currency": "P",
-        "min": 3000,
-        "median": 3000,
-        "max": 3000
+        "min": 500000,
+        "median": 500000,
+        "max": 500000
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
         "5.",
-        "REDAPPLE",
-        "마법 아이템 발견 확률%",
-        "모든 저항",
-        "방어력",
-        "타격 회복 속도%"
-      ],
-      "samples": [
-        {
-          "name": "스탠 꿈(투구)",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 3000,
-          "unitPriceP": 3000,
-          "options": [
-            {
-              "label": "타격 회복 속도%",
-              "value": "26"
-            },
-            {
-              "label": "방어력",
-              "value": "195"
-            },
-            {
-              "label": "모든 저항",
-              "value": "13"
-            },
-            {
-              "label": "마법 아이템 발견 확률%",
-              "value": "20"
-            },
-            {
-              "label": "REDAPPLE",
-              "value": "68"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=406684"
-        },
-        {
-          "name": "스탠 꿈(투구)",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 3000,
-          "unitPriceP": 3000,
-          "options": [
-            {
-              "label": "타격 회복 속도%",
-              "value": "26"
-            },
-            {
-              "label": "방어력",
-              "value": "195"
-            },
-            {
-              "label": "모든 저항",
-              "value": "13"
-            },
-            {
-              "label": "마법 아이템 발견 확률%",
-              "value": "20"
-            }
-          ],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "스탠 무한",
-      "category": "기타",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 5000,
-        "median": 5000,
-        "max": 5000
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "REDAPPLE",
-        "적의 번개 저항-%",
-        "피해%"
-      ],
-      "samples": [
-        {
-          "name": "스탠 무한",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 5000,
-          "unitPriceP": 5000,
-          "options": [
-            {
-              "label": "피해%",
-              "value": "288"
-            },
-            {
-              "label": "적의 번개 저항-%",
-              "value": "47"
-            },
-            {
-              "label": "REDAPPLE",
-              "value": "68"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=416348"
-        },
-        {
-          "name": "스탠 무한",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 5000,
-          "unitPriceP": 5000,
-          "options": [
-            {
-              "label": "피해%",
-              "value": "288"
-            },
-            {
-              "label": "적의 번개 저항-%",
-              "value": "47"
-            }
-          ],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "스탠 새로워진 불길의 균열 거대 부적",
-      "category": "부적",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 7000,
-        "median": 7000,
-        "max": 7000
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "#준으뜸 신화파참",
-        "5.",
-        "REDAPPLE",
-        "달리기/걷기 속도%",
-        "마나",
-        "마법 아이템 발견 확률%",
-        "마법 피해 감소",
-        "화염 저항%",
-        "화염 저항-%"
-      ],
-      "samples": [
-        {
-          "name": "스탠 새로워진 불길의 균열 거대 부적",
-          "category": "부적",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 7000,
-          "unitPriceP": 7000,
-          "options": [
-            {
-              "label": "화염 저항-%",
-              "value": "70"
-            },
-            {
-              "label": "달리기/걷기 속도%",
-              "value": "8"
-            },
-            {
-              "label": "화염 저항%",
-              "value": "9"
-            },
-            {
-              "label": "마나",
-              "value": "69"
-            },
-            {
-              "label": "마법 피해 감소",
-              "value": "10"
-            },
-            {
-              "label": "마법 아이템 발견 확률%",
-              "value": "19"
-            },
-            {
-              "label": "#준으뜸 신화파참",
-              "value": "-9"
-            },
-            {
-              "label": "REDAPPLE",
-              "value": "68"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=406683"
-        },
-        {
-          "name": "스탠 새로워진 불길의 균열 거대 부적",
-          "category": "부적",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 7000,
-          "unitPriceP": 7000,
-          "options": [
-            {
-              "label": "화염 저항-%",
-              "value": "70"
-            },
-            {
-              "label": "달리기/걷기 속도%",
-              "value": "8"
-            },
-            {
-              "label": "화염 저항%",
-              "value": "9"
-            },
-            {
-              "label": "마나",
-              "value": "69"
-            },
-            {
-              "label": "마법 피해 감소",
-              "value": "10"
-            },
-            {
-              "label": "마법 아이템 발견 확률%",
-              "value": "19"
-            }
-          ],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "스탠 새로워진 천상의 틈 거대 부적",
-      "category": "부적",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 3000,
-        "median": 3000,
-        "max": 3000
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "REDAPPLE",
-        "마법 아이템 발견 확률%",
-        "마법 피해 감소",
-        "번개 저항-%",
+        "xoox",
+        "내구도",
+        "방어력%",
+        "번개 저항%",
         "생명력",
-        "적의 번개 저항-%",
-        "타격 회복 속도%"
+        "착용 조건-%",
+        "총 방어력",
+        "홈 있음(소켓)",
+        "회복 ("
       ],
       "samples": [
         {
-          "name": "스탠 새로워진 천상의 틈 거대 부적",
-          "category": "부적",
+          "name": "래더 오네이트 플레이트",
+          "category": "기타",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 3000,
-          "unitPriceP": 3000,
+          "priceP": 500000,
+          "unitPriceP": 500000,
           "options": [
             {
-              "label": "번개 저항-%",
-              "value": "70"
+              "label": "총 방어력",
+              "value": "1237"
             },
             {
-              "label": "타격 회복 속도%",
-              "value": "14"
+              "label": "방어력%",
+              "value": "83"
             },
             {
               "label": "생명력",
-              "value": "58"
+              "value": "22"
             },
             {
-              "label": "적의 번개 저항-%",
-              "value": "5"
+              "label": "번개 저항%",
+              "value": "6"
             },
             {
-              "label": "마법 피해 감소",
-              "value": "9"
+              "label": "내구도",
+              "value": "1"
             },
             {
-              "label": "마법 아이템 발견 확률%",
-              "value": "23"
+              "label": "회복 (",
+              "value": "20"
             },
             {
-              "label": "REDAPPLE",
-              "value": "68"
+              "label": "착용 조건-%",
+              "value": "20"
+            },
+            {
+              "label": "홈 있음(소켓)",
+              "value": "2"
+            },
+            {
+              "label": "xoox",
+              "value": "7"
             },
             {
               "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=406718"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=390019"
         },
         {
-          "name": "스탠 새로워진 천상의 틈 거대 부적",
-          "category": "부적",
+          "name": "래더 오네이트 플레이트",
+          "category": "기타",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 3000,
-          "unitPriceP": 3000,
+          "priceP": 500000,
+          "unitPriceP": 500000,
           "options": [
             {
-              "label": "번개 저항-%",
-              "value": "70"
+              "label": "총 방어력",
+              "value": "1237"
             },
             {
-              "label": "타격 회복 속도%",
-              "value": "14"
+              "label": "방어력%",
+              "value": "83"
             },
             {
               "label": "생명력",
-              "value": "58"
+              "value": "22"
             },
             {
-              "label": "적의 번개 저항-%",
-              "value": "5"
+              "label": "번개 저항%",
+              "value": "6"
             },
             {
-              "label": "마법 피해 감소",
-              "value": "9"
+              "label": "내구도",
+              "value": "1"
             },
             {
-              "label": "마법 아이템 발견 확률%",
-              "value": "23"
+              "label": "회복 (",
+              "value": "20"
+            },
+            {
+              "label": "착용 조건-%",
+              "value": "20"
+            },
+            {
+              "label": "홈 있음(소켓)",
+              "value": "2"
             }
           ],
           "url": null
@@ -509,8 +432,8 @@
       ]
     },
     {
-      "name": "스탠 슬픔",
-      "category": "기타",
+      "name": "래더 지옥의 횃불(소서)",
+      "category": "부적",
       "listingCount": 2,
       "price": {
         "currency": "P",
@@ -523,17 +446,14 @@
       ],
       "optionLabels": [
         "5.",
-        "REDAPPLE",
-        "공격 속도%",
-        "공속",
-        "적 처치 시 생명력 회복",
-        "적의 독 저항-%",
-        "피해"
+        "qqwweee",
+        "모든 능력치",
+        "모든 저항"
       ],
       "samples": [
         {
-          "name": "스탠 슬픔",
-          "category": "기타",
+          "name": "래더 지옥의 횃불(소서)",
+          "category": "부적",
           "server": "악군",
           "status": "",
           "quantity": 1,
@@ -541,39 +461,27 @@
           "unitPriceP": 5000,
           "options": [
             {
-              "label": "공격 속도%",
-              "value": "39"
+              "label": "모든 능력치",
+              "value": "20"
             },
             {
-              "label": "피해",
-              "value": "387"
+              "label": "모든 저항",
+              "value": "17"
             },
             {
-              "label": "적의 독 저항-%",
-              "value": "25"
-            },
-            {
-              "label": "적 처치 시 생명력 회복",
-              "value": "10"
-            },
-            {
-              "label": "공속",
-              "value": "387"
-            },
-            {
-              "label": "REDAPPLE",
-              "value": "68"
+              "label": "qqwweee",
+              "value": "164"
             },
             {
               "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=411490"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=327198"
         },
         {
-          "name": "스탠 슬픔",
-          "category": "기타",
+          "name": "래더 지옥의 횃불(소서)",
+          "category": "부적",
           "server": "악군",
           "status": "",
           "quantity": 1,
@@ -581,20 +489,12 @@
           "unitPriceP": 5000,
           "options": [
             {
-              "label": "공격 속도%",
-              "value": "39"
+              "label": "모든 능력치",
+              "value": "20"
             },
             {
-              "label": "피해",
-              "value": "387"
-            },
-            {
-              "label": "적의 독 저항-%",
-              "value": "25"
-            },
-            {
-              "label": "적 처치 시 생명력 회복",
-              "value": "10"
+              "label": "모든 저항",
+              "value": "17"
             }
           ],
           "url": null
@@ -602,78 +502,69 @@
       ]
     },
     {
-      "name": "스탠 집착",
-      "category": "기타",
+      "name": "래더 지옥의 횃불(악마술사)",
+      "category": "부적",
       "listingCount": 2,
       "price": {
         "currency": "P",
-        "min": 8000,
-        "median": 8000,
-        "max": 8000
+        "min": 4500,
+        "median": 4500,
+        "max": 4500
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
         "5.",
-        "REDAPPLE",
-        "마나 재생%",
-        "모든 저항",
-        "최대 생명력%"
+        "qqwweee",
+        "모든 능력치",
+        "모든 저항"
       ],
       "samples": [
         {
-          "name": "스탠 집착",
-          "category": "기타",
+          "name": "래더 지옥의 횃불(악마술사)",
+          "category": "부적",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 8000,
-          "unitPriceP": 8000,
+          "priceP": 4500,
+          "unitPriceP": 4500,
           "options": [
             {
-              "label": "최대 생명력%",
-              "value": "18"
-            },
-            {
-              "label": "마나 재생%",
-              "value": "22"
+              "label": "모든 능력치",
+              "value": "19"
             },
             {
               "label": "모든 저항",
-              "value": "61"
+              "value": "14"
             },
             {
-              "label": "REDAPPLE",
-              "value": "68"
+              "label": "qqwweee",
+              "value": "164"
             },
             {
               "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=411627"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=277331"
         },
         {
-          "name": "스탠 집착",
-          "category": "기타",
+          "name": "래더 지옥의 횃불(악마술사)",
+          "category": "부적",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 8000,
-          "unitPriceP": 8000,
+          "priceP": 4500,
+          "unitPriceP": 4500,
           "options": [
             {
-              "label": "최대 생명력%",
-              "value": "18"
-            },
-            {
-              "label": "마나 재생%",
-              "value": "22"
+              "label": "모든 능력치",
+              "value": "19"
             },
             {
               "label": "모든 저항",
-              "value": "61"
+              "value": "14"
             }
           ],
           "url": null
@@ -681,144 +572,224 @@
       ]
     },
     {
-      "name": "스탠 통찰",
+      "name": "래더 최상급 자수정",
       "category": "기타",
       "listingCount": 2,
       "price": {
         "currency": "P",
-        "min": 5000,
-        "median": 5000,
-        "max": 5000
+        "min": 1200,
+        "median": 1200,
+        "max": 1200
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "#메아리용 에테쉴레일리 스킬없음",
         "5.",
-        "REDAPPLE",
-        "명중률%",
-        "장착 시 명상 오라 적용",
-        "치명타",
-        "피해%"
+        "크림초코빵"
       ],
       "samples": [
         {
-          "name": "스탠 통찰",
+          "name": "래더 최상급 자수정",
           "category": "기타",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 5000,
-          "unitPriceP": 5000,
+          "priceP": 1200,
+          "unitPriceP": 1200,
           "options": [
             {
-              "label": "장착 시 명상 오라 적용",
-              "value": "17"
-            },
-            {
-              "label": "피해%",
-              "value": "227"
-            },
-            {
-              "label": "명중률%",
-              "value": "201"
-            },
-            {
-              "label": "치명타",
-              "value": "6"
-            },
-            {
-              "label": "#메아리용 에테쉴레일리 스킬없음",
-              "value": "6"
-            },
-            {
-              "label": "REDAPPLE",
-              "value": "68"
+              "label": "크림초코빵",
+              "value": "108"
             },
             {
               "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=411485"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=337867"
         },
         {
-          "name": "스탠 통찰",
+          "name": "래더 최상급 자수정",
           "category": "기타",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 5000,
-          "unitPriceP": 5000,
-          "options": [
-            {
-              "label": "장착 시 명상 오라 적용",
-              "value": "17"
-            },
-            {
-              "label": "피해%",
-              "value": "227"
-            },
-            {
-              "label": "명중률%",
-              "value": "201"
-            },
-            {
-              "label": "치명타",
-              "value": "6"
-            }
-          ],
+          "priceP": 1200,
+          "unitPriceP": 1200,
+          "options": [],
           "url": null
         }
       ]
     },
     {
-      "name": "스탠 무한",
+      "name": "스탠 지옥의 횃불(아마)",
+      "category": "부적",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 1000,
+        "median": 1000,
+        "max": 1000
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "5.",
+        "qqwweee",
+        "모든 능력치",
+        "모든 저항"
+      ],
+      "samples": [
+        {
+          "name": "스탠 지옥의 횃불(아마)",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 1000,
+          "unitPriceP": 1000,
+          "options": [
+            {
+              "label": "모든 능력치",
+              "value": "17"
+            },
+            {
+              "label": "모든 저항",
+              "value": "19"
+            }
+          ],
+          "url": null
+        },
+        {
+          "name": "스탠 지옥의 횃불(아마)",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 1000,
+          "unitPriceP": 1000,
+          "options": [
+            {
+              "label": "모든 능력치",
+              "value": "17"
+            },
+            {
+              "label": "모든 저항",
+              "value": "19"
+            },
+            {
+              "label": "qqwweee",
+              "value": "164"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=390677"
+        }
+      ]
+    },
+    {
+      "name": "스탠 호라존의 지배 러셋 아머",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 100,
+        "median": 100,
+        "max": 100
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "5.",
+        "크림초코빵"
+      ],
+      "samples": [
+        {
+          "name": "스탠 호라존의 지배 러셋 아머",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 2,
+          "priceP": 100,
+          "unitPriceP": 100,
+          "options": [
+            {
+              "label": "크림초코빵",
+              "value": "108"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=345920"
+        },
+        {
+          "name": "스탠 호라존의 지배 러셋 아머",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 2,
+          "priceP": 100,
+          "unitPriceP": 100,
+          "options": [],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 마지막 소원",
       "category": "룬워드",
       "listingCount": 1,
       "price": {
         "currency": "P",
-        "min": 5000,
-        "median": 5000,
-        "max": 5000
+        "min": 25000,
+        "median": 25000,
+        "max": 25000
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "#메아리용 에테쉴레일리 스킬없음",
         "5.",
-        "REDAPPLE",
-        "공격 속도%",
-        "공속",
+        "qqwweee",
+        "xoox",
+        "강타 확률%",
+        "내구도",
         "디아블로",
-        "마나 재생%",
-        "명중률%",
+        "마나",
+        "모든 능력치",
         "모든 저항",
-        "번개 저항-%",
+        "방어력",
+        "방어력%",
+        "번개 저항%",
         "생명력",
-        "장착 시 명상 오라 적용",
-        "적 처치 시 생명력 회복",
-        "적의 독 저항-%",
-        "적의 번개 저항-%",
+        "악마 기술(악마술사)",
+        "일등늑대",
         "지금 시작하면, 멤버십 PLUS",
-        "최대 생명력%",
-        "치명타",
-        "타격 회복 속도%",
+        "착용 조건-%",
+        "총 방어력",
+        "크림초코빵",
         "플레이디아 디아블로",
-        "피해",
-        "피해%"
+        "피해%",
+        "홈 있음(소켓)",
+        "회복 ("
       ],
       "samples": [
         {
-          "name": "스탠 무한",
+          "name": "래더 마지막 소원",
           "category": "룬워드",
           "server": "악군",
           "status": "거래완료",
           "quantity": 1,
-          "priceP": 5000,
-          "unitPriceP": 5000,
+          "priceP": 25000,
+          "unitPriceP": 25000,
           "options": [
             {
               "label": "지금 시작하면, 멤버십 PLUS",
@@ -834,87 +805,87 @@
             },
             {
               "label": "피해%",
-              "value": "288"
+              "value": "380"
             },
             {
-              "label": "적의 번개 저항-%",
-              "value": "47"
-            },
-            {
-              "label": "REDAPPLE",
+              "label": "강타 확률%",
               "value": "68"
+            },
+            {
+              "label": "일등늑대",
+              "value": "79"
             },
             {
               "label": "5.",
               "value": "00"
             },
             {
-              "label": "최대 생명력%",
-              "value": "18"
+              "label": "총 방어력",
+              "value": "1237"
             },
             {
-              "label": "마나 재생%",
-              "value": "22"
-            },
-            {
-              "label": "모든 저항",
-              "value": "61"
-            },
-            {
-              "label": "공격 속도%",
-              "value": "39"
-            },
-            {
-              "label": "피해",
-              "value": "387"
-            },
-            {
-              "label": "적의 독 저항-%",
-              "value": "25"
-            },
-            {
-              "label": "적 처치 시 생명력 회복",
-              "value": "10"
-            },
-            {
-              "label": "공속",
-              "value": "387"
-            },
-            {
-              "label": "장착 시 명상 오라 적용",
-              "value": "17"
-            },
-            {
-              "label": "피해%",
-              "value": "227"
-            },
-            {
-              "label": "명중률%",
-              "value": "201"
-            },
-            {
-              "label": "치명타",
-              "value": "6"
-            },
-            {
-              "label": "#메아리용 에테쉴레일리 스킬없음",
-              "value": "6"
-            },
-            {
-              "label": "번개 저항-%",
-              "value": "70"
-            },
-            {
-              "label": "타격 회복 속도%",
-              "value": "14"
+              "label": "방어력%",
+              "value": "83"
             },
             {
               "label": "생명력",
-              "value": "58"
+              "value": "22"
             },
             {
-              "label": "적의 번개 저항-%",
-              "value": "5"
+              "label": "번개 저항%",
+              "value": "6"
+            },
+            {
+              "label": "내구도",
+              "value": "1"
+            },
+            {
+              "label": "회복 (",
+              "value": "20"
+            },
+            {
+              "label": "착용 조건-%",
+              "value": "20"
+            },
+            {
+              "label": "홈 있음(소켓)",
+              "value": "2"
+            },
+            {
+              "label": "xoox",
+              "value": "7"
+            },
+            {
+              "label": "모든 능력치",
+              "value": "19"
+            },
+            {
+              "label": "모든 저항",
+              "value": "14"
+            },
+            {
+              "label": "qqwweee",
+              "value": "164"
+            },
+            {
+              "label": "크림초코빵",
+              "value": "108"
+            },
+            {
+              "label": "방어력",
+              "value": "456"
+            },
+            {
+              "label": "악마 기술(악마술사)",
+              "value": "2"
+            },
+            {
+              "label": "방어력%",
+              "value": "87"
+            },
+            {
+              "label": "마나",
+              "value": "77"
             }
           ],
           "url": "https://www.playnote.co.kr/customer/noticedetail?Index=5"
@@ -922,149 +893,52 @@
       ]
     },
     {
-      "name": "스탠 무한",
-      "category": "부적",
+      "name": "래더 소집",
+      "category": "기타",
       "listingCount": 1,
       "price": {
         "currency": "P",
-        "min": 5000,
-        "median": 5000,
-        "max": 5000
+        "min": 550,
+        "median": 550,
+        "max": 550
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "#메아리용 에테쉴레일리 스킬없음",
-        "5.",
-        "REDAPPLE",
-        "공격 속도%",
-        "공속",
-        "마나 재생%",
-        "마법 아이템 발견 확률%",
-        "마법 피해 감소",
-        "명중률%",
-        "모든 저항",
-        "번개 저항-%",
-        "생명력",
-        "장착 시 명상 오라 적용",
-        "적 처치 시 생명력 회복",
-        "적의 독 저항-%",
-        "적의 번개 저항-%",
-        "최대 생명력%",
-        "치명타",
-        "타격 회복 속도%",
-        "피해",
+        "전투 명령(공용 기술)",
+        "전투 지시(공용 기술)",
+        "전투의 함성(공용 기술)",
         "피해%"
       ],
       "samples": [
         {
-          "name": "스탠 무한",
-          "category": "부적",
+          "name": "래더 소집",
+          "category": "기타",
           "server": "악군",
-          "status": "거래완료",
+          "status": "",
           "quantity": 1,
-          "priceP": 5000,
-          "unitPriceP": 5000,
+          "priceP": 550,
+          "unitPriceP": 550,
           "options": [
             {
               "label": "피해%",
-              "value": "288"
+              "value": "255"
             },
             {
-              "label": "적의 번개 저항-%",
-              "value": "47"
-            },
-            {
-              "label": "REDAPPLE",
-              "value": "68"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            },
-            {
-              "label": "최대 생명력%",
-              "value": "18"
-            },
-            {
-              "label": "마나 재생%",
-              "value": "22"
-            },
-            {
-              "label": "모든 저항",
-              "value": "61"
-            },
-            {
-              "label": "공격 속도%",
-              "value": "39"
-            },
-            {
-              "label": "피해",
-              "value": "387"
-            },
-            {
-              "label": "적의 독 저항-%",
-              "value": "25"
-            },
-            {
-              "label": "적 처치 시 생명력 회복",
-              "value": "10"
-            },
-            {
-              "label": "공속",
-              "value": "387"
-            },
-            {
-              "label": "장착 시 명상 오라 적용",
-              "value": "17"
-            },
-            {
-              "label": "피해%",
-              "value": "227"
-            },
-            {
-              "label": "명중률%",
-              "value": "201"
-            },
-            {
-              "label": "치명타",
-              "value": "6"
-            },
-            {
-              "label": "#메아리용 에테쉴레일리 스킬없음",
-              "value": "6"
-            },
-            {
-              "label": "번개 저항-%",
-              "value": "70"
-            },
-            {
-              "label": "타격 회복 속도%",
-              "value": "14"
-            },
-            {
-              "label": "생명력",
-              "value": "58"
-            },
-            {
-              "label": "적의 번개 저항-%",
+              "label": "전투 명령(공용 기술)",
               "value": "5"
             },
             {
-              "label": "마법 피해 감소",
-              "value": "9"
+              "label": "전투 지시(공용 기술)",
+              "value": "2"
             },
             {
-              "label": "마법 아이템 발견 확률%",
-              "value": "23"
-            },
-            {
-              "label": "타격 회복 속도%",
-              "value": "26"
+              "label": "전투의 함성(공용 기술)",
+              "value": "3"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemmarket?index=1"
+          "url": null
         }
       ]
     }
