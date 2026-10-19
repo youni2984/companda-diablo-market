@@ -1,393 +1,397 @@
 {
   "source": "https://www.playnote.co.kr/trade/itemmarket?index=1",
   "scope": "public-listings-only",
-  "updatedAt": "2026-10-19T17:44:14.728454+00:00",
-  "listingCount": 20,
-  "itemCount": 11,
+  "updatedAt": "2026-10-19T22:17:18.644808+00:00",
+  "listingCount": 19,
+  "itemCount": 9,
   "items": [
     {
-      "name": "래더 로룬",
-      "category": "룬",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 1500,
-        "median": 1500,
-        "max": 1500
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "Master"
-      ],
-      "samples": [
-        {
-          "name": "래더 로룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 37,
-          "priceP": 1500,
-          "unitPriceP": 1500,
-          "options": [
-            {
-              "label": "Master",
-              "value": "653"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=294461"
-        },
-        {
-          "name": "래더 로룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 37,
-          "priceP": 1500,
-          "unitPriceP": 1500,
-          "options": [],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 말룬",
-      "category": "룬",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 180,
-        "median": 180,
-        "max": 180
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "#래더",
-        "5.",
-        "Master"
-      ],
-      "samples": [
-        {
-          "name": "래더 말룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 40,
-          "priceP": 180,
-          "unitPriceP": 180,
-          "options": [
-            {
-              "label": "#래더",
-              "value": "15"
-            },
-            {
-              "label": "Master",
-              "value": "653"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=420997"
-        },
-        {
-          "name": "래더 말룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 40,
-          "priceP": 180,
-          "unitPriceP": 180,
-          "options": [],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 베르룬",
-      "category": "룬",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 2700,
-        "median": 2700,
-        "max": 2700
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "#래더",
-        "5.",
-        "Master"
-      ],
-      "samples": [
-        {
-          "name": "래더 베르룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 41,
-          "priceP": 2700,
-          "unitPriceP": 2700,
-          "options": [
-            {
-              "label": "#래더",
-              "value": "15"
-            },
-            {
-              "label": "Master",
-              "value": "653"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=388778"
-        },
-        {
-          "name": "래더 베르룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 41,
-          "priceP": 2700,
-          "unitPriceP": 2700,
-          "options": [],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 벡스룬",
-      "category": "룬",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 450,
-        "median": 450,
-        "max": 450
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "#래더",
-        "5.",
-        "Master"
-      ],
-      "samples": [
-        {
-          "name": "래더 벡스룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 38,
-          "priceP": 450,
-          "unitPriceP": 450,
-          "options": [
-            {
-              "label": "#래더",
-              "value": "15"
-            },
-            {
-              "label": "Master",
-              "value": "653"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=382092"
-        },
-        {
-          "name": "래더 벡스룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 38,
-          "priceP": 450,
-          "unitPriceP": 450,
-          "options": [],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 오움룬",
-      "category": "룬",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 750,
-        "median": 750,
-        "max": 750
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "#래더",
-        "5.",
-        "Master"
-      ],
-      "samples": [
-        {
-          "name": "래더 오움룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 46,
-          "priceP": 750,
-          "unitPriceP": 750,
-          "options": [
-            {
-              "label": "#래더",
-              "value": "15"
-            },
-            {
-              "label": "Master",
-              "value": "653"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=254507"
-        },
-        {
-          "name": "래더 오움룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 46,
-          "priceP": 750,
-          "unitPriceP": 750,
-          "options": [],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 이스트룬",
-      "category": "룬",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 250,
-        "median": 250,
-        "max": 250
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "#래더",
-        "5.",
-        "Master"
-      ],
-      "samples": [
-        {
-          "name": "래더 이스트룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 39,
-          "priceP": 250,
-          "unitPriceP": 250,
-          "options": [
-            {
-              "label": "#래더",
-              "value": "15"
-            },
-            {
-              "label": "Master",
-              "value": "653"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=421005"
-        },
-        {
-          "name": "래더 이스트룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 39,
-          "priceP": 250,
-          "unitPriceP": 250,
-          "options": [],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 참룬",
-      "category": "룬",
-      "listingCount": 2,
+      "name": "하코 래더 반지",
+      "category": "기타",
+      "listingCount": 6,
       "price": {
         "currency": "P",
         "min": 2000,
-        "median": 2000,
-        "max": 2000
+        "median": 2500,
+        "max": 4000
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "#래더",
         "5.",
-        "Master"
+        "난나닷",
+        "냉기 저항%",
+        "독 저항%",
+        "마나",
+        "명중률",
+        "번개 저항%",
+        "시야",
+        "시전 속도%",
+        "적중당 마나 훔침%",
+        "피격 시",
+        "화염 저항%",
+        "확률로"
       ],
       "samples": [
         {
-          "name": "래더 참룬",
-          "category": "룬",
+          "name": "하코 래더 반지",
+          "category": "기타",
           "server": "악군",
           "status": "",
-          "quantity": 9,
-          "priceP": 2000,
-          "unitPriceP": 2000,
+          "quantity": 1,
+          "priceP": 3000,
+          "unitPriceP": 3000,
           "options": [
             {
-              "label": "#래더",
-              "value": "15"
+              "label": "시전 속도%",
+              "value": "10"
             },
             {
-              "label": "Master",
-              "value": "653"
+              "label": "명중률",
+              "value": "46"
+            },
+            {
+              "label": "적중당 마나 훔침%",
+              "value": "6"
+            },
+            {
+              "label": "마나",
+              "value": "85"
+            },
+            {
+              "label": "시야",
+              "value": "1"
+            }
+          ],
+          "url": null
+        },
+        {
+          "name": "하코 래더 반지",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 4000,
+          "unitPriceP": 4000,
+          "options": [
+            {
+              "label": "시전 속도%",
+              "value": "10"
+            },
+            {
+              "label": "명중률",
+              "value": "55"
+            },
+            {
+              "label": "적중당 마나 훔침%",
+              "value": "3"
+            },
+            {
+              "label": "독 저항%",
+              "value": "21"
+            },
+            {
+              "label": "난나닷",
+              "value": "104"
             },
             {
               "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=419213"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=422430"
         },
         {
-          "name": "래더 참룬",
-          "category": "룬",
+          "name": "하코 래더 반지",
+          "category": "기타",
           "server": "악군",
           "status": "",
-          "quantity": 9,
+          "quantity": 1,
+          "priceP": 4000,
+          "unitPriceP": 4000,
+          "options": [
+            {
+              "label": "시전 속도%",
+              "value": "10"
+            },
+            {
+              "label": "명중률",
+              "value": "55"
+            },
+            {
+              "label": "적중당 마나 훔침%",
+              "value": "3"
+            },
+            {
+              "label": "독 저항%",
+              "value": "21"
+            }
+          ],
+          "url": null
+        },
+        {
+          "name": "하코 래더 반지",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
           "priceP": 2000,
           "unitPriceP": 2000,
-          "options": [],
+          "options": [
+            {
+              "label": "명중률",
+              "value": "83"
+            },
+            {
+              "label": "적중당 마나 훔침%",
+              "value": "3"
+            },
+            {
+              "label": "냉기 저항%",
+              "value": "33"
+            },
+            {
+              "label": "번개 저항%",
+              "value": "11"
+            },
+            {
+              "label": "화염 저항%",
+              "value": "11"
+            },
+            {
+              "label": "독 저항%",
+              "value": "11"
+            },
+            {
+              "label": "난나닷",
+              "value": "104"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=419003"
+        },
+        {
+          "name": "하코 래더 반지",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 2000,
+          "unitPriceP": 2000,
+          "options": [
+            {
+              "label": "피격 시",
+              "value": "14"
+            },
+            {
+              "label": "확률로",
+              "value": "5"
+            },
+            {
+              "label": "시전 속도%",
+              "value": "10"
+            },
+            {
+              "label": "명중률",
+              "value": "108"
+            },
+            {
+              "label": "냉기 저항%",
+              "value": "5"
+            },
+            {
+              "label": "번개 저항%",
+              "value": "35"
+            },
+            {
+              "label": "화염 저항%",
+              "value": "5"
+            },
+            {
+              "label": "독 저항%",
+              "value": "5"
+            }
+          ],
+          "url": null
+        },
+        {
+          "name": "하코 래더 반지",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 2000,
+          "unitPriceP": 2000,
+          "options": [
+            {
+              "label": "피격 시",
+              "value": "14"
+            },
+            {
+              "label": "확률로",
+              "value": "5"
+            },
+            {
+              "label": "시전 속도%",
+              "value": "10"
+            },
+            {
+              "label": "명중률",
+              "value": "108"
+            },
+            {
+              "label": "냉기 저항%",
+              "value": "5"
+            },
+            {
+              "label": "번개 저항%",
+              "value": "35"
+            },
+            {
+              "label": "화염 저항%",
+              "value": "5"
+            },
+            {
+              "label": "독 저항%",
+              "value": "5"
+            },
+            {
+              "label": "난나닷",
+              "value": "104"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=418991"
+        }
+      ]
+    },
+    {
+      "name": "스탠 워 부츠",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 50000,
+        "median": 50000,
+        "max": 50000
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "5.",
+        "내구도",
+        "냉기 저항%",
+        "달리기/걷기 속도%",
+        "달리는다람쥐",
+        "민첩",
+        "번개 저항%",
+        "총 방어력",
+        "화염 저항%",
+        "회복 ("
+      ],
+      "samples": [
+        {
+          "name": "스탠 워 부츠",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 50000,
+          "unitPriceP": 50000,
+          "options": [
+            {
+              "label": "총 방어력",
+              "value": "44"
+            },
+            {
+              "label": "달리기/걷기 속도%",
+              "value": "30"
+            },
+            {
+              "label": "민첩",
+              "value": "3"
+            },
+            {
+              "label": "냉기 저항%",
+              "value": "23"
+            },
+            {
+              "label": "번개 저항%",
+              "value": "38"
+            },
+            {
+              "label": "화염 저항%",
+              "value": "23"
+            },
+            {
+              "label": "내구도",
+              "value": "1"
+            },
+            {
+              "label": "회복 (",
+              "value": "33"
+            },
+            {
+              "label": "달리는다람쥐",
+              "value": "114"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=424438"
+        },
+        {
+          "name": "스탠 워 부츠",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 50000,
+          "unitPriceP": 50000,
+          "options": [
+            {
+              "label": "총 방어력",
+              "value": "44"
+            },
+            {
+              "label": "달리기/걷기 속도%",
+              "value": "30"
+            },
+            {
+              "label": "민첩",
+              "value": "3"
+            },
+            {
+              "label": "냉기 저항%",
+              "value": "23"
+            },
+            {
+              "label": "번개 저항%",
+              "value": "38"
+            },
+            {
+              "label": "화염 저항%",
+              "value": "23"
+            },
+            {
+              "label": "내구도",
+              "value": "1"
+            },
+            {
+              "label": "회복 (",
+              "value": "33"
+            }
+          ],
           "url": null
         }
       ]
@@ -463,99 +467,262 @@
       ]
     },
     {
-      "name": "하코 래더 로룬",
-      "category": "룬",
+      "name": "하코 래더 거대 부적",
+      "category": "부적",
       "listingCount": 2,
       "price": {
         "currency": "P",
-        "min": 4500,
-        "median": 4500,
-        "max": 4500
+        "min": 1000,
+        "median": 1000,
+        "max": 1000
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
         "5.",
-        "cdpdk"
+        "난나닷",
+        "모든 저항"
       ],
       "samples": [
         {
-          "name": "하코 래더 로룬",
-          "category": "룬",
+          "name": "하코 래더 거대 부적",
+          "category": "부적",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 4500,
-          "unitPriceP": 4500,
+          "priceP": 1000,
+          "unitPriceP": 1000,
           "options": [
             {
-              "label": "cdpdk",
-              "value": "16"
+              "label": "모든 저항",
+              "value": "13"
+            },
+            {
+              "label": "난나닷",
+              "value": "104"
             },
             {
               "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=424289"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=422602"
         },
         {
-          "name": "하코 래더 로룬",
-          "category": "룬",
+          "name": "하코 래더 거대 부적",
+          "category": "부적",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 4500,
-          "unitPriceP": 4500,
-          "options": [],
+          "priceP": 1000,
+          "unitPriceP": 1000,
+          "options": [
+            {
+              "label": "모든 저항",
+              "value": "13"
+            }
+          ],
           "url": null
         }
       ]
     },
     {
-      "name": "스탠 죽어가는 자의 숨결",
-      "category": "룬워드",
-      "listingCount": 1,
+      "name": "하코 래더 애니참",
+      "category": "부적",
+      "listingCount": 2,
       "price": {
         "currency": "P",
-        "min": 250000,
-        "median": 250000,
-        "max": 250000
+        "min": 14000,
+        "median": 14000,
+        "max": 14000
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "#래더",
-        "-부산중구",
-        "0.",
-        "1,",
         "5.",
-        "Master",
-        "cdpdk",
-        "디아블로",
-        "부산광역시 남구 전포대로",
-        "사업자등록번호:",
-        "언니의행방",
-        "연락처",
-        "옵션",
-        "자주묻는질문",
-        "적중당 생명력 훔침%",
-        "지금 시작하면, 멤버십 PLUS",
-        "통신판매신고번호: 제",
-        "플레이디아 디아블로",
-        "피해%"
+        "경험치 획득량%",
+        "난나닷",
+        "모든 능력치",
+        "모든 저항"
       ],
       "samples": [
         {
-          "name": "스탠 죽어가는 자의 숨결",
+          "name": "하코 래더 애니참",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 14000,
+          "unitPriceP": 14000,
+          "options": [
+            {
+              "label": "모든 능력치",
+              "value": "18"
+            },
+            {
+              "label": "모든 저항",
+              "value": "19"
+            },
+            {
+              "label": "경험치 획득량%",
+              "value": "5"
+            },
+            {
+              "label": "난나닷",
+              "value": "104"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=423699"
+        },
+        {
+          "name": "하코 래더 애니참",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 14000,
+          "unitPriceP": 14000,
+          "options": [
+            {
+              "label": "모든 능력치",
+              "value": "18"
+            },
+            {
+              "label": "모든 저항",
+              "value": "19"
+            },
+            {
+              "label": "경험치 획득량%",
+              "value": "5"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "하코 래더 지옥의 횃불(바바)",
+      "category": "부적",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 4000,
+        "median": 4000,
+        "max": 4000
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "5.",
+        "난나닷",
+        "모든 능력치",
+        "모든 저항"
+      ],
+      "samples": [
+        {
+          "name": "하코 래더 지옥의 횃불(바바)",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 4000,
+          "unitPriceP": 4000,
+          "options": [
+            {
+              "label": "모든 능력치",
+              "value": "11"
+            },
+            {
+              "label": "모든 저항",
+              "value": "20"
+            },
+            {
+              "label": "난나닷",
+              "value": "104"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=417628"
+        },
+        {
+          "name": "하코 래더 지옥의 횃불(바바)",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 4000,
+          "unitPriceP": 4000,
+          "options": [
+            {
+              "label": "모든 능력치",
+              "value": "11"
+            },
+            {
+              "label": "모든 저항",
+              "value": "20"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "스탠 워 부츠",
+      "category": "룬워드",
+      "listingCount": 1,
+      "price": {
+        "currency": "P",
+        "min": 50000,
+        "median": 50000,
+        "max": 50000
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "0.",
+        "5.",
+        "경험치 획득량%",
+        "난나닷",
+        "내구도",
+        "냉기 저항%",
+        "달리기/걷기 속도%",
+        "달리는다람쥐",
+        "디아블로",
+        "명중률",
+        "모든 능력치",
+        "모든 저항",
+        "민첩",
+        "번개 저항%",
+        "시전 속도%",
+        "언니의행방",
+        "적중당 생명력 훔침%",
+        "지금 시작하면, 멤버십 PLUS",
+        "총 방어력",
+        "플레이디아 디아블로",
+        "피해%",
+        "화염 저항%",
+        "회복 ("
+      ],
+      "samples": [
+        {
+          "name": "스탠 워 부츠",
           "category": "룬워드",
           "server": "악군",
           "status": "거래완료",
           "quantity": 1,
-          "priceP": 250000,
-          "unitPriceP": 250000,
+          "priceP": 50000,
+          "unitPriceP": 50000,
           "options": [
             {
               "label": "지금 시작하면, 멤버십 PLUS",
@@ -570,6 +737,46 @@
               "value": "2"
             },
             {
+              "label": "총 방어력",
+              "value": "44"
+            },
+            {
+              "label": "달리기/걷기 속도%",
+              "value": "30"
+            },
+            {
+              "label": "민첩",
+              "value": "3"
+            },
+            {
+              "label": "냉기 저항%",
+              "value": "23"
+            },
+            {
+              "label": "번개 저항%",
+              "value": "38"
+            },
+            {
+              "label": "화염 저항%",
+              "value": "23"
+            },
+            {
+              "label": "내구도",
+              "value": "1"
+            },
+            {
+              "label": "회복 (",
+              "value": "33"
+            },
+            {
+              "label": "달리는다람쥐",
+              "value": "114"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            },
+            {
               "label": "피해%",
               "value": "415"
             },
@@ -586,52 +793,32 @@
               "value": "00"
             },
             {
-              "label": "cdpdk",
-              "value": "16"
+              "label": "모든 능력치",
+              "value": "18"
             },
             {
-              "label": "5.",
-              "value": "00"
+              "label": "모든 저항",
+              "value": "19"
             },
             {
-              "label": "#래더",
-              "value": "15"
+              "label": "경험치 획득량%",
+              "value": "5"
             },
             {
-              "label": "Master",
-              "value": "653"
+              "label": "난나닷",
+              "value": "104"
             },
             {
-              "label": "옵션",
-              "value": "0"
+              "label": "모든 저항",
+              "value": "13"
             },
             {
-              "label": "1,",
-              "value": "000"
+              "label": "시전 속도%",
+              "value": "10"
             },
             {
-              "label": "사업자등록번호:",
-              "value": "148"
-            },
-            {
-              "label": "통신판매신고번호: 제",
-              "value": "2021"
-            },
-            {
-              "label": "-부산중구",
-              "value": "0282"
-            },
-            {
-              "label": "부산광역시 남구 전포대로",
-              "value": "116"
-            },
-            {
-              "label": "연락처",
-              "value": "070"
-            },
-            {
-              "label": "자주묻는질문",
-              "value": "1"
+              "label": "명중률",
+              "value": "46"
             }
           ],
           "url": "https://www.playnote.co.kr/customer/noticedetail?Index=5"
@@ -639,38 +826,93 @@
       ]
     },
     {
-      "name": "스탠 죽어가는 자의 숨결",
-      "category": "룬",
+      "name": "스탠 워 부츠",
+      "category": "무기",
       "listingCount": 1,
       "price": {
         "currency": "P",
-        "min": 250000,
-        "median": 250000,
-        "max": 250000
+        "min": 50000,
+        "median": 50000,
+        "max": 50000
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "#래더",
         "0.",
         "5.",
-        "Master",
-        "cdpdk",
+        "경험치 획득량%",
+        "난나닷",
+        "내구도",
+        "냉기 저항%",
+        "달리기/걷기 속도%",
+        "달리는다람쥐",
+        "마나",
+        "명중률",
+        "모든 능력치",
+        "모든 저항",
+        "민첩",
+        "번개 저항%",
+        "시야",
+        "시전 속도%",
         "언니의행방",
+        "적중당 마나 훔침%",
         "적중당 생명력 훔침%",
-        "피해%"
+        "총 방어력",
+        "피해%",
+        "화염 저항%",
+        "회복 ("
       ],
       "samples": [
         {
-          "name": "스탠 죽어가는 자의 숨결",
-          "category": "룬",
+          "name": "스탠 워 부츠",
+          "category": "무기",
           "server": "악군",
           "status": "거래완료",
           "quantity": 1,
-          "priceP": 250000,
-          "unitPriceP": 250000,
+          "priceP": 50000,
+          "unitPriceP": 50000,
           "options": [
+            {
+              "label": "총 방어력",
+              "value": "44"
+            },
+            {
+              "label": "달리기/걷기 속도%",
+              "value": "30"
+            },
+            {
+              "label": "민첩",
+              "value": "3"
+            },
+            {
+              "label": "냉기 저항%",
+              "value": "23"
+            },
+            {
+              "label": "번개 저항%",
+              "value": "38"
+            },
+            {
+              "label": "화염 저항%",
+              "value": "23"
+            },
+            {
+              "label": "내구도",
+              "value": "1"
+            },
+            {
+              "label": "회복 (",
+              "value": "33"
+            },
+            {
+              "label": "달리는다람쥐",
+              "value": "114"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            },
             {
               "label": "피해%",
               "value": "415"
@@ -688,23 +930,112 @@
               "value": "00"
             },
             {
-              "label": "cdpdk",
-              "value": "16"
+              "label": "모든 능력치",
+              "value": "18"
+            },
+            {
+              "label": "모든 저항",
+              "value": "19"
+            },
+            {
+              "label": "경험치 획득량%",
+              "value": "5"
+            },
+            {
+              "label": "난나닷",
+              "value": "104"
+            },
+            {
+              "label": "모든 저항",
+              "value": "13"
+            },
+            {
+              "label": "시전 속도%",
+              "value": "10"
+            },
+            {
+              "label": "명중률",
+              "value": "46"
+            },
+            {
+              "label": "적중당 마나 훔침%",
+              "value": "6"
+            },
+            {
+              "label": "마나",
+              "value": "85"
+            },
+            {
+              "label": "시야",
+              "value": "1"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemmarket?index=1"
+        }
+      ]
+    },
+    {
+      "name": "하코 래더 반지",
+      "category": "무기",
+      "listingCount": 1,
+      "price": {
+        "currency": "P",
+        "min": 3000,
+        "median": 3000,
+        "max": 3000
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "5.",
+        "난나닷",
+        "마나",
+        "명중률",
+        "시야",
+        "시전 속도%",
+        "적중당 마나 훔침%"
+      ],
+      "samples": [
+        {
+          "name": "하코 래더 반지",
+          "category": "무기",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 3000,
+          "unitPriceP": 3000,
+          "options": [
+            {
+              "label": "시전 속도%",
+              "value": "10"
+            },
+            {
+              "label": "명중률",
+              "value": "46"
+            },
+            {
+              "label": "적중당 마나 훔침%",
+              "value": "6"
+            },
+            {
+              "label": "마나",
+              "value": "85"
+            },
+            {
+              "label": "시야",
+              "value": "1"
+            },
+            {
+              "label": "난나닷",
+              "value": "104"
             },
             {
               "label": "5.",
               "value": "00"
-            },
-            {
-              "label": "#래더",
-              "value": "15"
-            },
-            {
-              "label": "Master",
-              "value": "653"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemmarket?index=1"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=422433"
         }
       ]
     }
