@@ -1,341 +1,139 @@
 {
   "source": "https://www.playnote.co.kr/trade/itemmarket?index=1",
   "scope": "public-listings-only",
-  "updatedAt": "2026-10-20T20:29:53.495489+00:00",
-  "listingCount": 18,
-  "itemCount": 8,
+  "updatedAt": "2026-10-20T23:21:27.996869+00:00",
+  "listingCount": 20,
+  "itemCount": 10,
   "items": [
     {
-      "name": "래더 거대 부적",
-      "category": "부적",
-      "listingCount": 5,
-      "price": {
-        "currency": "P",
-        "min": 1200,
-        "median": 2000,
-        "max": 2000
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "괴물에게서 얻는 금화%",
-        "마늘먹다체한곰",
-        "번개 저항%",
-        "생명력",
-        "함성(야만용사 전용)"
-      ],
-      "samples": [
-        {
-          "name": "래더 거대 부적",
-          "category": "부적",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 1200,
-          "unitPriceP": 1200,
-          "options": [
-            {
-              "label": "괴물에게서 얻는 금화%",
-              "value": "40"
-            },
-            {
-              "label": "번개 저항%",
-              "value": "26"
-            },
-            {
-              "label": "마늘먹다체한곰",
-              "value": "104"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=420506"
-        },
-        {
-          "name": "래더 거대 부적",
-          "category": "부적",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 1200,
-          "unitPriceP": 1200,
-          "options": [
-            {
-              "label": "괴물에게서 얻는 금화%",
-              "value": "40"
-            },
-            {
-              "label": "번개 저항%",
-              "value": "26"
-            }
-          ],
-          "url": null
-        },
-        {
-          "name": "래더 거대 부적",
-          "category": "부적",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 2000,
-          "unitPriceP": 2000,
-          "options": [
-            {
-              "label": "함성(야만용사 전용)",
-              "value": "1"
-            },
-            {
-              "label": "생명력",
-              "value": "39"
-            },
-            {
-              "label": "마늘먹다체한곰",
-              "value": "104"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=418575"
-        },
-        {
-          "name": "래더 거대 부적",
-          "category": "부적",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 2000,
-          "unitPriceP": 2000,
-          "options": [
-            {
-              "label": "함성(야만용사 전용)",
-              "value": "1"
-            },
-            {
-              "label": "생명력",
-              "value": "38"
-            }
-          ],
-          "url": null
-        },
-        {
-          "name": "래더 거대 부적",
-          "category": "부적",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 2000,
-          "unitPriceP": 2000,
-          "options": [
-            {
-              "label": "함성(야만용사 전용)",
-              "value": "1"
-            },
-            {
-              "label": "생명력",
-              "value": "38"
-            },
-            {
-              "label": "마늘먹다체한곰",
-              "value": "104"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=418574"
-        }
-      ]
-    },
-    {
-      "name": "래더 새로워진 뼈의 분쇄 거대 부적",
+      "name": "래더 애니참",
       "category": "부적",
       "listingCount": 4,
       "price": {
         "currency": "P",
-        "min": 1800,
-        "median": 1900,
-        "max": 2000
+        "min": 900,
+        "median": 1400,
+        "max": 1900
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "5.",
-        "괴물에게서 얻는 금화%",
-        "마나",
-        "마늘먹다체한곰",
-        "마법 아이템 발견 확률%",
+        "4.",
+        "경험치 획득량%",
+        "돌맹이",
         "모든 능력치",
-        "받는 물리 피해%",
-        "생명력",
-        "적의 물리 피해 저항-%",
-        "타격 회복 속도%",
-        "피해 감소"
+        "모든 저항"
       ],
       "samples": [
         {
-          "name": "래더 새로워진 뼈의 분쇄 거대 부적",
+          "name": "래더 애니참",
           "category": "부적",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 1800,
-          "unitPriceP": 1800,
+          "priceP": 900,
+          "unitPriceP": 900,
           "options": [
             {
-              "label": "받는 물리 피해%",
-              "value": "10"
-            },
-            {
-              "label": "적의 물리 피해 저항-%",
-              "value": "6"
-            },
-            {
               "label": "모든 능력치",
-              "value": "8"
+              "value": "18"
             },
             {
-              "label": "마나",
-              "value": "32"
+              "label": "모든 저항",
+              "value": "19"
             },
             {
-              "label": "피해 감소",
-              "value": "6"
+              "label": "경험치 획득량%",
+              "value": "7"
             },
             {
-              "label": "괴물에게서 얻는 금화%",
-              "value": "20"
+              "label": "돌맹이",
+              "value": "63"
             },
             {
-              "label": "마늘먹다체한곰",
-              "value": "104"
-            },
-            {
-              "label": "5.",
-              "value": "00"
+              "label": "4.",
+              "value": "90"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=423192"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=370078"
         },
         {
-          "name": "래더 새로워진 뼈의 분쇄 거대 부적",
+          "name": "래더 애니참",
           "category": "부적",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 1800,
-          "unitPriceP": 1800,
+          "priceP": 900,
+          "unitPriceP": 900,
           "options": [
             {
-              "label": "받는 물리 피해%",
-              "value": "10"
-            },
-            {
-              "label": "적의 물리 피해 저항-%",
-              "value": "6"
-            },
-            {
               "label": "모든 능력치",
-              "value": "8"
+              "value": "18"
             },
             {
-              "label": "마나",
-              "value": "32"
+              "label": "모든 저항",
+              "value": "19"
             },
             {
-              "label": "피해 감소",
-              "value": "6"
-            },
-            {
-              "label": "괴물에게서 얻는 금화%",
-              "value": "20"
+              "label": "경험치 획득량%",
+              "value": "7"
             }
           ],
           "url": null
         },
         {
-          "name": "래더 새로워진 뼈의 분쇄 거대 부적",
+          "name": "래더 애니참",
           "category": "부적",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 2000,
-          "unitPriceP": 2000,
+          "priceP": 1900,
+          "unitPriceP": 1900,
           "options": [
             {
-              "label": "받는 물리 피해%",
-              "value": "10"
+              "label": "모든 능력치",
+              "value": "20"
             },
             {
-              "label": "타격 회복 속도%",
-              "value": "16"
+              "label": "모든 저항",
+              "value": "19"
             },
             {
-              "label": "적의 물리 피해 저항-%",
+              "label": "경험치 획득량%",
               "value": "7"
             },
             {
-              "label": "생명력",
-              "value": "25"
+              "label": "돌맹이",
+              "value": "63"
             },
             {
-              "label": "피해 감소",
-              "value": "10"
-            },
-            {
-              "label": "마법 아이템 발견 확률%",
-              "value": "15"
-            },
-            {
-              "label": "마늘먹다체한곰",
-              "value": "104"
-            },
-            {
-              "label": "5.",
-              "value": "00"
+              "label": "4.",
+              "value": "90"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=423187"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=370087"
         },
         {
-          "name": "래더 새로워진 뼈의 분쇄 거대 부적",
+          "name": "래더 애니참",
           "category": "부적",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 2000,
-          "unitPriceP": 2000,
+          "priceP": 1900,
+          "unitPriceP": 1900,
           "options": [
             {
-              "label": "받는 물리 피해%",
-              "value": "10"
+              "label": "모든 능력치",
+              "value": "20"
             },
             {
-              "label": "타격 회복 속도%",
-              "value": "16"
+              "label": "모든 저항",
+              "value": "19"
             },
             {
-              "label": "적의 물리 피해 저항-%",
+              "label": "경험치 획득량%",
               "value": "7"
-            },
-            {
-              "label": "생명력",
-              "value": "25"
-            },
-            {
-              "label": "피해 감소",
-              "value": "10"
-            },
-            {
-              "label": "마법 아이템 발견 확률%",
-              "value": "15"
             }
           ],
           "url": null
@@ -343,87 +141,69 @@
       ]
     },
     {
-      "name": "래더 망 송의 가르침 아콘 스태프",
+      "name": "래더 다이어뎀",
       "category": "기타",
       "listingCount": 2,
       "price": {
         "currency": "P",
-        "min": 3500,
-        "median": 3500,
-        "max": 3500
+        "min": 800,
+        "median": 800,
+        "max": 800
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "5.",
-        "eldk",
-        "적의 냉기 저항-%",
-        "적의 번개 저항-%",
-        "적의 화염 저항-%",
+        "4.",
+        "돌맹이",
+        "방어력%",
         "홈 있음(소켓)"
       ],
       "samples": [
         {
-          "name": "래더 망 송의 가르침 아콘 스태프",
+          "name": "래더 다이어뎀",
           "category": "기타",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 3500,
-          "unitPriceP": 3500,
+          "priceP": 800,
+          "unitPriceP": 800,
           "options": [
             {
-              "label": "적의 번개 저항-%",
+              "label": "방어력%",
               "value": "14"
             },
             {
-              "label": "적의 화염 저항-%",
-              "value": "11"
-            },
-            {
-              "label": "적의 냉기 저항-%",
-              "value": "11"
-            },
-            {
               "label": "홈 있음(소켓)",
-              "value": "1"
+              "value": "3"
             },
             {
-              "label": "eldk",
-              "value": "4"
+              "label": "돌맹이",
+              "value": "63"
             },
             {
-              "label": "5.",
-              "value": "00"
+              "label": "4.",
+              "value": "90"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=422410"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=424667"
         },
         {
-          "name": "래더 망 송의 가르침 아콘 스태프",
+          "name": "래더 다이어뎀",
           "category": "기타",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 3500,
-          "unitPriceP": 3500,
+          "priceP": 800,
+          "unitPriceP": 800,
           "options": [
             {
-              "label": "적의 번개 저항-%",
+              "label": "방어력%",
               "value": "14"
             },
             {
-              "label": "적의 화염 저항-%",
-              "value": "11"
-            },
-            {
-              "label": "적의 냉기 저항-%",
-              "value": "11"
-            },
-            {
               "label": "홈 있음(소켓)",
-              "value": "1"
+              "value": "3"
             }
           ],
           "url": null
@@ -431,8 +211,387 @@
       ]
     },
     {
-      "name": "래더 아르스 알디아볼로스 신성모독 마법서",
+      "name": "래더 뱀파이어본 글러브",
       "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 4900,
+        "median": 4900,
+        "max": 4900
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "4.",
+        "강타 확률%",
+        "공격 속도%",
+        "돌맹이",
+        "마법 아이템 발견 확률%",
+        "생명력",
+        "적중당 생명력 훔침%",
+        "투창과 창 기술(아마존 전용)"
+      ],
+      "samples": [
+        {
+          "name": "래더 뱀파이어본 글러브",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 4900,
+          "unitPriceP": 4900,
+          "options": [
+            {
+              "label": "투창과 창 기술(아마존 전용)",
+              "value": "2"
+            },
+            {
+              "label": "공격 속도%",
+              "value": "20"
+            },
+            {
+              "label": "적중당 생명력 훔침%",
+              "value": "3"
+            },
+            {
+              "label": "강타 확률%",
+              "value": "6"
+            },
+            {
+              "label": "생명력",
+              "value": "10"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "18"
+            },
+            {
+              "label": "돌맹이",
+              "value": "63"
+            },
+            {
+              "label": "4.",
+              "value": "90"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=421651"
+        },
+        {
+          "name": "래더 뱀파이어본 글러브",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 4900,
+          "unitPriceP": 4900,
+          "options": [
+            {
+              "label": "투창과 창 기술(아마존 전용)",
+              "value": "2"
+            },
+            {
+              "label": "공격 속도%",
+              "value": "20"
+            },
+            {
+              "label": "적중당 생명력 훔침%",
+              "value": "3"
+            },
+            {
+              "label": "강타 확률%",
+              "value": "6"
+            },
+            {
+              "label": "생명력",
+              "value": "10"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "18"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 써클릿",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 3000,
+        "median": 3000,
+        "max": 3000
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "4.",
+        "냉기 기술 피해",
+        "달리기/걷기 속도%",
+        "돌맹이",
+        "시전 속도%",
+        "적중당 마나 훔침%"
+      ],
+      "samples": [
+        {
+          "name": "래더 써클릿",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 3000,
+          "unitPriceP": 3000,
+          "options": [
+            {
+              "label": "시전 속도%",
+              "value": "20"
+            },
+            {
+              "label": "달리기/걷기 속도%",
+              "value": "10"
+            },
+            {
+              "label": "냉기 기술 피해",
+              "value": "25"
+            },
+            {
+              "label": "적중당 마나 훔침%",
+              "value": "3"
+            },
+            {
+              "label": "돌맹이",
+              "value": "63"
+            },
+            {
+              "label": "4.",
+              "value": "90"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=367521"
+        },
+        {
+          "name": "래더 써클릿",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 3000,
+          "unitPriceP": 3000,
+          "options": [
+            {
+              "label": "시전 속도%",
+              "value": "20"
+            },
+            {
+              "label": "달리기/걷기 속도%",
+              "value": "10"
+            },
+            {
+              "label": "냉기 기술 피해",
+              "value": "25"
+            },
+            {
+              "label": "적중당 마나 훔침%",
+              "value": "3"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 코로니트",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 4900,
+        "median": 4900,
+        "max": 4900
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "4.",
+        "돌맹이",
+        "모든 저항",
+        "생명력",
+        "시전 속도%",
+        "피해 감소"
+      ],
+      "samples": [
+        {
+          "name": "래더 코로니트",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 4900,
+          "unitPriceP": 4900,
+          "options": [
+            {
+              "label": "시전 속도%",
+              "value": "20"
+            },
+            {
+              "label": "생명력",
+              "value": "30"
+            },
+            {
+              "label": "모든 저항",
+              "value": "14"
+            },
+            {
+              "label": "피해 감소",
+              "value": "5"
+            },
+            {
+              "label": "돌맹이",
+              "value": "63"
+            },
+            {
+              "label": "4.",
+              "value": "90"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=425355"
+        },
+        {
+          "name": "래더 코로니트",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 4900,
+          "unitPriceP": 4900,
+          "options": [
+            {
+              "label": "시전 속도%",
+              "value": "20"
+            },
+            {
+              "label": "생명력",
+              "value": "30"
+            },
+            {
+              "label": "모든 저항",
+              "value": "14"
+            },
+            {
+              "label": "피해 감소",
+              "value": "5"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 티아라",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 4900,
+        "median": 4900,
+        "max": 4900
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "4.",
+        "달리기/걷기 속도%",
+        "독 저항%",
+        "돌맹이",
+        "번개 기술 피해",
+        "시전 속도%",
+        "적중당 생명력 훔침%"
+      ],
+      "samples": [
+        {
+          "name": "래더 티아라",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 4900,
+          "unitPriceP": 4900,
+          "options": [
+            {
+              "label": "달리기/걷기 속도%",
+              "value": "30"
+            },
+            {
+              "label": "시전 속도%",
+              "value": "20"
+            },
+            {
+              "label": "번개 기술 피해",
+              "value": "68"
+            },
+            {
+              "label": "적중당 생명력 훔침%",
+              "value": "6"
+            },
+            {
+              "label": "독 저항%",
+              "value": "39"
+            },
+            {
+              "label": "돌맹이",
+              "value": "63"
+            },
+            {
+              "label": "4.",
+              "value": "90"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=421253"
+        },
+        {
+          "name": "래더 티아라",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 4900,
+          "unitPriceP": 4900,
+          "options": [
+            {
+              "label": "달리기/걷기 속도%",
+              "value": "30"
+            },
+            {
+              "label": "시전 속도%",
+              "value": "20"
+            },
+            {
+              "label": "번개 기술 피해",
+              "value": "68"
+            },
+            {
+              "label": "적중당 생명력 훔침%",
+              "value": "6"
+            },
+            {
+              "label": "독 저항%",
+              "value": "39"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "스탠 룸룬",
+      "category": "룬",
       "listingCount": 2,
       "price": {
         "currency": "P",
@@ -444,229 +603,149 @@
         "악군"
       ],
       "optionLabels": [
+        "#⭐",
         "5.",
-        "eldk",
-        "방어력%",
-        "시야",
-        "적 처치 시 마나 회복",
-        "적의 화염 저항-%",
-        "종말(악마술사 전용)",
-        "화염 기술 피해%",
-        "화염 저항%"
+        "디아거래"
       ],
       "samples": [
         {
-          "name": "래더 아르스 알디아볼로스 신성모독 마법서",
-          "category": "기타",
+          "name": "스탠 룸룬",
+          "category": "룬",
           "server": "악군",
           "status": "",
-          "quantity": 1,
+          "quantity": 8,
           "priceP": 500,
           "unitPriceP": 500,
           "options": [
             {
-              "label": "화염 기술 피해%",
-              "value": "25"
-            },
-            {
-              "label": "종말(악마술사 전용)",
-              "value": "3"
-            },
-            {
-              "label": "방어력%",
-              "value": "198"
-            },
-            {
-              "label": "화염 저항%",
-              "value": "24"
-            },
-            {
-              "label": "적 처치 시 마나 회복",
-              "value": "9"
-            },
-            {
-              "label": "시야",
+              "label": "#⭐",
               "value": "10"
             },
             {
-              "label": "적의 화염 저항-%",
-              "value": "5"
-            },
-            {
-              "label": "eldk",
-              "value": "4"
+              "label": "디아거래",
+              "value": "108"
             },
             {
               "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=424881"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=50830"
         },
         {
-          "name": "래더 아르스 알디아볼로스 신성모독 마법서",
-          "category": "기타",
+          "name": "스탠 룸룬",
+          "category": "룬",
           "server": "악군",
           "status": "",
-          "quantity": 1,
+          "quantity": 8,
           "priceP": 500,
           "unitPriceP": 500,
-          "options": [
-            {
-              "label": "화염 기술 피해%",
-              "value": "25"
-            },
-            {
-              "label": "종말(악마술사 전용)",
-              "value": "3"
-            },
-            {
-              "label": "방어력%",
-              "value": "198"
-            },
-            {
-              "label": "화염 저항%",
-              "value": "24"
-            },
-            {
-              "label": "적 처치 시 마나 회복",
-              "value": "9"
-            },
-            {
-              "label": "시야",
-              "value": "10"
-            },
-            {
-              "label": "적의 화염 저항-%",
-              "value": "5"
-            }
-          ],
+          "options": [],
           "url": null
         }
       ]
     },
     {
-      "name": "래더 죽어가는 자의 숨결",
-      "category": "기타",
+      "name": "스탠 풀룬",
+      "category": "룬",
       "listingCount": 2,
       "price": {
         "currency": "P",
-        "min": 24900,
-        "median": 24900,
-        "max": 24900
+        "min": 200,
+        "median": 200,
+        "max": 200
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "#썬더마울",
+        "#⭐",
         "5.",
-        "devilqp",
-        "적중당 생명력 훔침%",
-        "피해%"
+        "디아거래"
       ],
       "samples": [
         {
-          "name": "래더 죽어가는 자의 숨결",
-          "category": "기타",
+          "name": "스탠 풀룬",
+          "category": "룬",
           "server": "악군",
           "status": "",
-          "quantity": 1,
-          "priceP": 24900,
-          "unitPriceP": 24900,
+          "quantity": 7,
+          "priceP": 200,
+          "unitPriceP": 200,
           "options": [
             {
-              "label": "피해%",
-              "value": "412"
+              "label": "#⭐",
+              "value": "1"
             },
             {
-              "label": "적중당 생명력 훔침%",
-              "value": "13"
-            },
-            {
-              "label": "#썬더마울",
-              "value": "12"
-            },
-            {
-              "label": "devilqp",
-              "value": "74"
+              "label": "디아거래",
+              "value": "108"
             },
             {
               "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=403297"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=50854"
         },
         {
-          "name": "래더 죽어가는 자의 숨결",
-          "category": "기타",
+          "name": "스탠 풀룬",
+          "category": "룬",
           "server": "악군",
           "status": "",
-          "quantity": 1,
-          "priceP": 24900,
-          "unitPriceP": 24900,
-          "options": [
-            {
-              "label": "피해%",
-              "value": "412"
-            },
-            {
-              "label": "적중당 생명력 훔침%",
-              "value": "13"
-            }
-          ],
+          "quantity": 7,
+          "priceP": 200,
+          "unitPriceP": 200,
+          "options": [],
           "url": null
         }
       ]
     },
     {
-      "name": "래더 죽어가는 자의 숨결",
+      "name": "래더 써클릿",
       "category": "룬워드",
       "listingCount": 1,
       "price": {
         "currency": "P",
-        "min": 24900,
-        "median": 24900,
-        "max": 24900
+        "min": 3000,
+        "median": 3000,
+        "max": 3000
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "#썬더마울",
-        "#탈셋/냉기참",
-        "0.",
-        "5.",
-        "devilqp",
-        "eldk",
-        "거래 상대방",
+        "4.",
+        "강타 확률%",
+        "경험치 획득량%",
+        "공격 속도%",
+        "냉기 기술 피해",
+        "달리기/걷기 속도%",
+        "돌맹이",
         "디아블로",
-        "받는 물리 피해%",
+        "마법 아이템 발견 확률%",
+        "모든 능력치",
+        "모든 저항",
         "방어력%",
-        "시야",
-        "적 처치 시 마나 회복",
-        "적의 냉기 저항-%",
-        "적의 번개 저항-%",
-        "적의 화염 저항-%",
+        "번개 기술 피해",
+        "생명력",
+        "시전 속도%",
+        "적중당 마나 훔침%",
         "적중당 생명력 훔침%",
-        "종말(악마술사 전용)",
         "지금 시작하면, 멤버십 PLUS",
+        "투창과 창 기술(아마존 전용)",
         "플레이디아 디아블로",
-        "피해%",
-        "홈 있음(소켓)",
-        "화염 기술 피해%",
-        "화염 저항%"
+        "홈 있음(소켓)"
       ],
       "samples": [
         {
-          "name": "래더 죽어가는 자의 숨결",
+          "name": "래더 써클릿",
           "category": "룬워드",
           "server": "악군",
           "status": "거래완료",
           "quantity": 1,
-          "priceP": 24900,
-          "unitPriceP": 24900,
+          "priceP": 3000,
+          "unitPriceP": 3000,
           "options": [
             {
               "label": "지금 시작하면, 멤버십 PLUS",
@@ -681,88 +760,88 @@
               "value": "2"
             },
             {
-              "label": "피해%",
-              "value": "412"
+              "label": "시전 속도%",
+              "value": "20"
             },
             {
-              "label": "적중당 생명력 훔침%",
-              "value": "13"
+              "label": "달리기/걷기 속도%",
+              "value": "10"
             },
             {
-              "label": "#썬더마울",
-              "value": "12"
-            },
-            {
-              "label": "devilqp",
-              "value": "74"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            },
-            {
-              "label": "#탈셋/냉기참",
-              "value": "6"
-            },
-            {
-              "label": "거래 상대방",
-              "value": "1"
-            },
-            {
-              "label": "0.",
-              "value": "00"
-            },
-            {
-              "label": "적의 번개 저항-%",
-              "value": "14"
-            },
-            {
-              "label": "적의 화염 저항-%",
-              "value": "11"
-            },
-            {
-              "label": "적의 냉기 저항-%",
-              "value": "11"
-            },
-            {
-              "label": "홈 있음(소켓)",
-              "value": "1"
-            },
-            {
-              "label": "eldk",
-              "value": "4"
-            },
-            {
-              "label": "화염 기술 피해%",
+              "label": "냉기 기술 피해",
               "value": "25"
             },
             {
-              "label": "종말(악마술사 전용)",
+              "label": "적중당 마나 훔침%",
               "value": "3"
             },
             {
+              "label": "돌맹이",
+              "value": "63"
+            },
+            {
+              "label": "4.",
+              "value": "90"
+            },
+            {
+              "label": "모든 능력치",
+              "value": "18"
+            },
+            {
+              "label": "모든 저항",
+              "value": "19"
+            },
+            {
+              "label": "경험치 획득량%",
+              "value": "7"
+            },
+            {
+              "label": "모든 능력치",
+              "value": "20"
+            },
+            {
               "label": "방어력%",
-              "value": "198"
+              "value": "14"
             },
             {
-              "label": "화염 저항%",
-              "value": "24"
+              "label": "홈 있음(소켓)",
+              "value": "3"
             },
             {
-              "label": "적 처치 시 마나 회복",
-              "value": "9"
+              "label": "투창과 창 기술(아마존 전용)",
+              "value": "2"
             },
             {
-              "label": "시야",
+              "label": "공격 속도%",
+              "value": "20"
+            },
+            {
+              "label": "적중당 생명력 훔침%",
+              "value": "3"
+            },
+            {
+              "label": "강타 확률%",
+              "value": "6"
+            },
+            {
+              "label": "생명력",
               "value": "10"
             },
             {
-              "label": "적의 화염 저항-%",
-              "value": "5"
+              "label": "마법 아이템 발견 확률%",
+              "value": "18"
             },
             {
-              "label": "받는 물리 피해%",
-              "value": "10"
+              "label": "달리기/걷기 속도%",
+              "value": "30"
+            },
+            {
+              "label": "번개 기술 피해",
+              "value": "68"
+            },
+            {
+              "label": "적중당 생명력 훔침%",
+              "value": "6"
             }
           ],
           "url": "https://www.playnote.co.kr/customer/noticedetail?Index=5"
@@ -770,179 +849,147 @@
       ]
     },
     {
-      "name": "래더 죽어가는 자의 숨결",
-      "category": "세트",
+      "name": "래더 써클릿",
+      "category": "룬",
       "listingCount": 1,
       "price": {
         "currency": "P",
-        "min": 24900,
-        "median": 24900,
-        "max": 24900
+        "min": 3000,
+        "median": 3000,
+        "max": 3000
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "#썬더마울",
-        "#탈셋/냉기참",
-        "0.",
-        "5.",
-        "devilqp",
-        "eldk",
-        "거래 상대방",
-        "마나",
+        "4.",
+        "강타 확률%",
+        "경험치 획득량%",
+        "공격 속도%",
+        "냉기 기술 피해",
+        "달리기/걷기 속도%",
+        "독 저항%",
+        "돌맹이",
+        "마법 아이템 발견 확률%",
         "모든 능력치",
-        "받는 물리 피해%",
+        "모든 저항",
         "방어력%",
-        "시야",
-        "적 처치 시 마나 회복",
-        "적의 냉기 저항-%",
-        "적의 물리 피해 저항-%",
-        "적의 번개 저항-%",
-        "적의 화염 저항-%",
+        "번개 기술 피해",
+        "생명력",
+        "시전 속도%",
+        "적중당 마나 훔침%",
         "적중당 생명력 훔침%",
-        "종말(악마술사 전용)",
-        "피해%",
-        "홈 있음(소켓)",
-        "화염 기술 피해%",
-        "화염 저항%"
+        "투창과 창 기술(아마존 전용)",
+        "홈 있음(소켓)"
       ],
       "samples": [
         {
-          "name": "래더 죽어가는 자의 숨결",
-          "category": "세트",
+          "name": "래더 써클릿",
+          "category": "룬",
           "server": "악군",
           "status": "거래완료",
           "quantity": 1,
-          "priceP": 24900,
-          "unitPriceP": 24900,
+          "priceP": 3000,
+          "unitPriceP": 3000,
           "options": [
             {
-              "label": "피해%",
-              "value": "412"
+              "label": "시전 속도%",
+              "value": "20"
             },
             {
-              "label": "적중당 생명력 훔침%",
-              "value": "13"
+              "label": "달리기/걷기 속도%",
+              "value": "10"
             },
             {
-              "label": "#썬더마울",
-              "value": "12"
-            },
-            {
-              "label": "devilqp",
-              "value": "74"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            },
-            {
-              "label": "#탈셋/냉기참",
-              "value": "6"
-            },
-            {
-              "label": "거래 상대방",
-              "value": "1"
-            },
-            {
-              "label": "0.",
-              "value": "00"
-            },
-            {
-              "label": "적의 번개 저항-%",
-              "value": "14"
-            },
-            {
-              "label": "적의 화염 저항-%",
-              "value": "11"
-            },
-            {
-              "label": "적의 냉기 저항-%",
-              "value": "11"
-            },
-            {
-              "label": "홈 있음(소켓)",
-              "value": "1"
-            },
-            {
-              "label": "eldk",
-              "value": "4"
-            },
-            {
-              "label": "화염 기술 피해%",
+              "label": "냉기 기술 피해",
               "value": "25"
             },
             {
-              "label": "종말(악마술사 전용)",
+              "label": "적중당 마나 훔침%",
               "value": "3"
             },
             {
-              "label": "방어력%",
-              "value": "198"
+              "label": "돌맹이",
+              "value": "63"
             },
             {
-              "label": "화염 저항%",
-              "value": "24"
-            },
-            {
-              "label": "적 처치 시 마나 회복",
-              "value": "9"
-            },
-            {
-              "label": "시야",
-              "value": "10"
-            },
-            {
-              "label": "적의 화염 저항-%",
-              "value": "5"
-            },
-            {
-              "label": "받는 물리 피해%",
-              "value": "10"
-            },
-            {
-              "label": "적의 물리 피해 저항-%",
-              "value": "6"
+              "label": "4.",
+              "value": "90"
             },
             {
               "label": "모든 능력치",
-              "value": "8"
+              "value": "18"
             },
             {
-              "label": "마나",
-              "value": "32"
+              "label": "모든 저항",
+              "value": "19"
+            },
+            {
+              "label": "경험치 획득량%",
+              "value": "7"
+            },
+            {
+              "label": "모든 능력치",
+              "value": "20"
+            },
+            {
+              "label": "방어력%",
+              "value": "14"
+            },
+            {
+              "label": "홈 있음(소켓)",
+              "value": "3"
+            },
+            {
+              "label": "투창과 창 기술(아마존 전용)",
+              "value": "2"
+            },
+            {
+              "label": "공격 속도%",
+              "value": "20"
+            },
+            {
+              "label": "적중당 생명력 훔침%",
+              "value": "3"
+            },
+            {
+              "label": "강타 확률%",
+              "value": "6"
+            },
+            {
+              "label": "생명력",
+              "value": "10"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "18"
+            },
+            {
+              "label": "달리기/걷기 속도%",
+              "value": "30"
+            },
+            {
+              "label": "번개 기술 피해",
+              "value": "68"
+            },
+            {
+              "label": "적중당 생명력 훔침%",
+              "value": "6"
+            },
+            {
+              "label": "독 저항%",
+              "value": "39"
+            },
+            {
+              "label": "생명력",
+              "value": "30"
+            },
+            {
+              "label": "모든 저항",
+              "value": "14"
             }
           ],
           "url": "https://www.playnote.co.kr/trade/itemmarket?index=1"
-        }
-      ]
-    },
-    {
-      "name": "래더 탈 라샤의 수의 (세트)",
-      "category": "세트",
-      "listingCount": 1,
-      "price": {
-        "currency": "P",
-        "min": 2000,
-        "median": 2000,
-        "max": 2000
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [],
-      "samples": [
-        {
-          "name": "래더 탈 라샤의 수의 (세트)",
-          "category": "세트",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 2000,
-          "unitPriceP": 2000,
-          "options": [],
-          "url": null
         }
       ]
     }
