@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>결제 승인 | 컴판다 중고PC 마켓</title>
+  <link rel="stylesheet" href="/styles.css" />
+</head>
+<body>
+  <main class="payment-page">
+    <section class="payment-box">
+      <p class="eyebrow">KakaoPay</p>
+      <h1 id="paymentTitle">결제를 승인하고 있습니다</h1>
+      <p id="paymentMessage">잠시 후 결과가 표시됩니다.</p>
+      <a class="primary link-button" href="/">마켓으로 돌아가기</a>
+    </section>
+  </main>
+  <script>
+    const params = new URLSearchParams(location.search);
+    const orderId = params.get('orderId');
+    const pgToken = params.get('pg_token');
+    const title = document.querySelector('#paymentTitle');
+    const message = document.querySelector('#paymentMessage');
+
+    async function approve() {
+      if (!orderId || !pgToken) {
+        title.textContent = '결제 승인 정보를 확인할 수 없습니다';
+        message.textContent = '주문번호 또는 pg_token이 없습니다.';
+        return;
+      }
+
+      try {
+        const response = await fetch('/api/payments/kakaopay/approve', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ orderId, pgToken })
+        });
+        const data = await response.json();
+        if (!response.ok) throw new Error(data.message || '결제 승인 실패');
+        title.textContent = '결제가 완료되었습니다';
+        message.textContent = `주문번호 ${orderId} 결제가 정상 승인되었습니다.`;
+      } catch (error) {
+        title.textContent = '결제 승인에 실패했습니다';
+        message.textContent = error.message;
+      }
+    }
+
+    approve();
+  </script>
+</body>
+</html>
