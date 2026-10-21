@@ -1,516 +1,244 @@
 {
   "source": "https://www.playnote.co.kr/trade/itemmarket?index=1",
   "scope": "public-listings-only",
-  "updatedAt": "2026-10-21T13:11:10.986667+00:00",
-  "listingCount": 19,
-  "itemCount": 11,
+  "updatedAt": "2026-10-21T18:14:31.136593+00:00",
+  "listingCount": 20,
+  "itemCount": 8,
   "items": [
     {
-      "name": "래더 금화 (골드) 1000만",
-      "category": "기타",
-      "listingCount": 2,
+      "name": "스탠 작은 부적",
+      "category": "부적",
+      "listingCount": 5,
       "price": {
         "currency": "P",
-        "min": 360,
-        "median": 360,
-        "max": 360
+        "min": 16000,
+        "median": 37000,
+        "max": 37000
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
+        "#냉깍주얼",
         "5.",
-        "금화 (골드)",
-        "밀키스제로마시따"
+        "경험치 매찬",
+        "경험치 획득량%",
+        "괴물에게서 얻는 금화%",
+        "기쁜소주",
+        "냉기 기술 피해%",
+        "냉기 기술(원소술사 전용)",
+        "냉기 저항-%",
+        "마나",
+        "마법 아이템 발견 확률%",
+        "모든 능력치",
+        "모든 저항",
+        "번개 기술 피해",
+        "번개 저항-%",
+        "뿡뿡이",
+        "생명력",
+        "적의 냉기 저항-%"
       ],
       "samples": [
         {
-          "name": "래더 금화 (골드) 1000만",
-          "category": "기타",
+          "name": "스탠 작은 부적",
+          "category": "부적",
           "server": "악군",
-          "status": "",
+          "status": "거래완료",
           "quantity": 1,
-          "priceP": 360,
-          "unitPriceP": 360,
+          "priceP": 37000,
+          "unitPriceP": 37000,
           "options": [
             {
-              "label": "금화 (골드)",
-              "value": "1000"
+              "label": "모든 저항",
+              "value": "5"
             },
             {
-              "label": "밀키스제로마시따",
-              "value": "78"
+              "label": "생명력",
+              "value": "20"
+            },
+            {
+              "label": "기쁜소주",
+              "value": "11"
             },
             {
               "label": "5.",
               "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=428372"
-        },
-        {
-          "name": "래더 금화 (골드) 1000만",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 360,
-          "unitPriceP": 360,
-          "options": [
-            {
-              "label": "금화 (골드)",
-              "value": "1000"
-            }
-          ],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 독사마술사의 가죽 서펀트스킨 아머",
-      "category": "기타",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 2000,
-        "median": 2000,
-        "max": 2000
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "다인",
-        "마법 피해 감소",
-        "모든 저항"
-      ],
-      "samples": [
-        {
-          "name": "래더 독사마술사의 가죽 서펀트스킨 아머",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 2000,
-          "unitPriceP": 2000,
-          "options": [
-            {
-              "label": "모든 저항",
-              "value": "35"
             },
             {
-              "label": "마법 피해 감소",
-              "value": "13"
+              "label": "적의 냉기 저항-%",
+              "value": "10"
             },
             {
-              "label": "다인",
+              "label": "냉기 기술 피해%",
+              "value": "8"
+            },
+            {
+              "label": "경험치 획득량%",
+              "value": "5"
+            },
+            {
+              "label": "괴물에게서 얻는 금화%",
+              "value": "46"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "29"
+            },
+            {
+              "label": "#냉깍주얼",
+              "value": "5"
+            },
+            {
+              "label": "경험치 매찬",
+              "value": "29"
+            },
+            {
+              "label": "뿡뿡이",
+              "value": "1"
+            },
+            {
+              "label": "적의 냉기 저항-%",
+              "value": "7"
+            },
+            {
+              "label": "냉기 기술 피해%",
+              "value": "7"
+            },
+            {
+              "label": "경험치 획득량%",
+              "value": "3"
+            },
+            {
+              "label": "괴물에게서 얻는 금화%",
+              "value": "33"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "19"
+            },
+            {
+              "label": "냉기 기술(원소술사 전용)",
+              "value": "1"
+            },
+            {
+              "label": "생명력",
               "value": "23"
             },
             {
-              "label": "5.",
-              "value": "00"
+              "label": "냉기 저항-%",
+              "value": "9"
+            },
+            {
+              "label": "모든 능력치",
+              "value": "6"
+            },
+            {
+              "label": "마나",
+              "value": "23"
+            },
+            {
+              "label": "번개 저항-%",
+              "value": "70"
+            },
+            {
+              "label": "번개 기술 피해",
+              "value": "15"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=428956"
+          "url": "https://www.playnote.co.kr/trade/itemmarket?index=1"
         },
         {
-          "name": "래더 독사마술사의 가죽 서펀트스킨 아머",
-          "category": "기타",
+          "name": "스탠 작은 부적",
+          "category": "부적",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 2000,
-          "unitPriceP": 2000,
+          "priceP": 37000,
+          "unitPriceP": 37000,
           "options": [
             {
               "label": "모든 저항",
-              "value": "35"
+              "value": "5"
             },
             {
-              "label": "마법 피해 감소",
-              "value": "13"
-            }
-          ],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 렘룬",
-      "category": "룬",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 120,
-        "median": 120,
-        "max": 120
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "장사는피곤해"
-      ],
-      "samples": [
-        {
-          "name": "래더 렘룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 23,
-          "priceP": 120,
-          "unitPriceP": 120,
-          "options": [
-            {
-              "label": "장사는피곤해",
-              "value": "80"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=424509"
-        },
-        {
-          "name": "래더 렘룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 23,
-          "priceP": 120,
-          "unitPriceP": 120,
-          "options": [],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 로룬",
-      "category": "룬",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 1300,
-        "median": 1300,
-        "max": 1300
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "AAA상점"
-      ],
-      "samples": [
-        {
-          "name": "래더 로룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 58,
-          "priceP": 1300,
-          "unitPriceP": 1300,
-          "options": [
-            {
-              "label": "AAA상점",
-              "value": "135"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=374722"
-        },
-        {
-          "name": "래더 로룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 58,
-          "priceP": 1300,
-          "unitPriceP": 1300,
-          "options": [],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 베르룬",
-      "category": "룬",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 2550,
-        "median": 2550,
-        "max": 2550
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "AAA상점",
-        "개구매시 말룬"
-      ],
-      "samples": [
-        {
-          "name": "래더 베르룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 56,
-          "priceP": 2550,
-          "unitPriceP": 2550,
-          "options": [
-            {
-              "label": "개구매시 말룬",
-              "value": "1"
-            },
-            {
-              "label": "AAA상점",
-              "value": "135"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=424619"
-        },
-        {
-          "name": "래더 베르룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 56,
-          "priceP": 2550,
-          "unitPriceP": 2550,
-          "options": [],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 최상급 해골",
-      "category": "기타",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 1800,
-        "median": 1800,
-        "max": 1800
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "누르렁"
-      ],
-      "samples": [
-        {
-          "name": "래더 최상급 해골",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 99,
-          "priceP": 1800,
-          "unitPriceP": 1800,
-          "options": [
-            {
-              "label": "누르렁",
-              "value": "88"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=356759"
-        },
-        {
-          "name": "래더 최상급 해골",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 99,
-          "priceP": 1800,
-          "unitPriceP": 1800,
-          "options": [],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 흡혈귀의 눈길 그림 헬름",
-      "category": "기타",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 1000,
-        "median": 1000,
-        "max": 1000
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "#유닉그림헬름 흡혈귀의눈길 뱀파이어",
-        "5.",
-        "마법 피해 감소",
-        "받는 피해 감소%",
-        "적중당 마나 훔침%",
-        "적중당 생명력 훔침%",
-        "줄리아창",
-        "홈 있음(소켓)"
-      ],
-      "samples": [
-        {
-          "name": "래더 흡혈귀의 눈길 그림 헬름",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 1000,
-          "unitPriceP": 1000,
-          "options": [
-            {
-              "label": "적중당 마나 훔침%",
-              "value": "8"
-            },
-            {
-              "label": "적중당 생명력 훔침%",
-              "value": "6"
-            },
-            {
-              "label": "받는 피해 감소%",
+              "label": "생명력",
               "value": "20"
             },
             {
-              "label": "마법 피해 감소",
-              "value": "15"
-            },
-            {
-              "label": "홈 있음(소켓)",
-              "value": "1"
-            },
-            {
-              "label": "#유닉그림헬름 흡혈귀의눈길 뱀파이어",
-              "value": "20"
-            },
-            {
-              "label": "줄리아창",
-              "value": "87"
+              "label": "기쁜소주",
+              "value": "11"
             },
             {
               "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=428957"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=429524"
         },
         {
-          "name": "래더 흡혈귀의 눈길 그림 헬름",
-          "category": "기타",
+          "name": "스탠 작은 부적",
+          "category": "부적",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 1000,
-          "unitPriceP": 1000,
+          "priceP": 37000,
+          "unitPriceP": 37000,
           "options": [
             {
-              "label": "적중당 마나 훔침%",
-              "value": "8"
+              "label": "모든 저항",
+              "value": "5"
             },
             {
-              "label": "적중당 생명력 훔침%",
-              "value": "6"
-            },
-            {
-              "label": "받는 피해 감소%",
+              "label": "생명력",
               "value": "20"
-            },
-            {
-              "label": "마법 피해 감소",
-              "value": "15"
-            },
-            {
-              "label": "홈 있음(소켓)",
-              "value": "1"
             }
           ],
           "url": null
-        }
-      ]
-    },
-    {
-      "name": "스탠 죽어가는 자의 숨결",
-      "category": "기타",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 250000,
-        "median": 250000,
-        "max": 250000
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "0.",
-        "언니의행방",
-        "적중당 생명력 훔침%",
-        "피해%"
-      ],
-      "samples": [
+        },
         {
-          "name": "스탠 죽어가는 자의 숨결",
-          "category": "기타",
+          "name": "스탠 작은 부적",
+          "category": "부적",
           "server": "악군",
           "status": "",
-          "quantity": 1,
-          "priceP": 250000,
-          "unitPriceP": 250000,
+          "quantity": 8,
+          "priceP": 16000,
+          "unitPriceP": 16000,
           "options": [
             {
-              "label": "피해%",
-              "value": "415"
+              "label": "모든 저항",
+              "value": "5"
             },
             {
-              "label": "적중당 생명력 훔침%",
-              "value": "15"
+              "label": "생명력",
+              "value": "19"
             },
             {
-              "label": "언니의행방",
-              "value": "28"
+              "label": "기쁜소주",
+              "value": "11"
             },
             {
-              "label": "0.",
+              "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=421742"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=429523"
         },
         {
-          "name": "스탠 죽어가는 자의 숨결",
-          "category": "기타",
+          "name": "스탠 작은 부적",
+          "category": "부적",
           "server": "악군",
           "status": "",
-          "quantity": 1,
-          "priceP": 250000,
-          "unitPriceP": 250000,
+          "quantity": 8,
+          "priceP": 16000,
+          "unitPriceP": 16000,
           "options": [
             {
-              "label": "피해%",
-              "value": "415"
+              "label": "모든 저항",
+              "value": "5"
             },
             {
-              "label": "적중당 생명력 훔침%",
-              "value": "15"
+              "label": "생명력",
+              "value": "19"
             }
           ],
           "url": null
@@ -518,54 +246,354 @@
       ]
     },
     {
-      "name": "래더 목걸이",
+      "name": "래더 보호자의 서리 주얼",
       "category": "기타",
-      "listingCount": 1,
+      "listingCount": 4,
       "price": {
         "currency": "P",
-        "min": 2500,
-        "median": 2500,
-        "max": 2500
+        "min": 700,
+        "median": 1650,
+        "max": 2600
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "마나",
-        "마나 재생%",
+        "#냉깍주얼",
+        "5.",
+        "경험치 매찬",
+        "경험치 획득량%",
+        "괴물에게서 얻는 금화%",
+        "냉기 기술 피해%",
         "마법 아이템 발견 확률%",
-        "시전 속도%",
+        "뿡뿡이",
+        "적의 냉기 저항-%"
+      ],
+      "samples": [
+        {
+          "name": "래더 보호자의 서리 주얼",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 2600,
+          "unitPriceP": 2600,
+          "options": [
+            {
+              "label": "적의 냉기 저항-%",
+              "value": "10"
+            },
+            {
+              "label": "냉기 기술 피해%",
+              "value": "8"
+            },
+            {
+              "label": "경험치 획득량%",
+              "value": "5"
+            },
+            {
+              "label": "괴물에게서 얻는 금화%",
+              "value": "46"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "29"
+            },
+            {
+              "label": "#냉깍주얼",
+              "value": "5"
+            },
+            {
+              "label": "경험치 매찬",
+              "value": "29"
+            },
+            {
+              "label": "뿡뿡이",
+              "value": "1"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=426977"
+        },
+        {
+          "name": "래더 보호자의 서리 주얼",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 2600,
+          "unitPriceP": 2600,
+          "options": [
+            {
+              "label": "적의 냉기 저항-%",
+              "value": "10"
+            },
+            {
+              "label": "냉기 기술 피해%",
+              "value": "8"
+            },
+            {
+              "label": "경험치 획득량%",
+              "value": "5"
+            },
+            {
+              "label": "괴물에게서 얻는 금화%",
+              "value": "46"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "29"
+            }
+          ],
+          "url": null
+        },
+        {
+          "name": "래더 보호자의 서리 주얼",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 700,
+          "unitPriceP": 700,
+          "options": [
+            {
+              "label": "적의 냉기 저항-%",
+              "value": "7"
+            },
+            {
+              "label": "냉기 기술 피해%",
+              "value": "7"
+            },
+            {
+              "label": "경험치 획득량%",
+              "value": "3"
+            },
+            {
+              "label": "괴물에게서 얻는 금화%",
+              "value": "33"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "19"
+            },
+            {
+              "label": "뿡뿡이",
+              "value": "1"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=406157"
+        },
+        {
+          "name": "래더 보호자의 서리 주얼",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 700,
+          "unitPriceP": 700,
+          "options": [
+            {
+              "label": "적의 냉기 저항-%",
+              "value": "7"
+            },
+            {
+              "label": "냉기 기술 피해%",
+              "value": "7"
+            },
+            {
+              "label": "경험치 획득량%",
+              "value": "3"
+            },
+            {
+              "label": "괴물에게서 얻는 금화%",
+              "value": "33"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "19"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 거대 부적",
+      "category": "부적",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 700,
+        "median": 700,
+        "max": 700
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "5.",
+        "냉기 기술(원소술사 전용)",
+        "뿡뿡이",
+        "생명력"
+      ],
+      "samples": [
+        {
+          "name": "래더 거대 부적",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 700,
+          "unitPriceP": 700,
+          "options": [
+            {
+              "label": "냉기 기술(원소술사 전용)",
+              "value": "1"
+            },
+            {
+              "label": "생명력",
+              "value": "23"
+            },
+            {
+              "label": "뿡뿡이",
+              "value": "1"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=390870"
+        },
+        {
+          "name": "래더 거대 부적",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 700,
+          "unitPriceP": 700,
+          "options": [
+            {
+              "label": "냉기 기술(원소술사 전용)",
+              "value": "1"
+            },
+            {
+              "label": "생명력",
+              "value": "23"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 새로워진 천상의 틈 거대 부적",
+      "category": "부적",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 1500,
+        "median": 1500,
+        "max": 1500
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "5.",
+        "괴물에게서 얻는 금화%",
+        "달리기/걷기 속도%",
+        "번개 기술 피해",
+        "번개 저항-%",
+        "뿡뿡이",
+        "생명력",
         "피해 감소"
       ],
       "samples": [
         {
-          "name": "래더 목걸이",
-          "category": "기타",
+          "name": "래더 새로워진 천상의 틈 거대 부적",
+          "category": "부적",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 2500,
-          "unitPriceP": 2500,
+          "priceP": 1500,
+          "unitPriceP": 1500,
           "options": [
             {
-              "label": "시전 속도%",
-              "value": "19"
+              "label": "번개 저항-%",
+              "value": "70"
             },
             {
-              "label": "마나",
-              "value": "16"
+              "label": "번개 기술 피해",
+              "value": "15"
             },
             {
-              "label": "마나 재생%",
-              "value": "4"
+              "label": "달리기/걷기 속도%",
+              "value": "8"
+            },
+            {
+              "label": "생명력",
+              "value": "22"
             },
             {
               "label": "피해 감소",
-              "value": "3"
+              "value": "8"
             },
             {
-              "label": "마법 아이템 발견 확률%",
-              "value": "7"
+              "label": "괴물에게서 얻는 금화%",
+              "value": "38"
+            },
+            {
+              "label": "뿡뿡이",
+              "value": "1"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=314259"
+        },
+        {
+          "name": "래더 새로워진 천상의 틈 거대 부적",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 1500,
+          "unitPriceP": 1500,
+          "options": [
+            {
+              "label": "번개 저항-%",
+              "value": "70"
+            },
+            {
+              "label": "번개 기술 피해",
+              "value": "15"
+            },
+            {
+              "label": "달리기/걷기 속도%",
+              "value": "8"
+            },
+            {
+              "label": "생명력",
+              "value": "22"
+            },
+            {
+              "label": "피해 감소",
+              "value": "8"
+            },
+            {
+              "label": "괴물에게서 얻는 금화%",
+              "value": "38"
             }
           ],
           "url": null
@@ -573,52 +601,275 @@
       ]
     },
     {
-      "name": "래더 흡혈귀의 눈길 그림 헬름",
-      "category": "룬워드",
-      "listingCount": 1,
+      "name": "래더 새로워진 추위의 파열 거대 부적",
+      "category": "부적",
+      "listingCount": 2,
       "price": {
         "currency": "P",
-        "min": 1000,
-        "median": 1000,
-        "max": 1000
+        "min": 600,
+        "median": 600,
+        "max": 600
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "#유닉그림헬름 흡혈귀의눈길 뱀파이어",
-        "0.",
         "5.",
-        "거래 상대방",
-        "금화 (골드)",
-        "누르렁",
-        "다인",
-        "디아블로",
+        "괴물에게서 얻는 금화%",
+        "냉기 저항-%",
         "마나",
-        "마나 재생%",
-        "마법 아이템 발견 확률%",
-        "마법 피해 감소",
-        "모든 저항",
-        "밀키스제로마시따",
-        "받는 피해 감소%",
-        "시전 속도%",
-        "적중당 마나 훔침%",
-        "적중당 생명력 훔침%",
-        "줄리아창",
-        "지금 시작하면, 멤버십 PLUS",
-        "플레이디아 디아블로",
-        "피해 감소",
-        "홈 있음(소켓)"
+        "모든 능력치",
+        "뿡뿡이"
       ],
       "samples": [
         {
-          "name": "래더 흡혈귀의 눈길 그림 헬름",
+          "name": "래더 새로워진 추위의 파열 거대 부적",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 600,
+          "unitPriceP": 600,
+          "options": [
+            {
+              "label": "냉기 저항-%",
+              "value": "9"
+            },
+            {
+              "label": "모든 능력치",
+              "value": "6"
+            },
+            {
+              "label": "마나",
+              "value": "23"
+            },
+            {
+              "label": "괴물에게서 얻는 금화%",
+              "value": "46"
+            },
+            {
+              "label": "뿡뿡이",
+              "value": "1"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=385876"
+        },
+        {
+          "name": "래더 새로워진 추위의 파열 거대 부적",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 600,
+          "unitPriceP": 600,
+          "options": [
+            {
+              "label": "냉기 저항-%",
+              "value": "9"
+            },
+            {
+              "label": "모든 능력치",
+              "value": "6"
+            },
+            {
+              "label": "마나",
+              "value": "23"
+            },
+            {
+              "label": "괴물에게서 얻는 금화%",
+              "value": "46"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "스탠 발작",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 1200,
+        "median": 1200,
+        "max": 1200
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "4.",
+        "monk",
+        "방어력"
+      ],
+      "samples": [
+        {
+          "name": "스탠 발작",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 3,
+          "priceP": 1200,
+          "unitPriceP": 1200,
+          "options": [
+            {
+              "label": "방어력",
+              "value": "516"
+            },
+            {
+              "label": "monk",
+              "value": "112"
+            },
+            {
+              "label": "4.",
+              "value": "90"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=1087"
+        },
+        {
+          "name": "스탠 발작",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 3,
+          "priceP": 1200,
+          "unitPriceP": 1200,
+          "options": [
+            {
+              "label": "방어력",
+              "value": "516"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "스탠 치료",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 4500,
+        "median": 4500,
+        "max": 4500
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "4.",
+        "monk",
+        "독 저항%",
+        "방어력%",
+        "총 방어력"
+      ],
+      "samples": [
+        {
+          "name": "스탠 치료",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 3,
+          "priceP": 4500,
+          "unitPriceP": 4500,
+          "options": [
+            {
+              "label": "방어력%",
+              "value": "106"
+            },
+            {
+              "label": "독 저항%",
+              "value": "43"
+            },
+            {
+              "label": "총 방어력",
+              "value": "494"
+            },
+            {
+              "label": "monk",
+              "value": "112"
+            },
+            {
+              "label": "4.",
+              "value": "90"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=925"
+        },
+        {
+          "name": "스탠 치료",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 3,
+          "priceP": 4500,
+          "unitPriceP": 4500,
+          "options": [
+            {
+              "label": "방어력%",
+              "value": "106"
+            },
+            {
+              "label": "독 저항%",
+              "value": "43"
+            },
+            {
+              "label": "총 방어력",
+              "value": "494"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "스탠 작은 부적",
+      "category": "룬워드",
+      "listingCount": 1,
+      "price": {
+        "currency": "P",
+        "min": 37000,
+        "median": 37000,
+        "max": 37000
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "#냉깍주얼",
+        "5.",
+        "경험치 매찬",
+        "경험치 획득량%",
+        "괴물에게서 얻는 금화%",
+        "기쁜소주",
+        "냉기 기술 피해%",
+        "냉기 기술(원소술사 전용)",
+        "냉기 저항-%",
+        "디아블로",
+        "마법 아이템 발견 확률%",
+        "모든 능력치",
+        "모든 저항",
+        "뿡뿡이",
+        "생명력",
+        "적의 냉기 저항-%",
+        "지금 시작하면, 멤버십 PLUS",
+        "플레이디아 디아블로"
+      ],
+      "samples": [
+        {
+          "name": "스탠 작은 부적",
           "category": "룬워드",
           "server": "악군",
           "status": "거래완료",
           "quantity": 1,
-          "priceP": 1000,
-          "unitPriceP": 1000,
+          "priceP": 37000,
+          "unitPriceP": 37000,
           "options": [
             {
               "label": "지금 시작하면, 멤버십 PLUS",
@@ -633,240 +884,91 @@
               "value": "2"
             },
             {
-              "label": "적중당 마나 훔침%",
-              "value": "8"
+              "label": "모든 저항",
+              "value": "5"
             },
             {
-              "label": "적중당 생명력 훔침%",
-              "value": "6"
-            },
-            {
-              "label": "받는 피해 감소%",
+              "label": "생명력",
               "value": "20"
             },
             {
-              "label": "마법 피해 감소",
-              "value": "15"
-            },
-            {
-              "label": "홈 있음(소켓)",
-              "value": "1"
-            },
-            {
-              "label": "#유닉그림헬름 흡혈귀의눈길 뱀파이어",
-              "value": "20"
-            },
-            {
-              "label": "줄리아창",
-              "value": "87"
+              "label": "기쁜소주",
+              "value": "11"
             },
             {
               "label": "5.",
               "value": "00"
             },
             {
-              "label": "누르렁",
-              "value": "88"
+              "label": "적의 냉기 저항-%",
+              "value": "10"
             },
             {
-              "label": "모든 저항",
-              "value": "35"
+              "label": "냉기 기술 피해%",
+              "value": "8"
             },
             {
-              "label": "마법 피해 감소",
-              "value": "13"
+              "label": "경험치 획득량%",
+              "value": "5"
             },
             {
-              "label": "다인",
-              "value": "23"
-            },
-            {
-              "label": "금화 (골드)",
-              "value": "1000"
-            },
-            {
-              "label": "밀키스제로마시따",
-              "value": "78"
-            },
-            {
-              "label": "시전 속도%",
-              "value": "19"
-            },
-            {
-              "label": "마나",
-              "value": "16"
-            },
-            {
-              "label": "마나 재생%",
-              "value": "4"
-            },
-            {
-              "label": "피해 감소",
-              "value": "3"
+              "label": "괴물에게서 얻는 금화%",
+              "value": "46"
             },
             {
               "label": "마법 아이템 발견 확률%",
-              "value": "7"
+              "value": "29"
             },
             {
-              "label": "거래 상대방",
+              "label": "#냉깍주얼",
+              "value": "5"
+            },
+            {
+              "label": "경험치 매찬",
+              "value": "29"
+            },
+            {
+              "label": "뿡뿡이",
               "value": "1"
             },
             {
-              "label": "0.",
-              "value": "00"
+              "label": "적의 냉기 저항-%",
+              "value": "7"
+            },
+            {
+              "label": "냉기 기술 피해%",
+              "value": "7"
+            },
+            {
+              "label": "경험치 획득량%",
+              "value": "3"
+            },
+            {
+              "label": "괴물에게서 얻는 금화%",
+              "value": "33"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "19"
+            },
+            {
+              "label": "냉기 기술(원소술사 전용)",
+              "value": "1"
+            },
+            {
+              "label": "생명력",
+              "value": "23"
+            },
+            {
+              "label": "냉기 저항-%",
+              "value": "9"
+            },
+            {
+              "label": "모든 능력치",
+              "value": "6"
             }
           ],
           "url": "https://www.playnote.co.kr/customer/noticedetail?Index=5"
-        }
-      ]
-    },
-    {
-      "name": "래더 흡혈귀의 눈길 그림 헬름",
-      "category": "룬",
-      "listingCount": 1,
-      "price": {
-        "currency": "P",
-        "min": 1000,
-        "median": 1000,
-        "max": 1000
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "#유닉그림헬름 흡혈귀의눈길 뱀파이어",
-        "0.",
-        "5.",
-        "AAA상점",
-        "개구매시 말룬",
-        "거래 상대방",
-        "금화 (골드)",
-        "누르렁",
-        "다인",
-        "마나",
-        "마나 재생%",
-        "마법 아이템 발견 확률%",
-        "마법 피해 감소",
-        "모든 저항",
-        "밀키스제로마시따",
-        "받는 피해 감소%",
-        "시전 속도%",
-        "적중당 마나 훔침%",
-        "적중당 생명력 훔침%",
-        "줄리아창",
-        "피해 감소",
-        "피해%",
-        "홈 있음(소켓)"
-      ],
-      "samples": [
-        {
-          "name": "래더 흡혈귀의 눈길 그림 헬름",
-          "category": "룬",
-          "server": "악군",
-          "status": "거래완료",
-          "quantity": 1,
-          "priceP": 1000,
-          "unitPriceP": 1000,
-          "options": [
-            {
-              "label": "적중당 마나 훔침%",
-              "value": "8"
-            },
-            {
-              "label": "적중당 생명력 훔침%",
-              "value": "6"
-            },
-            {
-              "label": "받는 피해 감소%",
-              "value": "20"
-            },
-            {
-              "label": "마법 피해 감소",
-              "value": "15"
-            },
-            {
-              "label": "홈 있음(소켓)",
-              "value": "1"
-            },
-            {
-              "label": "#유닉그림헬름 흡혈귀의눈길 뱀파이어",
-              "value": "20"
-            },
-            {
-              "label": "줄리아창",
-              "value": "87"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            },
-            {
-              "label": "누르렁",
-              "value": "88"
-            },
-            {
-              "label": "모든 저항",
-              "value": "35"
-            },
-            {
-              "label": "마법 피해 감소",
-              "value": "13"
-            },
-            {
-              "label": "다인",
-              "value": "23"
-            },
-            {
-              "label": "금화 (골드)",
-              "value": "1000"
-            },
-            {
-              "label": "밀키스제로마시따",
-              "value": "78"
-            },
-            {
-              "label": "시전 속도%",
-              "value": "19"
-            },
-            {
-              "label": "마나",
-              "value": "16"
-            },
-            {
-              "label": "마나 재생%",
-              "value": "4"
-            },
-            {
-              "label": "피해 감소",
-              "value": "3"
-            },
-            {
-              "label": "마법 아이템 발견 확률%",
-              "value": "7"
-            },
-            {
-              "label": "거래 상대방",
-              "value": "1"
-            },
-            {
-              "label": "0.",
-              "value": "00"
-            },
-            {
-              "label": "개구매시 말룬",
-              "value": "1"
-            },
-            {
-              "label": "AAA상점",
-              "value": "135"
-            },
-            {
-              "label": "피해%",
-              "value": "415"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemmarket?index=1"
         }
       ]
     }
