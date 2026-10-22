@@ -1,465 +1,591 @@
 {
   "source": "https://www.playnote.co.kr/trade/itemmarket?index=1",
   "scope": "public-listings-only",
-  "updatedAt": "2026-10-22T06:02:15.521320+00:00",
-  "listingCount": 19,
-  "itemCount": 9,
+  "updatedAt": "2026-10-22T11:41:24.935264+00:00",
+  "listingCount": 24,
+  "itemCount": 12,
   "items": [
     {
-      "name": "래더 베르룬",
-      "category": "룬",
-      "listingCount": 5,
+      "name": "래더 오르무스의 장포 더스크 슈라우드",
+      "category": "기타",
+      "listingCount": 4,
       "price": {
         "currency": "P",
-        "min": 2550,
-        "median": 2550,
-        "max": 2550
+        "min": 4300,
+        "median": 4400,
+        "max": 4500
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "#래더",
-        "0.",
         "5.",
-        "Master",
-        "거래 상대방",
-        "독 저항%",
-        "방어력%",
-        "수호",
-        "시전 속도%",
-        "시즌 말룬",
-        "시즌 이스트룬",
-        "악마 기술(악마술사)",
-        "장사는피곤해",
-        "총 방어력",
-        "홈 있음(소켓)"
+        "icejay",
+        "냉기 기술 피해%",
+        "눈보라(원소술사 전용)",
+        "마나 재생%",
+        "마법부여(원소술사 전용)",
+        "방어력",
+        "번개 기술 피해%",
+        "화염 기술 피해%"
       ],
       "samples": [
         {
-          "name": "래더 베르룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "거래완료",
-          "quantity": 1,
-          "priceP": 2550,
-          "unitPriceP": 2550,
-          "options": [
-            {
-              "label": "#래더",
-              "value": "15"
-            },
-            {
-              "label": "거래 상대방",
-              "value": "1"
-            },
-            {
-              "label": "0.",
-              "value": "00"
-            },
-            {
-              "label": "Master",
-              "value": "653"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            },
-            {
-              "label": "방어력%",
-              "value": "111"
-            },
-            {
-              "label": "독 저항%",
-              "value": "59"
-            },
-            {
-              "label": "총 방어력",
-              "value": "500"
-            },
-            {
-              "label": "홈 있음(소켓)",
-              "value": "2"
-            },
-            {
-              "label": "악마 기술(악마술사)",
-              "value": "3"
-            },
-            {
-              "label": "시전 속도%",
-              "value": "20"
-            },
-            {
-              "label": "장사는피곤해",
-              "value": "81"
-            },
-            {
-              "label": "수호",
-              "value": "101"
-            },
-            {
-              "label": "시즌 말룬",
-              "value": "15"
-            },
-            {
-              "label": "시즌 이스트룬",
-              "value": "15"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemmarket?index=1"
-        },
-        {
-          "name": "래더 베르룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "거래중",
-          "quantity": 1,
-          "priceP": 2550,
-          "unitPriceP": 2550,
-          "options": [
-            {
-              "label": "#래더",
-              "value": "15"
-            },
-            {
-              "label": "거래 상대방",
-              "value": "1"
-            },
-            {
-              "label": "0.",
-              "value": "00"
-            },
-            {
-              "label": "Master",
-              "value": "653"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            },
-            {
-              "label": "방어력%",
-              "value": "111"
-            },
-            {
-              "label": "독 저항%",
-              "value": "59"
-            },
-            {
-              "label": "총 방어력",
-              "value": "500"
-            },
-            {
-              "label": "홈 있음(소켓)",
-              "value": "2"
-            },
-            {
-              "label": "악마 기술(악마술사)",
-              "value": "3"
-            },
-            {
-              "label": "시전 속도%",
-              "value": "20"
-            },
-            {
-              "label": "장사는피곤해",
-              "value": "81"
-            },
-            {
-              "label": "수호",
-              "value": "101"
-            },
-            {
-              "label": "시즌 말룬",
-              "value": "15"
-            },
-            {
-              "label": "시즌 이스트룬",
-              "value": "15"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=388778"
-        },
-        {
-          "name": "래더 베르룬",
-          "category": "룬",
+          "name": "래더 오르무스의 장포 더스크 슈라우드",
+          "category": "기타",
           "server": "악군",
           "status": "",
-          "quantity": 1,
-          "priceP": 2550,
-          "unitPriceP": 2550,
-          "options": [],
+          "quantity": 5,
+          "priceP": 4500,
+          "unitPriceP": 4500,
+          "options": [
+            {
+              "label": "냉기 기술 피해%",
+              "value": "11"
+            },
+            {
+              "label": "번개 기술 피해%",
+              "value": "10"
+            },
+            {
+              "label": "화염 기술 피해%",
+              "value": "15"
+            },
+            {
+              "label": "방어력",
+              "value": "11"
+            },
+            {
+              "label": "마나 재생%",
+              "value": "10"
+            },
+            {
+              "label": "마법부여(원소술사 전용)",
+              "value": "3"
+            },
+            {
+              "label": "icejay",
+              "value": "439"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=394787"
+        },
+        {
+          "name": "래더 오르무스의 장포 더스크 슈라우드",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 5,
+          "priceP": 4500,
+          "unitPriceP": 4500,
+          "options": [
+            {
+              "label": "냉기 기술 피해%",
+              "value": "11"
+            },
+            {
+              "label": "번개 기술 피해%",
+              "value": "10"
+            },
+            {
+              "label": "화염 기술 피해%",
+              "value": "15"
+            },
+            {
+              "label": "방어력",
+              "value": "11"
+            },
+            {
+              "label": "마나 재생%",
+              "value": "10"
+            },
+            {
+              "label": "마법부여(원소술사 전용)",
+              "value": "3"
+            }
+          ],
           "url": null
         },
         {
-          "name": "래더 베르룬",
-          "category": "룬",
+          "name": "래더 오르무스의 장포 더스크 슈라우드",
+          "category": "기타",
           "server": "악군",
           "status": "",
-          "quantity": 54,
-          "priceP": 2550,
-          "unitPriceP": 2550,
+          "quantity": 5,
+          "priceP": 4300,
+          "unitPriceP": 4300,
           "options": [
             {
-              "label": "#래더",
+              "label": "냉기 기술 피해%",
               "value": "15"
             },
             {
-              "label": "Master",
-              "value": "653"
+              "label": "번개 기술 피해%",
+              "value": "11"
+            },
+            {
+              "label": "화염 기술 피해%",
+              "value": "10"
+            },
+            {
+              "label": "방어력",
+              "value": "11"
+            },
+            {
+              "label": "마나 재생%",
+              "value": "11"
+            },
+            {
+              "label": "눈보라(원소술사 전용)",
+              "value": "3"
+            },
+            {
+              "label": "icejay",
+              "value": "439"
             },
             {
               "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=388778"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=394757"
         },
         {
-          "name": "래더 베르룬",
-          "category": "룬",
+          "name": "래더 오르무스의 장포 더스크 슈라우드",
+          "category": "기타",
           "server": "악군",
           "status": "",
-          "quantity": 54,
-          "priceP": 2550,
-          "unitPriceP": 2550,
-          "options": [],
+          "quantity": 5,
+          "priceP": 4300,
+          "unitPriceP": 4300,
+          "options": [
+            {
+              "label": "냉기 기술 피해%",
+              "value": "15"
+            },
+            {
+              "label": "번개 기술 피해%",
+              "value": "11"
+            },
+            {
+              "label": "화염 기술 피해%",
+              "value": "10"
+            },
+            {
+              "label": "방어력",
+              "value": "11"
+            },
+            {
+              "label": "마나 재생%",
+              "value": "11"
+            },
+            {
+              "label": "눈보라(원소술사 전용)",
+              "value": "3"
+            }
+          ],
           "url": null
         }
       ]
     },
     {
-      "name": "래더 말룬",
-      "category": "룬",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 180,
-        "median": 180,
-        "max": 180
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "#래더",
-        "5.",
-        "Master",
-        "시즌 말룬"
-      ],
-      "samples": [
-        {
-          "name": "래더 말룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 98,
-          "priceP": 180,
-          "unitPriceP": 180,
-          "options": [
-            {
-              "label": "#래더",
-              "value": "15"
-            },
-            {
-              "label": "시즌 말룬",
-              "value": "15"
-            },
-            {
-              "label": "Master",
-              "value": "653"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=425879"
-        },
-        {
-          "name": "래더 말룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 98,
-          "priceP": 180,
-          "unitPriceP": 180,
-          "options": [],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 불타는 공포의 정수",
+      "name": "래더 거미 그물띠 스파이더웹 새시",
       "category": "기타",
       "listingCount": 2,
       "price": {
         "currency": "P",
-        "min": 500,
-        "median": 500,
-        "max": 500
+        "min": 1000,
+        "median": 1000,
+        "max": 1000
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
         "5.",
-        "수호"
+        "icejay",
+        "방어력%"
       ],
       "samples": [
         {
-          "name": "래더 불타는 공포의 정수",
+          "name": "래더 거미 그물띠 스파이더웹 새시",
           "category": "기타",
           "server": "악군",
           "status": "",
-          "quantity": 10,
-          "priceP": 500,
-          "unitPriceP": 500,
+          "quantity": 43,
+          "priceP": 1000,
+          "unitPriceP": 1000,
           "options": [
             {
-              "label": "수호",
+              "label": "방어력%",
+              "value": "1"
+            },
+            {
+              "label": "icejay",
+              "value": "439"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=379810"
+        },
+        {
+          "name": "래더 거미 그물띠 스파이더웹 새시",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 43,
+          "priceP": 1000,
+          "unitPriceP": 1000,
+          "options": [
+            {
+              "label": "방어력%",
+              "value": "1"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 기드의 행운",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 2200,
+        "median": 2200,
+        "max": 2200
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "#기드의 참",
+        "5.",
+        "icejay",
+        "괴물에게서 얻는 금화%",
+        "마법 아이템 발견 확률%",
+        "상점 물품 가격 하락%"
+      ],
+      "samples": [
+        {
+          "name": "래더 기드의 행운",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 19,
+          "priceP": 2200,
+          "unitPriceP": 2200,
+          "options": [
+            {
+              "label": "괴물에게서 얻는 금화%",
               "value": "101"
             },
             {
+              "label": "마법 아이템 발견 확률%",
+              "value": "40"
+            },
+            {
+              "label": "상점 물품 가격 하락%",
+              "value": "10"
+            },
+            {
+              "label": "#기드의 참",
+              "value": "40"
+            },
+            {
+              "label": "icejay",
+              "value": "439"
+            },
+            {
               "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=430114"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=381011"
         },
         {
-          "name": "래더 불타는 공포의 정수",
+          "name": "래더 기드의 행운",
           "category": "기타",
           "server": "악군",
           "status": "",
-          "quantity": 10,
-          "priceP": 500,
-          "unitPriceP": 500,
-          "options": [],
+          "quantity": 19,
+          "priceP": 2200,
+          "unitPriceP": 2200,
+          "options": [
+            {
+              "label": "괴물에게서 얻는 금화%",
+              "value": "101"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "40"
+            },
+            {
+              "label": "상점 물품 가격 하락%",
+              "value": "10"
+            }
+          ],
           "url": null
         }
       ]
     },
     {
-      "name": "래더 오움룬",
-      "category": "룬",
+      "name": "래더 마라의 만화경",
+      "category": "기타",
       "listingCount": 2,
       "price": {
         "currency": "P",
-        "min": 750,
-        "median": 750,
-        "max": 750
+        "min": 3700,
+        "median": 3700,
+        "max": 3700
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "#래더",
         "5.",
-        "Master"
+        "icejay",
+        "모든 저항"
       ],
       "samples": [
         {
-          "name": "래더 오움룬",
-          "category": "룬",
+          "name": "래더 마라의 만화경",
+          "category": "기타",
           "server": "악군",
           "status": "",
-          "quantity": 45,
-          "priceP": 750,
-          "unitPriceP": 750,
+          "quantity": 13,
+          "priceP": 3700,
+          "unitPriceP": 3700,
           "options": [
             {
-              "label": "#래더",
-              "value": "15"
+              "label": "모든 저항",
+              "value": "30"
             },
             {
-              "label": "Master",
-              "value": "653"
+              "label": "icejay",
+              "value": "439"
             },
             {
               "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=429230"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=356460"
         },
         {
-          "name": "래더 오움룬",
-          "category": "룬",
+          "name": "래더 마라의 만화경",
+          "category": "기타",
           "server": "악군",
           "status": "",
-          "quantity": 45,
-          "priceP": 750,
-          "unitPriceP": 750,
-          "options": [],
+          "quantity": 13,
+          "priceP": 3700,
+          "unitPriceP": 3700,
+          "options": [
+            {
+              "label": "모든 저항",
+              "value": "30"
+            }
+          ],
           "url": null
         }
       ]
     },
     {
-      "name": "래더 이스트룬",
-      "category": "룬",
+      "name": "래더 새로워진 천상의 틈 거대 부적",
+      "category": "부적",
       "listingCount": 2,
       "price": {
         "currency": "P",
-        "min": 250,
-        "median": 250,
-        "max": 250
+        "min": 1000,
+        "median": 1000,
+        "max": 1000
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "#래더",
-        "5.",
-        "Master",
-        "시즌 이스트룬"
+        "0.",
+        "괴물에게서 얻는 금화%",
+        "달리기/걷기 속도%",
+        "마나",
+        "머라카노",
+        "번개 저항-%",
+        "적의 번개 저항-%",
+        "피해 감소"
       ],
       "samples": [
         {
-          "name": "래더 이스트룬",
-          "category": "룬",
+          "name": "래더 새로워진 천상의 틈 거대 부적",
+          "category": "부적",
           "server": "악군",
           "status": "",
-          "quantity": 63,
-          "priceP": 250,
-          "unitPriceP": 250,
+          "quantity": 1,
+          "priceP": 1000,
+          "unitPriceP": 1000,
           "options": [
             {
-              "label": "#래더",
-              "value": "15"
+              "label": "번개 저항-%",
+              "value": "70"
             },
             {
-              "label": "시즌 이스트룬",
-              "value": "15"
+              "label": "적의 번개 저항-%",
+              "value": "6"
             },
             {
-              "label": "Master",
-              "value": "653"
+              "label": "달리기/걷기 속도%",
+              "value": "8"
+            },
+            {
+              "label": "마나",
+              "value": "63"
+            },
+            {
+              "label": "피해 감소",
+              "value": "10"
+            },
+            {
+              "label": "괴물에게서 얻는 금화%",
+              "value": "43"
+            },
+            {
+              "label": "머라카노",
+              "value": "16"
+            },
+            {
+              "label": "0.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=430774"
+        },
+        {
+          "name": "래더 새로워진 천상의 틈 거대 부적",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 1000,
+          "unitPriceP": 1000,
+          "options": [
+            {
+              "label": "번개 저항-%",
+              "value": "70"
+            },
+            {
+              "label": "적의 번개 저항-%",
+              "value": "6"
+            },
+            {
+              "label": "달리기/걷기 속도%",
+              "value": "8"
+            },
+            {
+              "label": "마나",
+              "value": "63"
+            },
+            {
+              "label": "피해 감소",
+              "value": "10"
+            },
+            {
+              "label": "괴물에게서 얻는 금화%",
+              "value": "43"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 새총 반지",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 2650,
+        "median": 2650,
+        "max": 2650
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "5.",
+        "icejay",
+        "마력",
+        "마법 아이템 발견 확률%",
+        "적의 마법 저항-%"
+      ],
+      "samples": [
+        {
+          "name": "래더 새총 반지",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 24,
+          "priceP": 2650,
+          "unitPriceP": 2650,
+          "options": [
+            {
+              "label": "적의 마법 저항-%",
+              "value": "4"
+            },
+            {
+              "label": "마력",
+              "value": "10"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "10"
+            },
+            {
+              "label": "icejay",
+              "value": "439"
             },
             {
               "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=421005"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=347299"
         },
         {
-          "name": "래더 이스트룬",
-          "category": "룬",
+          "name": "래더 새총 반지",
+          "category": "기타",
           "server": "악군",
           "status": "",
-          "quantity": 63,
-          "priceP": 250,
-          "unitPriceP": 250,
-          "options": [],
+          "quantity": 24,
+          "priceP": 2650,
+          "unitPriceP": 2650,
+          "options": [
+            {
+              "label": "적의 마법 저항-%",
+              "value": "4"
+            },
+            {
+              "label": "마력",
+              "value": "10"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "10"
+            }
+          ],
           "url": null
         }
       ]
     },
     {
-      "name": "래더 자룬",
-      "category": "룬",
+      "name": "래더 아콘 스태프",
+      "category": "기타",
       "listingCount": 2,
       "price": {
         "currency": "P",
@@ -471,121 +597,255 @@
         "악군"
       ],
       "optionLabels": [
-        "#래더",
         "5.",
-        "Master"
+        "icejay",
+        "홈 있음(소켓)"
       ],
       "samples": [
         {
-          "name": "래더 자룬",
-          "category": "룬",
+          "name": "래더 아콘 스태프",
+          "category": "기타",
           "server": "악군",
           "status": "",
-          "quantity": 6,
+          "quantity": 9,
           "priceP": 4200,
           "unitPriceP": 4200,
           "options": [
             {
-              "label": "#래더",
-              "value": "15"
+              "label": "홈 있음(소켓)",
+              "value": "6"
             },
             {
-              "label": "Master",
-              "value": "653"
+              "label": "icejay",
+              "value": "439"
             },
             {
               "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=428576"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=381313"
         },
         {
-          "name": "래더 자룬",
+          "name": "래더 아콘 스태프",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 9,
+          "priceP": 4200,
+          "unitPriceP": 4200,
+          "options": [
+            {
+              "label": "홈 있음(소켓)",
+              "value": "6"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 이스트룬",
+      "category": "룬",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 360,
+        "median": 360,
+        "max": 360
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "5.",
+        "icejay"
+      ],
+      "samples": [
+        {
+          "name": "래더 이스트룬",
           "category": "룬",
           "server": "악군",
           "status": "",
-          "quantity": 6,
-          "priceP": 4200,
-          "unitPriceP": 4200,
+          "quantity": 110,
+          "priceP": 360,
+          "unitPriceP": 360,
+          "options": [
+            {
+              "label": "icejay",
+              "value": "439"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=380559"
+        },
+        {
+          "name": "래더 이스트룬",
+          "category": "룬",
+          "server": "악군",
+          "status": "",
+          "quantity": 110,
+          "priceP": 360,
+          "unitPriceP": 360,
           "options": [],
           "url": null
         }
       ]
     },
     {
-      "name": "래더 코로니트",
+      "name": "스탠 뒤틀린 고통의 정수",
       "category": "기타",
       "listingCount": 2,
       "price": {
         "currency": "P",
-        "min": 30000,
-        "median": 30000,
-        "max": 30000
+        "min": 100,
+        "median": 100,
+        "max": 100
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "5.",
-        "시전 속도%",
-        "악마 기술(악마술사)",
-        "장사는피곤해",
+        "4.",
+        "폭격"
+      ],
+      "samples": [
+        {
+          "name": "스탠 뒤틀린 고통의 정수",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 60,
+          "priceP": 100,
+          "unitPriceP": 100,
+          "options": [
+            {
+              "label": "폭격",
+              "value": "60"
+            },
+            {
+              "label": "4.",
+              "value": "90"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=430693"
+        },
+        {
+          "name": "스탠 뒤틀린 고통의 정수",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 60,
+          "priceP": 100,
+          "unitPriceP": 100,
+          "options": [],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "스탠 디바인 셉터",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 27000,
+        "median": 27000,
+        "max": 27000
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "0.",
+        "갈구는아줌마",
+        "신성한 충격(성기사 전용)",
+        "전투 명령(공용 기술)",
+        "전투 지시(공용 기술)",
+        "전투의 함성(공용 기술)",
+        "천상의 주먹(성기사 전용)",
         "홈 있음(소켓)"
       ],
       "samples": [
         {
-          "name": "래더 코로니트",
+          "name": "스탠 디바인 셉터",
           "category": "기타",
           "server": "악군",
           "status": "",
-          "quantity": 2,
-          "priceP": 30000,
-          "unitPriceP": 30000,
+          "quantity": 1,
+          "priceP": 27000,
+          "unitPriceP": 27000,
           "options": [
             {
-              "label": "홈 있음(소켓)",
+              "label": "천상의 주먹(성기사 전용)",
               "value": "2"
             },
             {
-              "label": "악마 기술(악마술사)",
+              "label": "신성한 충격(성기사 전용)",
               "value": "3"
             },
             {
-              "label": "시전 속도%",
-              "value": "20"
+              "label": "전투 명령(공용 기술)",
+              "value": "4"
             },
             {
-              "label": "장사는피곤해",
-              "value": "81"
+              "label": "전투 지시(공용 기술)",
+              "value": "6"
             },
             {
-              "label": "5.",
+              "label": "전투의 함성(공용 기술)",
+              "value": "3"
+            },
+            {
+              "label": "홈 있음(소켓)",
+              "value": "5"
+            },
+            {
+              "label": "갈구는아줌마",
+              "value": "38"
+            },
+            {
+              "label": "0.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=423871"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=429078"
         },
         {
-          "name": "래더 코로니트",
+          "name": "스탠 디바인 셉터",
           "category": "기타",
           "server": "악군",
           "status": "",
-          "quantity": 2,
-          "priceP": 30000,
-          "unitPriceP": 30000,
+          "quantity": 1,
+          "priceP": 27000,
+          "unitPriceP": 27000,
           "options": [
             {
-              "label": "홈 있음(소켓)",
+              "label": "천상의 주먹(성기사 전용)",
               "value": "2"
             },
             {
-              "label": "악마 기술(악마술사)",
+              "label": "신성한 충격(성기사 전용)",
               "value": "3"
             },
             {
-              "label": "시전 속도%",
-              "value": "20"
+              "label": "전투 명령(공용 기술)",
+              "value": "4"
+            },
+            {
+              "label": "전투 지시(공용 기술)",
+              "value": "6"
+            },
+            {
+              "label": "전투의 함성(공용 기술)",
+              "value": "3"
+            },
+            {
+              "label": "홈 있음(소켓)",
+              "value": "5"
             }
           ],
           "url": null
@@ -593,53 +853,53 @@
       ]
     },
     {
-      "name": "래더 베르룬",
+      "name": "스탠 디바인 셉터",
       "category": "룬워드",
       "listingCount": 1,
       "price": {
         "currency": "P",
-        "min": 2550,
-        "median": 2550,
-        "max": 2550
+        "min": 27000,
+        "median": 27000,
+        "max": 27000
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "#래더",
-        "-부산중구",
         "0.",
-        "1,",
-        "5.",
-        "Master",
-        "거래 상대방",
-        "독 저항%",
+        "4.",
+        "갈구는아줌마",
+        "괴물에게서 얻는 금화%",
+        "냉기 기술 피해%",
+        "달리기/걷기 속도%",
         "디아블로",
-        "방어력%",
-        "부산광역시 남구 전포대로",
-        "사업자등록번호:",
-        "수호",
-        "시전 속도%",
-        "시즌 말룬",
-        "시즌 이스트룬",
-        "악마 기술(악마술사)",
-        "옵션",
-        "장사는피곤해",
+        "마나",
+        "머라카노",
+        "방어력",
+        "번개 기술 피해%",
+        "번개 저항-%",
+        "신성한 충격(성기사 전용)",
+        "적의 번개 저항-%",
+        "전투 명령(공용 기술)",
+        "전투 지시(공용 기술)",
+        "전투의 함성(공용 기술)",
         "지금 시작하면, 멤버십 PLUS",
-        "총 방어력",
-        "통신판매신고번호: 제",
+        "천상의 주먹(성기사 전용)",
+        "폭격",
         "플레이디아 디아블로",
-        "홈 있음(소켓)"
+        "피해 감소",
+        "홈 있음(소켓)",
+        "화염 기술 피해%"
       ],
       "samples": [
         {
-          "name": "래더 베르룬",
+          "name": "스탠 디바인 셉터",
           "category": "룬워드",
           "server": "악군",
           "status": "거래완료",
           "quantity": 1,
-          "priceP": 2550,
-          "unitPriceP": 2550,
+          "priceP": 27000,
+          "unitPriceP": 27000,
           "options": [
             {
               "label": "지금 시작하면, 멤버십 PLUS",
@@ -654,88 +914,88 @@
               "value": "2"
             },
             {
-              "label": "#래더",
-              "value": "15"
+              "label": "천상의 주먹(성기사 전용)",
+              "value": "2"
             },
             {
-              "label": "거래 상대방",
-              "value": "1"
+              "label": "신성한 충격(성기사 전용)",
+              "value": "3"
+            },
+            {
+              "label": "전투 명령(공용 기술)",
+              "value": "4"
+            },
+            {
+              "label": "전투 지시(공용 기술)",
+              "value": "6"
+            },
+            {
+              "label": "전투의 함성(공용 기술)",
+              "value": "3"
+            },
+            {
+              "label": "홈 있음(소켓)",
+              "value": "5"
+            },
+            {
+              "label": "갈구는아줌마",
+              "value": "38"
             },
             {
               "label": "0.",
               "value": "00"
             },
             {
-              "label": "Master",
-              "value": "653"
+              "label": "폭격",
+              "value": "60"
             },
             {
-              "label": "5.",
-              "value": "00"
+              "label": "4.",
+              "value": "90"
             },
             {
-              "label": "방어력%",
-              "value": "111"
+              "label": "번개 저항-%",
+              "value": "70"
             },
             {
-              "label": "독 저항%",
-              "value": "59"
+              "label": "적의 번개 저항-%",
+              "value": "6"
             },
             {
-              "label": "총 방어력",
-              "value": "500"
+              "label": "달리기/걷기 속도%",
+              "value": "8"
             },
             {
-              "label": "홈 있음(소켓)",
-              "value": "2"
+              "label": "마나",
+              "value": "63"
             },
             {
-              "label": "악마 기술(악마술사)",
-              "value": "3"
+              "label": "피해 감소",
+              "value": "10"
             },
             {
-              "label": "시전 속도%",
-              "value": "20"
+              "label": "괴물에게서 얻는 금화%",
+              "value": "43"
             },
             {
-              "label": "장사는피곤해",
-              "value": "81"
+              "label": "머라카노",
+              "value": "16"
             },
             {
-              "label": "수호",
-              "value": "101"
+              "label": "냉기 기술 피해%",
+              "value": "11"
             },
             {
-              "label": "시즌 말룬",
+              "label": "번개 기술 피해%",
+              "value": "10"
+            },
+            {
+              "label": "화염 기술 피해%",
               "value": "15"
             },
             {
-              "label": "시즌 이스트룬",
-              "value": "15"
-            },
-            {
-              "label": "옵션",
-              "value": "0"
-            },
-            {
-              "label": "1,",
-              "value": "000"
-            },
-            {
-              "label": "사업자등록번호:",
-              "value": "148"
-            },
-            {
-              "label": "통신판매신고번호: 제",
-              "value": "2021"
-            },
-            {
-              "label": "-부산중구",
-              "value": "0282"
-            },
-            {
-              "label": "부산광역시 남구 전포대로",
-              "value": "116"
+              "label": "방어력",
+              "value": "11"
             }
           ],
           "url": "https://www.playnote.co.kr/customer/noticedetail?Index=5"
@@ -743,47 +1003,152 @@
       ]
     },
     {
-      "name": "스탠 치료",
-      "category": "기타",
+      "name": "스탠 디바인 셉터",
+      "category": "부적",
       "listingCount": 1,
       "price": {
         "currency": "P",
-        "min": 5000,
-        "median": 5000,
-        "max": 5000
+        "min": 27000,
+        "median": 27000,
+        "max": 27000
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "독 저항%",
-        "방어력%",
-        "총 방어력"
+        "0.",
+        "4.",
+        "icejay",
+        "갈구는아줌마",
+        "괴물에게서 얻는 금화%",
+        "냉기 기술 피해%",
+        "달리기/걷기 속도%",
+        "마나",
+        "마나 재생%",
+        "마법부여(원소술사 전용)",
+        "머라카노",
+        "방어력",
+        "번개 기술 피해%",
+        "번개 저항-%",
+        "신성한 충격(성기사 전용)",
+        "적의 번개 저항-%",
+        "전투 명령(공용 기술)",
+        "전투 지시(공용 기술)",
+        "전투의 함성(공용 기술)",
+        "천상의 주먹(성기사 전용)",
+        "폭격",
+        "피해 감소",
+        "홈 있음(소켓)",
+        "화염 기술 피해%"
       ],
       "samples": [
         {
-          "name": "스탠 치료",
-          "category": "기타",
+          "name": "스탠 디바인 셉터",
+          "category": "부적",
           "server": "악군",
-          "status": "",
+          "status": "거래완료",
           "quantity": 1,
-          "priceP": 5000,
-          "unitPriceP": 5000,
+          "priceP": 27000,
+          "unitPriceP": 27000,
           "options": [
             {
-              "label": "방어력%",
-              "value": "111"
+              "label": "천상의 주먹(성기사 전용)",
+              "value": "2"
             },
             {
-              "label": "독 저항%",
-              "value": "59"
+              "label": "신성한 충격(성기사 전용)",
+              "value": "3"
             },
             {
-              "label": "총 방어력",
-              "value": "500"
+              "label": "전투 명령(공용 기술)",
+              "value": "4"
+            },
+            {
+              "label": "전투 지시(공용 기술)",
+              "value": "6"
+            },
+            {
+              "label": "전투의 함성(공용 기술)",
+              "value": "3"
+            },
+            {
+              "label": "홈 있음(소켓)",
+              "value": "5"
+            },
+            {
+              "label": "갈구는아줌마",
+              "value": "38"
+            },
+            {
+              "label": "0.",
+              "value": "00"
+            },
+            {
+              "label": "폭격",
+              "value": "60"
+            },
+            {
+              "label": "4.",
+              "value": "90"
+            },
+            {
+              "label": "번개 저항-%",
+              "value": "70"
+            },
+            {
+              "label": "적의 번개 저항-%",
+              "value": "6"
+            },
+            {
+              "label": "달리기/걷기 속도%",
+              "value": "8"
+            },
+            {
+              "label": "마나",
+              "value": "63"
+            },
+            {
+              "label": "피해 감소",
+              "value": "10"
+            },
+            {
+              "label": "괴물에게서 얻는 금화%",
+              "value": "43"
+            },
+            {
+              "label": "머라카노",
+              "value": "16"
+            },
+            {
+              "label": "냉기 기술 피해%",
+              "value": "11"
+            },
+            {
+              "label": "번개 기술 피해%",
+              "value": "10"
+            },
+            {
+              "label": "화염 기술 피해%",
+              "value": "15"
+            },
+            {
+              "label": "방어력",
+              "value": "11"
+            },
+            {
+              "label": "마나 재생%",
+              "value": "10"
+            },
+            {
+              "label": "마법부여(원소술사 전용)",
+              "value": "3"
+            },
+            {
+              "label": "icejay",
+              "value": "439"
             }
           ],
-          "url": null
+          "url": "https://www.playnote.co.kr/trade/itemmarket?index=1"
         }
       ]
     }
