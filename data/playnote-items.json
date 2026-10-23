@@ -1,566 +1,256 @@
 {
   "source": "https://www.playnote.co.kr/trade/itemmarket?index=1",
   "scope": "public-listings-only",
-  "updatedAt": "2026-10-23T21:19:51.455699+00:00",
-  "listingCount": 19,
-  "itemCount": 10,
+  "updatedAt": "2026-10-23T23:58:28.952411+00:00",
+  "listingCount": 20,
+  "itemCount": 12,
   "items": [
     {
-      "name": "스탠 거대 부적",
-      "category": "부적",
-      "listingCount": 4,
+      "name": "래더 벡스룬",
+      "category": "룬",
+      "listingCount": 3,
       "price": {
         "currency": "P",
-        "min": 2000,
-        "median": 2000,
-        "max": 2000
+        "min": 440,
+        "median": 440,
+        "max": 440
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "#함성피참 #함성",
         "4.",
-        "monk",
-        "변신 기술(드루이드 전용)",
-        "생명력",
-        "함성(야만용사 전용)"
-      ],
-      "samples": [
-        {
-          "name": "스탠 거대 부적",
-          "category": "부적",
-          "server": "악군",
-          "status": "",
-          "quantity": 3,
-          "priceP": 2000,
-          "unitPriceP": 2000,
-          "options": [
-            {
-              "label": "함성(야만용사 전용)",
-              "value": "1"
-            },
-            {
-              "label": "생명력",
-              "value": "39"
-            },
-            {
-              "label": "#함성피참 #함성",
-              "value": "39"
-            },
-            {
-              "label": "monk",
-              "value": "112"
-            },
-            {
-              "label": "4.",
-              "value": "90"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=390025"
-        },
-        {
-          "name": "스탠 거대 부적",
-          "category": "부적",
-          "server": "악군",
-          "status": "",
-          "quantity": 3,
-          "priceP": 2000,
-          "unitPriceP": 2000,
-          "options": [
-            {
-              "label": "함성(야만용사 전용)",
-              "value": "1"
-            },
-            {
-              "label": "생명력",
-              "value": "39"
-            }
-          ],
-          "url": null
-        },
-        {
-          "name": "스탠 거대 부적",
-          "category": "부적",
-          "server": "악군",
-          "status": "",
-          "quantity": 2,
-          "priceP": 2000,
-          "unitPriceP": 2000,
-          "options": [
-            {
-              "label": "변신 기술(드루이드 전용)",
-              "value": "1"
-            },
-            {
-              "label": "생명력",
-              "value": "38"
-            },
-            {
-              "label": "monk",
-              "value": "112"
-            },
-            {
-              "label": "4.",
-              "value": "90"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=321341"
-        },
-        {
-          "name": "스탠 거대 부적",
-          "category": "부적",
-          "server": "악군",
-          "status": "",
-          "quantity": 2,
-          "priceP": 2000,
-          "unitPriceP": 2000,
-          "options": [
-            {
-              "label": "변신 기술(드루이드 전용)",
-              "value": "1"
-            },
-            {
-              "label": "생명력",
-              "value": "38"
-            }
-          ],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 반지",
-      "category": "부적",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 5000,
-        "median": 5000,
-        "max": 5000
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "#악술",
-        "0.",
         "5.",
-        "monk",
-        "거래 상대방",
+        "RainBow",
         "경험치 획득량%",
-        "냉기 저항%",
-        "독 저항%",
-        "디트",
-        "마나",
-        "명중률",
-        "모든 능력치",
+        "괴물에게서 얻는 금화%",
+        "달리기/걷기 속도%",
+        "마법 아이템 발견 확률%",
         "모든 저항",
-        "번개 저항%",
-        "삽질구라",
-        "스킬",
+        "방어력%",
+        "번개 기술 피해%",
         "시전 속도%",
-        "장착 시 화염 저항 오라 적용",
+        "적 처치 시 마나 회복",
+        "적의 마법 저항-%",
+        "적의 번개 저항-%",
         "적의 화염 저항-%",
-        "적중당 마나 훔침%",
-        "패캐",
-        "홈 있음(소켓)",
-        "화염 저항%"
+        "주성치",
+        "타격 회복 속도%",
+        "피해%",
+        "혼돈 기술(악마술사)",
+        "홈 있음(소켓)"
       ],
       "samples": [
         {
-          "name": "래더 반지",
-          "category": "부적",
+          "name": "래더 벡스룬",
+          "category": "룬",
           "server": "악군",
           "status": "거래완료",
-          "quantity": 1,
-          "priceP": 5000,
-          "unitPriceP": 5000,
+          "quantity": 2,
+          "priceP": 440,
+          "unitPriceP": 440,
           "options": [
             {
+              "label": "주성치",
+              "value": "42"
+            },
+            {
+              "label": "4.",
+              "value": "90"
+            },
+            {
+              "label": "달리기/걷기 속도%",
+              "value": "18"
+            },
+            {
               "label": "시전 속도%",
-              "value": "10"
+              "value": "18"
             },
             {
-              "label": "명중률",
-              "value": "20"
+              "label": "타격 회복 속도%",
+              "value": "13"
             },
             {
-              "label": "적중당 마나 훔침%",
+              "label": "적의 마법 저항-%",
               "value": "3"
             },
             {
-              "label": "냉기 저항%",
-              "value": "10"
+              "label": "방어력%",
+              "value": "124"
             },
             {
-              "label": "번개 저항%",
-              "value": "30"
+              "label": "괴물에게서 얻는 금화%",
+              "value": "75"
             },
             {
-              "label": "화염 저항%",
-              "value": "10"
+              "label": "모든 저항",
+              "value": "13"
             },
             {
-              "label": "독 저항%",
-              "value": "10"
-            },
-            {
-              "label": "거래 상대방",
-              "value": "1"
-            },
-            {
-              "label": "0.",
-              "value": "00"
-            },
-            {
-              "label": "삽질구라",
-              "value": "38"
+              "label": "RainBow",
+              "value": "136"
             },
             {
               "label": "5.",
               "value": "00"
             },
             {
-              "label": "시전 속도%",
-              "value": "20"
-            },
-            {
-              "label": "홈 있음(소켓)",
-              "value": "2"
-            },
-            {
-              "label": "#악술",
-              "value": "2"
-            },
-            {
-              "label": "스킬",
-              "value": "20"
-            },
-            {
-              "label": "패캐",
-              "value": "2"
-            },
-            {
-              "label": "디트",
-              "value": "55"
-            },
-            {
-              "label": "모든 능력치",
-              "value": "19"
-            },
-            {
-              "label": "모든 저항",
-              "value": "20"
-            },
-            {
-              "label": "경험치 획득량%",
-              "value": "7"
-            },
-            {
-              "label": "장착 시 화염 저항 오라 적용",
-              "value": "4"
+              "label": "적의 마법 저항-%",
+              "value": "8"
             },
             {
               "label": "적의 화염 저항-%",
+              "value": "8"
+            },
+            {
+              "label": "방어력%",
+              "value": "175"
+            },
+            {
+              "label": "적 처치 시 마나 회복",
+              "value": "6"
+            },
+            {
+              "label": "번개 기술 피해%",
+              "value": "9"
+            },
+            {
+              "label": "적의 번개 저항-%",
+              "value": "10"
+            },
+            {
+              "label": "경험치 획득량%",
+              "value": "4"
+            },
+            {
+              "label": "괴물에게서 얻는 금화%",
+              "value": "30"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "28"
+            },
+            {
+              "label": "피해%",
               "value": "15"
             },
             {
-              "label": "마나",
-              "value": "56"
+              "label": "홈 있음(소켓)",
+              "value": "6"
             },
             {
-              "label": "monk",
-              "value": "112"
+              "label": "혼돈 기술(악마술사)",
+              "value": "3"
+            },
+            {
+              "label": "시전 속도%",
+              "value": "10"
             }
           ],
           "url": "https://www.playnote.co.kr/trade/itemmarket?index=1"
         },
         {
-          "name": "래더 반지",
-          "category": "부적",
+          "name": "래더 벡스룬",
+          "category": "룬",
           "server": "악군",
-          "status": "거래완료",
-          "quantity": 1,
-          "priceP": 5000,
-          "unitPriceP": 5000,
+          "status": "",
+          "quantity": 2,
+          "priceP": 440,
+          "unitPriceP": 440,
           "options": [
             {
-              "label": "시전 속도%",
-              "value": "10"
-            },
-            {
-              "label": "명중률",
-              "value": "20"
-            },
-            {
-              "label": "적중당 마나 훔침%",
-              "value": "3"
-            },
-            {
-              "label": "냉기 저항%",
-              "value": "10"
-            },
-            {
-              "label": "번개 저항%",
-              "value": "30"
-            },
-            {
-              "label": "화염 저항%",
-              "value": "10"
-            },
-            {
-              "label": "독 저항%",
-              "value": "10"
-            },
-            {
-              "label": "거래 상대방",
-              "value": "1"
-            },
-            {
-              "label": "0.",
-              "value": "00"
-            },
-            {
-              "label": "삽질구라",
-              "value": "38"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            },
-            {
-              "label": "시전 속도%",
-              "value": "20"
-            },
-            {
-              "label": "홈 있음(소켓)",
-              "value": "2"
-            },
-            {
-              "label": "#악술",
-              "value": "2"
-            },
-            {
-              "label": "스킬",
-              "value": "20"
-            },
-            {
-              "label": "패캐",
-              "value": "2"
-            },
-            {
-              "label": "디트",
-              "value": "55"
-            },
-            {
-              "label": "모든 능력치",
-              "value": "19"
-            },
-            {
-              "label": "모든 저항",
-              "value": "20"
-            },
-            {
-              "label": "경험치 획득량%",
-              "value": "7"
-            },
-            {
-              "label": "장착 시 화염 저항 오라 적용",
-              "value": "4"
-            },
-            {
-              "label": "적의 화염 저항-%",
-              "value": "15"
-            },
-            {
-              "label": "마나",
-              "value": "56"
-            },
-            {
-              "label": "monk",
-              "value": "112"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=433788"
-        }
-      ]
-    },
-    {
-      "name": "래더 불카토스의 악몽",
-      "category": "기타",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 800,
-        "median": 800,
-        "max": 800
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "삽질구라"
-      ],
-      "samples": [
-        {
-          "name": "래더 불카토스의 악몽",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 10,
-          "priceP": 800,
-          "unitPriceP": 800,
-          "options": [
-            {
-              "label": "삽질구라",
-              "value": "38"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=433788"
-        },
-        {
-          "name": "래더 불카토스의 악몽",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 10,
-          "priceP": 800,
-          "unitPriceP": 800,
-          "options": [],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 워루스크의 끝",
-      "category": "기타",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 2000,
-        "median": 2000,
-        "max": 2000
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "삽질구라"
-      ],
-      "samples": [
-        {
-          "name": "래더 워루스크의 끝",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 7,
-          "priceP": 2000,
-          "unitPriceP": 2000,
-          "options": [
-            {
-              "label": "삽질구라",
-              "value": "38"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=433786"
-        },
-        {
-          "name": "래더 워루스크의 끝",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 7,
-          "priceP": 2000,
-          "unitPriceP": 2000,
-          "options": [],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "스탠 꺼져가는 불길",
-      "category": "기타",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 3500,
-        "median": 3500,
-        "max": 3500
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "4.",
-        "monk",
-        "마나",
-        "장착 시 화염 저항 오라 적용",
-        "적의 화염 저항-%"
-      ],
-      "samples": [
-        {
-          "name": "스탠 꺼져가는 불길",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 3500,
-          "unitPriceP": 3500,
-          "options": [
-            {
-              "label": "장착 시 화염 저항 오라 적용",
-              "value": "4"
-            },
-            {
-              "label": "적의 화염 저항-%",
-              "value": "15"
-            },
-            {
-              "label": "마나",
-              "value": "56"
-            },
-            {
-              "label": "monk",
-              "value": "112"
+              "label": "주성치",
+              "value": "42"
             },
             {
               "label": "4.",
               "value": "90"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=311716"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=433883"
         },
         {
-          "name": "스탠 꺼져가는 불길",
+          "name": "래더 벡스룬",
+          "category": "룬",
+          "server": "악군",
+          "status": "",
+          "quantity": 2,
+          "priceP": 440,
+          "unitPriceP": 440,
+          "options": [],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 목걸이",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 4000,
+        "median": 4000,
+        "max": 4000
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "5.",
+        "RainBow",
+        "시전 속도%",
+        "혼돈",
+        "혼돈 기술(악마술사)"
+      ],
+      "samples": [
+        {
+          "name": "래더 목걸이",
           "category": "기타",
           "server": "악군",
           "status": "",
-          "quantity": 1,
-          "priceP": 3500,
-          "unitPriceP": 3500,
+          "quantity": 2,
+          "priceP": 4000,
+          "unitPriceP": 4000,
           "options": [
             {
-              "label": "장착 시 화염 저항 오라 적용",
-              "value": "4"
+              "label": "혼돈 기술(악마술사)",
+              "value": "3"
             },
             {
-              "label": "적의 화염 저항-%",
-              "value": "15"
+              "label": "시전 속도%",
+              "value": "10"
             },
             {
-              "label": "마나",
-              "value": "56"
+              "label": "혼돈",
+              "value": "10"
+            },
+            {
+              "label": "RainBow",
+              "value": "136"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=398387"
+        },
+        {
+          "name": "래더 목걸이",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 2,
+          "priceP": 4000,
+          "unitPriceP": 4000,
+          "options": [
+            {
+              "label": "혼돈 기술(악마술사)",
+              "value": "3"
+            },
+            {
+              "label": "시전 속도%",
+              "value": "10"
             }
           ],
           "url": null
@@ -568,84 +258,83 @@
       ]
     },
     {
-      "name": "스탠 써클릿",
+      "name": "래더 워 셉터",
       "category": "기타",
       "listingCount": 2,
       "price": {
         "currency": "P",
-        "min": 110000,
-        "median": 110000,
-        "max": 110000
+        "min": 25000,
+        "median": 25000,
+        "max": 25000
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "#악술",
-        "0.",
-        "디트",
-        "스킬",
-        "시전 속도%",
-        "패캐",
+        "5.",
+        "RainBow",
+        "속죄",
+        "속죄(성기사 전용)",
+        "원기(성기사 전용)",
         "홈 있음(소켓)"
       ],
       "samples": [
         {
-          "name": "스탠 써클릿",
+          "name": "래더 워 셉터",
           "category": "기타",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 110000,
-          "unitPriceP": 110000,
+          "priceP": 25000,
+          "unitPriceP": 25000,
           "options": [
             {
-              "label": "시전 속도%",
-              "value": "20"
+              "label": "속죄(성기사 전용)",
+              "value": "2"
+            },
+            {
+              "label": "원기(성기사 전용)",
+              "value": "3"
             },
             {
               "label": "홈 있음(소켓)",
-              "value": "2"
+              "value": "5"
             },
             {
-              "label": "#악술",
-              "value": "2"
+              "label": "속죄",
+              "value": "3"
             },
             {
-              "label": "스킬",
-              "value": "20"
+              "label": "RainBow",
+              "value": "136"
             },
             {
-              "label": "패캐",
-              "value": "2"
-            },
-            {
-              "label": "디트",
-              "value": "55"
-            },
-            {
-              "label": "0.",
+              "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=424454"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=388648"
         },
         {
-          "name": "스탠 써클릿",
+          "name": "래더 워 셉터",
           "category": "기타",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 110000,
-          "unitPriceP": 110000,
+          "priceP": 25000,
+          "unitPriceP": 25000,
           "options": [
             {
-              "label": "시전 속도%",
-              "value": "20"
+              "label": "속죄(성기사 전용)",
+              "value": "2"
+            },
+            {
+              "label": "원기(성기사 전용)",
+              "value": "3"
             },
             {
               "label": "홈 있음(소켓)",
-              "value": "2"
+              "value": "5"
             }
           ],
           "url": null
@@ -653,101 +342,96 @@
       ]
     },
     {
-      "name": "스탠 영혼(방패)",
+      "name": "스탠 감시자의 천둥 주얼",
       "category": "기타",
       "listingCount": 2,
       "price": {
         "currency": "P",
-        "min": 4500,
-        "median": 4500,
-        "max": 4500
+        "min": 12500,
+        "median": 12500,
+        "max": 12500
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "#영혼 #스피릿 #성기사전용 #세이크리드론다쉬 #",
-        "4.",
-        "monk",
-        "마나",
-        "마법 흡수",
-        "모든 저항",
-        "방어력",
-        "시전 속도%"
+        "5.",
+        "RainBow",
+        "경험치 획득량%",
+        "괴물에게서 얻는 금화%",
+        "마법 아이템 발견 확률%",
+        "번개 기술 피해%",
+        "적의 번개 저항-%"
       ],
       "samples": [
         {
-          "name": "스탠 영혼(방패)",
+          "name": "스탠 감시자의 천둥 주얼",
           "category": "기타",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 4500,
-          "unitPriceP": 4500,
+          "priceP": 12500,
+          "unitPriceP": 12500,
           "options": [
             {
-              "label": "시전 속도%",
-              "value": "35"
+              "label": "번개 기술 피해%",
+              "value": "9"
             },
             {
-              "label": "마나",
-              "value": "91"
+              "label": "적의 번개 저항-%",
+              "value": "10"
             },
             {
-              "label": "마법 흡수",
-              "value": "7"
+              "label": "경험치 획득량%",
+              "value": "4"
             },
             {
-              "label": "모든 저항",
-              "value": "45"
+              "label": "괴물에게서 얻는 금화%",
+              "value": "30"
             },
             {
-              "label": "방어력",
-              "value": "153"
+              "label": "마법 아이템 발견 확률%",
+              "value": "28"
             },
             {
-              "label": "#영혼 #스피릿 #성기사전용 #세이크리드론다쉬 #",
-              "value": "45"
+              "label": "RainBow",
+              "value": "136"
             },
             {
-              "label": "monk",
-              "value": "112"
-            },
-            {
-              "label": "4.",
-              "value": "90"
+              "label": "5.",
+              "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=3400"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=411580"
         },
         {
-          "name": "스탠 영혼(방패)",
+          "name": "스탠 감시자의 천둥 주얼",
           "category": "기타",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 4500,
-          "unitPriceP": 4500,
+          "priceP": 12500,
+          "unitPriceP": 12500,
           "options": [
             {
-              "label": "시전 속도%",
-              "value": "35"
+              "label": "번개 기술 피해%",
+              "value": "9"
             },
             {
-              "label": "마나",
-              "value": "91"
+              "label": "적의 번개 저항-%",
+              "value": "10"
             },
             {
-              "label": "마법 흡수",
-              "value": "7"
+              "label": "경험치 획득량%",
+              "value": "4"
             },
             {
-              "label": "모든 저항",
-              "value": "45"
+              "label": "괴물에게서 얻는 금화%",
+              "value": "30"
             },
             {
-              "label": "방어력",
-              "value": "153"
+              "label": "마법 아이템 발견 확률%",
+              "value": "28"
             }
           ],
           "url": null
@@ -755,52 +439,323 @@
       ]
     },
     {
-      "name": "래더 반지",
-      "category": "룬워드",
-      "listingCount": 1,
+      "name": "스탠 기드의 내기 트롤 벨트",
+      "category": "기타",
+      "listingCount": 2,
       "price": {
         "currency": "P",
-        "min": 5000,
-        "median": 5000,
-        "max": 5000
+        "min": 27500,
+        "median": 27500,
+        "max": 27500
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "#악술",
-        "0.",
         "5.",
-        "거래 상대방",
-        "경험치 획득량%",
-        "냉기 저항%",
-        "독 저항%",
-        "디아블로",
-        "디트",
-        "명중률",
-        "모든 능력치",
+        "RainBow",
+        "괴물에게서 얻는 금화%",
+        "달리기/걷기 속도%",
         "모든 저항",
-        "번개 저항%",
-        "삽질구라",
-        "스킬",
+        "방어력%",
         "시전 속도%",
-        "장착 시 화염 저항 오라 적용",
-        "적중당 마나 훔침%",
-        "지금 시작하면, 멤버십 PLUS",
-        "패캐",
-        "플레이디아 디아블로",
-        "홈 있음(소켓)",
-        "화염 저항%"
+        "적의 마법 저항-%",
+        "타격 회복 속도%"
       ],
       "samples": [
         {
-          "name": "래더 반지",
+          "name": "스탠 기드의 내기 트롤 벨트",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 27500,
+          "unitPriceP": 27500,
+          "options": [
+            {
+              "label": "달리기/걷기 속도%",
+              "value": "18"
+            },
+            {
+              "label": "시전 속도%",
+              "value": "18"
+            },
+            {
+              "label": "타격 회복 속도%",
+              "value": "13"
+            },
+            {
+              "label": "적의 마법 저항-%",
+              "value": "3"
+            },
+            {
+              "label": "방어력%",
+              "value": "124"
+            },
+            {
+              "label": "괴물에게서 얻는 금화%",
+              "value": "75"
+            },
+            {
+              "label": "모든 저항",
+              "value": "13"
+            },
+            {
+              "label": "RainBow",
+              "value": "136"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=411598"
+        },
+        {
+          "name": "스탠 기드의 내기 트롤 벨트",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 27500,
+          "unitPriceP": 27500,
+          "options": [
+            {
+              "label": "달리기/걷기 속도%",
+              "value": "18"
+            },
+            {
+              "label": "시전 속도%",
+              "value": "18"
+            },
+            {
+              "label": "타격 회복 속도%",
+              "value": "13"
+            },
+            {
+              "label": "적의 마법 저항-%",
+              "value": "3"
+            },
+            {
+              "label": "방어력%",
+              "value": "124"
+            },
+            {
+              "label": "괴물에게서 얻는 금화%",
+              "value": "75"
+            },
+            {
+              "label": "모든 저항",
+              "value": "13"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "스탠 워 파이크",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 17000,
+        "median": 17000,
+        "max": 17000
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "5.",
+        "RainBow",
+        "피해%",
+        "홈 있음(소켓)"
+      ],
+      "samples": [
+        {
+          "name": "스탠 워 파이크",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 17000,
+          "unitPriceP": 17000,
+          "options": [
+            {
+              "label": "피해%",
+              "value": "15"
+            },
+            {
+              "label": "홈 있음(소켓)",
+              "value": "6"
+            },
+            {
+              "label": "RainBow",
+              "value": "136"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=401538"
+        },
+        {
+          "name": "스탠 워 파이크",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 17000,
+          "unitPriceP": 17000,
+          "options": [
+            {
+              "label": "피해%",
+              "value": "15"
+            },
+            {
+              "label": "홈 있음(소켓)",
+              "value": "6"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "스탠 지옥파수꾼의 의지 데스 마스크",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 8000,
+        "median": 8000,
+        "max": 8000
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "5.",
+        "RainBow",
+        "방어력%",
+        "적 처치 시 마나 회복",
+        "적의 마법 저항-%",
+        "적의 화염 저항-%"
+      ],
+      "samples": [
+        {
+          "name": "스탠 지옥파수꾼의 의지 데스 마스크",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 8000,
+          "unitPriceP": 8000,
+          "options": [
+            {
+              "label": "적의 마법 저항-%",
+              "value": "8"
+            },
+            {
+              "label": "적의 화염 저항-%",
+              "value": "8"
+            },
+            {
+              "label": "방어력%",
+              "value": "175"
+            },
+            {
+              "label": "적 처치 시 마나 회복",
+              "value": "6"
+            },
+            {
+              "label": "RainBow",
+              "value": "136"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=411591"
+        },
+        {
+          "name": "스탠 지옥파수꾼의 의지 데스 마스크",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 8000,
+          "unitPriceP": 8000,
+          "options": [
+            {
+              "label": "적의 마법 저항-%",
+              "value": "8"
+            },
+            {
+              "label": "적의 화염 저항-%",
+              "value": "8"
+            },
+            {
+              "label": "방어력%",
+              "value": "175"
+            },
+            {
+              "label": "적 처치 시 마나 회복",
+              "value": "6"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 벡스룬",
+      "category": "룬워드",
+      "listingCount": 1,
+      "price": {
+        "currency": "P",
+        "min": 440,
+        "median": 440,
+        "max": 440
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "4.",
+        "5.",
+        "RainBow",
+        "경험치 획득량%",
+        "괴물에게서 얻는 금화%",
+        "달리기/걷기 속도%",
+        "디아블로",
+        "마법 아이템 발견 확률%",
+        "모든 저항",
+        "방어력%",
+        "번개 기술 피해%",
+        "시전 속도%",
+        "적 처치 시 마나 회복",
+        "적의 마법 저항-%",
+        "적의 번개 저항-%",
+        "적의 화염 저항-%",
+        "주성치",
+        "지금 시작하면, 멤버십 PLUS",
+        "타격 회복 속도%",
+        "플레이디아 디아블로",
+        "피해%"
+      ],
+      "samples": [
+        {
+          "name": "래더 벡스룬",
           "category": "룬워드",
           "server": "악군",
           "status": "거래완료",
-          "quantity": 1,
-          "priceP": 5000,
-          "unitPriceP": 5000,
+          "quantity": 2,
+          "priceP": 440,
+          "unitPriceP": 440,
           "options": [
             {
               "label": "지금 시작하면, 멤버십 PLUS",
@@ -815,88 +770,88 @@
               "value": "2"
             },
             {
+              "label": "주성치",
+              "value": "42"
+            },
+            {
+              "label": "4.",
+              "value": "90"
+            },
+            {
+              "label": "달리기/걷기 속도%",
+              "value": "18"
+            },
+            {
               "label": "시전 속도%",
-              "value": "10"
+              "value": "18"
             },
             {
-              "label": "명중률",
-              "value": "20"
+              "label": "타격 회복 속도%",
+              "value": "13"
             },
             {
-              "label": "적중당 마나 훔침%",
+              "label": "적의 마법 저항-%",
               "value": "3"
             },
             {
-              "label": "냉기 저항%",
-              "value": "10"
+              "label": "방어력%",
+              "value": "124"
             },
             {
-              "label": "번개 저항%",
-              "value": "30"
+              "label": "괴물에게서 얻는 금화%",
+              "value": "75"
             },
             {
-              "label": "화염 저항%",
-              "value": "10"
+              "label": "모든 저항",
+              "value": "13"
             },
             {
-              "label": "독 저항%",
-              "value": "10"
-            },
-            {
-              "label": "거래 상대방",
-              "value": "1"
-            },
-            {
-              "label": "0.",
-              "value": "00"
-            },
-            {
-              "label": "삽질구라",
-              "value": "38"
+              "label": "RainBow",
+              "value": "136"
             },
             {
               "label": "5.",
               "value": "00"
             },
             {
-              "label": "시전 속도%",
-              "value": "20"
+              "label": "적의 마법 저항-%",
+              "value": "8"
             },
             {
-              "label": "홈 있음(소켓)",
-              "value": "2"
+              "label": "적의 화염 저항-%",
+              "value": "8"
             },
             {
-              "label": "#악술",
-              "value": "2"
+              "label": "방어력%",
+              "value": "175"
             },
             {
-              "label": "스킬",
-              "value": "20"
+              "label": "적 처치 시 마나 회복",
+              "value": "6"
             },
             {
-              "label": "패캐",
-              "value": "2"
+              "label": "번개 기술 피해%",
+              "value": "9"
             },
             {
-              "label": "디트",
-              "value": "55"
-            },
-            {
-              "label": "모든 능력치",
-              "value": "19"
-            },
-            {
-              "label": "모든 저항",
-              "value": "20"
+              "label": "적의 번개 저항-%",
+              "value": "10"
             },
             {
               "label": "경험치 획득량%",
-              "value": "7"
+              "value": "4"
             },
             {
-              "label": "장착 시 화염 저항 오라 적용",
-              "value": "4"
+              "label": "괴물에게서 얻는 금화%",
+              "value": "30"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "28"
+            },
+            {
+              "label": "피해%",
+              "value": "15"
             }
           ],
           "url": "https://www.playnote.co.kr/customer/noticedetail?Index=5"
@@ -904,64 +859,109 @@
       ]
     },
     {
-      "name": "래더 반지",
-      "category": "기타",
+      "name": "래더 크라켄 쉘",
+      "category": "재료",
       "listingCount": 1,
       "price": {
         "currency": "P",
-        "min": 5000,
-        "median": 5000,
-        "max": 5000
+        "min": 7800,
+        "median": 7800,
+        "max": 7800
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "냉기 저항%",
-        "독 저항%",
-        "명중률",
-        "번개 저항%",
-        "시전 속도%",
-        "적중당 마나 훔침%",
-        "화염 저항%"
+        "5.",
+        "RainBow",
+        "내구",
+        "방상",
+        "방어력%",
+        "최대 내구도%",
+        "홈 있음(소켓)"
       ],
       "samples": [
         {
-          "name": "래더 반지",
+          "name": "래더 크라켄 쉘",
+          "category": "재료",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 7800,
+          "unitPriceP": 7800,
+          "options": [
+            {
+              "label": "방어력%",
+              "value": "15"
+            },
+            {
+              "label": "최대 내구도%",
+              "value": "15"
+            },
+            {
+              "label": "홈 있음(소켓)",
+              "value": "3"
+            },
+            {
+              "label": "방상",
+              "value": "15"
+            },
+            {
+              "label": "내구",
+              "value": "3"
+            },
+            {
+              "label": "RainBow",
+              "value": "136"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=388555"
+        }
+      ]
+    },
+    {
+      "name": "래더 크라켄 쉘",
+      "category": "기타",
+      "listingCount": 1,
+      "price": {
+        "currency": "P",
+        "min": 7800,
+        "median": 7800,
+        "max": 7800
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "방어력%",
+        "최대 내구도%",
+        "홈 있음(소켓)"
+      ],
+      "samples": [
+        {
+          "name": "래더 크라켄 쉘",
           "category": "기타",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 5000,
-          "unitPriceP": 5000,
+          "priceP": 7800,
+          "unitPriceP": 7800,
           "options": [
             {
-              "label": "시전 속도%",
-              "value": "10"
+              "label": "방어력%",
+              "value": "15"
             },
             {
-              "label": "명중률",
-              "value": "20"
+              "label": "최대 내구도%",
+              "value": "15"
             },
             {
-              "label": "적중당 마나 훔침%",
+              "label": "홈 있음(소켓)",
               "value": "3"
-            },
-            {
-              "label": "냉기 저항%",
-              "value": "10"
-            },
-            {
-              "label": "번개 저항%",
-              "value": "30"
-            },
-            {
-              "label": "화염 저항%",
-              "value": "10"
-            },
-            {
-              "label": "독 저항%",
-              "value": "10"
             }
           ],
           "url": null
@@ -969,44 +969,109 @@
       ]
     },
     {
-      "name": "래더 애니참",
-      "category": "부적",
+      "name": "스탠 페이즈 블레이드",
+      "category": "재료",
       "listingCount": 1,
       "price": {
         "currency": "P",
-        "min": 1500,
-        "median": 1500,
-        "max": 1500
+        "min": 3500,
+        "median": 3500,
+        "max": 3500
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "경험치 획득량%",
-        "모든 능력치",
-        "모든 저항"
+        "5.",
+        "RainBow",
+        "명중률",
+        "어레",
+        "증뎀",
+        "피해%",
+        "홈 있음(소켓)"
       ],
       "samples": [
         {
-          "name": "래더 애니참",
-          "category": "부적",
+          "name": "스탠 페이즈 블레이드",
+          "category": "재료",
           "server": "악군",
           "status": "",
-          "quantity": 1,
-          "priceP": 1500,
-          "unitPriceP": 1500,
+          "quantity": 2,
+          "priceP": 3500,
+          "unitPriceP": 3500,
           "options": [
             {
-              "label": "모든 능력치",
-              "value": "19"
+              "label": "피해%",
+              "value": "15"
             },
             {
-              "label": "모든 저항",
-              "value": "20"
+              "label": "명중률",
+              "value": "3"
             },
             {
-              "label": "경험치 획득량%",
-              "value": "7"
+              "label": "홈 있음(소켓)",
+              "value": "3"
+            },
+            {
+              "label": "증뎀",
+              "value": "3"
+            },
+            {
+              "label": "어레",
+              "value": "3"
+            },
+            {
+              "label": "RainBow",
+              "value": "136"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=388558"
+        }
+      ]
+    },
+    {
+      "name": "스탠 페이즈 블레이드",
+      "category": "기타",
+      "listingCount": 1,
+      "price": {
+        "currency": "P",
+        "min": 3500,
+        "median": 3500,
+        "max": 3500
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "명중률",
+        "피해%",
+        "홈 있음(소켓)"
+      ],
+      "samples": [
+        {
+          "name": "스탠 페이즈 블레이드",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 2,
+          "priceP": 3500,
+          "unitPriceP": 3500,
+          "options": [
+            {
+              "label": "피해%",
+              "value": "15"
+            },
+            {
+              "label": "명중률",
+              "value": "3"
+            },
+            {
+              "label": "홈 있음(소켓)",
+              "value": "3"
             }
           ],
           "url": null
