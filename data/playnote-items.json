@@ -1,70 +1,210 @@
 {
   "source": "https://www.playnote.co.kr/trade/itemmarket?index=1",
   "scope": "public-listings-only",
-  "updatedAt": "2026-10-22T23:33:24.862951+00:00",
+  "updatedAt": "2026-10-23T01:53:21.112025+00:00",
   "listingCount": 22,
   "itemCount": 12,
   "items": [
     {
-      "name": "래더 불카토스의 결혼 반지",
+      "name": "하코 래더 무지개 자락 주얼(번개,사망시)",
       "category": "기타",
-      "listingCount": 2,
+      "listingCount": 4,
       "price": {
         "currency": "P",
         "min": 1000,
-        "median": 1000,
-        "max": 1000
+        "median": 1250,
+        "max": 1500
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
         "5.",
-        "Lv",
-        "악마술사",
+        "바로세워",
+        "번개(공용 기술)",
+        "적의 번개 저항-%"
+      ],
+      "samples": [
+        {
+          "name": "하코 래더 무지개 자락 주얼(번개,사망시)",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 1000,
+          "unitPriceP": 1000,
+          "options": [
+            {
+              "label": "번개(공용 기술)",
+              "value": "3"
+            },
+            {
+              "label": "적의 번개 저항-%",
+              "value": "5"
+            },
+            {
+              "label": "바로세워",
+              "value": "34"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=406894"
+        },
+        {
+          "name": "하코 래더 무지개 자락 주얼(번개,사망시)",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 1000,
+          "unitPriceP": 1000,
+          "options": [
+            {
+              "label": "번개(공용 기술)",
+              "value": "3"
+            },
+            {
+              "label": "적의 번개 저항-%",
+              "value": "5"
+            }
+          ],
+          "url": null
+        },
+        {
+          "name": "하코 래더 무지개 자락 주얼(번개,사망시)",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 1500,
+          "unitPriceP": 1500,
+          "options": [
+            {
+              "label": "번개(공용 기술)",
+              "value": "4"
+            },
+            {
+              "label": "적의 번개 저항-%",
+              "value": "5"
+            },
+            {
+              "label": "바로세워",
+              "value": "34"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=271893"
+        },
+        {
+          "name": "하코 래더 무지개 자락 주얼(번개,사망시)",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 1500,
+          "unitPriceP": 1500,
+          "options": [
+            {
+              "label": "번개(공용 기술)",
+              "value": "4"
+            },
+            {
+              "label": "적의 번개 저항-%",
+              "value": "5"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 반지",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 900,
+        "median": 900,
+        "max": 900
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "5.",
+        "민첩",
+        "번개 저항%",
+        "쏘르",
+        "적중당 마나 훔침%",
         "적중당 생명력 훔침%"
       ],
       "samples": [
         {
-          "name": "래더 불카토스의 결혼 반지",
+          "name": "래더 반지",
           "category": "기타",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 1000,
-          "unitPriceP": 1000,
+          "priceP": 900,
+          "unitPriceP": 900,
           "options": [
             {
               "label": "적중당 생명력 훔침%",
               "value": "5"
             },
             {
-              "label": "Lv",
-              "value": "99"
+              "label": "적중당 마나 훔침%",
+              "value": "5"
             },
             {
-              "label": "악마술사",
-              "value": "85"
+              "label": "민첩",
+              "value": "2"
+            },
+            {
+              "label": "번개 저항%",
+              "value": "12"
+            },
+            {
+              "label": "쏘르",
+              "value": "25"
             },
             {
               "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=431695"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=431880"
         },
         {
-          "name": "래더 불카토스의 결혼 반지",
+          "name": "래더 반지",
           "category": "기타",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 1000,
-          "unitPriceP": 1000,
+          "priceP": 900,
+          "unitPriceP": 900,
           "options": [
             {
               "label": "적중당 생명력 훔침%",
               "value": "5"
+            },
+            {
+              "label": "적중당 마나 훔침%",
+              "value": "5"
+            },
+            {
+              "label": "민첩",
+              "value": "2"
+            },
+            {
+              "label": "번개 저항%",
+              "value": "12"
             }
           ],
           "url": null
@@ -72,252 +212,62 @@
       ]
     },
     {
-      "name": "래더 아르스 토르바알로스 신성모독 전서",
+      "name": "래더 주얼",
       "category": "기타",
       "listingCount": 2,
       "price": {
         "currency": "P",
-        "min": 500,
-        "median": 500,
-        "max": 500
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "4.",
-        "끓는 피(악마술사 전용)",
-        "소모(악마술사 전용)",
-        "악마 숙련(악마술사 전용)",
-        "통팥",
-        "포식(악마술사 전용)"
-      ],
-      "samples": [
-        {
-          "name": "래더 아르스 토르바알로스 신성모독 전서",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 500,
-          "unitPriceP": 500,
-          "options": [
-            {
-              "label": "소모(악마술사 전용)",
-              "value": "2"
-            },
-            {
-              "label": "끓는 피(악마술사 전용)",
-              "value": "3"
-            },
-            {
-              "label": "포식(악마술사 전용)",
-              "value": "3"
-            },
-            {
-              "label": "악마 숙련(악마술사 전용)",
-              "value": "3"
-            },
-            {
-              "label": "통팥",
-              "value": "66"
-            },
-            {
-              "label": "4.",
-              "value": "90"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=431696"
-        },
-        {
-          "name": "래더 아르스 토르바알로스 신성모독 전서",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 500,
-          "unitPriceP": 500,
-          "options": [
-            {
-              "label": "소모(악마술사 전용)",
-              "value": "2"
-            },
-            {
-              "label": "끓는 피(악마술사 전용)",
-              "value": "3"
-            },
-            {
-              "label": "포식(악마술사 전용)",
-              "value": "3"
-            },
-            {
-              "label": "악마 숙련(악마술사 전용)",
-              "value": "3"
-            }
-          ],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 콜릭의 고통",
-      "category": "기타",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 400,
-        "median": 400,
-        "max": 400
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "#👍콜릭의 고통",
-        "5.",
-        "명강"
-      ],
-      "samples": [
-        {
-          "name": "래더 콜릭의 고통",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 34,
-          "priceP": 400,
-          "unitPriceP": 400,
-          "options": [
-            {
-              "label": "#👍콜릭의 고통",
-              "value": "2"
-            },
-            {
-              "label": "명강",
-              "value": "105"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=431567"
-        },
-        {
-          "name": "래더 콜릭의 고통",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 34,
-          "priceP": 400,
-          "unitPriceP": 400,
-          "options": [],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 퍼펙트보석",
-      "category": "보석",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 2500,
-        "median": 2500,
-        "max": 2500
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "#퍼보",
-        "5.",
-        "명강"
-      ],
-      "samples": [
-        {
-          "name": "래더 퍼펙트보석",
-          "category": "보석",
-          "server": "악군",
-          "status": "",
-          "quantity": 200,
-          "priceP": 2500,
-          "unitPriceP": 2500,
-          "options": [
-            {
-              "label": "#퍼보",
-              "value": "200"
-            },
-            {
-              "label": "명강",
-              "value": "105"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=427582"
-        },
-        {
-          "name": "래더 퍼펙트보석",
-          "category": "보석",
-          "server": "악군",
-          "status": "",
-          "quantity": 200,
-          "priceP": 2500,
-          "unitPriceP": 2500,
-          "options": [],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "스탠 굴룬",
-      "category": "룬",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 6500,
-        "median": 6500,
-        "max": 6500
+        "min": 100,
+        "median": 100,
+        "max": 100
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
         "5.",
-        "라인하르트"
+        "공격 속도%",
+        "아누"
       ],
       "samples": [
         {
-          "name": "스탠 굴룬",
-          "category": "룬",
+          "name": "래더 주얼",
+          "category": "기타",
           "server": "악군",
           "status": "",
-          "quantity": 20,
-          "priceP": 6500,
-          "unitPriceP": 6500,
+          "quantity": 3,
+          "priceP": 100,
+          "unitPriceP": 100,
           "options": [
             {
-              "label": "라인하르트",
-              "value": "107"
+              "label": "공격 속도%",
+              "value": "15"
+            },
+            {
+              "label": "아누",
+              "value": "103"
             },
             {
               "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=428920"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=408550"
         },
         {
-          "name": "스탠 굴룬",
-          "category": "룬",
+          "name": "래더 주얼",
+          "category": "기타",
           "server": "악군",
           "status": "",
-          "quantity": 20,
-          "priceP": 6500,
-          "unitPriceP": 6500,
-          "options": [],
+          "quantity": 3,
+          "priceP": 100,
+          "unitPriceP": 100,
+          "options": [
+            {
+              "label": "공격 속도%",
+              "value": "15"
+            }
+          ],
           "url": null
         }
       ]
@@ -429,96 +379,96 @@
       ]
     },
     {
-      "name": "스탠 목걸이",
+      "name": "하코 래더 감시자의 천둥 주얼",
       "category": "기타",
       "listingCount": 2,
       "price": {
         "currency": "P",
-        "min": 20000,
-        "median": 20000,
-        "max": 20000
+        "min": 2000,
+        "median": 2000,
+        "max": 2000
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
         "5.",
-        "라인하르트",
-        "마나",
-        "마나 재생%",
-        "모든 저항",
-        "시전 속도%",
-        "화염 저항%"
+        "경험치 획득량%",
+        "괴물에게서 얻는 금화%",
+        "마법 아이템 발견 확률%",
+        "바로세워",
+        "번개 기술 피해%",
+        "적의 번개 저항-%"
       ],
       "samples": [
         {
-          "name": "스탠 목걸이",
+          "name": "하코 래더 감시자의 천둥 주얼",
           "category": "기타",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 20000,
-          "unitPriceP": 20000,
+          "priceP": 2000,
+          "unitPriceP": 2000,
           "options": [
             {
-              "label": "시전 속도%",
-              "value": "20"
+              "label": "번개 기술 피해%",
+              "value": "8"
             },
             {
-              "label": "마나",
-              "value": "20"
+              "label": "적의 번개 저항-%",
+              "value": "8"
             },
             {
-              "label": "마나 재생%",
-              "value": "5"
+              "label": "경험치 획득량%",
+              "value": "3"
             },
             {
-              "label": "모든 저항",
-              "value": "5"
+              "label": "괴물에게서 얻는 금화%",
+              "value": "36"
             },
             {
-              "label": "화염 저항%",
+              "label": "마법 아이템 발견 확률%",
+              "value": "24"
+            },
+            {
+              "label": "바로세워",
               "value": "34"
-            },
-            {
-              "label": "라인하르트",
-              "value": "107"
             },
             {
               "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=31702"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=351205"
         },
         {
-          "name": "스탠 목걸이",
+          "name": "하코 래더 감시자의 천둥 주얼",
           "category": "기타",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 20000,
-          "unitPriceP": 20000,
+          "priceP": 2000,
+          "unitPriceP": 2000,
           "options": [
             {
-              "label": "시전 속도%",
-              "value": "20"
+              "label": "번개 기술 피해%",
+              "value": "8"
             },
             {
-              "label": "마나",
-              "value": "20"
+              "label": "적의 번개 저항-%",
+              "value": "8"
             },
             {
-              "label": "마나 재생%",
-              "value": "5"
+              "label": "경험치 획득량%",
+              "value": "3"
             },
             {
-              "label": "모든 저항",
-              "value": "5"
+              "label": "괴물에게서 얻는 금화%",
+              "value": "36"
             },
             {
-              "label": "화염 저항%",
-              "value": "34"
+              "label": "마법 아이템 발견 확률%",
+              "value": "24"
             }
           ],
           "url": null
@@ -526,192 +476,210 @@
       ]
     },
     {
-      "name": "스탠 수수께끼",
+      "name": "하코 래더 면죄의 징표",
       "category": "기타",
       "listingCount": 2,
       "price": {
         "currency": "P",
-        "min": 10000,
-        "median": 10000,
-        "max": 10000
+        "min": 1000,
+        "median": 1000,
+        "max": 1000
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
         "5.",
-        "라인하르트",
-        "방어력",
+        "바로세워"
+      ],
+      "samples": [
+        {
+          "name": "하코 래더 면죄의 징표",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 4,
+          "priceP": 1000,
+          "unitPriceP": 1000,
+          "options": [
+            {
+              "label": "바로세워",
+              "value": "34"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=293913"
+        },
+        {
+          "name": "하코 래더 면죄의 징표",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 4,
+          "priceP": 1000,
+          "unitPriceP": 1000,
+          "options": [],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "하코 래더 보호자의 돌 주얼",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 3000,
+        "median": 3000,
+        "max": 3000
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "5.",
+        "경험치 획득량%",
+        "괴물에게서 얻는 금화%",
+        "마법 아이템 발견 확률%",
+        "바로세워",
+        "적의 물리 피해 저항-%",
+        "피해%"
+      ],
+      "samples": [
+        {
+          "name": "하코 래더 보호자의 돌 주얼",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 3000,
+          "unitPriceP": 3000,
+          "options": [
+            {
+              "label": "피해%",
+              "value": "30"
+            },
+            {
+              "label": "적의 물리 피해 저항-%",
+              "value": "5"
+            },
+            {
+              "label": "경험치 획득량%",
+              "value": "3"
+            },
+            {
+              "label": "괴물에게서 얻는 금화%",
+              "value": "36"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "21"
+            },
+            {
+              "label": "바로세워",
+              "value": "34"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=413756"
+        },
+        {
+          "name": "하코 래더 보호자의 돌 주얼",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 3000,
+          "unitPriceP": 3000,
+          "options": [
+            {
+              "label": "피해%",
+              "value": "30"
+            },
+            {
+              "label": "적의 물리 피해 저항-%",
+              "value": "5"
+            },
+            {
+              "label": "경험치 획득량%",
+              "value": "3"
+            },
+            {
+              "label": "괴물에게서 얻는 금화%",
+              "value": "36"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "21"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "하코 래더 할리퀸 관모 샤코",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 1000,
+        "median": 1000,
+        "max": 1000
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "5.",
+        "바로세워",
         "총 방어력"
       ],
       "samples": [
         {
-          "name": "스탠 수수께끼",
+          "name": "하코 래더 할리퀸 관모 샤코",
           "category": "기타",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 10000,
-          "unitPriceP": 10000,
+          "priceP": 1000,
+          "unitPriceP": 1000,
           "options": [
             {
-              "label": "방어력",
-              "value": "775"
-            },
-            {
               "label": "총 방어력",
-              "value": "910"
+              "value": "114"
             },
             {
-              "label": "라인하르트",
-              "value": "107"
+              "label": "바로세워",
+              "value": "34"
             },
             {
               "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=52780"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=353417"
         },
         {
-          "name": "스탠 수수께끼",
+          "name": "하코 래더 할리퀸 관모 샤코",
           "category": "기타",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 10000,
-          "unitPriceP": 10000,
+          "priceP": 1000,
+          "unitPriceP": 1000,
           "options": [
-            {
-              "label": "방어력",
-              "value": "775"
-            },
             {
               "label": "총 방어력",
-              "value": "910"
+              "value": "114"
             }
           ],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "스탠 작은 부적",
-      "category": "부적",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 4500,
-        "median": 4500,
-        "max": 4500
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "라인하르트",
-        "마법 아이템 발견 확률%",
-        "번개 저항%"
-      ],
-      "samples": [
-        {
-          "name": "스탠 작은 부적",
-          "category": "부적",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 4500,
-          "unitPriceP": 4500,
-          "options": [
-            {
-              "label": "번개 저항%",
-              "value": "11"
-            },
-            {
-              "label": "마법 아이템 발견 확률%",
-              "value": "7"
-            },
-            {
-              "label": "라인하르트",
-              "value": "107"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=53291"
-        },
-        {
-          "name": "스탠 작은 부적",
-          "category": "부적",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 4500,
-          "unitPriceP": 4500,
-          "options": [
-            {
-              "label": "번개 저항%",
-              "value": "11"
-            },
-            {
-              "label": "마법 아이템 발견 확률%",
-              "value": "7"
-            }
-          ],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "스탠 헬룬",
-      "category": "룬",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 7000,
-        "median": 7000,
-        "max": 7000
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "라인하르트"
-      ],
-      "samples": [
-        {
-          "name": "스탠 헬룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 80,
-          "priceP": 7000,
-          "unitPriceP": 7000,
-          "options": [
-            {
-              "label": "라인하르트",
-              "value": "107"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=428917"
-        },
-        {
-          "name": "스탠 헬룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 80,
-          "priceP": 7000,
-          "unitPriceP": 7000,
-          "options": [],
           "url": null
         }
       ]
@@ -733,27 +701,27 @@
         "0.",
         "5.",
         "갈구는아줌마",
-        "끓는 피(악마술사 전용)",
+        "경험치 획득량%",
+        "공격 속도%",
+        "괴물에게서 얻는 금화%",
         "디아블로",
-        "라인하르트",
-        "마나",
-        "마나 재생%",
         "마법 아이템 발견 확률%",
-        "모든 저항",
-        "방어력",
+        "민첩",
         "번개 저항%",
-        "소모(악마술사 전용)",
-        "시전 속도%",
         "신성한 충격(성기사 전용)",
+        "쏘르",
+        "아누",
+        "적의 물리 피해 저항-%",
+        "적중당 마나 훔침%",
+        "적중당 생명력 훔침%",
         "전투 명령(공용 기술)",
         "전투 지시(공용 기술)",
         "전투의 함성(공용 기술)",
         "지금 시작하면, 멤버십 PLUS",
         "천상의 주먹(성기사 전용)",
-        "총 방어력",
         "플레이디아 디아블로",
-        "홈 있음(소켓)",
-        "화염 저항%"
+        "피해%",
+        "홈 있음(소켓)"
       ],
       "samples": [
         {
@@ -810,56 +778,56 @@
               "value": "00"
             },
             {
-              "label": "라인하르트",
-              "value": "107"
+              "label": "적중당 생명력 훔침%",
+              "value": "5"
+            },
+            {
+              "label": "적중당 마나 훔침%",
+              "value": "5"
+            },
+            {
+              "label": "민첩",
+              "value": "2"
+            },
+            {
+              "label": "번개 저항%",
+              "value": "12"
+            },
+            {
+              "label": "쏘르",
+              "value": "25"
             },
             {
               "label": "5.",
               "value": "00"
             },
             {
-              "label": "번개 저항%",
-              "value": "11"
+              "label": "공격 속도%",
+              "value": "15"
+            },
+            {
+              "label": "아누",
+              "value": "103"
+            },
+            {
+              "label": "피해%",
+              "value": "30"
+            },
+            {
+              "label": "적의 물리 피해 저항-%",
+              "value": "5"
+            },
+            {
+              "label": "경험치 획득량%",
+              "value": "3"
+            },
+            {
+              "label": "괴물에게서 얻는 금화%",
+              "value": "36"
             },
             {
               "label": "마법 아이템 발견 확률%",
-              "value": "7"
-            },
-            {
-              "label": "방어력",
-              "value": "775"
-            },
-            {
-              "label": "총 방어력",
-              "value": "910"
-            },
-            {
-              "label": "시전 속도%",
-              "value": "20"
-            },
-            {
-              "label": "마나",
-              "value": "20"
-            },
-            {
-              "label": "마나 재생%",
-              "value": "5"
-            },
-            {
-              "label": "모든 저항",
-              "value": "5"
-            },
-            {
-              "label": "화염 저항%",
-              "value": "34"
-            },
-            {
-              "label": "소모(악마술사 전용)",
-              "value": "2"
-            },
-            {
-              "label": "끓는 피(악마술사 전용)",
-              "value": "3"
+              "value": "21"
             }
           ],
           "url": "https://www.playnote.co.kr/customer/noticedetail?Index=5"
@@ -868,7 +836,7 @@
     },
     {
       "name": "스탠 디바인 셉터",
-      "category": "부적",
+      "category": "재료",
       "listingCount": 1,
       "price": {
         "currency": "P",
@@ -883,32 +851,31 @@
         "0.",
         "5.",
         "갈구는아줌마",
-        "끓는 피(악마술사 전용)",
-        "라인하르트",
-        "마나",
-        "마나 재생%",
+        "경험치 획득량%",
+        "공격 속도%",
+        "괴물에게서 얻는 금화%",
+        "뇌우(원소술사 전용)",
         "마법 아이템 발견 확률%",
-        "모든 저항",
-        "방어력",
+        "민첩",
+        "바로세워",
         "번개 저항%",
-        "소모(악마술사 전용)",
-        "시전 속도%",
         "신성한 충격(성기사 전용)",
-        "악마 숙련(악마술사 전용)",
+        "쏘르",
+        "아누",
+        "적의 물리 피해 저항-%",
+        "적중당 마나 훔침%",
+        "적중당 생명력 훔침%",
         "전투 명령(공용 기술)",
         "전투 지시(공용 기술)",
         "전투의 함성(공용 기술)",
         "천상의 주먹(성기사 전용)",
-        "총 방어력",
-        "통팥",
-        "포식(악마술사 전용)",
-        "홈 있음(소켓)",
-        "화염 저항%"
+        "피해%",
+        "홈 있음(소켓)"
       ],
       "samples": [
         {
           "name": "스탠 디바인 셉터",
-          "category": "부적",
+          "category": "재료",
           "server": "악군",
           "status": "거래완료",
           "quantity": 1,
@@ -948,71 +915,166 @@
               "value": "00"
             },
             {
-              "label": "라인하르트",
-              "value": "107"
+              "label": "적중당 생명력 훔침%",
+              "value": "5"
+            },
+            {
+              "label": "적중당 마나 훔침%",
+              "value": "5"
+            },
+            {
+              "label": "민첩",
+              "value": "2"
+            },
+            {
+              "label": "번개 저항%",
+              "value": "12"
+            },
+            {
+              "label": "쏘르",
+              "value": "25"
             },
             {
               "label": "5.",
               "value": "00"
             },
             {
-              "label": "번개 저항%",
-              "value": "11"
+              "label": "공격 속도%",
+              "value": "15"
+            },
+            {
+              "label": "아누",
+              "value": "103"
+            },
+            {
+              "label": "피해%",
+              "value": "30"
+            },
+            {
+              "label": "적의 물리 피해 저항-%",
+              "value": "5"
+            },
+            {
+              "label": "경험치 획득량%",
+              "value": "3"
+            },
+            {
+              "label": "괴물에게서 얻는 금화%",
+              "value": "36"
             },
             {
               "label": "마법 아이템 발견 확률%",
-              "value": "7"
+              "value": "21"
             },
             {
-              "label": "방어력",
-              "value": "775"
-            },
-            {
-              "label": "총 방어력",
-              "value": "910"
-            },
-            {
-              "label": "시전 속도%",
-              "value": "20"
-            },
-            {
-              "label": "마나",
-              "value": "20"
-            },
-            {
-              "label": "마나 재생%",
-              "value": "5"
-            },
-            {
-              "label": "모든 저항",
-              "value": "5"
-            },
-            {
-              "label": "화염 저항%",
+              "label": "바로세워",
               "value": "34"
             },
             {
-              "label": "소모(악마술사 전용)",
+              "label": "뇌우(원소술사 전용)",
               "value": "2"
             },
             {
-              "label": "끓는 피(악마술사 전용)",
-              "value": "3"
-            },
-            {
-              "label": "포식(악마술사 전용)",
-              "value": "3"
-            },
-            {
-              "label": "악마 숙련(악마술사 전용)",
-              "value": "3"
-            },
-            {
-              "label": "통팥",
-              "value": "66"
+              "label": "홈 있음(소켓)",
+              "value": "6"
             }
           ],
           "url": "https://www.playnote.co.kr/trade/itemmarket?index=1"
+        }
+      ]
+    },
+    {
+      "name": "하코 래더 아콘 스태프",
+      "category": "재료",
+      "listingCount": 1,
+      "price": {
+        "currency": "P",
+        "min": 4000,
+        "median": 4000,
+        "max": 4000
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "#에테 아콘 스태프",
+        "5.",
+        "뇌우(원소술사 전용)",
+        "바로세워",
+        "홈 있음(소켓)"
+      ],
+      "samples": [
+        {
+          "name": "하코 래더 아콘 스태프",
+          "category": "재료",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 4000,
+          "unitPriceP": 4000,
+          "options": [
+            {
+              "label": "뇌우(원소술사 전용)",
+              "value": "2"
+            },
+            {
+              "label": "홈 있음(소켓)",
+              "value": "6"
+            },
+            {
+              "label": "#에테 아콘 스태프",
+              "value": "6"
+            },
+            {
+              "label": "바로세워",
+              "value": "34"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=411404"
+        }
+      ]
+    },
+    {
+      "name": "하코 래더 아콘 스태프",
+      "category": "기타",
+      "listingCount": 1,
+      "price": {
+        "currency": "P",
+        "min": 4000,
+        "median": 4000,
+        "max": 4000
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "뇌우(원소술사 전용)",
+        "홈 있음(소켓)"
+      ],
+      "samples": [
+        {
+          "name": "하코 래더 아콘 스태프",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 4000,
+          "unitPriceP": 4000,
+          "options": [
+            {
+              "label": "뇌우(원소술사 전용)",
+              "value": "2"
+            },
+            {
+              "label": "홈 있음(소켓)",
+              "value": "6"
+            }
+          ],
+          "url": null
         }
       ]
     }
