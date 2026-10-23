@@ -1,79 +1,173 @@
 {
   "source": "https://www.playnote.co.kr/trade/itemmarket?index=1",
   "scope": "public-listings-only",
-  "updatedAt": "2026-10-23T12:50:30.549256+00:00",
+  "updatedAt": "2026-10-23T17:51:00.941480+00:00",
   "listingCount": 20,
-  "itemCount": 11,
+  "itemCount": 10,
   "items": [
     {
-      "name": "래더 공포송곳니 레전드 소드",
+      "name": "래더 보호자의 돌 주얼",
       "category": "기타",
-      "listingCount": 2,
+      "listingCount": 4,
       "price": {
         "currency": "P",
-        "min": 200,
-        "median": 200,
-        "max": 200
+        "min": 1500,
+        "median": 2250,
+        "max": 3000
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "#마흡",
         "5.",
-        "Alex",
-        "적중당 마나 훔침%",
+        "가르노아",
+        "경험치 획득량%",
+        "괴물에게서 얻는 금화%",
+        "마법 아이템 발견 확률%",
+        "적의 물리 피해 저항-%",
         "피해%"
       ],
       "samples": [
         {
-          "name": "래더 공포송곳니 레전드 소드",
+          "name": "래더 보호자의 돌 주얼",
           "category": "기타",
           "server": "악군",
           "status": "",
-          "quantity": 2,
-          "priceP": 200,
-          "unitPriceP": 200,
+          "quantity": 1,
+          "priceP": 3000,
+          "unitPriceP": 3000,
           "options": [
             {
               "label": "피해%",
-              "value": "142"
+              "value": "44"
             },
             {
-              "label": "적중당 마나 훔침%",
-              "value": "4"
+              "label": "적의 물리 피해 저항-%",
+              "value": "9"
             },
             {
-              "label": "#마흡",
-              "value": "4"
+              "label": "경험치 획득량%",
+              "value": "5"
             },
             {
-              "label": "Alex",
-              "value": "0725"
+              "label": "괴물에게서 얻는 금화%",
+              "value": "45"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "26"
+            },
+            {
+              "label": "가르노아",
+              "value": "128"
             },
             {
               "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=257113"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=433715"
         },
         {
-          "name": "래더 공포송곳니 레전드 소드",
+          "name": "래더 보호자의 돌 주얼",
           "category": "기타",
           "server": "악군",
           "status": "",
-          "quantity": 2,
-          "priceP": 200,
-          "unitPriceP": 200,
+          "quantity": 1,
+          "priceP": 3000,
+          "unitPriceP": 3000,
           "options": [
             {
               "label": "피해%",
-              "value": "142"
+              "value": "44"
             },
             {
-              "label": "적중당 마나 훔침%",
+              "label": "적의 물리 피해 저항-%",
+              "value": "9"
+            },
+            {
+              "label": "경험치 획득량%",
+              "value": "5"
+            },
+            {
+              "label": "괴물에게서 얻는 금화%",
+              "value": "45"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "26"
+            }
+          ],
+          "url": null
+        },
+        {
+          "name": "래더 보호자의 돌 주얼",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 1500,
+          "unitPriceP": 1500,
+          "options": [
+            {
+              "label": "피해%",
+              "value": "43"
+            },
+            {
+              "label": "적의 물리 피해 저항-%",
+              "value": "9"
+            },
+            {
+              "label": "경험치 획득량%",
               "value": "4"
+            },
+            {
+              "label": "괴물에게서 얻는 금화%",
+              "value": "41"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "21"
+            },
+            {
+              "label": "가르노아",
+              "value": "128"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=433714"
+        },
+        {
+          "name": "래더 보호자의 돌 주얼",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 1500,
+          "unitPriceP": 1500,
+          "options": [
+            {
+              "label": "피해%",
+              "value": "43"
+            },
+            {
+              "label": "적의 물리 피해 저항-%",
+              "value": "9"
+            },
+            {
+              "label": "경험치 획득량%",
+              "value": "4"
+            },
+            {
+              "label": "괴물에게서 얻는 금화%",
+              "value": "41"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "21"
             }
           ],
           "url": null
@@ -86,19 +180,18 @@
       "listingCount": 2,
       "price": {
         "currency": "P",
-        "min": 21000,
-        "median": 21000,
-        "max": 21000
+        "min": 2300,
+        "median": 2300,
+        "max": 2300
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "#으뜸 라뎀,라깍",
-        "0.",
+        "5.",
+        "두목",
         "방어력",
         "번개 기술 피해%",
-        "선물디아",
         "적의 번개 저항-%"
       ],
       "samples": [
@@ -108,35 +201,31 @@
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 21000,
-          "unitPriceP": 21000,
+          "priceP": 2300,
+          "unitPriceP": 2300,
           "options": [
             {
               "label": "적의 번개 저항-%",
-              "value": "20"
+              "value": "15"
             },
             {
               "label": "번개 기술 피해%",
-              "value": "15"
+              "value": "14"
             },
             {
               "label": "방어력",
-              "value": "105"
+              "value": "162"
             },
             {
-              "label": "#으뜸 라뎀,라깍",
-              "value": "15"
+              "label": "두목",
+              "value": "4"
             },
             {
-              "label": "선물디아",
-              "value": "37"
-            },
-            {
-              "label": "0.",
+              "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=432963"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=433716"
         },
         {
           "name": "래더 그리폰의 눈 다이어뎀",
@@ -144,20 +233,20 @@
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 21000,
-          "unitPriceP": 21000,
+          "priceP": 2300,
+          "unitPriceP": 2300,
           "options": [
             {
               "label": "적의 번개 저항-%",
-              "value": "20"
-            },
-            {
-              "label": "번개 기술 피해%",
               "value": "15"
             },
             {
+              "label": "번개 기술 피해%",
+              "value": "14"
+            },
+            {
               "label": "방어력",
-              "value": "105"
+              "value": "162"
             }
           ],
           "url": null
@@ -165,7 +254,7 @@
       ]
     },
     {
-      "name": "래더 눈보라 포 발리스타",
+      "name": "래더 아콘 플레이트",
       "category": "기타",
       "listingCount": 2,
       "price": {
@@ -178,14 +267,14 @@
         "악군"
       ],
       "optionLabels": [
+        "#ㄴㄴ 으뜸방어",
         "5.",
-        "Alex",
-        "방어력",
-        "피해%"
+        "tackal",
+        "홈 있음(소켓)"
       ],
       "samples": [
         {
-          "name": "래더 눈보라 포 발리스타",
+          "name": "래더 아콘 플레이트",
           "category": "기타",
           "server": "악군",
           "status": "",
@@ -194,26 +283,26 @@
           "unitPriceP": 500,
           "options": [
             {
-              "label": "피해%",
-              "value": "189"
+              "label": "홈 있음(소켓)",
+              "value": "4"
             },
             {
-              "label": "방어력",
-              "value": "131"
+              "label": "#ㄴㄴ 으뜸방어",
+              "value": "524"
             },
             {
-              "label": "Alex",
-              "value": "0725"
+              "label": "tackal",
+              "value": "72"
             },
             {
               "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=217543"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=388292"
         },
         {
-          "name": "래더 눈보라 포 발리스타",
+          "name": "래더 아콘 플레이트",
           "category": "기타",
           "server": "악군",
           "status": "",
@@ -222,12 +311,8 @@
           "unitPriceP": 500,
           "options": [
             {
-              "label": "피해%",
-              "value": "189"
-            },
-            {
-              "label": "방어력",
-              "value": "131"
+              "label": "홈 있음(소켓)",
+              "value": "4"
             }
           ],
           "url": null
@@ -235,78 +320,69 @@
       ]
     },
     {
-      "name": "래더 슬기매김 롱 배틀 보우",
-      "category": "기타",
+      "name": "래더 작은 부적",
+      "category": "부적",
       "listingCount": 2,
       "price": {
         "currency": "P",
-        "min": 1000,
-        "median": 1000,
-        "max": 1000
+        "min": 3500,
+        "median": 3500,
+        "max": 3500
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
         "5.",
-        "Alex",
-        "명중률",
-        "적의 냉기 저항-%",
-        "피해%"
+        "tackal",
+        "생명력",
+        "화염 저항%"
       ],
       "samples": [
         {
-          "name": "래더 슬기매김 롱 배틀 보우",
-          "category": "기타",
+          "name": "래더 작은 부적",
+          "category": "부적",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 1000,
-          "unitPriceP": 1000,
+          "priceP": 3500,
+          "unitPriceP": 3500,
           "options": [
             {
-              "label": "피해%",
-              "value": "80"
+              "label": "생명력",
+              "value": "20"
             },
             {
-              "label": "명중률",
-              "value": "71"
+              "label": "화염 저항%",
+              "value": "11"
             },
             {
-              "label": "적의 냉기 저항-%",
-              "value": "35"
-            },
-            {
-              "label": "Alex",
-              "value": "0725"
+              "label": "tackal",
+              "value": "72"
             },
             {
               "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=349426"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=385354"
         },
         {
-          "name": "래더 슬기매김 롱 배틀 보우",
-          "category": "기타",
+          "name": "래더 작은 부적",
+          "category": "부적",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 1000,
-          "unitPriceP": 1000,
+          "priceP": 3500,
+          "unitPriceP": 3500,
           "options": [
             {
-              "label": "피해%",
-              "value": "80"
+              "label": "생명력",
+              "value": "20"
             },
             {
-              "label": "명중률",
-              "value": "71"
-            },
-            {
-              "label": "적의 냉기 저항-%",
-              "value": "35"
+              "label": "화염 저항%",
+              "value": "11"
             }
           ],
           "url": null
@@ -314,130 +390,8 @@
       ]
     },
     {
-      "name": "래더 쿠코 샤카쿠 시더 보우",
-      "category": "기타",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 100,
-        "median": 100,
-        "max": 100
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "Alex",
-        "피해%"
-      ],
-      "samples": [
-        {
-          "name": "래더 쿠코 샤카쿠 시더 보우",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 100,
-          "unitPriceP": 100,
-          "options": [
-            {
-              "label": "피해%",
-              "value": "165"
-            },
-            {
-              "label": "Alex",
-              "value": "0725"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=312210"
-        },
-        {
-          "name": "래더 쿠코 샤카쿠 시더 보우",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 100,
-          "unitPriceP": 100,
-          "options": [
-            {
-              "label": "피해%",
-              "value": "165"
-            }
-          ],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 큰까마귀 발톱 롱보우",
-      "category": "기타",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 200,
-        "median": 200,
-        "max": 200
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "Alex",
-        "피해%"
-      ],
-      "samples": [
-        {
-          "name": "래더 큰까마귀 발톱 롱보우",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 2,
-          "priceP": 200,
-          "unitPriceP": 200,
-          "options": [
-            {
-              "label": "피해%",
-              "value": "61"
-            },
-            {
-              "label": "Alex",
-              "value": "0725"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=242078"
-        },
-        {
-          "name": "래더 큰까마귀 발톱 롱보우",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 2,
-          "priceP": 200,
-          "unitPriceP": 200,
-          "options": [
-            {
-              "label": "피해%",
-              "value": "61"
-            }
-          ],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 할리퀸 관모 샤코",
-      "category": "기타",
+      "name": "스탠 굴룬",
+      "category": "룬",
       "listingCount": 2,
       "price": {
         "currency": "P",
@@ -450,116 +404,166 @@
       ],
       "optionLabels": [
         "5.",
-        "곰고기",
-        "총 방어력"
+        "tackal"
       ],
       "samples": [
         {
-          "name": "래더 할리퀸 관모 샤코",
-          "category": "기타",
+          "name": "스탠 굴룬",
+          "category": "룬",
           "server": "악군",
           "status": "",
-          "quantity": 1,
+          "quantity": 8,
           "priceP": 300,
           "unitPriceP": 300,
           "options": [
             {
-              "label": "총 방어력",
-              "value": "113"
-            },
-            {
-              "label": "곰고기",
-              "value": "82"
+              "label": "tackal",
+              "value": "72"
             },
             {
               "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=433100"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=429504"
         },
         {
-          "name": "래더 할리퀸 관모 샤코",
-          "category": "기타",
+          "name": "스탠 굴룬",
+          "category": "룬",
           "server": "악군",
           "status": "",
-          "quantity": 1,
+          "quantity": 8,
           "priceP": 300,
           "unitPriceP": 300,
-          "options": [
-            {
-              "label": "총 방어력",
-              "value": "113"
-            }
-          ],
+          "options": [],
           "url": null
         }
       ]
     },
     {
-      "name": "스탠 무지개 자락 주얼(화염,사망시)",
+      "name": "스탠 면죄의 징표",
       "category": "기타",
       "listingCount": 2,
       "price": {
         "currency": "P",
-        "min": 750,
-        "median": 750,
-        "max": 750
+        "min": 290,
+        "median": 290,
+        "max": 290
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
         "5.",
-        "iamarich",
-        "적의 화염 저항-%",
-        "화염 기술 피해%"
+        "tackal"
       ],
       "samples": [
         {
-          "name": "스탠 무지개 자락 주얼(화염,사망시)",
+          "name": "스탠 면죄의 징표",
           "category": "기타",
           "server": "악군",
           "status": "",
-          "quantity": 1,
-          "priceP": 750,
-          "unitPriceP": 750,
+          "quantity": 14,
+          "priceP": 290,
+          "unitPriceP": 290,
           "options": [
             {
-              "label": "화염 기술 피해%",
-              "value": "5"
-            },
-            {
-              "label": "적의 화염 저항-%",
-              "value": "5"
-            },
-            {
-              "label": "iamarich",
-              "value": "8"
+              "label": "tackal",
+              "value": "72"
             },
             {
               "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=421458"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=429506"
         },
         {
-          "name": "스탠 무지개 자락 주얼(화염,사망시)",
+          "name": "스탠 면죄의 징표",
           "category": "기타",
           "server": "악군",
           "status": "",
+          "quantity": 14,
+          "priceP": 290,
+          "unitPriceP": 290,
+          "options": [],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "스탠 작은 부적",
+      "category": "부적",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 10000,
+        "median": 10000,
+        "max": 10000
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "5.",
+        "tackal",
+        "명중률",
+        "생명력",
+        "최대 피해"
+      ],
+      "samples": [
+        {
+          "name": "스탠 작은 부적",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
           "quantity": 1,
-          "priceP": 750,
-          "unitPriceP": 750,
+          "priceP": 10000,
+          "unitPriceP": 10000,
           "options": [
             {
-              "label": "화염 기술 피해%",
-              "value": "5"
+              "label": "최대 피해",
+              "value": "3"
             },
             {
-              "label": "적의 화염 저항-%",
-              "value": "5"
+              "label": "명중률",
+              "value": "20"
+            },
+            {
+              "label": "생명력",
+              "value": "18"
+            },
+            {
+              "label": "tackal",
+              "value": "72"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=429512"
+        },
+        {
+          "name": "스탠 작은 부적",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 10000,
+          "unitPriceP": 10000,
+          "options": [
+            {
+              "label": "최대 피해",
+              "value": "3"
+            },
+            {
+              "label": "명중률",
+              "value": "20"
+            },
+            {
+              "label": "생명력",
+              "value": "18"
             }
           ],
           "url": null
@@ -567,89 +571,101 @@
       ]
     },
     {
-      "name": "스탠 잠복하는 불길의 균열 거대 부적",
-      "category": "부적",
+      "name": "스탠 조각상 세트",
+      "category": "세트",
       "listingCount": 2,
       "price": {
         "currency": "P",
-        "min": 500,
-        "median": 500,
-        "max": 500
+        "min": 1000,
+        "median": 1000,
+        "max": 1000
       },
       "servers": [
         "악군"
       ],
-      "optionLabels": [],
+      "optionLabels": [
+        "5.",
+        "tackal"
+      ],
       "samples": [
         {
-          "name": "스탠 잠복하는 불길의 균열 거대 부적",
-          "category": "부적",
+          "name": "스탠 조각상 세트",
+          "category": "세트",
           "server": "악군",
           "status": "",
-          "quantity": 3,
-          "priceP": 500,
-          "unitPriceP": 500,
-          "options": [],
-          "url": null
+          "quantity": 30,
+          "priceP": 1000,
+          "unitPriceP": 1000,
+          "options": [
+            {
+              "label": "tackal",
+              "value": "72"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=429503"
         },
         {
-          "name": "스탠 잠복하는 불길의 균열 거대 부적",
-          "category": "부적",
+          "name": "스탠 조각상 세트",
+          "category": "세트",
           "server": "악군",
           "status": "",
-          "quantity": 0,
-          "priceP": 500,
-          "unitPriceP": 500,
+          "quantity": 30,
+          "priceP": 1000,
+          "unitPriceP": 1000,
           "options": [],
           "url": null
         }
       ]
     },
     {
-      "name": "래더 그리폰의 눈 다이어뎀",
+      "name": "스탠 면죄의 징표",
       "category": "룬워드",
       "listingCount": 1,
       "price": {
         "currency": "P",
-        "min": 21000,
-        "median": 21000,
-        "max": 21000
+        "min": 290,
+        "median": 290,
+        "max": 290
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "#마흡",
-        "#으뜸 라뎀,라깍",
-        "0.",
+        "#ㄴㄴ 으뜸방어",
         "5.",
-        "Alex",
-        "iamarich",
-        "거래 상대방",
-        "곰고기",
+        "tackal",
+        "가르노아",
+        "경험치 획득량%",
+        "괴물에게서 얻는 금화%",
+        "두목",
         "디아블로",
+        "마법 아이템 발견 확률%",
         "명중률",
         "방어력",
         "번개 기술 피해%",
-        "선물디아",
+        "생명력",
+        "적의 물리 피해 저항-%",
         "적의 번개 저항-%",
-        "적의 화염 저항-%",
-        "적중당 마나 훔침%",
         "지금 시작하면, 멤버십 PLUS",
-        "총 방어력",
+        "최대 피해",
         "플레이디아 디아블로",
         "피해%",
-        "화염 기술 피해%"
+        "홈 있음(소켓)",
+        "화염 저항%"
       ],
       "samples": [
         {
-          "name": "래더 그리폰의 눈 다이어뎀",
+          "name": "스탠 면죄의 징표",
           "category": "룬워드",
           "server": "악군",
           "status": "거래완료",
-          "quantity": 1,
-          "priceP": 21000,
-          "unitPriceP": 21000,
+          "quantity": 14,
+          "priceP": 290,
+          "unitPriceP": 290,
           "options": [
             {
               "label": "지금 시작하면, 멤버십 PLUS",
@@ -664,88 +680,88 @@
               "value": "2"
             },
             {
-              "label": "적의 번개 저항-%",
-              "value": "20"
-            },
-            {
-              "label": "번개 기술 피해%",
-              "value": "15"
-            },
-            {
-              "label": "방어력",
-              "value": "105"
-            },
-            {
-              "label": "#으뜸 라뎀,라깍",
-              "value": "15"
-            },
-            {
-              "label": "선물디아",
-              "value": "37"
-            },
-            {
-              "label": "0.",
-              "value": "00"
-            },
-            {
-              "label": "총 방어력",
-              "value": "113"
-            },
-            {
-              "label": "곰고기",
-              "value": "82"
+              "label": "tackal",
+              "value": "72"
             },
             {
               "label": "5.",
               "value": "00"
             },
             {
-              "label": "화염 기술 피해%",
-              "value": "5"
+              "label": "생명력",
+              "value": "20"
             },
             {
-              "label": "적의 화염 저항-%",
-              "value": "5"
+              "label": "화염 저항%",
+              "value": "11"
             },
             {
-              "label": "iamarich",
-              "value": "8"
-            },
-            {
-              "label": "피해%",
-              "value": "142"
-            },
-            {
-              "label": "적중당 마나 훔침%",
+              "label": "홈 있음(소켓)",
               "value": "4"
             },
             {
-              "label": "#마흡",
-              "value": "4"
+              "label": "#ㄴㄴ 으뜸방어",
+              "value": "524"
             },
             {
-              "label": "Alex",
-              "value": "0725"
-            },
-            {
-              "label": "거래 상대방",
-              "value": "1"
-            },
-            {
-              "label": "피해%",
-              "value": "189"
-            },
-            {
-              "label": "방어력",
-              "value": "131"
-            },
-            {
-              "label": "피해%",
-              "value": "80"
+              "label": "최대 피해",
+              "value": "3"
             },
             {
               "label": "명중률",
-              "value": "71"
+              "value": "20"
+            },
+            {
+              "label": "생명력",
+              "value": "18"
+            },
+            {
+              "label": "적의 번개 저항-%",
+              "value": "15"
+            },
+            {
+              "label": "번개 기술 피해%",
+              "value": "14"
+            },
+            {
+              "label": "방어력",
+              "value": "162"
+            },
+            {
+              "label": "두목",
+              "value": "4"
+            },
+            {
+              "label": "피해%",
+              "value": "44"
+            },
+            {
+              "label": "적의 물리 피해 저항-%",
+              "value": "9"
+            },
+            {
+              "label": "경험치 획득량%",
+              "value": "5"
+            },
+            {
+              "label": "괴물에게서 얻는 금화%",
+              "value": "45"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "26"
+            },
+            {
+              "label": "가르노아",
+              "value": "128"
+            },
+            {
+              "label": "피해%",
+              "value": "43"
+            },
+            {
+              "label": "경험치 획득량%",
+              "value": "4"
             }
           ],
           "url": "https://www.playnote.co.kr/customer/noticedetail?Index=5"
@@ -753,144 +769,139 @@
       ]
     },
     {
-      "name": "래더 그리폰의 눈 다이어뎀",
-      "category": "부적",
+      "name": "스탠 면죄의 징표",
+      "category": "세트",
       "listingCount": 1,
       "price": {
         "currency": "P",
-        "min": 21000,
-        "median": 21000,
-        "max": 21000
+        "min": 290,
+        "median": 290,
+        "max": 290
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "#마흡",
-        "#으뜸 라뎀,라깍",
-        "0.",
+        "#ㄴㄴ 으뜸방어",
         "5.",
-        "Alex",
-        "iamarich",
-        "거래 상대방",
-        "곰고기",
+        "tackal",
+        "가르노아",
+        "경험치 획득량%",
+        "괴물에게서 얻는 금화%",
+        "두목",
+        "마법 아이템 발견 확률%",
         "명중률",
         "방어력",
         "번개 기술 피해%",
-        "선물디아",
-        "적의 냉기 저항-%",
+        "생명력",
+        "적의 물리 피해 저항-%",
         "적의 번개 저항-%",
-        "적의 화염 저항-%",
-        "적중당 마나 훔침%",
-        "총 방어력",
+        "최대 피해",
         "피해%",
-        "화염 기술 피해%"
+        "홈 있음(소켓)",
+        "화염 저항%"
       ],
       "samples": [
         {
-          "name": "래더 그리폰의 눈 다이어뎀",
-          "category": "부적",
+          "name": "스탠 면죄의 징표",
+          "category": "세트",
           "server": "악군",
           "status": "거래완료",
-          "quantity": 1,
-          "priceP": 21000,
-          "unitPriceP": 21000,
+          "quantity": 14,
+          "priceP": 290,
+          "unitPriceP": 290,
           "options": [
             {
-              "label": "적의 번개 저항-%",
-              "value": "20"
-            },
-            {
-              "label": "번개 기술 피해%",
-              "value": "15"
-            },
-            {
-              "label": "방어력",
-              "value": "105"
-            },
-            {
-              "label": "#으뜸 라뎀,라깍",
-              "value": "15"
-            },
-            {
-              "label": "선물디아",
-              "value": "37"
-            },
-            {
-              "label": "0.",
-              "value": "00"
-            },
-            {
-              "label": "총 방어력",
-              "value": "113"
-            },
-            {
-              "label": "곰고기",
-              "value": "82"
+              "label": "tackal",
+              "value": "72"
             },
             {
               "label": "5.",
               "value": "00"
             },
             {
-              "label": "화염 기술 피해%",
-              "value": "5"
+              "label": "생명력",
+              "value": "20"
             },
             {
-              "label": "적의 화염 저항-%",
-              "value": "5"
+              "label": "화염 저항%",
+              "value": "11"
             },
             {
-              "label": "iamarich",
-              "value": "8"
-            },
-            {
-              "label": "피해%",
-              "value": "142"
-            },
-            {
-              "label": "적중당 마나 훔침%",
+              "label": "홈 있음(소켓)",
               "value": "4"
             },
             {
-              "label": "#마흡",
-              "value": "4"
+              "label": "#ㄴㄴ 으뜸방어",
+              "value": "524"
             },
             {
-              "label": "Alex",
-              "value": "0725"
-            },
-            {
-              "label": "거래 상대방",
-              "value": "1"
-            },
-            {
-              "label": "피해%",
-              "value": "189"
-            },
-            {
-              "label": "방어력",
-              "value": "131"
-            },
-            {
-              "label": "피해%",
-              "value": "80"
+              "label": "최대 피해",
+              "value": "3"
             },
             {
               "label": "명중률",
-              "value": "71"
+              "value": "20"
             },
             {
-              "label": "적의 냉기 저항-%",
-              "value": "35"
+              "label": "생명력",
+              "value": "18"
+            },
+            {
+              "label": "적의 번개 저항-%",
+              "value": "15"
+            },
+            {
+              "label": "번개 기술 피해%",
+              "value": "14"
+            },
+            {
+              "label": "방어력",
+              "value": "162"
+            },
+            {
+              "label": "두목",
+              "value": "4"
             },
             {
               "label": "피해%",
-              "value": "61"
+              "value": "44"
+            },
+            {
+              "label": "적의 물리 피해 저항-%",
+              "value": "9"
+            },
+            {
+              "label": "경험치 획득량%",
+              "value": "5"
+            },
+            {
+              "label": "괴물에게서 얻는 금화%",
+              "value": "45"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "26"
+            },
+            {
+              "label": "가르노아",
+              "value": "128"
             },
             {
               "label": "피해%",
-              "value": "165"
+              "value": "43"
+            },
+            {
+              "label": "경험치 획득량%",
+              "value": "4"
+            },
+            {
+              "label": "괴물에게서 얻는 금화%",
+              "value": "41"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "21"
             }
           ],
           "url": "https://www.playnote.co.kr/trade/itemmarket?index=1"
