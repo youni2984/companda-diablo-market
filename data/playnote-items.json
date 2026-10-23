@@ -1,130 +1,320 @@
 {
   "source": "https://www.playnote.co.kr/trade/itemmarket?index=1",
   "scope": "public-listings-only",
-  "updatedAt": "2026-10-23T07:22:48.844879+00:00",
-  "listingCount": 18,
-  "itemCount": 10,
+  "updatedAt": "2026-10-23T12:50:30.549256+00:00",
+  "listingCount": 20,
+  "itemCount": 11,
   "items": [
     {
-      "name": "래더 말룬",
-      "category": "룬",
-      "listingCount": 3,
-      "price": {
-        "currency": "P",
-        "min": 180,
-        "median": 180,
-        "max": 180
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "//",
-        "5.",
-        "AAA상점"
-      ],
-      "samples": [
-        {
-          "name": "래더 말룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 2,
-          "priceP": 180,
-          "unitPriceP": 180,
-          "options": [],
-          "url": null
-        },
-        {
-          "name": "래더 말룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 42,
-          "priceP": 180,
-          "unitPriceP": 180,
-          "options": [
-            {
-              "label": "//",
-              "value": "2"
-            },
-            {
-              "label": "AAA상점",
-              "value": "138"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=428164"
-        },
-        {
-          "name": "래더 말룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 42,
-          "priceP": 180,
-          "unitPriceP": 180,
-          "options": [],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 굴룬",
-      "category": "룬",
+      "name": "래더 공포송곳니 레전드 소드",
+      "category": "기타",
       "listingCount": 2,
       "price": {
         "currency": "P",
-        "min": 300,
-        "median": 300,
-        "max": 300
+        "min": 200,
+        "median": 200,
+        "max": 200
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
+        "#마흡",
         "5.",
-        "오즈"
+        "Alex",
+        "적중당 마나 훔침%",
+        "피해%"
       ],
       "samples": [
         {
-          "name": "래더 굴룬",
-          "category": "룬",
+          "name": "래더 공포송곳니 레전드 소드",
+          "category": "기타",
           "server": "악군",
           "status": "",
-          "quantity": 1,
-          "priceP": 300,
-          "unitPriceP": 300,
+          "quantity": 2,
+          "priceP": 200,
+          "unitPriceP": 200,
           "options": [
             {
-              "label": "오즈",
-              "value": "17"
+              "label": "피해%",
+              "value": "142"
+            },
+            {
+              "label": "적중당 마나 훔침%",
+              "value": "4"
+            },
+            {
+              "label": "#마흡",
+              "value": "4"
+            },
+            {
+              "label": "Alex",
+              "value": "0725"
             },
             {
               "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=419367"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=257113"
         },
         {
-          "name": "래더 굴룬",
-          "category": "룬",
+          "name": "래더 공포송곳니 레전드 소드",
+          "category": "기타",
           "server": "악군",
           "status": "",
-          "quantity": 1,
-          "priceP": 300,
-          "unitPriceP": 300,
-          "options": [],
+          "quantity": 2,
+          "priceP": 200,
+          "unitPriceP": 200,
+          "options": [
+            {
+              "label": "피해%",
+              "value": "142"
+            },
+            {
+              "label": "적중당 마나 훔침%",
+              "value": "4"
+            }
+          ],
           "url": null
         }
       ]
     },
     {
-      "name": "래더 기욤의 얼굴",
+      "name": "래더 그리폰의 눈 다이어뎀",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 21000,
+        "median": 21000,
+        "max": 21000
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "#으뜸 라뎀,라깍",
+        "0.",
+        "방어력",
+        "번개 기술 피해%",
+        "선물디아",
+        "적의 번개 저항-%"
+      ],
+      "samples": [
+        {
+          "name": "래더 그리폰의 눈 다이어뎀",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 21000,
+          "unitPriceP": 21000,
+          "options": [
+            {
+              "label": "적의 번개 저항-%",
+              "value": "20"
+            },
+            {
+              "label": "번개 기술 피해%",
+              "value": "15"
+            },
+            {
+              "label": "방어력",
+              "value": "105"
+            },
+            {
+              "label": "#으뜸 라뎀,라깍",
+              "value": "15"
+            },
+            {
+              "label": "선물디아",
+              "value": "37"
+            },
+            {
+              "label": "0.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=432963"
+        },
+        {
+          "name": "래더 그리폰의 눈 다이어뎀",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 21000,
+          "unitPriceP": 21000,
+          "options": [
+            {
+              "label": "적의 번개 저항-%",
+              "value": "20"
+            },
+            {
+              "label": "번개 기술 피해%",
+              "value": "15"
+            },
+            {
+              "label": "방어력",
+              "value": "105"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 눈보라 포 발리스타",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 500,
+        "median": 500,
+        "max": 500
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "5.",
+        "Alex",
+        "방어력",
+        "피해%"
+      ],
+      "samples": [
+        {
+          "name": "래더 눈보라 포 발리스타",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 500,
+          "unitPriceP": 500,
+          "options": [
+            {
+              "label": "피해%",
+              "value": "189"
+            },
+            {
+              "label": "방어력",
+              "value": "131"
+            },
+            {
+              "label": "Alex",
+              "value": "0725"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=217543"
+        },
+        {
+          "name": "래더 눈보라 포 발리스타",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 500,
+          "unitPriceP": 500,
+          "options": [
+            {
+              "label": "피해%",
+              "value": "189"
+            },
+            {
+              "label": "방어력",
+              "value": "131"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 슬기매김 롱 배틀 보우",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 1000,
+        "median": 1000,
+        "max": 1000
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "5.",
+        "Alex",
+        "명중률",
+        "적의 냉기 저항-%",
+        "피해%"
+      ],
+      "samples": [
+        {
+          "name": "래더 슬기매김 롱 배틀 보우",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 1000,
+          "unitPriceP": 1000,
+          "options": [
+            {
+              "label": "피해%",
+              "value": "80"
+            },
+            {
+              "label": "명중률",
+              "value": "71"
+            },
+            {
+              "label": "적의 냉기 저항-%",
+              "value": "35"
+            },
+            {
+              "label": "Alex",
+              "value": "0725"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=349426"
+        },
+        {
+          "name": "래더 슬기매김 롱 배틀 보우",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 1000,
+          "unitPriceP": 1000,
+          "options": [
+            {
+              "label": "피해%",
+              "value": "80"
+            },
+            {
+              "label": "명중률",
+              "value": "71"
+            },
+            {
+              "label": "적의 냉기 저항-%",
+              "value": "35"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 쿠코 샤카쿠 시더 보우",
       "category": "기타",
       "listingCount": 2,
       "price": {
@@ -138,106 +328,46 @@
       ],
       "optionLabels": [
         "5.",
-        "빵곰"
+        "Alex",
+        "피해%"
       ],
       "samples": [
         {
-          "name": "래더 기욤의 얼굴",
+          "name": "래더 쿠코 샤카쿠 시더 보우",
           "category": "기타",
           "server": "악군",
           "status": "",
-          "quantity": 2,
+          "quantity": 1,
           "priceP": 100,
           "unitPriceP": 100,
           "options": [
             {
-              "label": "빵곰",
-              "value": "81"
+              "label": "피해%",
+              "value": "165"
+            },
+            {
+              "label": "Alex",
+              "value": "0725"
             },
             {
               "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=424352"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=312210"
         },
         {
-          "name": "래더 기욤의 얼굴",
+          "name": "래더 쿠코 샤카쿠 시더 보우",
           "category": "기타",
           "server": "악군",
           "status": "",
-          "quantity": 2,
+          "quantity": 1,
           "priceP": 100,
           "unitPriceP": 100,
-          "options": [],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 메이지 플레이트",
-      "category": "기타",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 250,
-        "median": 250,
-        "max": 250
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "빵곰",
-        "총 방어력",
-        "홈 있음(소켓)"
-      ],
-      "samples": [
-        {
-          "name": "래더 메이지 플레이트",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 250,
-          "unitPriceP": 250,
           "options": [
             {
-              "label": "홈 있음(소켓)",
-              "value": "3"
-            },
-            {
-              "label": "총 방어력",
-              "value": "260"
-            },
-            {
-              "label": "빵곰",
-              "value": "81"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=431114"
-        },
-        {
-          "name": "래더 메이지 플레이트",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 250,
-          "unitPriceP": 250,
-          "options": [
-            {
-              "label": "홈 있음(소켓)",
-              "value": "3"
-            },
-            {
-              "label": "총 방어력",
-              "value": "260"
+              "label": "피해%",
+              "value": "165"
             }
           ],
           "url": null
@@ -245,7 +375,7 @@
       ]
     },
     {
-      "name": "래더 탈 라샤의 선고",
+      "name": "래더 큰까마귀 발톱 롱보우",
       "category": "기타",
       "listingCount": 2,
       "price": {
@@ -259,246 +389,267 @@
       ],
       "optionLabels": [
         "5.",
-        "빵곰"
+        "Alex",
+        "피해%"
       ],
       "samples": [
         {
-          "name": "래더 탈 라샤의 선고",
+          "name": "래더 큰까마귀 발톱 롱보우",
           "category": "기타",
           "server": "악군",
           "status": "",
-          "quantity": 1,
+          "quantity": 2,
           "priceP": 200,
           "unitPriceP": 200,
           "options": [
             {
-              "label": "빵곰",
-              "value": "81"
+              "label": "피해%",
+              "value": "61"
+            },
+            {
+              "label": "Alex",
+              "value": "0725"
             },
             {
               "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=430748"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=242078"
         },
         {
-          "name": "래더 탈 라샤의 선고",
+          "name": "래더 큰까마귀 발톱 롱보우",
           "category": "기타",
           "server": "악군",
           "status": "",
-          "quantity": 1,
+          "quantity": 2,
           "priceP": 200,
           "unitPriceP": 200,
-          "options": [],
+          "options": [
+            {
+              "label": "피해%",
+              "value": "61"
+            }
+          ],
           "url": null
         }
       ]
     },
     {
-      "name": "스탠 디바인 셉터",
+      "name": "래더 할리퀸 관모 샤코",
       "category": "기타",
       "listingCount": 2,
       "price": {
         "currency": "P",
-        "min": 27000,
-        "median": 27000,
-        "max": 27000
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "0.",
-        "갈구는아줌마",
-        "신성한 충격(성기사 전용)",
-        "전투 명령(공용 기술)",
-        "전투 지시(공용 기술)",
-        "전투의 함성(공용 기술)",
-        "천상의 주먹(성기사 전용)",
-        "홈 있음(소켓)"
-      ],
-      "samples": [
-        {
-          "name": "스탠 디바인 셉터",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 27000,
-          "unitPriceP": 27000,
-          "options": [
-            {
-              "label": "천상의 주먹(성기사 전용)",
-              "value": "2"
-            },
-            {
-              "label": "신성한 충격(성기사 전용)",
-              "value": "3"
-            },
-            {
-              "label": "전투 명령(공용 기술)",
-              "value": "4"
-            },
-            {
-              "label": "전투 지시(공용 기술)",
-              "value": "6"
-            },
-            {
-              "label": "전투의 함성(공용 기술)",
-              "value": "3"
-            },
-            {
-              "label": "홈 있음(소켓)",
-              "value": "5"
-            },
-            {
-              "label": "갈구는아줌마",
-              "value": "39"
-            },
-            {
-              "label": "0.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=429078"
-        },
-        {
-          "name": "스탠 디바인 셉터",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 27000,
-          "unitPriceP": 27000,
-          "options": [
-            {
-              "label": "천상의 주먹(성기사 전용)",
-              "value": "2"
-            },
-            {
-              "label": "신성한 충격(성기사 전용)",
-              "value": "3"
-            },
-            {
-              "label": "전투 명령(공용 기술)",
-              "value": "4"
-            },
-            {
-              "label": "전투 지시(공용 기술)",
-              "value": "6"
-            },
-            {
-              "label": "전투의 함성(공용 기술)",
-              "value": "3"
-            },
-            {
-              "label": "홈 있음(소켓)",
-              "value": "5"
-            }
-          ],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "스탠 우움룬",
-      "category": "룬",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 190,
-        "median": 190,
-        "max": 190
+        "min": 300,
+        "median": 300,
+        "max": 300
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
         "5.",
-        "빵곰"
+        "곰고기",
+        "총 방어력"
       ],
       "samples": [
         {
-          "name": "스탠 우움룬",
-          "category": "룬",
+          "name": "래더 할리퀸 관모 샤코",
+          "category": "기타",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 190,
-          "unitPriceP": 190,
+          "priceP": 300,
+          "unitPriceP": 300,
           "options": [
             {
-              "label": "빵곰",
-              "value": "81"
+              "label": "총 방어력",
+              "value": "113"
+            },
+            {
+              "label": "곰고기",
+              "value": "82"
             },
             {
               "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=413350"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=433100"
         },
         {
-          "name": "스탠 우움룬",
-          "category": "룬",
+          "name": "래더 할리퀸 관모 샤코",
+          "category": "기타",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 190,
-          "unitPriceP": 190,
+          "priceP": 300,
+          "unitPriceP": 300,
+          "options": [
+            {
+              "label": "총 방어력",
+              "value": "113"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "스탠 무지개 자락 주얼(화염,사망시)",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 750,
+        "median": 750,
+        "max": 750
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "5.",
+        "iamarich",
+        "적의 화염 저항-%",
+        "화염 기술 피해%"
+      ],
+      "samples": [
+        {
+          "name": "스탠 무지개 자락 주얼(화염,사망시)",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 750,
+          "unitPriceP": 750,
+          "options": [
+            {
+              "label": "화염 기술 피해%",
+              "value": "5"
+            },
+            {
+              "label": "적의 화염 저항-%",
+              "value": "5"
+            },
+            {
+              "label": "iamarich",
+              "value": "8"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=421458"
+        },
+        {
+          "name": "스탠 무지개 자락 주얼(화염,사망시)",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 750,
+          "unitPriceP": 750,
+          "options": [
+            {
+              "label": "화염 기술 피해%",
+              "value": "5"
+            },
+            {
+              "label": "적의 화염 저항-%",
+              "value": "5"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "스탠 잠복하는 불길의 균열 거대 부적",
+      "category": "부적",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 500,
+        "median": 500,
+        "max": 500
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [],
+      "samples": [
+        {
+          "name": "스탠 잠복하는 불길의 균열 거대 부적",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 3,
+          "priceP": 500,
+          "unitPriceP": 500,
+          "options": [],
+          "url": null
+        },
+        {
+          "name": "스탠 잠복하는 불길의 균열 거대 부적",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 0,
+          "priceP": 500,
+          "unitPriceP": 500,
           "options": [],
           "url": null
         }
       ]
     },
     {
-      "name": "스탠 디바인 셉터",
+      "name": "래더 그리폰의 눈 다이어뎀",
       "category": "룬워드",
       "listingCount": 1,
       "price": {
         "currency": "P",
-        "min": 27000,
-        "median": 27000,
-        "max": 27000
+        "min": 21000,
+        "median": 21000,
+        "max": 21000
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "//",
+        "#마흡",
+        "#으뜸 라뎀,라깍",
         "0.",
-        "1,",
         "5.",
-        "AAA상점",
-        "갈구는아줌마",
+        "Alex",
+        "iamarich",
         "거래 상대방",
+        "곰고기",
         "디아블로",
-        "마법 아이템 발견 확률%",
-        "빵곰",
-        "사업자등록번호:",
-        "신성한 충격(성기사 전용)",
-        "오즈",
-        "옵션",
-        "전투 명령(공용 기술)",
-        "전투 지시(공용 기술)",
-        "전투의 함성(공용 기술)",
+        "명중률",
+        "방어력",
+        "번개 기술 피해%",
+        "선물디아",
+        "적의 번개 저항-%",
+        "적의 화염 저항-%",
+        "적중당 마나 훔침%",
         "지금 시작하면, 멤버십 PLUS",
-        "천상의 주먹(성기사 전용)",
         "총 방어력",
-        "통신판매신고번호: 제",
         "플레이디아 디아블로",
-        "홈 있음(소켓)"
+        "피해%",
+        "화염 기술 피해%"
       ],
       "samples": [
         {
-          "name": "스탠 디바인 셉터",
+          "name": "래더 그리폰의 눈 다이어뎀",
           "category": "룬워드",
           "server": "악군",
           "status": "거래완료",
           "quantity": 1,
-          "priceP": 27000,
-          "unitPriceP": 27000,
+          "priceP": 21000,
+          "unitPriceP": 21000,
           "options": [
             {
               "label": "지금 시작하면, 멤버십 PLUS",
@@ -513,88 +664,88 @@
               "value": "2"
             },
             {
-              "label": "천상의 주먹(성기사 전용)",
-              "value": "2"
+              "label": "적의 번개 저항-%",
+              "value": "20"
             },
             {
-              "label": "신성한 충격(성기사 전용)",
-              "value": "3"
+              "label": "번개 기술 피해%",
+              "value": "15"
             },
             {
-              "label": "전투 명령(공용 기술)",
-              "value": "4"
+              "label": "방어력",
+              "value": "105"
             },
             {
-              "label": "전투 지시(공용 기술)",
-              "value": "6"
+              "label": "#으뜸 라뎀,라깍",
+              "value": "15"
             },
             {
-              "label": "전투의 함성(공용 기술)",
-              "value": "3"
-            },
-            {
-              "label": "홈 있음(소켓)",
-              "value": "5"
-            },
-            {
-              "label": "갈구는아줌마",
-              "value": "39"
+              "label": "선물디아",
+              "value": "37"
             },
             {
               "label": "0.",
               "value": "00"
             },
             {
-              "label": "거래 상대방",
-              "value": "1"
+              "label": "총 방어력",
+              "value": "113"
             },
             {
-              "label": "오즈",
-              "value": "17"
+              "label": "곰고기",
+              "value": "82"
             },
             {
               "label": "5.",
               "value": "00"
             },
             {
-              "label": "마법 아이템 발견 확률%",
-              "value": "15"
+              "label": "화염 기술 피해%",
+              "value": "5"
             },
             {
-              "label": "//",
-              "value": "2"
+              "label": "적의 화염 저항-%",
+              "value": "5"
             },
             {
-              "label": "AAA상점",
-              "value": "138"
+              "label": "iamarich",
+              "value": "8"
             },
             {
-              "label": "홈 있음(소켓)",
-              "value": "3"
+              "label": "피해%",
+              "value": "142"
             },
             {
-              "label": "총 방어력",
-              "value": "260"
+              "label": "적중당 마나 훔침%",
+              "value": "4"
             },
             {
-              "label": "빵곰",
-              "value": "81"
+              "label": "#마흡",
+              "value": "4"
             },
             {
-              "label": "옵션",
-              "value": "0"
+              "label": "Alex",
+              "value": "0725"
             },
             {
-              "label": "1,",
-              "value": "000"
+              "label": "거래 상대방",
+              "value": "1"
             },
             {
-              "label": "사업자등록번호:",
-              "value": "148"
+              "label": "피해%",
+              "value": "189"
             },
             {
-              "label": "통신판매신고번호: 제",
-              "value": "2021"
+              "label": "방어력",
+              "value": "131"
+            },
+            {
+              "label": "피해%",
+              "value": "80"
+            },
+            {
+              "label": "명중률",
+              "value": "71"
             }
           ],
           "url": "https://www.playnote.co.kr/customer/noticedetail?Index=5"
@@ -602,151 +753,147 @@
       ]
     },
     {
-      "name": "스탠 디바인 셉터",
-      "category": "룬",
+      "name": "래더 그리폰의 눈 다이어뎀",
+      "category": "부적",
       "listingCount": 1,
       "price": {
         "currency": "P",
-        "min": 27000,
-        "median": 27000,
-        "max": 27000
+        "min": 21000,
+        "median": 21000,
+        "max": 21000
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "//",
+        "#마흡",
+        "#으뜸 라뎀,라깍",
         "0.",
         "5.",
-        "AAA상점",
-        "갈구는아줌마",
+        "Alex",
+        "iamarich",
         "거래 상대방",
-        "마법 아이템 발견 확률%",
-        "빵곰",
-        "신성한 충격(성기사 전용)",
-        "오즈",
-        "전투 명령(공용 기술)",
-        "전투 지시(공용 기술)",
-        "전투의 함성(공용 기술)",
-        "천상의 주먹(성기사 전용)",
+        "곰고기",
+        "명중률",
+        "방어력",
+        "번개 기술 피해%",
+        "선물디아",
+        "적의 냉기 저항-%",
+        "적의 번개 저항-%",
+        "적의 화염 저항-%",
+        "적중당 마나 훔침%",
         "총 방어력",
-        "홈 있음(소켓)"
+        "피해%",
+        "화염 기술 피해%"
       ],
       "samples": [
         {
-          "name": "스탠 디바인 셉터",
-          "category": "룬",
+          "name": "래더 그리폰의 눈 다이어뎀",
+          "category": "부적",
           "server": "악군",
           "status": "거래완료",
           "quantity": 1,
-          "priceP": 27000,
-          "unitPriceP": 27000,
+          "priceP": 21000,
+          "unitPriceP": 21000,
           "options": [
             {
-              "label": "천상의 주먹(성기사 전용)",
-              "value": "2"
+              "label": "적의 번개 저항-%",
+              "value": "20"
             },
             {
-              "label": "신성한 충격(성기사 전용)",
-              "value": "3"
+              "label": "번개 기술 피해%",
+              "value": "15"
             },
             {
-              "label": "전투 명령(공용 기술)",
-              "value": "4"
+              "label": "방어력",
+              "value": "105"
             },
             {
-              "label": "전투 지시(공용 기술)",
-              "value": "6"
+              "label": "#으뜸 라뎀,라깍",
+              "value": "15"
             },
             {
-              "label": "전투의 함성(공용 기술)",
-              "value": "3"
-            },
-            {
-              "label": "홈 있음(소켓)",
-              "value": "5"
-            },
-            {
-              "label": "갈구는아줌마",
-              "value": "39"
+              "label": "선물디아",
+              "value": "37"
             },
             {
               "label": "0.",
               "value": "00"
             },
             {
-              "label": "거래 상대방",
-              "value": "1"
+              "label": "총 방어력",
+              "value": "113"
             },
             {
-              "label": "오즈",
-              "value": "17"
+              "label": "곰고기",
+              "value": "82"
             },
             {
               "label": "5.",
               "value": "00"
             },
             {
-              "label": "마법 아이템 발견 확률%",
-              "value": "15"
+              "label": "화염 기술 피해%",
+              "value": "5"
             },
             {
-              "label": "//",
-              "value": "2"
+              "label": "적의 화염 저항-%",
+              "value": "5"
             },
             {
-              "label": "AAA상점",
-              "value": "138"
+              "label": "iamarich",
+              "value": "8"
             },
             {
-              "label": "홈 있음(소켓)",
-              "value": "3"
+              "label": "피해%",
+              "value": "142"
             },
             {
-              "label": "총 방어력",
-              "value": "260"
+              "label": "적중당 마나 훔침%",
+              "value": "4"
             },
             {
-              "label": "빵곰",
-              "value": "81"
+              "label": "#마흡",
+              "value": "4"
+            },
+            {
+              "label": "Alex",
+              "value": "0725"
+            },
+            {
+              "label": "거래 상대방",
+              "value": "1"
+            },
+            {
+              "label": "피해%",
+              "value": "189"
+            },
+            {
+              "label": "방어력",
+              "value": "131"
+            },
+            {
+              "label": "피해%",
+              "value": "80"
+            },
+            {
+              "label": "명중률",
+              "value": "71"
+            },
+            {
+              "label": "적의 냉기 저항-%",
+              "value": "35"
+            },
+            {
+              "label": "피해%",
+              "value": "61"
+            },
+            {
+              "label": "피해%",
+              "value": "165"
             }
           ],
           "url": "https://www.playnote.co.kr/trade/itemmarket?index=1"
-        }
-      ]
-    },
-    {
-      "name": "스탠 탈 라샤의 고운 띠",
-      "category": "기타",
-      "listingCount": 1,
-      "price": {
-        "currency": "P",
-        "min": 100,
-        "median": 100,
-        "max": 100
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "마법 아이템 발견 확률%"
-      ],
-      "samples": [
-        {
-          "name": "스탠 탈 라샤의 고운 띠",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 100,
-          "unitPriceP": 100,
-          "options": [
-            {
-              "label": "마법 아이템 발견 확률%",
-              "value": "15"
-            }
-          ],
-          "url": null
         }
       ]
     }
