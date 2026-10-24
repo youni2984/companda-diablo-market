@@ -1,1053 +1,64 @@
 {
   "source": "https://www.playnote.co.kr/trade/itemmarket?index=1",
   "scope": "public-listings-only",
-  "updatedAt": "2026-10-24T13:16:53.714246+00:00",
-  "listingCount": 38,
-  "itemCount": 14,
+  "updatedAt": "2026-10-24T16:54:14.394693+00:00",
+  "listingCount": 18,
+  "itemCount": 10,
   "items": [
     {
-      "name": "래더 지옥의 횃불(악마술사)",
-      "category": "부적",
-      "listingCount": 9,
-      "price": {
-        "currency": "P",
-        "min": 4500,
-        "median": 10000,
-        "max": 13000
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "#네크 강령술사",
-        "#드루이드",
-        "#악술 악마술사",
-        "5.",
-        "덜큰엔젤",
-        "독 기술 피해%",
-        "모든 기술",
-        "모든 능력치",
-        "모든 저항",
-        "시오닉",
-        "적의 독 저항-%",
-        "총 방어력",
-        "피해%",
-        "홈 있음(소켓)"
-      ],
-      "samples": [
-        {
-          "name": "래더 지옥의 횃불(악마술사)",
-          "category": "부적",
-          "server": "악군",
-          "status": "거래완료",
-          "quantity": 2,
-          "priceP": 10000,
-          "unitPriceP": 10000,
-          "options": [
-            {
-              "label": "모든 능력치",
-              "value": "18"
-            },
-            {
-              "label": "모든 저항",
-              "value": "20"
-            },
-            {
-              "label": "#악술 악마술사",
-              "value": "18"
-            },
-            {
-              "label": "시오닉",
-              "value": "100"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            },
-            {
-              "label": "모든 능력치",
-              "value": "20"
-            },
-            {
-              "label": "#네크 강령술사",
-              "value": "20"
-            },
-            {
-              "label": "모든 능력치",
-              "value": "19"
-            },
-            {
-              "label": "#악술 악마술사",
-              "value": "19"
-            },
-            {
-              "label": "모든 능력치",
-              "value": "17"
-            },
-            {
-              "label": "모든 저항",
-              "value": "19"
-            },
-            {
-              "label": "#악술 악마술사",
-              "value": "17"
-            },
-            {
-              "label": "#드루이드",
-              "value": "20"
-            },
-            {
-              "label": "모든 저항",
-              "value": "18"
-            },
-            {
-              "label": "#악술 악마술사",
-              "value": "20"
-            },
-            {
-              "label": "모든 저항",
-              "value": "16"
-            },
-            {
-              "label": "모든 저항",
-              "value": "17"
-            },
-            {
-              "label": "총 방어력",
-              "value": "156"
-            },
-            {
-              "label": "홈 있음(소켓)",
-              "value": "3"
-            },
-            {
-              "label": "덜큰엔젤",
-              "value": "106"
-            },
-            {
-              "label": "모든 기술",
-              "value": "4"
-            },
-            {
-              "label": "피해%",
-              "value": "198"
-            },
-            {
-              "label": "독 기술 피해%",
-              "value": "5"
-            },
-            {
-              "label": "적의 독 저항-%",
-              "value": "5"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemmarket?index=1"
-        },
-        {
-          "name": "래더 지옥의 횃불(악마술사)",
-          "category": "부적",
-          "server": "악군",
-          "status": "",
-          "quantity": 2,
-          "priceP": 10000,
-          "unitPriceP": 10000,
-          "options": [
-            {
-              "label": "모든 능력치",
-              "value": "18"
-            },
-            {
-              "label": "모든 저항",
-              "value": "20"
-            },
-            {
-              "label": "#악술 악마술사",
-              "value": "18"
-            },
-            {
-              "label": "시오닉",
-              "value": "100"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=431865"
-        },
-        {
-          "name": "래더 지옥의 횃불(악마술사)",
-          "category": "부적",
-          "server": "악군",
-          "status": "",
-          "quantity": 2,
-          "priceP": 10000,
-          "unitPriceP": 10000,
-          "options": [
-            {
-              "label": "모든 능력치",
-              "value": "18"
-            },
-            {
-              "label": "모든 저항",
-              "value": "20"
-            }
-          ],
-          "url": null
-        },
-        {
-          "name": "래더 지옥의 횃불(악마술사)",
-          "category": "부적",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 13000,
-          "unitPriceP": 13000,
-          "options": [
-            {
-              "label": "모든 능력치",
-              "value": "19"
-            },
-            {
-              "label": "모든 저항",
-              "value": "20"
-            },
-            {
-              "label": "#악술 악마술사",
-              "value": "19"
-            },
-            {
-              "label": "시오닉",
-              "value": "100"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=431115"
-        },
-        {
-          "name": "래더 지옥의 횃불(악마술사)",
-          "category": "부적",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 13000,
-          "unitPriceP": 13000,
-          "options": [
-            {
-              "label": "모든 능력치",
-              "value": "19"
-            },
-            {
-              "label": "모든 저항",
-              "value": "20"
-            }
-          ],
-          "url": null
-        },
-        {
-          "name": "래더 지옥의 횃불(악마술사)",
-          "category": "부적",
-          "server": "악군",
-          "status": "",
-          "quantity": 2,
-          "priceP": 4500,
-          "unitPriceP": 4500,
-          "options": [
-            {
-              "label": "모든 능력치",
-              "value": "17"
-            },
-            {
-              "label": "모든 저항",
-              "value": "19"
-            },
-            {
-              "label": "#악술 악마술사",
-              "value": "17"
-            },
-            {
-              "label": "시오닉",
-              "value": "100"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=413248"
-        },
-        {
-          "name": "래더 지옥의 횃불(악마술사)",
-          "category": "부적",
-          "server": "악군",
-          "status": "",
-          "quantity": 2,
-          "priceP": 4500,
-          "unitPriceP": 4500,
-          "options": [
-            {
-              "label": "모든 능력치",
-              "value": "17"
-            },
-            {
-              "label": "모든 저항",
-              "value": "19"
-            }
-          ],
-          "url": null
-        },
-        {
-          "name": "래더 지옥의 횃불(악마술사)",
-          "category": "부적",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 8000,
-          "unitPriceP": 8000,
-          "options": [
-            {
-              "label": "모든 능력치",
-              "value": "20"
-            },
-            {
-              "label": "모든 저항",
-              "value": "18"
-            },
-            {
-              "label": "#악술 악마술사",
-              "value": "20"
-            },
-            {
-              "label": "시오닉",
-              "value": "100"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=408265"
-        },
-        {
-          "name": "래더 지옥의 횃불(악마술사)",
-          "category": "부적",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 8000,
-          "unitPriceP": 8000,
-          "options": [
-            {
-              "label": "모든 능력치",
-              "value": "20"
-            },
-            {
-              "label": "모든 저항",
-              "value": "18"
-            }
-          ],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 지옥의 횃불(소서)",
-      "category": "부적",
-      "listingCount": 6,
-      "price": {
-        "currency": "P",
-        "min": 4000,
-        "median": 5000,
-        "max": 6000
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "모든 능력치",
-        "모든 저항",
-        "시오닉"
-      ],
-      "samples": [
-        {
-          "name": "래더 지옥의 횃불(소서)",
-          "category": "부적",
-          "server": "악군",
-          "status": "",
-          "quantity": 3,
-          "priceP": 4000,
-          "unitPriceP": 4000,
-          "options": [
-            {
-              "label": "모든 능력치",
-              "value": "20"
-            },
-            {
-              "label": "모든 저항",
-              "value": "16"
-            },
-            {
-              "label": "시오닉",
-              "value": "100"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=405517"
-        },
-        {
-          "name": "래더 지옥의 횃불(소서)",
-          "category": "부적",
-          "server": "악군",
-          "status": "",
-          "quantity": 3,
-          "priceP": 4000,
-          "unitPriceP": 4000,
-          "options": [
-            {
-              "label": "모든 능력치",
-              "value": "20"
-            },
-            {
-              "label": "모든 저항",
-              "value": "16"
-            }
-          ],
-          "url": null
-        },
-        {
-          "name": "래더 지옥의 횃불(소서)",
-          "category": "부적",
-          "server": "악군",
-          "status": "",
-          "quantity": 2,
-          "priceP": 5000,
-          "unitPriceP": 5000,
-          "options": [
-            {
-              "label": "모든 능력치",
-              "value": "20"
-            },
-            {
-              "label": "모든 저항",
-              "value": "17"
-            },
-            {
-              "label": "시오닉",
-              "value": "100"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=405516"
-        },
-        {
-          "name": "래더 지옥의 횃불(소서)",
-          "category": "부적",
-          "server": "악군",
-          "status": "",
-          "quantity": 2,
-          "priceP": 5000,
-          "unitPriceP": 5000,
-          "options": [
-            {
-              "label": "모든 능력치",
-              "value": "20"
-            },
-            {
-              "label": "모든 저항",
-              "value": "17"
-            }
-          ],
-          "url": null
-        },
-        {
-          "name": "래더 지옥의 횃불(소서)",
-          "category": "부적",
-          "server": "악군",
-          "status": "",
-          "quantity": 2,
-          "priceP": 6000,
-          "unitPriceP": 6000,
-          "options": [
-            {
-              "label": "모든 능력치",
-              "value": "20"
-            },
-            {
-              "label": "모든 저항",
-              "value": "18"
-            },
-            {
-              "label": "시오닉",
-              "value": "100"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=405513"
-        },
-        {
-          "name": "래더 지옥의 횃불(소서)",
-          "category": "부적",
-          "server": "악군",
-          "status": "",
-          "quantity": 2,
-          "priceP": 6000,
-          "unitPriceP": 6000,
-          "options": [
-            {
-              "label": "모든 능력치",
-              "value": "20"
-            },
-            {
-              "label": "모든 저항",
-              "value": "18"
-            }
-          ],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 금박 허리띠 헤비 벨트",
-      "category": "기타",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 130,
-        "median": 130,
-        "max": 130
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "괴물에게서 얻는 금화%",
-        "덜큰엔젤",
-        "방어력%"
-      ],
-      "samples": [
-        {
-          "name": "래더 금박 허리띠 헤비 벨트",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 130,
-          "unitPriceP": 130,
-          "options": [
-            {
-              "label": "방어력%",
-              "value": "35"
-            },
-            {
-              "label": "괴물에게서 얻는 금화%",
-              "value": "75"
-            },
-            {
-              "label": "덜큰엔젤",
-              "value": "106"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=270626"
-        },
-        {
-          "name": "래더 금박 허리띠 헤비 벨트",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 130,
-          "unitPriceP": 130,
-          "options": [
-            {
-              "label": "방어력%",
-              "value": "35"
-            },
-            {
-              "label": "괴물에게서 얻는 금화%",
-              "value": "75"
-            }
-          ],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 볼텍스 쉴드",
-      "category": "기타",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 1300,
-        "median": 1300,
-        "max": 1300
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "덜큰엔젤",
-        "모든 저항",
-        "방어력%",
-        "최대 내구도%"
-      ],
-      "samples": [
-        {
-          "name": "래더 볼텍스 쉴드",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 1300,
-          "unitPriceP": 1300,
-          "options": [
-            {
-              "label": "모든 저항",
-              "value": "44"
-            },
-            {
-              "label": "방어력%",
-              "value": "11"
-            },
-            {
-              "label": "최대 내구도%",
-              "value": "13"
-            },
-            {
-              "label": "덜큰엔젤",
-              "value": "106"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=258510"
-        },
-        {
-          "name": "래더 볼텍스 쉴드",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 1300,
-          "unitPriceP": 1300,
-          "options": [
-            {
-              "label": "모든 저항",
-              "value": "44"
-            },
-            {
-              "label": "방어력%",
-              "value": "11"
-            },
-            {
-              "label": "최대 내구도%",
-              "value": "13"
-            }
-          ],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 스파이어드 헬름",
-      "category": "기타",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 200,
-        "median": 200,
-        "max": 200
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "덜큰엔젤",
-        "총 방어력",
-        "홈 있음(소켓)"
-      ],
-      "samples": [
-        {
-          "name": "래더 스파이어드 헬름",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 200,
-          "unitPriceP": 200,
-          "options": [
-            {
-              "label": "총 방어력",
-              "value": "156"
-            },
-            {
-              "label": "홈 있음(소켓)",
-              "value": "3"
-            },
-            {
-              "label": "덜큰엔젤",
-              "value": "106"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=348298"
-        },
-        {
-          "name": "래더 스파이어드 헬름",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 200,
-          "unitPriceP": 200,
-          "options": [
-            {
-              "label": "총 방어력",
-              "value": "156"
-            },
-            {
-              "label": "홈 있음(소켓)",
-              "value": "3"
-            }
-          ],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 아리옥의 바늘 하이페리온 스피어",
-      "category": "기타",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 250,
-        "median": 250,
-        "max": 250
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "덜큰엔젤",
-        "모든 기술",
-        "피해%"
-      ],
-      "samples": [
-        {
-          "name": "래더 아리옥의 바늘 하이페리온 스피어",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 250,
-          "unitPriceP": 250,
-          "options": [
-            {
-              "label": "모든 기술",
-              "value": "4"
-            },
-            {
-              "label": "피해%",
-              "value": "198"
-            },
-            {
-              "label": "덜큰엔젤",
-              "value": "106"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=297487"
-        },
-        {
-          "name": "래더 아리옥의 바늘 하이페리온 스피어",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 250,
-          "unitPriceP": 250,
-          "options": [
-            {
-              "label": "모든 기술",
-              "value": "4"
-            },
-            {
-              "label": "피해%",
-              "value": "198"
-            }
-          ],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 지옥의 횃불(네크)",
+      "name": "래더 거대 부적",
       "category": "부적",
       "listingCount": 2,
       "price": {
         "currency": "P",
-        "min": 5000,
-        "median": 5000,
-        "max": 5000
+        "min": 900,
+        "median": 900,
+        "max": 900
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "#네크 강령술사",
         "5.",
-        "모든 능력치",
-        "모든 저항",
-        "시오닉"
+        "매일복권",
+        "혼돈 기술(악마술사)"
       ],
       "samples": [
         {
-          "name": "래더 지옥의 횃불(네크)",
+          "name": "래더 거대 부적",
           "category": "부적",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 5000,
-          "unitPriceP": 5000,
+          "priceP": 900,
+          "unitPriceP": 900,
           "options": [
             {
-              "label": "모든 능력치",
-              "value": "20"
-            },
-            {
-              "label": "모든 저항",
-              "value": "20"
-            },
-            {
-              "label": "#네크 강령술사",
-              "value": "20"
-            },
-            {
-              "label": "시오닉",
-              "value": "100"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=431861"
-        },
-        {
-          "name": "래더 지옥의 횃불(네크)",
-          "category": "부적",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 5000,
-          "unitPriceP": 5000,
-          "options": [
-            {
-              "label": "모든 능력치",
-              "value": "20"
-            },
-            {
-              "label": "모든 저항",
-              "value": "20"
-            }
-          ],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 지옥의 횃불(드루)",
-      "category": "부적",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 4000,
-        "median": 4000,
-        "max": 4000
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "#드루이드",
-        "5.",
-        "모든 능력치",
-        "모든 저항",
-        "시오닉"
-      ],
-      "samples": [
-        {
-          "name": "래더 지옥의 횃불(드루)",
-          "category": "부적",
-          "server": "악군",
-          "status": "",
-          "quantity": 3,
-          "priceP": 4000,
-          "unitPriceP": 4000,
-          "options": [
-            {
-              "label": "모든 능력치",
-              "value": "20"
-            },
-            {
-              "label": "모든 저항",
-              "value": "20"
-            },
-            {
-              "label": "#드루이드",
-              "value": "20"
-            },
-            {
-              "label": "시오닉",
-              "value": "100"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=411890"
-        },
-        {
-          "name": "래더 지옥의 횃불(드루)",
-          "category": "부적",
-          "server": "악군",
-          "status": "",
-          "quantity": 3,
-          "priceP": 4000,
-          "unitPriceP": 4000,
-          "options": [
-            {
-              "label": "모든 능력치",
-              "value": "20"
-            },
-            {
-              "label": "모든 저항",
-              "value": "20"
-            }
-          ],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 집착",
-      "category": "기타",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 7000,
-        "median": 7000,
-        "max": 7000
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "0.",
-        "냉기 숙련(원소술사 전용)",
-        "마나 재생%",
-        "모든 저항",
-        "무라소니",
-        "최대 생명력%",
-        "히드라(원소술사 전용)"
-      ],
-      "samples": [
-        {
-          "name": "래더 집착",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 7000,
-          "unitPriceP": 7000,
-          "options": [
-            {
-              "label": "최대 생명력%",
-              "value": "24"
-            },
-            {
-              "label": "마나 재생%",
-              "value": "24"
-            },
-            {
-              "label": "모든 저항",
-              "value": "65"
-            },
-            {
-              "label": "냉기 숙련(원소술사 전용)",
+              "label": "혼돈 기술(악마술사)",
               "value": "1"
             },
             {
-              "label": "히드라(원소술사 전용)",
-              "value": "1"
+              "label": "매일복권",
+              "value": "62"
             },
             {
-              "label": "무라소니",
-              "value": "4"
-            },
-            {
-              "label": "0.",
+              "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=434418"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=436259"
         },
         {
-          "name": "래더 집착",
-          "category": "기타",
+          "name": "래더 거대 부적",
+          "category": "부적",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 7000,
-          "unitPriceP": 7000,
+          "priceP": 900,
+          "unitPriceP": 900,
           "options": [
             {
-              "label": "최대 생명력%",
-              "value": "24"
-            },
-            {
-              "label": "마나 재생%",
-              "value": "24"
-            },
-            {
-              "label": "모든 저항",
-              "value": "65"
-            },
-            {
-              "label": "냉기 숙련(원소술사 전용)",
-              "value": "1"
-            },
-            {
-              "label": "히드라(원소술사 전용)",
+              "label": "혼돈 기술(악마술사)",
               "value": "1"
             }
           ],
@@ -1056,89 +67,60 @@
       ]
     },
     {
-      "name": "스탠 무지개 자락 주얼(독,사망시)",
+      "name": "래더 마라의 만화경",
       "category": "기타",
       "listingCount": 2,
       "price": {
         "currency": "P",
-        "min": 250,
-        "median": 250,
-        "max": 250
+        "min": 1000,
+        "median": 1000,
+        "max": 1000
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "#✅✅스텐ㅡ",
-        "-독다=",
         "5.",
-        "독 기술 피해%",
-        "바로_번개거래",
-        "분홍=",
-        "적의 독 저항-%",
-        "흰색="
+        "달달연유",
+        "모든 저항"
       ],
       "samples": [
         {
-          "name": "스탠 무지개 자락 주얼(독,사망시)",
+          "name": "래더 마라의 만화경",
           "category": "기타",
           "server": "악군",
           "status": "",
-          "quantity": 12,
-          "priceP": 250,
-          "unitPriceP": 250,
+          "quantity": 1,
+          "priceP": 1000,
+          "unitPriceP": 1000,
           "options": [
             {
-              "label": "독 기술 피해%",
-              "value": "5"
+              "label": "모든 저항",
+              "value": "24"
             },
             {
-              "label": "적의 독 저항-%",
-              "value": "5"
-            },
-            {
-              "label": "#✅✅스텐ㅡ",
-              "value": "5"
-            },
-            {
-              "label": "-독다=",
-              "value": "4"
-            },
-            {
-              "label": "분홍=",
-              "value": "4"
-            },
-            {
-              "label": "흰색=",
-              "value": "4"
-            },
-            {
-              "label": "바로_번개거래",
-              "value": "544"
+              "label": "달달연유",
+              "value": "102"
             },
             {
               "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=18390"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=435031"
         },
         {
-          "name": "스탠 무지개 자락 주얼(독,사망시)",
+          "name": "래더 마라의 만화경",
           "category": "기타",
           "server": "악군",
           "status": "",
-          "quantity": 12,
-          "priceP": 250,
-          "unitPriceP": 250,
+          "quantity": 1,
+          "priceP": 1000,
+          "unitPriceP": 1000,
           "options": [
             {
-              "label": "독 기술 피해%",
-              "value": "5"
-            },
-            {
-              "label": "적의 독 저항-%",
-              "value": "5"
+              "label": "모든 저항",
+              "value": "24"
             }
           ],
           "url": null
@@ -1146,217 +128,139 @@
       ]
     },
     {
-      "name": "스탠 소집",
-      "category": "기타",
+      "name": "래더 말룬",
+      "category": "룬",
       "listingCount": 2,
       "price": {
         "currency": "P",
-        "min": 7500,
-        "median": 7500,
-        "max": 7500
+        "min": 190,
+        "median": 190,
+        "max": 190
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
+        "#래더",
         "5.",
-        "돠늬",
-        "전투 명령(공용 기술)",
-        "전투 지시(공용 기술)",
-        "전투의 함성(공용 기술)",
-        "피해%"
+        "Master",
+        "시즌 말룬"
       ],
       "samples": [
         {
-          "name": "스탠 소집",
-          "category": "기타",
+          "name": "래더 말룬",
+          "category": "룬",
           "server": "악군",
           "status": "",
-          "quantity": 1,
-          "priceP": 7500,
-          "unitPriceP": 7500,
+          "quantity": 150,
+          "priceP": 190,
+          "unitPriceP": 190,
           "options": [
             {
-              "label": "피해%",
-              "value": "250"
+              "label": "#래더",
+              "value": "15"
             },
             {
-              "label": "전투 명령(공용 기술)",
-              "value": "6"
+              "label": "시즌 말룬",
+              "value": "15"
             },
             {
-              "label": "전투 지시(공용 기술)",
-              "value": "6"
-            },
-            {
-              "label": "전투의 함성(공용 기술)",
-              "value": "2"
-            },
-            {
-              "label": "돠늬",
-              "value": "103"
+              "label": "Master",
+              "value": "654"
             },
             {
               "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=434422"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=425879"
         },
         {
-          "name": "스탠 소집",
-          "category": "기타",
+          "name": "래더 말룬",
+          "category": "룬",
           "server": "악군",
           "status": "",
-          "quantity": 1,
-          "priceP": 7500,
-          "unitPriceP": 7500,
-          "options": [
-            {
-              "label": "피해%",
-              "value": "250"
-            },
-            {
-              "label": "전투 명령(공용 기술)",
-              "value": "6"
-            },
-            {
-              "label": "전투 지시(공용 기술)",
-              "value": "6"
-            },
-            {
-              "label": "전투의 함성(공용 기술)",
-              "value": "2"
-            }
-          ],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "스탠 요르단의 반지",
-      "category": "기타",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 440,
-        "median": 440,
-        "max": 440
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "돠늬"
-      ],
-      "samples": [
-        {
-          "name": "스탠 요르단의 반지",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 12,
-          "priceP": 440,
-          "unitPriceP": 440,
-          "options": [
-            {
-              "label": "돠늬",
-              "value": "103"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=434411"
-        },
-        {
-          "name": "스탠 요르단의 반지",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 12,
-          "priceP": 440,
-          "unitPriceP": 440,
+          "quantity": 150,
+          "priceP": 190,
+          "unitPriceP": 190,
           "options": [],
           "url": null
         }
       ]
     },
     {
-      "name": "스탠 전쟁 여행자 배틀 부츠",
+      "name": "래더 소집",
       "category": "기타",
       "listingCount": 2,
       "price": {
         "currency": "P",
-        "min": 3500,
-        "median": 3500,
-        "max": 3500
+        "min": 7700,
+        "median": 7700,
+        "max": 7700
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
         "5.",
-        "공격자가 받는 피해",
-        "돠늬",
-        "마법 아이템 발견 확률%",
-        "방어력%"
+        "달달연유",
+        "전투 명령(공용 기술)",
+        "전투 지시(공용 기술)",
+        "전투의 함성(공용 기술)"
       ],
       "samples": [
         {
-          "name": "스탠 전쟁 여행자 배틀 부츠",
+          "name": "래더 소집",
           "category": "기타",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 3500,
-          "unitPriceP": 3500,
+          "priceP": 7700,
+          "unitPriceP": 7700,
           "options": [
             {
-              "label": "방어력%",
-              "value": "176"
+              "label": "전투 명령(공용 기술)",
+              "value": "4"
             },
             {
-              "label": "공격자가 받는 피해",
-              "value": "10"
+              "label": "전투 지시(공용 기술)",
+              "value": "6"
             },
             {
-              "label": "마법 아이템 발견 확률%",
-              "value": "50"
+              "label": "전투의 함성(공용 기술)",
+              "value": "2"
             },
             {
-              "label": "돠늬",
-              "value": "103"
+              "label": "달달연유",
+              "value": "102"
             },
             {
               "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=435371"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=435019"
         },
         {
-          "name": "스탠 전쟁 여행자 배틀 부츠",
+          "name": "래더 소집",
           "category": "기타",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 3500,
-          "unitPriceP": 3500,
+          "priceP": 7700,
+          "unitPriceP": 7700,
           "options": [
             {
-              "label": "방어력%",
-              "value": "176"
+              "label": "전투 명령(공용 기술)",
+              "value": "4"
             },
             {
-              "label": "공격자가 받는 피해",
-              "value": "10"
+              "label": "전투 지시(공용 기술)",
+              "value": "6"
             },
             {
-              "label": "마법 아이템 발견 확률%",
-              "value": "50"
+              "label": "전투의 함성(공용 기술)",
+              "value": "2"
             }
           ],
           "url": null
@@ -1364,43 +268,560 @@
       ]
     },
     {
-      "name": "래더 지옥의 횃불(악마술사)",
-      "category": "룬워드",
-      "listingCount": 1,
+      "name": "래더 오움룬",
+      "category": "룬",
+      "listingCount": 2,
       "price": {
         "currency": "P",
-        "min": 10000,
-        "median": 10000,
-        "max": 10000
+        "min": 840,
+        "median": 840,
+        "max": 840
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "#네크 강령술사",
-        "#드루이드",
-        "#악술 악마술사",
+        "#래더",
         "5.",
-        "덜큰엔젤",
-        "디아블로",
-        "모든 기술",
-        "모든 능력치",
-        "모든 저항",
-        "시오닉",
-        "지금 시작하면, 멤버십 PLUS",
-        "총 방어력",
-        "플레이디아 디아블로",
-        "홈 있음(소켓)"
+        "Master"
       ],
       "samples": [
         {
-          "name": "래더 지옥의 횃불(악마술사)",
+          "name": "래더 오움룬",
+          "category": "룬",
+          "server": "악군",
+          "status": "",
+          "quantity": 29,
+          "priceP": 840,
+          "unitPriceP": 840,
+          "options": [
+            {
+              "label": "#래더",
+              "value": "15"
+            },
+            {
+              "label": "Master",
+              "value": "654"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=429230"
+        },
+        {
+          "name": "래더 오움룬",
+          "category": "룬",
+          "server": "악군",
+          "status": "",
+          "quantity": 29,
+          "priceP": 840,
+          "unitPriceP": 840,
+          "options": [],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 자룬",
+      "category": "룬",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 4300,
+        "median": 4300,
+        "max": 4300
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "#래더",
+        "5.",
+        "Master"
+      ],
+      "samples": [
+        {
+          "name": "래더 자룬",
+          "category": "룬",
+          "server": "악군",
+          "status": "",
+          "quantity": 2,
+          "priceP": 4300,
+          "unitPriceP": 4300,
+          "options": [
+            {
+              "label": "#래더",
+              "value": "15"
+            },
+            {
+              "label": "Master",
+              "value": "654"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=432355"
+        },
+        {
+          "name": "래더 자룬",
+          "category": "룬",
+          "server": "악군",
+          "status": "",
+          "quantity": 2,
+          "priceP": 4300,
+          "unitPriceP": 4300,
+          "options": [],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "스탠 감시자의 천둥 주얼",
+      "category": "부적",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 900,
+        "median": 900,
+        "max": 900
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "#래더",
+        "#랩제",
+        "#신.번깍주얼♣",
+        "#저랩통찰#에테통찰#맥뎀",
+        "0.",
+        "5.",
+        "거래 상대방",
+        "경험치",
+        "경험치 획득량%",
+        "괴물에게서 얻는 금화%",
+        "달달연유",
+        "마법 아이템 발견 확률%",
+        "매일복권",
+        "명중률%",
+        "모든 저항",
+        "번개 기술 피해%",
+        "장착 시 명상 오라 적용",
+        "적의 번개 저항-%",
+        "전투 명령(공용 기술)",
+        "전투 지시(공용 기술)",
+        "전투의 함성(공용 기술)",
+        "치명타",
+        "피해%",
+        "혼돈 기술(악마술사)"
+      ],
+      "samples": [
+        {
+          "name": "스탠 감시자의 천둥 주얼",
+          "category": "부적",
+          "server": "악군",
+          "status": "거래완료",
+          "quantity": 1,
+          "priceP": 900,
+          "unitPriceP": 900,
+          "options": [
+            {
+              "label": "번개 기술 피해%",
+              "value": "7"
+            },
+            {
+              "label": "적의 번개 저항-%",
+              "value": "6"
+            },
+            {
+              "label": "경험치 획득량%",
+              "value": "5"
+            },
+            {
+              "label": "괴물에게서 얻는 금화%",
+              "value": "38"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "35"
+            },
+            {
+              "label": "#신.번깍주얼♣",
+              "value": "5"
+            },
+            {
+              "label": "경험치",
+              "value": "35"
+            },
+            {
+              "label": "거래 상대방",
+              "value": "1"
+            },
+            {
+              "label": "0.",
+              "value": "00"
+            },
+            {
+              "label": "모든 저항",
+              "value": "24"
+            },
+            {
+              "label": "달달연유",
+              "value": "102"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            },
+            {
+              "label": "전투 명령(공용 기술)",
+              "value": "4"
+            },
+            {
+              "label": "전투 지시(공용 기술)",
+              "value": "6"
+            },
+            {
+              "label": "전투의 함성(공용 기술)",
+              "value": "2"
+            },
+            {
+              "label": "장착 시 명상 오라 적용",
+              "value": "12"
+            },
+            {
+              "label": "피해%",
+              "value": "224"
+            },
+            {
+              "label": "명중률%",
+              "value": "235"
+            },
+            {
+              "label": "치명타",
+              "value": "6"
+            },
+            {
+              "label": "#저랩통찰#에테통찰#맥뎀",
+              "value": "217"
+            },
+            {
+              "label": "#랩제",
+              "value": "27"
+            },
+            {
+              "label": "혼돈 기술(악마술사)",
+              "value": "1"
+            },
+            {
+              "label": "매일복권",
+              "value": "62"
+            },
+            {
+              "label": "#래더",
+              "value": "15"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemmarket?index=1"
+        },
+        {
+          "name": "스탠 감시자의 천둥 주얼",
+          "category": "부적",
+          "server": "악군",
+          "status": "거래중",
+          "quantity": 1,
+          "priceP": 900,
+          "unitPriceP": 900,
+          "options": [
+            {
+              "label": "번개 기술 피해%",
+              "value": "7"
+            },
+            {
+              "label": "적의 번개 저항-%",
+              "value": "6"
+            },
+            {
+              "label": "경험치 획득량%",
+              "value": "5"
+            },
+            {
+              "label": "괴물에게서 얻는 금화%",
+              "value": "38"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "35"
+            },
+            {
+              "label": "#신.번깍주얼♣",
+              "value": "5"
+            },
+            {
+              "label": "경험치",
+              "value": "35"
+            },
+            {
+              "label": "거래 상대방",
+              "value": "1"
+            },
+            {
+              "label": "0.",
+              "value": "00"
+            },
+            {
+              "label": "모든 저항",
+              "value": "24"
+            },
+            {
+              "label": "달달연유",
+              "value": "102"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            },
+            {
+              "label": "전투 명령(공용 기술)",
+              "value": "4"
+            },
+            {
+              "label": "전투 지시(공용 기술)",
+              "value": "6"
+            },
+            {
+              "label": "전투의 함성(공용 기술)",
+              "value": "2"
+            },
+            {
+              "label": "장착 시 명상 오라 적용",
+              "value": "12"
+            },
+            {
+              "label": "피해%",
+              "value": "224"
+            },
+            {
+              "label": "명중률%",
+              "value": "235"
+            },
+            {
+              "label": "치명타",
+              "value": "6"
+            },
+            {
+              "label": "#저랩통찰#에테통찰#맥뎀",
+              "value": "217"
+            },
+            {
+              "label": "#랩제",
+              "value": "27"
+            },
+            {
+              "label": "혼돈 기술(악마술사)",
+              "value": "1"
+            },
+            {
+              "label": "매일복권",
+              "value": "62"
+            },
+            {
+              "label": "#래더",
+              "value": "15"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=435031"
+        }
+      ]
+    },
+    {
+      "name": "스탠 감시자의 천둥 주얼",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 900,
+        "median": 900,
+        "max": 900
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "경험치 획득량%",
+        "괴물에게서 얻는 금화%",
+        "마법 아이템 발견 확률%",
+        "번개 기술 피해%",
+        "적의 번개 저항-%"
+      ],
+      "samples": [
+        {
+          "name": "스탠 감시자의 천둥 주얼",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 900,
+          "unitPriceP": 900,
+          "options": [
+            {
+              "label": "번개 기술 피해%",
+              "value": "7"
+            },
+            {
+              "label": "적의 번개 저항-%",
+              "value": "6"
+            },
+            {
+              "label": "경험치 획득량%",
+              "value": "5"
+            },
+            {
+              "label": "괴물에게서 얻는 금화%",
+              "value": "38"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "35"
+            }
+          ],
+          "url": null
+        },
+        {
+          "name": "스탠 감시자의 천둥 주얼",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 0,
+          "priceP": 900,
+          "unitPriceP": 900,
+          "options": [
+            {
+              "label": "번개 기술 피해%",
+              "value": "7"
+            },
+            {
+              "label": "적의 번개 저항-%",
+              "value": "6"
+            },
+            {
+              "label": "경험치 획득량%",
+              "value": "5"
+            },
+            {
+              "label": "괴물에게서 얻는 금화%",
+              "value": "38"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "35"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 통찰",
+      "category": "기타",
+      "listingCount": 1,
+      "price": {
+        "currency": "P",
+        "min": 2990,
+        "median": 2990,
+        "max": 2990
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "명중률%",
+        "장착 시 명상 오라 적용",
+        "치명타",
+        "피해%"
+      ],
+      "samples": [
+        {
+          "name": "래더 통찰",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 2990,
+          "unitPriceP": 2990,
+          "options": [
+            {
+              "label": "장착 시 명상 오라 적용",
+              "value": "12"
+            },
+            {
+              "label": "피해%",
+              "value": "224"
+            },
+            {
+              "label": "명중률%",
+              "value": "235"
+            },
+            {
+              "label": "치명타",
+              "value": "6"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "스탠 감시자의 천둥 주얼",
+      "category": "룬워드",
+      "listingCount": 1,
+      "price": {
+        "currency": "P",
+        "min": 900,
+        "median": 900,
+        "max": 900
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "#랩제",
+        "#신.번깍주얼♣",
+        "#저랩통찰#에테통찰#맥뎀",
+        "0.",
+        "5.",
+        "거래 상대방",
+        "경험치",
+        "경험치 획득량%",
+        "괴물에게서 얻는 금화%",
+        "달달연유",
+        "디아블로",
+        "마법 아이템 발견 확률%",
+        "명중률%",
+        "모든 저항",
+        "번개 기술 피해%",
+        "장착 시 명상 오라 적용",
+        "적의 번개 저항-%",
+        "전투 명령(공용 기술)",
+        "전투 지시(공용 기술)",
+        "전투의 함성(공용 기술)",
+        "지금 시작하면, 멤버십 PLUS",
+        "치명타",
+        "플레이디아 디아블로",
+        "피해%"
+      ],
+      "samples": [
+        {
+          "name": "스탠 감시자의 천둥 주얼",
           "category": "룬워드",
           "server": "악군",
           "status": "거래완료",
-          "quantity": 2,
-          "priceP": 10000,
-          "unitPriceP": 10000,
+          "quantity": 1,
+          "priceP": 900,
+          "unitPriceP": 900,
           "options": [
             {
               "label": "지금 시작하면, 멤버십 PLUS",
@@ -1415,88 +836,88 @@
               "value": "2"
             },
             {
-              "label": "모든 능력치",
-              "value": "18"
+              "label": "번개 기술 피해%",
+              "value": "7"
+            },
+            {
+              "label": "적의 번개 저항-%",
+              "value": "6"
+            },
+            {
+              "label": "경험치 획득량%",
+              "value": "5"
+            },
+            {
+              "label": "괴물에게서 얻는 금화%",
+              "value": "38"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "35"
+            },
+            {
+              "label": "#신.번깍주얼♣",
+              "value": "5"
+            },
+            {
+              "label": "경험치",
+              "value": "35"
+            },
+            {
+              "label": "거래 상대방",
+              "value": "1"
+            },
+            {
+              "label": "0.",
+              "value": "00"
             },
             {
               "label": "모든 저항",
-              "value": "20"
+              "value": "24"
             },
             {
-              "label": "#악술 악마술사",
-              "value": "18"
-            },
-            {
-              "label": "시오닉",
-              "value": "100"
+              "label": "달달연유",
+              "value": "102"
             },
             {
               "label": "5.",
               "value": "00"
             },
             {
-              "label": "모든 능력치",
-              "value": "20"
-            },
-            {
-              "label": "#네크 강령술사",
-              "value": "20"
-            },
-            {
-              "label": "모든 능력치",
-              "value": "19"
-            },
-            {
-              "label": "#악술 악마술사",
-              "value": "19"
-            },
-            {
-              "label": "모든 능력치",
-              "value": "17"
-            },
-            {
-              "label": "모든 저항",
-              "value": "19"
-            },
-            {
-              "label": "#악술 악마술사",
-              "value": "17"
-            },
-            {
-              "label": "#드루이드",
-              "value": "20"
-            },
-            {
-              "label": "모든 저항",
-              "value": "18"
-            },
-            {
-              "label": "#악술 악마술사",
-              "value": "20"
-            },
-            {
-              "label": "모든 저항",
-              "value": "16"
-            },
-            {
-              "label": "모든 저항",
-              "value": "17"
-            },
-            {
-              "label": "총 방어력",
-              "value": "156"
-            },
-            {
-              "label": "홈 있음(소켓)",
-              "value": "3"
-            },
-            {
-              "label": "덜큰엔젤",
-              "value": "106"
-            },
-            {
-              "label": "모든 기술",
+              "label": "전투 명령(공용 기술)",
               "value": "4"
+            },
+            {
+              "label": "전투 지시(공용 기술)",
+              "value": "6"
+            },
+            {
+              "label": "전투의 함성(공용 기술)",
+              "value": "2"
+            },
+            {
+              "label": "장착 시 명상 오라 적용",
+              "value": "12"
+            },
+            {
+              "label": "피해%",
+              "value": "224"
+            },
+            {
+              "label": "명중률%",
+              "value": "235"
+            },
+            {
+              "label": "치명타",
+              "value": "6"
+            },
+            {
+              "label": "#저랩통찰#에테통찰#맥뎀",
+              "value": "217"
+            },
+            {
+              "label": "#랩제",
+              "value": "27"
             }
           ],
           "url": "https://www.playnote.co.kr/customer/noticedetail?Index=5"
