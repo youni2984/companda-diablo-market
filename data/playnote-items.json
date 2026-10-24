@@ -1,461 +1,542 @@
 {
   "source": "https://www.playnote.co.kr/trade/itemmarket?index=1",
   "scope": "public-listings-only",
-  "updatedAt": "2026-10-24T16:54:14.394693+00:00",
+  "updatedAt": "2026-10-24T19:25:48.582967+00:00",
   "listingCount": 18,
-  "itemCount": 10,
+  "itemCount": 8,
   "items": [
     {
-      "name": "래더 거대 부적",
-      "category": "부적",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 900,
-        "median": 900,
-        "max": 900
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "매일복권",
-        "혼돈 기술(악마술사)"
-      ],
-      "samples": [
-        {
-          "name": "래더 거대 부적",
-          "category": "부적",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 900,
-          "unitPriceP": 900,
-          "options": [
-            {
-              "label": "혼돈 기술(악마술사)",
-              "value": "1"
-            },
-            {
-              "label": "매일복권",
-              "value": "62"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=436259"
-        },
-        {
-          "name": "래더 거대 부적",
-          "category": "부적",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 900,
-          "unitPriceP": 900,
-          "options": [
-            {
-              "label": "혼돈 기술(악마술사)",
-              "value": "1"
-            }
-          ],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 마라의 만화경",
+      "name": "스탠 목걸이",
       "category": "기타",
-      "listingCount": 2,
+      "listingCount": 4,
       "price": {
         "currency": "P",
-        "min": 1000,
-        "median": 1000,
-        "max": 1000
+        "min": 9900,
+        "median": 12900,
+        "max": 15900
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
         "5.",
-        "달달연유",
-        "모든 저항"
-      ],
-      "samples": [
-        {
-          "name": "래더 마라의 만화경",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 1000,
-          "unitPriceP": 1000,
-          "options": [
-            {
-              "label": "모든 저항",
-              "value": "24"
-            },
-            {
-              "label": "달달연유",
-              "value": "102"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=435031"
-        },
-        {
-          "name": "래더 마라의 만화경",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 1000,
-          "unitPriceP": 1000,
-          "options": [
-            {
-              "label": "모든 저항",
-              "value": "24"
-            }
-          ],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 말룬",
-      "category": "룬",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 190,
-        "median": 190,
-        "max": 190
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "#래더",
-        "5.",
-        "Master",
-        "시즌 말룬"
-      ],
-      "samples": [
-        {
-          "name": "래더 말룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 150,
-          "priceP": 190,
-          "unitPriceP": 190,
-          "options": [
-            {
-              "label": "#래더",
-              "value": "15"
-            },
-            {
-              "label": "시즌 말룬",
-              "value": "15"
-            },
-            {
-              "label": "Master",
-              "value": "654"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=425879"
-        },
-        {
-          "name": "래더 말룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 150,
-          "priceP": 190,
-          "unitPriceP": 190,
-          "options": [],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 소집",
-      "category": "기타",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 7700,
-        "median": 7700,
-        "max": 7700
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "달달연유",
-        "전투 명령(공용 기술)",
-        "전투 지시(공용 기술)",
-        "전투의 함성(공용 기술)"
-      ],
-      "samples": [
-        {
-          "name": "래더 소집",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 7700,
-          "unitPriceP": 7700,
-          "options": [
-            {
-              "label": "전투 명령(공용 기술)",
-              "value": "4"
-            },
-            {
-              "label": "전투 지시(공용 기술)",
-              "value": "6"
-            },
-            {
-              "label": "전투의 함성(공용 기술)",
-              "value": "2"
-            },
-            {
-              "label": "달달연유",
-              "value": "102"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=435019"
-        },
-        {
-          "name": "래더 소집",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 7700,
-          "unitPriceP": 7700,
-          "options": [
-            {
-              "label": "전투 명령(공용 기술)",
-              "value": "4"
-            },
-            {
-              "label": "전투 지시(공용 기술)",
-              "value": "6"
-            },
-            {
-              "label": "전투의 함성(공용 기술)",
-              "value": "2"
-            }
-          ],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 오움룬",
-      "category": "룬",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 840,
-        "median": 840,
-        "max": 840
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "#래더",
-        "5.",
-        "Master"
-      ],
-      "samples": [
-        {
-          "name": "래더 오움룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 29,
-          "priceP": 840,
-          "unitPriceP": 840,
-          "options": [
-            {
-              "label": "#래더",
-              "value": "15"
-            },
-            {
-              "label": "Master",
-              "value": "654"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=429230"
-        },
-        {
-          "name": "래더 오움룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 29,
-          "priceP": 840,
-          "unitPriceP": 840,
-          "options": [],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 자룬",
-      "category": "룬",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 4300,
-        "median": 4300,
-        "max": 4300
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "#래더",
-        "5.",
-        "Master"
-      ],
-      "samples": [
-        {
-          "name": "래더 자룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 2,
-          "priceP": 4300,
-          "unitPriceP": 4300,
-          "options": [
-            {
-              "label": "#래더",
-              "value": "15"
-            },
-            {
-              "label": "Master",
-              "value": "654"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=432355"
-        },
-        {
-          "name": "래더 자룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 2,
-          "priceP": 4300,
-          "unitPriceP": 4300,
-          "options": [],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "스탠 감시자의 천둥 주얼",
-      "category": "부적",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 900,
-        "median": 900,
-        "max": 900
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "#래더",
-        "#랩제",
-        "#신.번깍주얼♣",
-        "#저랩통찰#에테통찰#맥뎀",
-        "0.",
-        "5.",
-        "거래 상대방",
-        "경험치",
-        "경험치 획득량%",
-        "괴물에게서 얻는 금화%",
-        "달달연유",
-        "마법 아이템 발견 확률%",
-        "매일복권",
-        "명중률%",
+        "마나",
+        "마나 재생%",
+        "마력",
         "모든 저항",
-        "번개 기술 피해%",
-        "장착 시 명상 오라 적용",
-        "적의 번개 저항-%",
-        "전투 명령(공용 기술)",
-        "전투 지시(공용 기술)",
-        "전투의 함성(공용 기술)",
-        "치명타",
-        "피해%",
-        "혼돈 기술(악마술사)"
+        "시전 속도%",
+        "적중당 마나 훔침%",
+        "지니지니"
       ],
       "samples": [
         {
-          "name": "스탠 감시자의 천둥 주얼",
+          "name": "스탠 목걸이",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 9900,
+          "unitPriceP": 9900,
+          "options": [
+            {
+              "label": "시전 속도%",
+              "value": "8"
+            },
+            {
+              "label": "마력",
+              "value": "19"
+            },
+            {
+              "label": "마나",
+              "value": "17"
+            },
+            {
+              "label": "마나 재생%",
+              "value": "9"
+            },
+            {
+              "label": "모든 저항",
+              "value": "8"
+            },
+            {
+              "label": "지니지니",
+              "value": "74"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=407785"
+        },
+        {
+          "name": "스탠 목걸이",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 9900,
+          "unitPriceP": 9900,
+          "options": [
+            {
+              "label": "시전 속도%",
+              "value": "8"
+            },
+            {
+              "label": "마력",
+              "value": "19"
+            },
+            {
+              "label": "마나",
+              "value": "17"
+            },
+            {
+              "label": "마나 재생%",
+              "value": "9"
+            },
+            {
+              "label": "모든 저항",
+              "value": "8"
+            }
+          ],
+          "url": null
+        },
+        {
+          "name": "스탠 목걸이",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 15900,
+          "unitPriceP": 15900,
+          "options": [
+            {
+              "label": "시전 속도%",
+              "value": "19"
+            },
+            {
+              "label": "적중당 마나 훔침%",
+              "value": "8"
+            },
+            {
+              "label": "마나",
+              "value": "16"
+            },
+            {
+              "label": "마나 재생%",
+              "value": "10"
+            },
+            {
+              "label": "지니지니",
+              "value": "74"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=407778"
+        },
+        {
+          "name": "스탠 목걸이",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 15900,
+          "unitPriceP": 15900,
+          "options": [
+            {
+              "label": "시전 속도%",
+              "value": "19"
+            },
+            {
+              "label": "적중당 마나 훔침%",
+              "value": "8"
+            },
+            {
+              "label": "마나",
+              "value": "16"
+            },
+            {
+              "label": "마나 재생%",
+              "value": "10"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "스탠 새로워진 천상의 틈 거대 부적",
+      "category": "부적",
+      "listingCount": 4,
+      "price": {
+        "currency": "P",
+        "min": 3900,
+        "median": 51450,
+        "max": 99000
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "5.",
+        "괴물에게서 얻는 금화%",
+        "마법 아이템 발견 확률%",
+        "마법 피해 감소",
+        "모든 능력치",
+        "번개 기술 피해%",
+        "번개 저항-%",
+        "생명력",
+        "적의 번개 저항-%",
+        "지니지니",
+        "타격 회복 속도%",
+        "피해 감소"
+      ],
+      "samples": [
+        {
+          "name": "스탠 새로워진 천상의 틈 거대 부적",
           "category": "부적",
           "server": "악군",
-          "status": "거래완료",
+          "status": "",
           "quantity": 1,
-          "priceP": 900,
-          "unitPriceP": 900,
+          "priceP": 3900,
+          "unitPriceP": 3900,
           "options": [
+            {
+              "label": "번개 저항-%",
+              "value": "70"
+            },
+            {
+              "label": "타격 회복 속도%",
+              "value": "23"
+            },
             {
               "label": "번개 기술 피해%",
-              "value": "7"
+              "value": "13"
             },
             {
-              "label": "적의 번개 저항-%",
+              "label": "생명력",
+              "value": "45"
+            },
+            {
+              "label": "피해 감소",
               "value": "6"
-            },
-            {
-              "label": "경험치 획득량%",
-              "value": "5"
             },
             {
               "label": "괴물에게서 얻는 금화%",
-              "value": "38"
+              "value": "48"
+            },
+            {
+              "label": "지니지니",
+              "value": "74"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=407774"
+        },
+        {
+          "name": "스탠 새로워진 천상의 틈 거대 부적",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 3900,
+          "unitPriceP": 3900,
+          "options": [
+            {
+              "label": "번개 저항-%",
+              "value": "70"
+            },
+            {
+              "label": "타격 회복 속도%",
+              "value": "23"
+            },
+            {
+              "label": "번개 기술 피해%",
+              "value": "13"
+            },
+            {
+              "label": "생명력",
+              "value": "45"
+            },
+            {
+              "label": "피해 감소",
+              "value": "6"
+            },
+            {
+              "label": "괴물에게서 얻는 금화%",
+              "value": "48"
+            }
+          ],
+          "url": null
+        },
+        {
+          "name": "스탠 새로워진 천상의 틈 거대 부적",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 99000,
+          "unitPriceP": 99000,
+          "options": [
+            {
+              "label": "번개 저항-%",
+              "value": "70"
+            },
+            {
+              "label": "적의 번개 저항-%",
+              "value": "10"
+            },
+            {
+              "label": "모든 능력치",
+              "value": "6"
+            },
+            {
+              "label": "생명력",
+              "value": "64"
+            },
+            {
+              "label": "마법 피해 감소",
+              "value": "8"
             },
             {
               "label": "마법 아이템 발견 확률%",
-              "value": "35"
+              "value": "14"
             },
             {
-              "label": "#신.번깍주얼♣",
-              "value": "5"
+              "label": "지니지니",
+              "value": "74"
             },
             {
-              "label": "경험치",
-              "value": "35"
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=395940"
+        },
+        {
+          "name": "스탠 새로워진 천상의 틈 거대 부적",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 99000,
+          "unitPriceP": 99000,
+          "options": [
+            {
+              "label": "번개 저항-%",
+              "value": "70"
             },
+            {
+              "label": "적의 번개 저항-%",
+              "value": "10"
+            },
+            {
+              "label": "모든 능력치",
+              "value": "6"
+            },
+            {
+              "label": "생명력",
+              "value": "64"
+            },
+            {
+              "label": "마법 피해 감소",
+              "value": "8"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "14"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "스탠 보호자의 돌 주얼",
+      "category": "기타",
+      "listingCount": 3,
+      "price": {
+        "currency": "P",
+        "min": 2500,
+        "median": 2500,
+        "max": 2500
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "5.",
+        "경험치 획득량%",
+        "괴물에게서 얻는 금화%",
+        "마법 아이템 발견 확률%",
+        "적의 물리 피해 저항-%",
+        "지니지니",
+        "피해%"
+      ],
+      "samples": [
+        {
+          "name": "스탠 보호자의 돌 주얼",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 2500,
+          "unitPriceP": 2500,
+          "options": [
+            {
+              "label": "피해%",
+              "value": "30"
+            },
+            {
+              "label": "적의 물리 피해 저항-%",
+              "value": "8"
+            },
+            {
+              "label": "경험치 획득량%",
+              "value": "4"
+            },
+            {
+              "label": "괴물에게서 얻는 금화%",
+              "value": "50"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "20"
+            },
+            {
+              "label": "지니지니",
+              "value": "74"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=395956"
+        },
+        {
+          "name": "스탠 보호자의 돌 주얼",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 2500,
+          "unitPriceP": 2500,
+          "options": [
+            {
+              "label": "피해%",
+              "value": "37"
+            },
+            {
+              "label": "적의 물리 피해 저항-%",
+              "value": "8"
+            },
+            {
+              "label": "경험치 획득량%",
+              "value": "3"
+            },
+            {
+              "label": "괴물에게서 얻는 금화%",
+              "value": "48"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "16"
+            }
+          ],
+          "url": null
+        },
+        {
+          "name": "스탠 보호자의 돌 주얼",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 2500,
+          "unitPriceP": 2500,
+          "options": [
+            {
+              "label": "피해%",
+              "value": "37"
+            },
+            {
+              "label": "적의 물리 피해 저항-%",
+              "value": "8"
+            },
+            {
+              "label": "경험치 획득량%",
+              "value": "3"
+            },
+            {
+              "label": "괴물에게서 얻는 금화%",
+              "value": "48"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "16"
+            },
+            {
+              "label": "지니지니",
+              "value": "74"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=395954"
+        }
+      ]
+    },
+    {
+      "name": "래더 워루스크의 끝",
+      "category": "부적",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 550,
+        "median": 550,
+        "max": 550
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "0.",
+        "5.",
+        "거래 상대방",
+        "괴물에게서 얻는 금화%",
+        "기괴 기술(악마술사)",
+        "달리기/걷기 속도%",
+        "마나",
+        "마나 재생%",
+        "마력",
+        "모든 저항",
+        "민첩",
+        "방어력",
+        "방어력%",
+        "시전 속도%",
+        "적의 마법 저항-%",
+        "적중당 마나 훔침%",
+        "지니지니",
+        "타격 회복 속도%"
+      ],
+      "samples": [
+        {
+          "name": "래더 워루스크의 끝",
+          "category": "부적",
+          "server": "악군",
+          "status": "거래완료",
+          "quantity": 2,
+          "priceP": 550,
+          "unitPriceP": 550,
+          "options": [
             {
               "label": "거래 상대방",
               "value": "1"
@@ -465,105 +546,105 @@
               "value": "00"
             },
             {
-              "label": "모든 저항",
-              "value": "24"
+              "label": "방어력",
+              "value": "41"
             },
             {
-              "label": "달달연유",
-              "value": "102"
+              "label": "민첩",
+              "value": "13"
+            },
+            {
+              "label": "마력",
+              "value": "14"
+            },
+            {
+              "label": "기괴 기술(악마술사)",
+              "value": "1"
+            },
+            {
+              "label": "달리기/걷기 속도%",
+              "value": "11"
+            },
+            {
+              "label": "시전 속도%",
+              "value": "13"
+            },
+            {
+              "label": "타격 회복 속도%",
+              "value": "14"
+            },
+            {
+              "label": "적의 마법 저항-%",
+              "value": "7"
+            },
+            {
+              "label": "방어력%",
+              "value": "130"
+            },
+            {
+              "label": "괴물에게서 얻는 금화%",
+              "value": "60"
+            },
+            {
+              "label": "모든 저항",
+              "value": "15"
+            },
+            {
+              "label": "지니지니",
+              "value": "74"
             },
             {
               "label": "5.",
               "value": "00"
             },
             {
-              "label": "전투 명령(공용 기술)",
-              "value": "4"
+              "label": "시전 속도%",
+              "value": "8"
             },
             {
-              "label": "전투 지시(공용 기술)",
-              "value": "6"
+              "label": "마력",
+              "value": "19"
             },
             {
-              "label": "전투의 함성(공용 기술)",
-              "value": "2"
+              "label": "마나",
+              "value": "17"
             },
             {
-              "label": "장착 시 명상 오라 적용",
-              "value": "12"
+              "label": "마나 재생%",
+              "value": "9"
             },
             {
-              "label": "피해%",
-              "value": "224"
+              "label": "모든 저항",
+              "value": "8"
             },
             {
-              "label": "명중률%",
-              "value": "235"
+              "label": "시전 속도%",
+              "value": "19"
             },
             {
-              "label": "치명타",
-              "value": "6"
+              "label": "적중당 마나 훔침%",
+              "value": "8"
             },
             {
-              "label": "#저랩통찰#에테통찰#맥뎀",
-              "value": "217"
+              "label": "마나",
+              "value": "16"
             },
             {
-              "label": "#랩제",
-              "value": "27"
-            },
-            {
-              "label": "혼돈 기술(악마술사)",
-              "value": "1"
-            },
-            {
-              "label": "매일복권",
-              "value": "62"
-            },
-            {
-              "label": "#래더",
-              "value": "15"
+              "label": "마나 재생%",
+              "value": "10"
             }
           ],
           "url": "https://www.playnote.co.kr/trade/itemmarket?index=1"
         },
         {
-          "name": "스탠 감시자의 천둥 주얼",
+          "name": "래더 워루스크의 끝",
           "category": "부적",
           "server": "악군",
-          "status": "거래중",
-          "quantity": 1,
-          "priceP": 900,
-          "unitPriceP": 900,
+          "status": "거래완료",
+          "quantity": 2,
+          "priceP": 550,
+          "unitPriceP": 550,
           "options": [
-            {
-              "label": "번개 기술 피해%",
-              "value": "7"
-            },
-            {
-              "label": "적의 번개 저항-%",
-              "value": "6"
-            },
-            {
-              "label": "경험치 획득량%",
-              "value": "5"
-            },
-            {
-              "label": "괴물에게서 얻는 금화%",
-              "value": "38"
-            },
-            {
-              "label": "마법 아이템 발견 확률%",
-              "value": "35"
-            },
-            {
-              "label": "#신.번깍주얼♣",
-              "value": "5"
-            },
-            {
-              "label": "경험치",
-              "value": "35"
-            },
             {
               "label": "거래 상대방",
               "value": "1"
@@ -573,151 +654,207 @@
               "value": "00"
             },
             {
-              "label": "모든 저항",
-              "value": "24"
+              "label": "방어력",
+              "value": "41"
             },
             {
-              "label": "달달연유",
-              "value": "102"
+              "label": "민첩",
+              "value": "13"
+            },
+            {
+              "label": "마력",
+              "value": "14"
+            },
+            {
+              "label": "기괴 기술(악마술사)",
+              "value": "1"
+            },
+            {
+              "label": "달리기/걷기 속도%",
+              "value": "11"
+            },
+            {
+              "label": "시전 속도%",
+              "value": "13"
+            },
+            {
+              "label": "타격 회복 속도%",
+              "value": "14"
+            },
+            {
+              "label": "적의 마법 저항-%",
+              "value": "7"
+            },
+            {
+              "label": "방어력%",
+              "value": "130"
+            },
+            {
+              "label": "괴물에게서 얻는 금화%",
+              "value": "60"
+            },
+            {
+              "label": "모든 저항",
+              "value": "15"
+            },
+            {
+              "label": "지니지니",
+              "value": "74"
             },
             {
               "label": "5.",
               "value": "00"
             },
             {
-              "label": "전투 명령(공용 기술)",
-              "value": "4"
+              "label": "시전 속도%",
+              "value": "8"
             },
             {
-              "label": "전투 지시(공용 기술)",
-              "value": "6"
+              "label": "마력",
+              "value": "19"
             },
             {
-              "label": "전투의 함성(공용 기술)",
-              "value": "2"
+              "label": "마나",
+              "value": "17"
             },
             {
-              "label": "장착 시 명상 오라 적용",
-              "value": "12"
+              "label": "마나 재생%",
+              "value": "9"
             },
             {
-              "label": "피해%",
-              "value": "224"
+              "label": "모든 저항",
+              "value": "8"
             },
             {
-              "label": "명중률%",
-              "value": "235"
+              "label": "시전 속도%",
+              "value": "19"
             },
             {
-              "label": "치명타",
-              "value": "6"
+              "label": "적중당 마나 훔침%",
+              "value": "8"
             },
             {
-              "label": "#저랩통찰#에테통찰#맥뎀",
-              "value": "217"
+              "label": "마나",
+              "value": "16"
             },
             {
-              "label": "#랩제",
-              "value": "27"
-            },
-            {
-              "label": "혼돈 기술(악마술사)",
-              "value": "1"
-            },
-            {
-              "label": "매일복권",
-              "value": "62"
-            },
-            {
-              "label": "#래더",
-              "value": "15"
+              "label": "마나 재생%",
+              "value": "10"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=435031"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=408029"
         }
       ]
     },
     {
-      "name": "스탠 감시자의 천둥 주얼",
+      "name": "스탠 기드의 내기 트롤 벨트",
       "category": "기타",
       "listingCount": 2,
       "price": {
         "currency": "P",
-        "min": 900,
-        "median": 900,
-        "max": 900
+        "min": 15900,
+        "median": 15900,
+        "max": 15900
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "경험치 획득량%",
+        "5.",
         "괴물에게서 얻는 금화%",
-        "마법 아이템 발견 확률%",
-        "번개 기술 피해%",
-        "적의 번개 저항-%"
+        "달리기/걷기 속도%",
+        "모든 저항",
+        "방어력%",
+        "시전 속도%",
+        "적의 마법 저항-%",
+        "지니지니",
+        "타격 회복 속도%"
       ],
       "samples": [
         {
-          "name": "스탠 감시자의 천둥 주얼",
+          "name": "스탠 기드의 내기 트롤 벨트",
           "category": "기타",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 900,
-          "unitPriceP": 900,
+          "priceP": 15900,
+          "unitPriceP": 15900,
           "options": [
             {
-              "label": "번개 기술 피해%",
+              "label": "달리기/걷기 속도%",
+              "value": "11"
+            },
+            {
+              "label": "시전 속도%",
+              "value": "13"
+            },
+            {
+              "label": "타격 회복 속도%",
+              "value": "14"
+            },
+            {
+              "label": "적의 마법 저항-%",
               "value": "7"
             },
             {
-              "label": "적의 번개 저항-%",
-              "value": "6"
-            },
-            {
-              "label": "경험치 획득량%",
-              "value": "5"
+              "label": "방어력%",
+              "value": "130"
             },
             {
               "label": "괴물에게서 얻는 금화%",
-              "value": "38"
+              "value": "60"
             },
             {
-              "label": "마법 아이템 발견 확률%",
-              "value": "35"
+              "label": "모든 저항",
+              "value": "15"
+            },
+            {
+              "label": "지니지니",
+              "value": "74"
+            },
+            {
+              "label": "5.",
+              "value": "00"
             }
           ],
-          "url": null
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=408029"
         },
         {
-          "name": "스탠 감시자의 천둥 주얼",
+          "name": "스탠 기드의 내기 트롤 벨트",
           "category": "기타",
           "server": "악군",
           "status": "",
-          "quantity": 0,
-          "priceP": 900,
-          "unitPriceP": 900,
+          "quantity": 1,
+          "priceP": 15900,
+          "unitPriceP": 15900,
           "options": [
             {
-              "label": "번개 기술 피해%",
+              "label": "달리기/걷기 속도%",
+              "value": "11"
+            },
+            {
+              "label": "시전 속도%",
+              "value": "13"
+            },
+            {
+              "label": "타격 회복 속도%",
+              "value": "14"
+            },
+            {
+              "label": "적의 마법 저항-%",
               "value": "7"
             },
             {
-              "label": "적의 번개 저항-%",
-              "value": "6"
-            },
-            {
-              "label": "경험치 획득량%",
-              "value": "5"
+              "label": "방어력%",
+              "value": "130"
             },
             {
               "label": "괴물에게서 얻는 금화%",
-              "value": "38"
+              "value": "60"
             },
             {
-              "label": "마법 아이템 발견 확률%",
-              "value": "35"
+              "label": "모든 저항",
+              "value": "15"
             }
           ],
           "url": null
@@ -725,49 +862,49 @@
       ]
     },
     {
-      "name": "래더 통찰",
+      "name": "래더 망령걸음 미러드 부츠",
       "category": "기타",
       "listingCount": 1,
       "price": {
         "currency": "P",
-        "min": 2990,
-        "median": 2990,
-        "max": 2990
+        "min": 280,
+        "median": 280,
+        "max": 280
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "명중률%",
-        "장착 시 명상 오라 적용",
-        "치명타",
-        "피해%"
+        "기괴 기술(악마술사)",
+        "마력",
+        "민첩",
+        "방어력"
       ],
       "samples": [
         {
-          "name": "래더 통찰",
+          "name": "래더 망령걸음 미러드 부츠",
           "category": "기타",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 2990,
-          "unitPriceP": 2990,
+          "priceP": 280,
+          "unitPriceP": 280,
           "options": [
             {
-              "label": "장착 시 명상 오라 적용",
-              "value": "12"
+              "label": "방어력",
+              "value": "41"
             },
             {
-              "label": "피해%",
-              "value": "224"
+              "label": "민첩",
+              "value": "13"
             },
             {
-              "label": "명중률%",
-              "value": "235"
+              "label": "마력",
+              "value": "14"
             },
             {
-              "label": "치명타",
-              "value": "6"
+              "label": "기괴 기술(악마술사)",
+              "value": "1"
             }
           ],
           "url": null
@@ -775,53 +912,49 @@
       ]
     },
     {
-      "name": "스탠 감시자의 천둥 주얼",
+      "name": "래더 워루스크의 끝",
       "category": "룬워드",
       "listingCount": 1,
       "price": {
         "currency": "P",
-        "min": 900,
-        "median": 900,
-        "max": 900
+        "min": 550,
+        "median": 550,
+        "max": 550
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "#랩제",
-        "#신.번깍주얼♣",
-        "#저랩통찰#에테통찰#맥뎀",
         "0.",
         "5.",
         "거래 상대방",
-        "경험치",
-        "경험치 획득량%",
         "괴물에게서 얻는 금화%",
-        "달달연유",
+        "기괴 기술(악마술사)",
+        "달리기/걷기 속도%",
         "디아블로",
-        "마법 아이템 발견 확률%",
-        "명중률%",
+        "마나",
+        "마나 재생%",
+        "마력",
         "모든 저항",
-        "번개 기술 피해%",
-        "장착 시 명상 오라 적용",
-        "적의 번개 저항-%",
-        "전투 명령(공용 기술)",
-        "전투 지시(공용 기술)",
-        "전투의 함성(공용 기술)",
+        "민첩",
+        "방어력",
+        "방어력%",
+        "시전 속도%",
+        "적의 마법 저항-%",
         "지금 시작하면, 멤버십 PLUS",
-        "치명타",
-        "플레이디아 디아블로",
-        "피해%"
+        "지니지니",
+        "타격 회복 속도%",
+        "플레이디아 디아블로"
       ],
       "samples": [
         {
-          "name": "스탠 감시자의 천둥 주얼",
+          "name": "래더 워루스크의 끝",
           "category": "룬워드",
           "server": "악군",
           "status": "거래완료",
-          "quantity": 1,
-          "priceP": 900,
-          "unitPriceP": 900,
+          "quantity": 2,
+          "priceP": 550,
+          "unitPriceP": 550,
           "options": [
             {
               "label": "지금 시작하면, 멤버십 PLUS",
@@ -836,34 +969,6 @@
               "value": "2"
             },
             {
-              "label": "번개 기술 피해%",
-              "value": "7"
-            },
-            {
-              "label": "적의 번개 저항-%",
-              "value": "6"
-            },
-            {
-              "label": "경험치 획득량%",
-              "value": "5"
-            },
-            {
-              "label": "괴물에게서 얻는 금화%",
-              "value": "38"
-            },
-            {
-              "label": "마법 아이템 발견 확률%",
-              "value": "35"
-            },
-            {
-              "label": "#신.번깍주얼♣",
-              "value": "5"
-            },
-            {
-              "label": "경험치",
-              "value": "35"
-            },
-            {
               "label": "거래 상대방",
               "value": "1"
             },
@@ -872,55 +977,111 @@
               "value": "00"
             },
             {
-              "label": "모든 저항",
-              "value": "24"
+              "label": "방어력",
+              "value": "41"
             },
             {
-              "label": "달달연유",
-              "value": "102"
+              "label": "민첩",
+              "value": "13"
+            },
+            {
+              "label": "마력",
+              "value": "14"
+            },
+            {
+              "label": "기괴 기술(악마술사)",
+              "value": "1"
+            },
+            {
+              "label": "달리기/걷기 속도%",
+              "value": "11"
+            },
+            {
+              "label": "시전 속도%",
+              "value": "13"
+            },
+            {
+              "label": "타격 회복 속도%",
+              "value": "14"
+            },
+            {
+              "label": "적의 마법 저항-%",
+              "value": "7"
+            },
+            {
+              "label": "방어력%",
+              "value": "130"
+            },
+            {
+              "label": "괴물에게서 얻는 금화%",
+              "value": "60"
+            },
+            {
+              "label": "모든 저항",
+              "value": "15"
+            },
+            {
+              "label": "지니지니",
+              "value": "74"
             },
             {
               "label": "5.",
               "value": "00"
             },
             {
-              "label": "전투 명령(공용 기술)",
-              "value": "4"
+              "label": "시전 속도%",
+              "value": "8"
             },
             {
-              "label": "전투 지시(공용 기술)",
-              "value": "6"
+              "label": "마력",
+              "value": "19"
             },
             {
-              "label": "전투의 함성(공용 기술)",
-              "value": "2"
+              "label": "마나",
+              "value": "17"
             },
             {
-              "label": "장착 시 명상 오라 적용",
-              "value": "12"
+              "label": "마나 재생%",
+              "value": "9"
             },
             {
-              "label": "피해%",
-              "value": "224"
+              "label": "모든 저항",
+              "value": "8"
             },
             {
-              "label": "명중률%",
-              "value": "235"
-            },
-            {
-              "label": "치명타",
-              "value": "6"
-            },
-            {
-              "label": "#저랩통찰#에테통찰#맥뎀",
-              "value": "217"
-            },
-            {
-              "label": "#랩제",
-              "value": "27"
+              "label": "시전 속도%",
+              "value": "19"
             }
           ],
           "url": "https://www.playnote.co.kr/customer/noticedetail?Index=5"
+        }
+      ]
+    },
+    {
+      "name": "래더 워루스크의 끝",
+      "category": "기타",
+      "listingCount": 1,
+      "price": {
+        "currency": "P",
+        "min": 550,
+        "median": 550,
+        "max": 550
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [],
+      "samples": [
+        {
+          "name": "래더 워루스크의 끝",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 2,
+          "priceP": 550,
+          "unitPriceP": 550,
+          "options": [],
+          "url": null
         }
       ]
     }
