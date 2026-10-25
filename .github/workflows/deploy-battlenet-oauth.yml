@@ -25,6 +25,8 @@ jobs:
           secrets: |
             BATTLE_NET_CLIENT_ID
             BATTLE_NET_CLIENT_SECRET
+            ADMIN_PASSWORD
         env:
           BATTLE_NET_CLIENT_ID: ${{ secrets.BATTLE_NET_CLIENT_ID }}
           BATTLE_NET_CLIENT_SECRET: ${{ secrets.BATTLE_NET_CLIENT_SECRET }}
+          ADMIN_PASSWORD: ${{ secrets.ADMIN_PASSWORD }}
