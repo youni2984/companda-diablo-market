@@ -1,309 +1,65 @@
 {
   "source": "https://www.playnote.co.kr/trade/itemmarket?index=1",
   "scope": "public-listings-only",
-  "updatedAt": "2026-10-25T14:20:39.179360+00:00",
-  "listingCount": 17,
+  "updatedAt": "2026-10-25T17:49:27.805662+00:00",
+  "listingCount": 19,
   "itemCount": 9,
   "items": [
     {
-      "name": "래더 벡스룬",
+      "name": "래더 우움룬",
       "category": "룬",
       "listingCount": 3,
       "price": {
         "currency": "P",
-        "min": 450,
-        "median": 450,
-        "max": 450
+        "min": 170,
+        "median": 170,
+        "max": 170
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "//",
-        "5.",
-        "예정"
-      ],
-      "samples": [
-        {
-          "name": "래더 벡스룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 450,
-          "unitPriceP": 450,
-          "options": [],
-          "url": null
-        },
-        {
-          "name": "래더 벡스룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 805,
-          "priceP": 450,
-          "unitPriceP": 450,
-          "options": [
-            {
-              "label": "//",
-              "value": "100"
-            },
-            {
-              "label": "예정",
-              "value": "380"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=376419"
-        },
-        {
-          "name": "래더 벡스룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 805,
-          "priceP": 450,
-          "unitPriceP": 450,
-          "options": [],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 자룬",
-      "category": "룬",
-      "listingCount": 3,
-      "price": {
-        "currency": "P",
-        "min": 3950,
-        "median": 3950,
-        "max": 3950
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "#래더",
-        "5.",
-        "Master"
-      ],
-      "samples": [
-        {
-          "name": "래더 자룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 3950,
-          "unitPriceP": 3950,
-          "options": [],
-          "url": null
-        },
-        {
-          "name": "래더 자룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 21,
-          "priceP": 3950,
-          "unitPriceP": 3950,
-          "options": [
-            {
-              "label": "#래더",
-              "value": "15"
-            },
-            {
-              "label": "Master",
-              "value": "654"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=436544"
-        },
-        {
-          "name": "래더 자룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 21,
-          "priceP": 3950,
-          "unitPriceP": 3950,
-          "options": [],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 새로워진 천상의 틈 거대 부적",
-      "category": "부적",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 1000,
-        "median": 1000,
-        "max": 1000
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "IKEYO",
-        "마나",
-        "마법 아이템 발견 확률%",
-        "번개 기술 피해%",
-        "번개 저항-%",
-        "타격 회복 속도%",
-        "피해 감소"
-      ],
-      "samples": [
-        {
-          "name": "래더 새로워진 천상의 틈 거대 부적",
-          "category": "부적",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 1000,
-          "unitPriceP": 1000,
-          "options": [
-            {
-              "label": "번개 저항-%",
-              "value": "70"
-            },
-            {
-              "label": "번개 기술 피해%",
-              "value": "13"
-            },
-            {
-              "label": "마나",
-              "value": "34"
-            },
-            {
-              "label": "피해 감소",
-              "value": "7"
-            },
-            {
-              "label": "마법 아이템 발견 확률%",
-              "value": "24"
-            },
-            {
-              "label": "타격 회복 속도%",
-              "value": "24"
-            },
-            {
-              "label": "IKEYO",
-              "value": "38"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=402687"
-        },
-        {
-          "name": "래더 새로워진 천상의 틈 거대 부적",
-          "category": "부적",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 1000,
-          "unitPriceP": 1000,
-          "options": [
-            {
-              "label": "번개 저항-%",
-              "value": "70"
-            },
-            {
-              "label": "번개 기술 피해%",
-              "value": "13"
-            },
-            {
-              "label": "마나",
-              "value": "34"
-            },
-            {
-              "label": "피해 감소",
-              "value": "7"
-            },
-            {
-              "label": "마법 아이템 발견 확률%",
-              "value": "24"
-            },
-            {
-              "label": "타격 회복 속도%",
-              "value": "24"
-            }
-          ],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 수수께끼",
-      "category": "부적",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 6000,
-        "median": 6000,
-        "max": 6000
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "#래더",
-        "//",
         "0.",
         "5.",
-        "IKEYO",
-        "Master",
+        "Egis",
+        "NasdaQ",
         "거래 상대방",
+        "로베르자",
         "마나",
+        "마나 재생%",
         "마법 아이템 발견 확률%",
-        "모든 능력치",
+        "명중률%",
         "모든 저항",
-        "모든 저항%",
-        "바포링",
-        "방/",
-        "방어력",
         "방어력%",
-        "번개 기술 피해%",
-        "번개 저항-%",
-        "예정",
-        "적 처치 시 마나 회복",
-        "적 처치 시 생명력 회복",
+        "생명력",
+        "선고(성기사 전용)",
+        "성역(성기사 전용)",
+        "시야",
+        "시전 속도%",
+        "언데드에게 주는 피해%",
+        "재밌는디아",
+        "적의 마법 저항-%",
+        "천상의 주먹(성기사 전용)",
         "총 방어력",
-        "피해 감소"
+        "피해%"
       ],
       "samples": [
         {
-          "name": "래더 수수께끼",
-          "category": "부적",
+          "name": "래더 우움룬",
+          "category": "룬",
           "server": "악군",
           "status": "거래완료",
-          "quantity": 1,
-          "priceP": 6000,
-          "unitPriceP": 6000,
+          "quantity": 5,
+          "priceP": 170,
+          "unitPriceP": 170,
           "options": [
             {
-              "label": "방어력",
-              "value": "767"
+              "label": "Egis",
+              "value": "114"
             },
             {
-              "label": "총 방어력",
-              "value": "1068"
-            },
-            {
-              "label": "방/",
-              "value": "0"
+              "label": "5.",
+              "value": "00"
             },
             {
               "label": "거래 상대방",
@@ -314,276 +70,389 @@
               "value": "00"
             },
             {
-              "label": "//",
-              "value": "100"
+              "label": "로베르자",
+              "value": "79"
             },
             {
-              "label": "예정",
-              "value": "380"
+              "label": "총 방어력",
+              "value": "887"
             },
             {
-              "label": "5.",
-              "value": "00"
+              "label": "NasdaQ",
+              "value": "131"
             },
             {
-              "label": "#래더",
-              "value": "15"
+              "label": "시전 속도%",
+              "value": "10"
             },
             {
-              "label": "Master",
-              "value": "654"
+              "label": "생명력",
+              "value": "20"
             },
             {
-              "label": "모든 능력치",
-              "value": "11"
+              "label": "마나",
+              "value": "13"
+            },
+            {
+              "label": "마나 재생%",
+              "value": "10"
             },
             {
               "label": "모든 저항",
               "value": "20"
             },
             {
-              "label": "바포링",
-              "value": "66"
+              "label": "시야",
+              "value": "1"
             },
             {
-              "label": "방어력%",
+              "label": "재밌는디아",
+              "value": "116"
+            },
+            {
+              "label": "시전 속도%",
               "value": "30"
             },
             {
-              "label": "모든 저항%",
-              "value": "6"
+              "label": "피해%",
+              "value": "101"
             },
             {
-              "label": "적 처치 시 마나 회복",
-              "value": "3"
+              "label": "명중률%",
+              "value": "52"
             },
             {
-              "label": "적 처치 시 생명력 회복",
-              "value": "2"
+              "label": "적의 마법 저항-%",
+              "value": "19"
             },
             {
-              "label": "번개 기술 피해%",
-              "value": "5"
-            },
-            {
-              "label": "IKEYO",
-              "value": "38"
-            },
-            {
-              "label": "번개 저항-%",
-              "value": "70"
-            },
-            {
-              "label": "번개 기술 피해%",
-              "value": "13"
-            },
-            {
-              "label": "마나",
-              "value": "34"
-            },
-            {
-              "label": "피해 감소",
-              "value": "7"
+              "label": "방어력%",
+              "value": "148"
             },
             {
               "label": "마법 아이템 발견 확률%",
-              "value": "24"
+              "value": "21"
+            },
+            {
+              "label": "선고(성기사 전용)",
+              "value": "3"
+            },
+            {
+              "label": "천상의 주먹(성기사 전용)",
+              "value": "3"
+            },
+            {
+              "label": "성역(성기사 전용)",
+              "value": "1"
+            },
+            {
+              "label": "언데드에게 주는 피해%",
+              "value": "50"
             }
           ],
           "url": "https://www.playnote.co.kr/trade/itemmarket?index=1"
         },
         {
-          "name": "래더 수수께끼",
-          "category": "부적",
+          "name": "래더 우움룬",
+          "category": "룬",
           "server": "악군",
-          "status": "거래완료",
-          "quantity": 1,
-          "priceP": 6000,
-          "unitPriceP": 6000,
+          "status": "",
+          "quantity": 5,
+          "priceP": 170,
+          "unitPriceP": 170,
           "options": [
             {
-              "label": "방어력",
-              "value": "767"
-            },
-            {
-              "label": "총 방어력",
-              "value": "1068"
-            },
-            {
-              "label": "방/",
-              "value": "0"
-            },
-            {
-              "label": "거래 상대방",
-              "value": "1"
-            },
-            {
-              "label": "0.",
-              "value": "00"
-            },
-            {
-              "label": "//",
-              "value": "100"
-            },
-            {
-              "label": "예정",
-              "value": "380"
+              "label": "Egis",
+              "value": "114"
             },
             {
               "label": "5.",
               "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=439259"
+        },
+        {
+          "name": "래더 우움룬",
+          "category": "룬",
+          "server": "악군",
+          "status": "",
+          "quantity": 5,
+          "priceP": 170,
+          "unitPriceP": 170,
+          "options": [],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "스탠 로룬",
+      "category": "룬",
+      "listingCount": 3,
+      "price": {
+        "currency": "P",
+        "min": 1300,
+        "median": 1300,
+        "max": 1300
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "5.",
+        "로베르자"
+      ],
+      "samples": [
+        {
+          "name": "스탠 로룬",
+          "category": "룬",
+          "server": "악군",
+          "status": "",
+          "quantity": 4,
+          "priceP": 1300,
+          "unitPriceP": 1300,
+          "options": [],
+          "url": null
+        },
+        {
+          "name": "스탠 로룬",
+          "category": "룬",
+          "server": "악군",
+          "status": "",
+          "quantity": 51,
+          "priceP": 1300,
+          "unitPriceP": 1300,
+          "options": [
+            {
+              "label": "로베르자",
+              "value": "79"
             },
             {
-              "label": "#래더",
-              "value": "15"
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=419960"
+        },
+        {
+          "name": "스탠 로룬",
+          "category": "룬",
+          "server": "악군",
+          "status": "",
+          "quantity": 51,
+          "priceP": 1300,
+          "unitPriceP": 1300,
+          "options": [],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 목걸이",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 15000,
+        "median": 15000,
+        "max": 15000
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "5.",
+        "마나",
+        "마나 재생%",
+        "모든 저항",
+        "생명력",
+        "시야",
+        "시전 속도%",
+        "재밌는디아"
+      ],
+      "samples": [
+        {
+          "name": "래더 목걸이",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 15000,
+          "unitPriceP": 15000,
+          "options": [
+            {
+              "label": "시전 속도%",
+              "value": "10"
             },
             {
-              "label": "Master",
-              "value": "654"
-            },
-            {
-              "label": "모든 능력치",
-              "value": "11"
-            },
-            {
-              "label": "모든 저항",
+              "label": "생명력",
               "value": "20"
-            },
-            {
-              "label": "바포링",
-              "value": "66"
-            },
-            {
-              "label": "방어력%",
-              "value": "30"
-            },
-            {
-              "label": "모든 저항%",
-              "value": "6"
-            },
-            {
-              "label": "적 처치 시 마나 회복",
-              "value": "3"
-            },
-            {
-              "label": "적 처치 시 생명력 회복",
-              "value": "2"
-            },
-            {
-              "label": "번개 기술 피해%",
-              "value": "5"
-            },
-            {
-              "label": "IKEYO",
-              "value": "38"
-            },
-            {
-              "label": "번개 저항-%",
-              "value": "70"
-            },
-            {
-              "label": "번개 기술 피해%",
-              "value": "13"
             },
             {
               "label": "마나",
-              "value": "34"
+              "value": "13"
             },
             {
-              "label": "피해 감소",
-              "value": "7"
+              "label": "마나 재생%",
+              "value": "10"
+            },
+            {
+              "label": "모든 저항",
+              "value": "20"
+            },
+            {
+              "label": "시야",
+              "value": "1"
+            },
+            {
+              "label": "재밌는디아",
+              "value": "116"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=434030"
+        },
+        {
+          "name": "래더 목걸이",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 15000,
+          "unitPriceP": 15000,
+          "options": [
+            {
+              "label": "시전 속도%",
+              "value": "10"
+            },
+            {
+              "label": "생명력",
+              "value": "20"
+            },
+            {
+              "label": "마나",
+              "value": "13"
+            },
+            {
+              "label": "마나 재생%",
+              "value": "10"
+            },
+            {
+              "label": "모든 저항",
+              "value": "20"
+            },
+            {
+              "label": "시야",
+              "value": "1"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 아르스 둘메피스토스 비술 고서",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 35000,
+        "median": 35000,
+        "max": 35000
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "5.",
+        "마법 아이템 발견 확률%",
+        "명중률%",
+        "방어력%",
+        "시전 속도%",
+        "재밌는디아",
+        "적의 마법 저항-%",
+        "피해%"
+      ],
+      "samples": [
+        {
+          "name": "래더 아르스 둘메피스토스 비술 고서",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 35000,
+          "unitPriceP": 35000,
+          "options": [
+            {
+              "label": "시전 속도%",
+              "value": "30"
+            },
+            {
+              "label": "피해%",
+              "value": "101"
+            },
+            {
+              "label": "명중률%",
+              "value": "52"
+            },
+            {
+              "label": "적의 마법 저항-%",
+              "value": "19"
+            },
+            {
+              "label": "방어력%",
+              "value": "148"
             },
             {
               "label": "마법 아이템 발견 확률%",
-              "value": "24"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=376419"
-        }
-      ]
-    },
-    {
-      "name": "래더 오팔맥 반지",
-      "category": "기타",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 10000,
-        "median": 10000,
-        "max": 10000
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "IKEYO",
-        "모든 저항%",
-        "번개 기술 피해%",
-        "적 처치 시 마나 회복",
-        "적 처치 시 생명력 회복"
-      ],
-      "samples": [
-        {
-          "name": "래더 오팔맥 반지",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 10000,
-          "unitPriceP": 10000,
-          "options": [
-            {
-              "label": "모든 저항%",
-              "value": "6"
+              "value": "21"
             },
             {
-              "label": "적 처치 시 마나 회복",
-              "value": "3"
-            },
-            {
-              "label": "적 처치 시 생명력 회복",
-              "value": "2"
-            },
-            {
-              "label": "번개 기술 피해%",
-              "value": "5"
-            },
-            {
-              "label": "IKEYO",
-              "value": "38"
+              "label": "재밌는디아",
+              "value": "116"
             },
             {
               "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=408183"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=385016"
         },
         {
-          "name": "래더 오팔맥 반지",
+          "name": "래더 아르스 둘메피스토스 비술 고서",
           "category": "기타",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 10000,
-          "unitPriceP": 10000,
+          "priceP": 35000,
+          "unitPriceP": 35000,
           "options": [
             {
-              "label": "모든 저항%",
-              "value": "6"
+              "label": "시전 속도%",
+              "value": "30"
             },
             {
-              "label": "적 처치 시 마나 회복",
-              "value": "3"
+              "label": "피해%",
+              "value": "101"
             },
             {
-              "label": "적 처치 시 생명력 회복",
-              "value": "2"
+              "label": "명중률%",
+              "value": "52"
             },
             {
-              "label": "번개 기술 피해%",
-              "value": "5"
+              "label": "적의 마법 저항-%",
+              "value": "19"
+            },
+            {
+              "label": "방어력%",
+              "value": "148"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "21"
             }
           ],
           "url": null
@@ -591,69 +460,298 @@
       ]
     },
     {
-      "name": "래더 지옥의 횃불(팔라)",
-      "category": "부적",
+      "name": "래더 워 셉터",
+      "category": "기타",
       "listingCount": 2,
       "price": {
         "currency": "P",
-        "min": 500,
-        "median": 500,
-        "max": 500
+        "min": 25000,
+        "median": 25000,
+        "max": 25000
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
         "5.",
-        "모든 능력치",
-        "모든 저항",
-        "바포링"
+        "선고",
+        "선고(성기사 전용)",
+        "성역(성기사 전용)",
+        "언데드에게 주는 피해%",
+        "재밌는디아",
+        "천상의 주먹(성기사 전용)",
+        "천주"
       ],
       "samples": [
         {
-          "name": "래더 지옥의 횃불(팔라)",
-          "category": "부적",
+          "name": "래더 워 셉터",
+          "category": "기타",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 500,
-          "unitPriceP": 500,
+          "priceP": 25000,
+          "unitPriceP": 25000,
           "options": [
             {
-              "label": "모든 능력치",
-              "value": "11"
+              "label": "선고(성기사 전용)",
+              "value": "3"
             },
             {
-              "label": "모든 저항",
-              "value": "20"
+              "label": "천상의 주먹(성기사 전용)",
+              "value": "3"
             },
             {
-              "label": "바포링",
+              "label": "성역(성기사 전용)",
+              "value": "1"
+            },
+            {
+              "label": "언데드에게 주는 피해%",
+              "value": "50"
+            },
+            {
+              "label": "천주",
+              "value": "3"
+            },
+            {
+              "label": "선고",
+              "value": "3"
+            },
+            {
+              "label": "재밌는디아",
+              "value": "116"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=382358"
+        },
+        {
+          "name": "래더 워 셉터",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 25000,
+          "unitPriceP": 25000,
+          "options": [
+            {
+              "label": "선고(성기사 전용)",
+              "value": "3"
+            },
+            {
+              "label": "천상의 주먹(성기사 전용)",
+              "value": "3"
+            },
+            {
+              "label": "성역(성기사 전용)",
+              "value": "1"
+            },
+            {
+              "label": "언데드에게 주는 피해%",
+              "value": "50"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 탈 라샤의 보호",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 100,
+        "median": 100,
+        "max": 100
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "5.",
+        "NasdaQ",
+        "총 방어력"
+      ],
+      "samples": [
+        {
+          "name": "래더 탈 라샤의 보호",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 100,
+          "unitPriceP": 100,
+          "options": [
+            {
+              "label": "총 방어력",
+              "value": "887"
+            },
+            {
+              "label": "NasdaQ",
+              "value": "131"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=439266"
+        },
+        {
+          "name": "래더 탈 라샤의 보호",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 100,
+          "unitPriceP": 100,
+          "options": [
+            {
+              "label": "총 방어력",
+              "value": "887"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "스탠 소집",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 80000,
+        "median": 80000,
+        "max": 80000
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "5.",
+        "냉기 갑옷(원소술사 전용)",
+        "눈보라(원소술사 전용)",
+        "마력 보호막(원소술사 전용)",
+        "소집작",
+        "애쉴봉",
+        "에쉴",
+        "에쉴봉",
+        "재밌는디아",
+        "전투 명령(공용 기술)",
+        "전투 지시(공용 기술)",
+        "전투의 함성(공용 기술)",
+        "칠링",
+        "피해%"
+      ],
+      "samples": [
+        {
+          "name": "스탠 소집",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 80000,
+          "unitPriceP": 80000,
+          "options": [
+            {
+              "label": "피해%",
+              "value": "282"
+            },
+            {
+              "label": "전투 명령(공용 기술)",
+              "value": "6"
+            },
+            {
+              "label": "전투 지시(공용 기술)",
+              "value": "6"
+            },
+            {
+              "label": "전투의 함성(공용 기술)",
+              "value": "2"
+            },
+            {
+              "label": "냉기 갑옷(원소술사 전용)",
+              "value": "3"
+            },
+            {
+              "label": "눈보라(원소술사 전용)",
+              "value": "2"
+            },
+            {
+              "label": "마력 보호막(원소술사 전용)",
+              "value": "3"
+            },
+            {
+              "label": "칠링",
+              "value": "3"
+            },
+            {
+              "label": "에쉴",
+              "value": "3"
+            },
+            {
+              "label": "애쉴봉",
+              "value": "3"
+            },
+            {
+              "label": "에쉴봉",
               "value": "66"
             },
             {
+              "label": "소집작",
+              "value": "66"
+            },
+            {
+              "label": "재밌는디아",
+              "value": "116"
+            },
+            {
               "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=435897"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=154966"
         },
         {
-          "name": "래더 지옥의 횃불(팔라)",
-          "category": "부적",
+          "name": "스탠 소집",
+          "category": "기타",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 500,
-          "unitPriceP": 500,
+          "priceP": 80000,
+          "unitPriceP": 80000,
           "options": [
             {
-              "label": "모든 능력치",
-              "value": "11"
+              "label": "피해%",
+              "value": "282"
             },
             {
-              "label": "모든 저항",
-              "value": "20"
+              "label": "전투 명령(공용 기술)",
+              "value": "6"
+            },
+            {
+              "label": "전투 지시(공용 기술)",
+              "value": "6"
+            },
+            {
+              "label": "전투의 함성(공용 기술)",
+              "value": "2"
+            },
+            {
+              "label": "냉기 갑옷(원소술사 전용)",
+              "value": "3"
+            },
+            {
+              "label": "눈보라(원소술사 전용)",
+              "value": "2"
+            },
+            {
+              "label": "마력 보호막(원소술사 전용)",
+              "value": "3"
             }
           ],
           "url": null
@@ -661,34 +759,105 @@
       ]
     },
     {
-      "name": "래더 마수 라이트 건틀릿",
+      "name": "스탠 헤비 부츠",
       "category": "기타",
-      "listingCount": 1,
+      "listingCount": 2,
       "price": {
         "currency": "P",
-        "min": 390,
-        "median": 390,
-        "max": 390
+        "min": 22000,
+        "median": 22000,
+        "max": 22000
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "방어력%"
+        "5.",
+        "냉기 저항%",
+        "달리기/걷기 속도%",
+        "번개 저항%",
+        "재밌는디아",
+        "총 방어력",
+        "타격 회복 속도%",
+        "화염 저항%"
       ],
       "samples": [
         {
-          "name": "래더 마수 라이트 건틀릿",
+          "name": "스탠 헤비 부츠",
           "category": "기타",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 390,
-          "unitPriceP": 390,
+          "priceP": 22000,
+          "unitPriceP": 22000,
           "options": [
             {
-              "label": "방어력%",
+              "label": "총 방어력",
+              "value": "5"
+            },
+            {
+              "label": "달리기/걷기 속도%",
               "value": "30"
+            },
+            {
+              "label": "타격 회복 속도%",
+              "value": "10"
+            },
+            {
+              "label": "냉기 저항%",
+              "value": "34"
+            },
+            {
+              "label": "번개 저항%",
+              "value": "28"
+            },
+            {
+              "label": "화염 저항%",
+              "value": "39"
+            },
+            {
+              "label": "재밌는디아",
+              "value": "116"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=154708"
+        },
+        {
+          "name": "스탠 헤비 부츠",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 22000,
+          "unitPriceP": 22000,
+          "options": [
+            {
+              "label": "총 방어력",
+              "value": "5"
+            },
+            {
+              "label": "달리기/걷기 속도%",
+              "value": "30"
+            },
+            {
+              "label": "타격 회복 속도%",
+              "value": "10"
+            },
+            {
+              "label": "냉기 저항%",
+              "value": "34"
+            },
+            {
+              "label": "번개 저항%",
+              "value": "28"
+            },
+            {
+              "label": "화염 저항%",
+              "value": "39"
             }
           ],
           "url": null
@@ -696,52 +865,52 @@
       ]
     },
     {
-      "name": "래더 수수께끼",
+      "name": "래더 우움룬",
       "category": "룬워드",
       "listingCount": 1,
       "price": {
         "currency": "P",
-        "min": 6000,
-        "median": 6000,
-        "max": 6000
+        "min": 170,
+        "median": 170,
+        "max": 170
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "#래더",
-        "//",
         "0.",
         "5.",
-        "IKEYO",
-        "Master",
+        "Egis",
+        "NasdaQ",
         "거래 상대방",
         "디아블로",
-        "모든 능력치",
+        "로베르자",
+        "마나",
+        "마나 재생%",
+        "마법 아이템 발견 확률%",
+        "명중률%",
         "모든 저항",
-        "모든 저항%",
-        "바포링",
-        "방/",
-        "방어력",
         "방어력%",
-        "번개 기술 피해%",
-        "번개 저항-%",
-        "예정",
-        "적 처치 시 마나 회복",
-        "적 처치 시 생명력 회복",
+        "생명력",
+        "선고(성기사 전용)",
+        "시야",
+        "시전 속도%",
+        "재밌는디아",
+        "적의 마법 저항-%",
         "지금 시작하면, 멤버십 PLUS",
         "총 방어력",
-        "플레이디아 디아블로"
+        "플레이디아 디아블로",
+        "피해%"
       ],
       "samples": [
         {
-          "name": "래더 수수께끼",
+          "name": "래더 우움룬",
           "category": "룬워드",
           "server": "악군",
           "status": "거래완료",
-          "quantity": 1,
-          "priceP": 6000,
-          "unitPriceP": 6000,
+          "quantity": 5,
+          "priceP": 170,
+          "unitPriceP": 170,
           "options": [
             {
               "label": "지금 시작하면, 멤버십 PLUS",
@@ -756,16 +925,12 @@
               "value": "2"
             },
             {
-              "label": "방어력",
-              "value": "767"
+              "label": "Egis",
+              "value": "114"
             },
             {
-              "label": "총 방어력",
-              "value": "1068"
-            },
-            {
-              "label": "방/",
-              "value": "0"
+              "label": "5.",
+              "value": "00"
             },
             {
               "label": "거래 상대방",
@@ -776,111 +941,75 @@
               "value": "00"
             },
             {
-              "label": "//",
-              "value": "100"
+              "label": "로베르자",
+              "value": "79"
             },
             {
-              "label": "예정",
-              "value": "380"
+              "label": "총 방어력",
+              "value": "887"
             },
             {
-              "label": "5.",
-              "value": "00"
+              "label": "NasdaQ",
+              "value": "131"
             },
             {
-              "label": "#래더",
-              "value": "15"
+              "label": "시전 속도%",
+              "value": "10"
             },
             {
-              "label": "Master",
-              "value": "654"
+              "label": "생명력",
+              "value": "20"
             },
             {
-              "label": "모든 능력치",
-              "value": "11"
+              "label": "마나",
+              "value": "13"
+            },
+            {
+              "label": "마나 재생%",
+              "value": "10"
             },
             {
               "label": "모든 저항",
               "value": "20"
             },
             {
-              "label": "바포링",
-              "value": "66"
+              "label": "시야",
+              "value": "1"
             },
             {
-              "label": "방어력%",
+              "label": "재밌는디아",
+              "value": "116"
+            },
+            {
+              "label": "시전 속도%",
               "value": "30"
             },
             {
-              "label": "모든 저항%",
-              "value": "6"
+              "label": "피해%",
+              "value": "101"
             },
             {
-              "label": "적 처치 시 마나 회복",
+              "label": "명중률%",
+              "value": "52"
+            },
+            {
+              "label": "적의 마법 저항-%",
+              "value": "19"
+            },
+            {
+              "label": "방어력%",
+              "value": "148"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "21"
+            },
+            {
+              "label": "선고(성기사 전용)",
               "value": "3"
-            },
-            {
-              "label": "적 처치 시 생명력 회복",
-              "value": "2"
-            },
-            {
-              "label": "번개 기술 피해%",
-              "value": "5"
-            },
-            {
-              "label": "IKEYO",
-              "value": "38"
-            },
-            {
-              "label": "번개 저항-%",
-              "value": "70"
-            },
-            {
-              "label": "번개 기술 피해%",
-              "value": "13"
             }
           ],
           "url": "https://www.playnote.co.kr/customer/noticedetail?Index=5"
-        }
-      ]
-    },
-    {
-      "name": "래더 수수께끼",
-      "category": "기타",
-      "listingCount": 1,
-      "price": {
-        "currency": "P",
-        "min": 6000,
-        "median": 6000,
-        "max": 6000
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "방어력",
-        "총 방어력"
-      ],
-      "samples": [
-        {
-          "name": "래더 수수께끼",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 6000,
-          "unitPriceP": 6000,
-          "options": [
-            {
-              "label": "방어력",
-              "value": "767"
-            },
-            {
-              "label": "총 방어력",
-              "value": "1068"
-            }
-          ],
-          "url": null
         }
       ]
     }
