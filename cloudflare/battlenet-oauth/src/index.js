@@ -1,7 +1,7 @@
 const OAUTH_HOST = 'https://apac.battle.net';
 const DEFAULT_ADMIN_USER = 'youni2984';
 const ADMIN_TOKEN_TTL_SECONDS = 60 * 60 * 8;
-const ADMIN_PASSWORD_MIN_LENGTH = 9;
+const ADMIN_PASSWORD_MIN_LENGTH = 12;
 const ADMIN_SPECIALS = "!@#$%^&*()_+-=[]{};':\"\\|,.<>/?`~";
 const textEncoder = new TextEncoder();
 
@@ -148,7 +148,7 @@ async function handleAdmin(request, env, url) {
     let body;
     try { body = await request.json(); } catch { return json({ error: '잘못된 요청입니다.' }, 400, headers); }
     if (!validAdminPassword(body?.password || '')) {
-      return json({ error: '비밀번호는 영문 포함 9자리 이상이며 특수기호를 1개 이상 포함해야 합니다.' }, 400, headers);
+      return json({ error: '비밀번호는 영문 포함 12자리 이상이며 특수기호를 1개 이상 포함해야 합니다.' }, 400, headers);
     }
     const expectedUser = env.ADMIN_USERNAME || DEFAULT_ADMIN_USER;
     const userOk = await secureEqualText(body?.username || '', expectedUser);
