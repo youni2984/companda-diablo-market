@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#0b0d10" />
+  <meta name="robots" content="noindex,nofollow" />
+  <title>컴판다 디아블로 거래소 · 관리자</title>
+  <link rel="stylesheet" href="styles.css" />
+  <style>
+    .admin-wrap{max-width:860px;margin:0 auto;padding:18px}.admin-grid{display:grid;grid-template-columns:1fr 1fr;gap:12px}.admin-grid label{display:grid;gap:6px}.admin-grid input{width:100%;padding:11px;border:1px solid #38414b;border-radius:9px;background:#0f1419;color:#fff}.admin-actions{display:flex;gap:8px;flex-wrap:wrap;margin-top:12px}.admin-links{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}.admin-link{display:block;padding:14px;border:1px solid #38414b;border-radius:10px;text-decoration:none}.admin-link b,.admin-link span{display:block}.admin-link span{margin-top:4px;font-size:13px;opacity:.8}@media(max-width:640px){.admin-grid,.admin-links{grid-template-columns:1fr}}
+  </style>
+</head>
+<body>
+  <main class="admin-wrap">
+    <header class="card hero">
+      <div><p class="eyebrow">COMPANDA ADMIN</p><h1>컴판다 디아블로 거래소 관리자</h1><p>관리자 인증은 브라우저 코드가 아니라 Cloudflare Worker에서 검증합니다.</p></div>
+    </header>
+
+    <section class="card">
+      <h2>인증 서버</h2>
+      <div class="admin-grid">
+        <label>Cloudflare Worker 주소<input id="adminWorkerUrl" type="url" placeholder="https://companda-battlenet-oauth.계정.workers.dev" /></label>
+      </div>
+      <div class="admin-actions"><button id="saveWorker" class="ghost" type="button">Worker 주소 저장</button><button id="checkServer" class="ghost" type="button">서버 상태 확인</button><a class="source" href="index.html">일반 화면</a></div>
+      <p id="adminStatus" class="auth-status" aria-live="polite">관리자 로그인이 필요합니다.</p>
+    </section>
+
+    <section id="loginCard" class="card">
+      <h2>관리자 로그인</h2>
+      <form id="adminLoginForm">
+        <div class="admin-grid">
+          <label>관리자 아이디<input id="adminUsername" autocomplete="username" /></label>
+          <label>비밀번호<input id="adminPassword" type="password" autocomplete="current-password" /></label>
+        </div>
+        <div class="admin-actions"><button class="primary-btn" type="submit">관리자 로그인</button></div>
+      </form>
+      <p class="muted">비밀번호는 GitHub 저장소나 브라우저 localStorage에 저장하지 않습니다. 로그인 성공 토큰은 현재 탭의 sessionStorage에만 유지됩니다.</p>
+    </section>
+
+    <section id="adminPanel" class="card" hidden>
+      <div class="section-head"><h2>관리자 도구</h2><span id="adminIdentity" class="badge"></span></div>
+      <div class="admin-links">
+        <a class="admin-link source" href="https://github.com/youni2984/companda-diablo-market/tree/main/data" target="_blank" rel="noopener noreferrer"><b>거래·아이템 데이터</b><span>공개 데이터와 시세 원본 관리</span></a>
+        <a class="admin-link source" href="https://github.com/youni2984/companda-diablo-market/blob/main/build-guide.js" target="_blank" rel="noopener noreferrer"><b>육성 가이드</b><span>직업별 육성 데이터 관리</span></a>
+        <a class="admin-link source" href="https://github.com/youni2984/companda-diablo-market/blob/main/app.js" target="_blank" rel="noopener noreferrer"><b>룬워드·계산 데이터</b><span>룬워드와 브라우저 계산 로직 관리</span></a>
+        <a class="admin-link source" href="https://github.com/youni2984/companda-diablo-market/actions" target="_blank" rel="noopener noreferrer"><b>자동 업데이트</b><span>GitHub Actions 실행·배포 상태 확인</span></a>
+      </div>
+      <div class="admin-actions"><button id="adminLogout" class="ghost" type="button">관리자 로그아웃</button></div>
+      <p class="muted">회원 제재·거래 삭제·정산 변경 같은 서버 데이터 조작 기능은 별도의 거래소 관리자 API가 추가되어야 이 화면에 연결할 수 있습니다.</p>
+    </section>
+  </main>
+  <script src="admin.js"></script>
+</body>
+</html>
