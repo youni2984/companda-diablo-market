@@ -5,8 +5,11 @@ workers_dev = true
 
 [vars]
 FRONTEND_URL = "https://youni2984.github.io/companda-diablo-market/"
+ADMIN_USERNAME = "youni2984"
 # BATTLE_NET_CLIENT_ID is intentionally not committed here.
 # BATTLE_NET_CLIENT_SECRET must always be stored as a Worker secret.
+# ADMIN_PASSWORD must also be stored as a Worker/GitHub Actions secret and never committed.
+# Optional ADMIN_ALLOWED_ORIGINS can contain additional comma-separated frontend origins.
 # After the Worker receives its workers.dev URL, register this exact callback URL
 # in the Battle.net Developer Portal and optionally set it as BATTLE_NET_REDIRECT_URI:
 # https://companda-battlenet-oauth.<your-subdomain>.workers.dev/callback
