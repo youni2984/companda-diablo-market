@@ -31,8 +31,9 @@
       <form id="adminLoginForm">
         <div class="admin-grid">
           <label>관리자 아이디<input id="adminUsername" autocomplete="username" /></label>
-          <label>비밀번호<input id="adminPassword" type="password" autocomplete="current-password" /></label>
+          <label>비밀번호<input id="adminPassword" type="password" minlength="9" autocomplete="current-password" aria-describedby="adminPasswordRule" /></label>
         </div>
+        <p id="adminPasswordRule" class="muted">비밀번호 규칙: 영문 포함 · 9자리 이상 · 특수기호 1개 이상 · 공백은 특수기호로 인정하지 않음</p>
         <div class="admin-actions"><button class="primary-btn" type="submit">관리자 로그인</button></div>
       </form>
       <p class="muted">비밀번호는 GitHub 저장소나 브라우저 localStorage에 저장하지 않습니다. 로그인 성공 토큰은 현재 탭의 sessionStorage에만 유지됩니다.</p>
