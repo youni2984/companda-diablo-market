@@ -1,6 +1,8 @@
 const OAUTH_HOST = 'https://apac.battle.net';
 const DEFAULT_ADMIN_USER = 'youni2984';
 const ADMIN_TOKEN_TTL_SECONDS = 60 * 60 * 8;
+const ADMIN_PASSWORD_MIN_LENGTH = 9;
+const ADMIN_SPECIALS = "!@#$%^&*()_+-=[]{};':\"\\|,.<>/?`~";
 const textEncoder = new TextEncoder();
 
 function json(data, status = 200, extra = {}) {
@@ -80,6 +82,13 @@ function decodeBase64UrlText(value) {
   return new TextDecoder().decode(bytes);
 }
 
+function validAdminPassword(value = '') {
+  const password = String(value);
+  return password.length >= ADMIN_PASSWORD_MIN_LENGTH
+    && /[A-Za-z]/.test(password)
+    && [...password].some((char) => ADMIN_SPECIALS.includes(char));
+}
+
 async function hmac(message, secret) {
   const key = await crypto.subtle.importKey(
     'raw',
@@ -135,8 +144,12 @@ async function handleAdmin(request, env, url) {
 
   if (url.pathname === '/admin/login' && request.method === 'POST') {
     if (!env.ADMIN_PASSWORD) return json({ error: '관리자 비밀번호 Secret이 설정되지 않았습니다.' }, 503, headers);
+    if (!validAdminPassword(env.ADMIN_PASSWORD)) return json({ error: '서버의 관리자 비밀번호가 보안 규칙을 충족하지 않습니다.' }, 503, headers);
     let body;
     try { body = await request.json(); } catch { return json({ error: '잘못된 요청입니다.' }, 400, headers); }
+    if (!validAdminPassword(body?.password || '')) {
+      return json({ error: '비밀번호는 영문 포함 9자리 이상이며 특수기호를 1개 이상 포함해야 합니다.' }, 400, headers);
+    }
     const expectedUser = env.ADMIN_USERNAME || DEFAULT_ADMIN_USER;
     const userOk = await secureEqualText(body?.username || '', expectedUser);
     const passwordOk = await secureEqualText(body?.password || '', env.ADMIN_PASSWORD);
@@ -183,7 +196,15 @@ export default {
     }
 
     if (url.pathname === '/health') {
-      return json({ ok: true, service: 'companda-battlenet-oauth', region: 'apac', adminAuthConfigured: Boolean(env.ADMIN_PASSWORD) }, 200, corsHeaders(request, env));
+      const configured = Boolean(env.ADMIN_PASSWORD);
+      return json({
+        ok: true,
+        service: 'companda-battlenet-oauth',
+        region: 'apac',
+        adminAuthConfigured: configured,
+        adminPasswordPolicyValid: configured ? validAdminPassword(env.ADMIN_PASSWORD) : false,
+        adminPasswordPolicy: { minLength: ADMIN_PASSWORD_MIN_LENGTH, requiresEnglish: true, requiresSpecial: true },
+      }, 200, corsHeaders(request, env));
     }
 
     if (url.pathname === '/login') {
