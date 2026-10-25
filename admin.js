@@ -1,7 +1,7 @@
 const ADMIN_TOKEN_KEY = 'companda-d2r-admin-token';
 const WORKER_URL_KEY = 'companda-d2r-bnet-oauth-worker';
 const DEFAULT_ADMIN_USER = 'youni2984';
-const ADMIN_PASSWORD_MIN_LENGTH = 9;
+const ADMIN_PASSWORD_MIN_LENGTH = 12;
 const $ = (id) => document.getElementById(id);
 
 function normalizeWorkerUrl(value = '') { return value.trim().replace(/\/+$/, ''); }
@@ -78,7 +78,7 @@ async function login(event) {
   const username = $('adminUsername').value.trim();
   const password = $('adminPassword').value;
   if (!username || !password) return setStatus('관리자 아이디와 비밀번호를 입력하세요.', 'error');
-  if (!validAdminPassword(password)) return setStatus('비밀번호는 영문 포함 9자리 이상이며 특수기호를 1개 이상 포함해야 합니다.', 'error');
+  if (!validAdminPassword(password)) return setStatus('비밀번호는 영문 포함 12자리 이상이며 특수기호를 1개 이상 포함해야 합니다.', 'error');
   setStatus('관리자 인증 중…');
   try {
     const data = await api('/admin/login', { method: 'POST', body: JSON.stringify({ username, password }) });
