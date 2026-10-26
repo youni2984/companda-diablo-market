@@ -1,619 +1,14 @@
 {
   "source": "https://www.playnote.co.kr/trade/itemmarket?index=1",
   "scope": "public-listings-only",
-  "updatedAt": "2026-10-26T01:37:30.401605+00:00",
+  "updatedAt": "2026-10-26T07:43:15.685751+00:00",
   "listingCount": 19,
-  "itemCount": 9,
+  "itemCount": 10,
   "items": [
     {
-      "name": "래더 거대 부적",
-      "category": "부적",
-      "listingCount": 3,
-      "price": {
-        "currency": "P",
-        "min": 800,
-        "median": 800,
-        "max": 800
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "#악마술사횃불",
-        "#페이즈 블레이드",
-        "0.",
-        "4.",
-        "5.",
-        "AAA상점",
-        "거래 상대방",
-        "급돌이",
-        "둠피스트",
-        "마법 기술 피해%",
-        "모든 능력치",
-        "모든 저항",
-        "모든 저항%",
-        "방어력%",
-        "생명력",
-        "소환 기술(강령술사 전용)",
-        "쏘르",
-        "온앤온",
-        "적 처치 시 마나 회복",
-        "적 처치 시 생명력 회복",
-        "총 방어력",
-        "태양권",
-        "피해%"
-      ],
-      "samples": [
-        {
-          "name": "래더 거대 부적",
-          "category": "부적",
-          "server": "악군",
-          "status": "거래완료",
-          "quantity": 1,
-          "priceP": 800,
-          "unitPriceP": 800,
-          "options": [
-            {
-              "label": "소환 기술(강령술사 전용)",
-              "value": "1"
-            },
-            {
-              "label": "생명력",
-              "value": "32"
-            },
-            {
-              "label": "급돌이",
-              "value": "9"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            },
-            {
-              "label": "거래 상대방",
-              "value": "1"
-            },
-            {
-              "label": "0.",
-              "value": "00"
-            },
-            {
-              "label": "AAA상점",
-              "value": "141"
-            },
-            {
-              "label": "모든 저항%",
-              "value": "7"
-            },
-            {
-              "label": "적 처치 시 마나 회복",
-              "value": "3"
-            },
-            {
-              "label": "적 처치 시 생명력 회복",
-              "value": "2"
-            },
-            {
-              "label": "마법 기술 피해%",
-              "value": "5"
-            },
-            {
-              "label": "태양권",
-              "value": "31"
-            },
-            {
-              "label": "방어력%",
-              "value": "194"
-            },
-            {
-              "label": "쏘르",
-              "value": "32"
-            },
-            {
-              "label": "4.",
-              "value": "70"
-            },
-            {
-              "label": "피해%",
-              "value": "15"
-            },
-            {
-              "label": "#페이즈 블레이드",
-              "value": "15"
-            },
-            {
-              "label": "둠피스트",
-              "value": "33"
-            },
-            {
-              "label": "방어력%",
-              "value": "189"
-            },
-            {
-              "label": "총 방어력",
-              "value": "139"
-            },
-            {
-              "label": "모든 능력치",
-              "value": "17"
-            },
-            {
-              "label": "모든 저항",
-              "value": "15"
-            },
-            {
-              "label": "#악마술사횃불",
-              "value": "1715"
-            },
-            {
-              "label": "온앤온",
-              "value": "110"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemmarket?index=1"
-        },
-        {
-          "name": "래더 거대 부적",
-          "category": "부적",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 800,
-          "unitPriceP": 800,
-          "options": [
-            {
-              "label": "소환 기술(강령술사 전용)",
-              "value": "1"
-            },
-            {
-              "label": "생명력",
-              "value": "32"
-            },
-            {
-              "label": "급돌이",
-              "value": "9"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=427920"
-        },
-        {
-          "name": "래더 거대 부적",
-          "category": "부적",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 800,
-          "unitPriceP": 800,
-          "options": [
-            {
-              "label": "소환 기술(강령술사 전용)",
-              "value": "1"
-            },
-            {
-              "label": "생명력",
-              "value": "32"
-            }
-          ],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 요르단의 반지",
+      "name": "스탠 라주크(소켓)",
       "category": "기타",
       "listingCount": 3,
-      "price": {
-        "currency": "P",
-        "min": 1900,
-        "median": 1900,
-        "max": 1900
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "AAA상점"
-      ],
-      "samples": [
-        {
-          "name": "래더 요르단의 반지",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 1900,
-          "unitPriceP": 1900,
-          "options": [],
-          "url": null
-        },
-        {
-          "name": "래더 요르단의 반지",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 150,
-          "priceP": 1900,
-          "unitPriceP": 1900,
-          "options": [
-            {
-              "label": "AAA상점",
-              "value": "141"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=388959"
-        },
-        {
-          "name": "래더 요르단의 반지",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 150,
-          "priceP": 1900,
-          "unitPriceP": 1900,
-          "options": [],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 선혈 기수 워 부츠",
-      "category": "기타",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 1000,
-        "median": 1000,
-        "max": 1000
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "4.",
-        "방어력%",
-        "쏘르"
-      ],
-      "samples": [
-        {
-          "name": "래더 선혈 기수 워 부츠",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 1000,
-          "unitPriceP": 1000,
-          "options": [
-            {
-              "label": "방어력%",
-              "value": "194"
-            },
-            {
-              "label": "쏘르",
-              "value": "32"
-            },
-            {
-              "label": "4.",
-              "value": "70"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=439497"
-        },
-        {
-          "name": "래더 선혈 기수 워 부츠",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 1000,
-          "unitPriceP": 1000,
-          "options": [
-            {
-              "label": "방어력%",
-              "value": "194"
-            }
-          ],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 천둥신의 박력 워 벨트",
-      "category": "기타",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 150,
-        "median": 150,
-        "max": 150
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "4.",
-        "방어력%",
-        "쏘르"
-      ],
-      "samples": [
-        {
-          "name": "래더 천둥신의 박력 워 벨트",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 150,
-          "unitPriceP": 150,
-          "options": [
-            {
-              "label": "방어력%",
-              "value": "189"
-            },
-            {
-              "label": "쏘르",
-              "value": "32"
-            },
-            {
-              "label": "4.",
-              "value": "70"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=439495"
-        },
-        {
-          "name": "래더 천둥신의 박력 워 벨트",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 150,
-          "unitPriceP": 150,
-          "options": [
-            {
-              "label": "방어력%",
-              "value": "189"
-            }
-          ],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 할리퀸 관모 샤코",
-      "category": "기타",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 350,
-        "median": 350,
-        "max": 350
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "4.",
-        "쏘르",
-        "총 방어력"
-      ],
-      "samples": [
-        {
-          "name": "래더 할리퀸 관모 샤코",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 350,
-          "unitPriceP": 350,
-          "options": [
-            {
-              "label": "총 방어력",
-              "value": "139"
-            },
-            {
-              "label": "쏘르",
-              "value": "32"
-            },
-            {
-              "label": "4.",
-              "value": "70"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=439494"
-        },
-        {
-          "name": "래더 할리퀸 관모 샤코",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 350,
-          "unitPriceP": 350,
-          "options": [
-            {
-              "label": "총 방어력",
-              "value": "139"
-            }
-          ],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "스탠 오팔맥 반지",
-      "category": "기타",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 25000,
-        "median": 25000,
-        "max": 25000
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "마법 기술 피해%",
-        "모든 저항%",
-        "적 처치 시 마나 회복",
-        "적 처치 시 생명력 회복",
-        "태양권"
-      ],
-      "samples": [
-        {
-          "name": "스탠 오팔맥 반지",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 25000,
-          "unitPriceP": 25000,
-          "options": [
-            {
-              "label": "모든 저항%",
-              "value": "7"
-            },
-            {
-              "label": "적 처치 시 마나 회복",
-              "value": "3"
-            },
-            {
-              "label": "적 처치 시 생명력 회복",
-              "value": "2"
-            },
-            {
-              "label": "마법 기술 피해%",
-              "value": "5"
-            },
-            {
-              "label": "태양권",
-              "value": "31"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=430532"
-        },
-        {
-          "name": "스탠 오팔맥 반지",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 25000,
-          "unitPriceP": 25000,
-          "options": [
-            {
-              "label": "모든 저항%",
-              "value": "7"
-            },
-            {
-              "label": "적 처치 시 마나 회복",
-              "value": "3"
-            },
-            {
-              "label": "적 처치 시 생명력 회복",
-              "value": "2"
-            },
-            {
-              "label": "마법 기술 피해%",
-              "value": "5"
-            }
-          ],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "스탠 지옥의 횃불(악마술사)",
-      "category": "부적",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 8000,
-        "median": 8000,
-        "max": 8000
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "#악마술사횃불",
-        "4.",
-        "모든 능력치",
-        "모든 저항",
-        "온앤온"
-      ],
-      "samples": [
-        {
-          "name": "스탠 지옥의 횃불(악마술사)",
-          "category": "부적",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 8000,
-          "unitPriceP": 8000,
-          "options": [
-            {
-              "label": "모든 능력치",
-              "value": "17"
-            },
-            {
-              "label": "모든 저항",
-              "value": "15"
-            },
-            {
-              "label": "#악마술사횃불",
-              "value": "1715"
-            },
-            {
-              "label": "온앤온",
-              "value": "110"
-            },
-            {
-              "label": "4.",
-              "value": "90"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=438807"
-        },
-        {
-          "name": "스탠 지옥의 횃불(악마술사)",
-          "category": "부적",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 8000,
-          "unitPriceP": 8000,
-          "options": [
-            {
-              "label": "모든 능력치",
-              "value": "17"
-            },
-            {
-              "label": "모든 저항",
-              "value": "15"
-            }
-          ],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "스탠 페이즈 블레이드",
-      "category": "기타",
-      "listingCount": 2,
       "price": {
         "currency": "P",
         "min": 300,
@@ -624,105 +19,672 @@
         "악군"
       ],
       "optionLabels": [
-        "#페이즈 블레이드",
         "5.",
-        "둠피스트",
-        "피해%"
+        "Daisy"
       ],
       "samples": [
         {
-          "name": "스탠 페이즈 블레이드",
+          "name": "스탠 라주크(소켓)",
           "category": "기타",
           "server": "악군",
           "status": "",
           "quantity": 1,
           "priceP": 300,
           "unitPriceP": 300,
+          "options": [],
+          "url": null
+        },
+        {
+          "name": "스탠 라주크(소켓)",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 39,
+          "priceP": 300,
+          "unitPriceP": 300,
           "options": [
             {
-              "label": "피해%",
-              "value": "15"
-            },
-            {
-              "label": "#페이즈 블레이드",
-              "value": "15"
-            },
-            {
-              "label": "둠피스트",
-              "value": "33"
+              "label": "Daisy",
+              "value": "115"
             },
             {
               "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=266358"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=433676"
         },
         {
-          "name": "스탠 페이즈 블레이드",
+          "name": "스탠 라주크(소켓)",
           "category": "기타",
           "server": "악군",
           "status": "",
-          "quantity": 1,
+          "quantity": 39,
           "priceP": 300,
           "unitPriceP": 300,
-          "options": [
-            {
-              "label": "피해%",
-              "value": "15"
-            }
-          ],
+          "options": [],
           "url": null
         }
       ]
     },
     {
-      "name": "래더 거대 부적",
-      "category": "룬워드",
-      "listingCount": 1,
+      "name": "래더 라주크(소켓)",
+      "category": "기타",
+      "listingCount": 2,
       "price": {
         "currency": "P",
-        "min": 800,
-        "median": 800,
-        "max": 800
+        "min": 400,
+        "median": 400,
+        "max": 400
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "#페이즈 블레이드",
-        "0.",
-        "4.",
+        "#✅✅ㅡ라주크ㅡㅡ바로가능ㅡㅡ",
         "5.",
-        "AAA상점",
-        "거래 상대방",
-        "급돌이",
-        "둠피스트",
-        "디아블로",
-        "마법 기술 피해%",
-        "모든 능력치",
-        "모든 저항%",
-        "방어력%",
-        "생명력",
-        "소환 기술(강령술사 전용)",
-        "쏘르",
-        "적 처치 시 마나 회복",
-        "적 처치 시 생명력 회복",
-        "지금 시작하면, 멤버십 PLUS",
-        "총 방어력",
-        "태양권",
-        "플레이디아 디아블로",
-        "피해%"
+        "바로_번개거래",
+        "시~"
       ],
       "samples": [
         {
-          "name": "래더 거대 부적",
+          "name": "래더 라주크(소켓)",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 9,
+          "priceP": 400,
+          "unitPriceP": 400,
+          "options": [
+            {
+              "label": "#✅✅ㅡ라주크ㅡㅡ바로가능ㅡㅡ",
+              "value": "09"
+            },
+            {
+              "label": "시~",
+              "value": "24"
+            },
+            {
+              "label": "바로_번개거래",
+              "value": "544"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=256048"
+        },
+        {
+          "name": "래더 라주크(소켓)",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 9,
+          "priceP": 400,
+          "unitPriceP": 400,
+          "options": [],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 랄룬",
+      "category": "룬",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 100,
+        "median": 100,
+        "max": 100
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "#✅✅ㅡ랄룬ㅡ",
+        "5.",
+        "ㅡㅡㅡㅡ",
+        "개 ==",
+        "개=",
+        "바로_번개거래"
+      ],
+      "samples": [
+        {
+          "name": "래더 랄룬",
+          "category": "룬",
+          "server": "악군",
+          "status": "",
+          "quantity": 299,
+          "priceP": 100,
+          "unitPriceP": 100,
+          "options": [
+            {
+              "label": "#✅✅ㅡ랄룬ㅡ",
+              "value": "3"
+            },
+            {
+              "label": "개 ==",
+              "value": "100"
+            },
+            {
+              "label": "ㅡㅡㅡㅡ",
+              "value": "40"
+            },
+            {
+              "label": "개=",
+              "value": "1000"
+            },
+            {
+              "label": "바로_번개거래",
+              "value": "544"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=342904"
+        },
+        {
+          "name": "래더 랄룬",
+          "category": "룬",
+          "server": "악군",
+          "status": "",
+          "quantity": 299,
+          "priceP": 100,
+          "unitPriceP": 100,
+          "options": [],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 통찰",
+      "category": "룬",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 100,
+        "median": 100,
+        "max": 100
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "#✅✅ㅡ라주크ㅡㅡ바로가능ㅡㅡ",
+        "#✅✅ㅡ랄룬ㅡ",
+        "#✅✅ㅡ통찰룬ㅡ",
+        "#✅✅ㅡ헬룬ㅡ",
+        "#✅✅스텐ㅡ렘룬ㅡㅡ",
+        "#✅✅스텐ㅡ풀룬ㅡㅡ",
+        "0.",
+        "5.",
+        "Daisy",
+        "ㅡㅡㅡㅡ",
+        "개 ==",
+        "개 주문시",
+        "개=",
+        "개ㅡ",
+        "거래 상대방",
+        "명중률%",
+        "바로_번개거래",
+        "셋트ㅡ랄티르탈솔==",
+        "시~",
+        "장착 시 명상 오라 적용",
+        "치명타",
+        "피해%",
+        "️⃣ㅡ서부 세계석 조각ㅡ",
+        "️⃣개 =="
+      ],
+      "samples": [
+        {
+          "name": "래더 통찰",
+          "category": "룬",
+          "server": "악군",
+          "status": "거래완료",
+          "quantity": 256,
+          "priceP": 100,
+          "unitPriceP": 100,
+          "options": [
+            {
+              "label": "장착 시 명상 오라 적용",
+              "value": "100"
+            },
+            {
+              "label": "피해%",
+              "value": "100"
+            },
+            {
+              "label": "명중률%",
+              "value": "100"
+            },
+            {
+              "label": "치명타",
+              "value": "100"
+            },
+            {
+              "label": "#✅✅ㅡ통찰룬ㅡ",
+              "value": "1"
+            },
+            {
+              "label": "셋트ㅡ랄티르탈솔==",
+              "value": "100"
+            },
+            {
+              "label": "바로_번개거래",
+              "value": "544"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            },
+            {
+              "label": "#✅✅ㅡ헬룬ㅡ",
+              "value": "2"
+            },
+            {
+              "label": "️⃣개 ==",
+              "value": "100"
+            },
+            {
+              "label": "#✅✅ㅡ라주크ㅡㅡ바로가능ㅡㅡ",
+              "value": "09"
+            },
+            {
+              "label": "시~",
+              "value": "24"
+            },
+            {
+              "label": "거래 상대방",
+              "value": "1"
+            },
+            {
+              "label": "0.",
+              "value": "00"
+            },
+            {
+              "label": "Daisy",
+              "value": "115"
+            },
+            {
+              "label": "#✅✅ㅡ랄룬ㅡ",
+              "value": "3"
+            },
+            {
+              "label": "개 ==",
+              "value": "100"
+            },
+            {
+              "label": "ㅡㅡㅡㅡ",
+              "value": "40"
+            },
+            {
+              "label": "개=",
+              "value": "1000"
+            },
+            {
+              "label": "️⃣ㅡ서부 세계석 조각ㅡ",
+              "value": "40"
+            },
+            {
+              "label": "개ㅡ",
+              "value": "500"
+            },
+            {
+              "label": "#✅✅스텐ㅡ풀룬ㅡㅡ",
+              "value": "10"
+            },
+            {
+              "label": "개 주문시",
+              "value": "+1"
+            },
+            {
+              "label": "#✅✅스텐ㅡ렘룬ㅡㅡ",
+              "value": "10"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemmarket?index=1"
+        },
+        {
+          "name": "래더 통찰",
+          "category": "룬",
+          "server": "악군",
+          "status": "",
+          "quantity": 256,
+          "priceP": 100,
+          "unitPriceP": 100,
+          "options": [
+            {
+              "label": "장착 시 명상 오라 적용",
+              "value": "100"
+            },
+            {
+              "label": "피해%",
+              "value": "100"
+            },
+            {
+              "label": "명중률%",
+              "value": "100"
+            },
+            {
+              "label": "치명타",
+              "value": "100"
+            },
+            {
+              "label": "#✅✅ㅡ통찰룬ㅡ",
+              "value": "1"
+            },
+            {
+              "label": "셋트ㅡ랄티르탈솔==",
+              "value": "100"
+            },
+            {
+              "label": "바로_번개거래",
+              "value": "544"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=324446"
+        }
+      ]
+    },
+    {
+      "name": "래더 헬룬",
+      "category": "룬",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 100,
+        "median": 100,
+        "max": 100
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "#✅✅ㅡ헬룬ㅡ",
+        "5.",
+        "바로_번개거래",
+        "️⃣개 =="
+      ],
+      "samples": [
+        {
+          "name": "래더 헬룬",
+          "category": "룬",
+          "server": "악군",
+          "status": "",
+          "quantity": 113,
+          "priceP": 100,
+          "unitPriceP": 100,
+          "options": [
+            {
+              "label": "#✅✅ㅡ헬룬ㅡ",
+              "value": "2"
+            },
+            {
+              "label": "️⃣개 ==",
+              "value": "100"
+            },
+            {
+              "label": "바로_번개거래",
+              "value": "544"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=276767"
+        },
+        {
+          "name": "래더 헬룬",
+          "category": "룬",
+          "server": "악군",
+          "status": "",
+          "quantity": 113,
+          "priceP": 100,
+          "unitPriceP": 100,
+          "options": [],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "스탠 렘룬",
+      "category": "룬",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 200,
+        "median": 200,
+        "max": 200
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "#✅✅스텐ㅡ렘룬ㅡㅡ",
+        "5.",
+        "개주문시",
+        "바로_번개거래"
+      ],
+      "samples": [
+        {
+          "name": "스탠 렘룬",
+          "category": "룬",
+          "server": "악군",
+          "status": "",
+          "quantity": 181,
+          "priceP": 200,
+          "unitPriceP": 200,
+          "options": [
+            {
+              "label": "#✅✅스텐ㅡ렘룬ㅡㅡ",
+              "value": "10"
+            },
+            {
+              "label": "개주문시",
+              "value": "+1"
+            },
+            {
+              "label": "바로_번개거래",
+              "value": "544"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=14155"
+        },
+        {
+          "name": "스탠 렘룬",
+          "category": "룬",
+          "server": "악군",
+          "status": "",
+          "quantity": 181,
+          "priceP": 200,
+          "unitPriceP": 200,
+          "options": [],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "스탠 서부 세계석 조각",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 400,
+        "median": 400,
+        "max": 400
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "5.",
+        "개ㅡ",
+        "바로_번개거래",
+        "️⃣ㅡ서부 세계석 조각ㅡ"
+      ],
+      "samples": [
+        {
+          "name": "스탠 서부 세계석 조각",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 8,
+          "priceP": 400,
+          "unitPriceP": 400,
+          "options": [
+            {
+              "label": "️⃣ㅡ서부 세계석 조각ㅡ",
+              "value": "40"
+            },
+            {
+              "label": "개ㅡ",
+              "value": "500"
+            },
+            {
+              "label": "바로_번개거래",
+              "value": "544"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=1675"
+        },
+        {
+          "name": "스탠 서부 세계석 조각",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 8,
+          "priceP": 400,
+          "unitPriceP": 400,
+          "options": [],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "스탠 풀룬",
+      "category": "룬",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 200,
+        "median": 200,
+        "max": 200
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "#✅✅스텐ㅡ풀룬ㅡㅡ",
+        "5.",
+        "개 주문시",
+        "바로_번개거래"
+      ],
+      "samples": [
+        {
+          "name": "스탠 풀룬",
+          "category": "룬",
+          "server": "악군",
+          "status": "",
+          "quantity": 39,
+          "priceP": 200,
+          "unitPriceP": 200,
+          "options": [
+            {
+              "label": "#✅✅스텐ㅡ풀룬ㅡㅡ",
+              "value": "10"
+            },
+            {
+              "label": "개 주문시",
+              "value": "+1"
+            },
+            {
+              "label": "바로_번개거래",
+              "value": "544"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=14267"
+        },
+        {
+          "name": "스탠 풀룬",
+          "category": "룬",
+          "server": "악군",
+          "status": "",
+          "quantity": 39,
+          "priceP": 200,
+          "unitPriceP": 200,
+          "options": [],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 통찰",
+      "category": "룬워드",
+      "listingCount": 1,
+      "price": {
+        "currency": "P",
+        "min": 100,
+        "median": 100,
+        "max": 100
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "#✅✅ㅡ라주크ㅡㅡ바로가능ㅡㅡ",
+        "#✅✅ㅡ랄룬ㅡ",
+        "#✅✅ㅡ통찰룬ㅡ",
+        "#✅✅ㅡ헬룬ㅡ",
+        "0.",
+        "5.",
+        "Daisy",
+        "ㅡㅡㅡㅡ",
+        "개 ==",
+        "개=",
+        "개ㅡ",
+        "거래 상대방",
+        "디아블로",
+        "명중률%",
+        "바로_번개거래",
+        "셋트ㅡ랄티르탈솔==",
+        "시~",
+        "장착 시 명상 오라 적용",
+        "지금 시작하면, 멤버십 PLUS",
+        "치명타",
+        "플레이디아 디아블로",
+        "피해%",
+        "️⃣ㅡ서부 세계석 조각ㅡ",
+        "️⃣개 =="
+      ],
+      "samples": [
+        {
+          "name": "래더 통찰",
           "category": "룬워드",
           "server": "악군",
           "status": "거래완료",
-          "quantity": 1,
-          "priceP": 800,
-          "unitPriceP": 800,
+          "quantity": 256,
+          "priceP": 100,
+          "unitPriceP": 100,
           "options": [
             {
               "label": "지금 시작하면, 멤버십 PLUS",
@@ -737,20 +699,52 @@
               "value": "2"
             },
             {
-              "label": "소환 기술(강령술사 전용)",
+              "label": "장착 시 명상 오라 적용",
+              "value": "100"
+            },
+            {
+              "label": "피해%",
+              "value": "100"
+            },
+            {
+              "label": "명중률%",
+              "value": "100"
+            },
+            {
+              "label": "치명타",
+              "value": "100"
+            },
+            {
+              "label": "#✅✅ㅡ통찰룬ㅡ",
               "value": "1"
             },
             {
-              "label": "생명력",
-              "value": "32"
+              "label": "셋트ㅡ랄티르탈솔==",
+              "value": "100"
             },
             {
-              "label": "급돌이",
-              "value": "9"
+              "label": "바로_번개거래",
+              "value": "544"
             },
             {
               "label": "5.",
               "value": "00"
+            },
+            {
+              "label": "#✅✅ㅡ헬룬ㅡ",
+              "value": "2"
+            },
+            {
+              "label": "️⃣개 ==",
+              "value": "100"
+            },
+            {
+              "label": "#✅✅ㅡ라주크ㅡㅡ바로가능ㅡㅡ",
+              "value": "09"
+            },
+            {
+              "label": "시~",
+              "value": "24"
             },
             {
               "label": "거래 상대방",
@@ -761,67 +755,85 @@
               "value": "00"
             },
             {
-              "label": "AAA상점",
-              "value": "141"
+              "label": "Daisy",
+              "value": "115"
             },
             {
-              "label": "모든 저항%",
-              "value": "7"
-            },
-            {
-              "label": "적 처치 시 마나 회복",
+              "label": "#✅✅ㅡ랄룬ㅡ",
               "value": "3"
             },
             {
-              "label": "적 처치 시 생명력 회복",
-              "value": "2"
+              "label": "개 ==",
+              "value": "100"
             },
             {
-              "label": "마법 기술 피해%",
-              "value": "5"
+              "label": "ㅡㅡㅡㅡ",
+              "value": "40"
             },
             {
-              "label": "태양권",
-              "value": "31"
+              "label": "개=",
+              "value": "1000"
             },
             {
-              "label": "방어력%",
-              "value": "194"
+              "label": "️⃣ㅡ서부 세계석 조각ㅡ",
+              "value": "40"
             },
             {
-              "label": "쏘르",
-              "value": "32"
-            },
-            {
-              "label": "4.",
-              "value": "70"
-            },
-            {
-              "label": "피해%",
-              "value": "15"
-            },
-            {
-              "label": "#페이즈 블레이드",
-              "value": "15"
-            },
-            {
-              "label": "둠피스트",
-              "value": "33"
-            },
-            {
-              "label": "방어력%",
-              "value": "189"
-            },
-            {
-              "label": "총 방어력",
-              "value": "139"
-            },
-            {
-              "label": "모든 능력치",
-              "value": "17"
+              "label": "개ㅡ",
+              "value": "500"
             }
           ],
           "url": "https://www.playnote.co.kr/customer/noticedetail?Index=5"
+        }
+      ]
+    },
+    {
+      "name": "래더 통찰",
+      "category": "기타",
+      "listingCount": 1,
+      "price": {
+        "currency": "P",
+        "min": 100,
+        "median": 100,
+        "max": 100
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "명중률%",
+        "장착 시 명상 오라 적용",
+        "치명타",
+        "피해%"
+      ],
+      "samples": [
+        {
+          "name": "래더 통찰",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 256,
+          "priceP": 100,
+          "unitPriceP": 100,
+          "options": [
+            {
+              "label": "장착 시 명상 오라 적용",
+              "value": "100"
+            },
+            {
+              "label": "피해%",
+              "value": "100"
+            },
+            {
+              "label": "명중률%",
+              "value": "100"
+            },
+            {
+              "label": "치명타",
+              "value": "100"
+            }
+          ],
+          "url": null
         }
       ]
     }
