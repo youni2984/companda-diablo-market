@@ -1,366 +1,173 @@
 {
   "source": "https://www.playnote.co.kr/trade/itemmarket?index=1",
   "scope": "public-listings-only",
-  "updatedAt": "2026-10-28T13:28:52.470171+00:00",
-  "listingCount": 20,
-  "itemCount": 9,
+  "updatedAt": "2026-10-28T19:04:06.755801+00:00",
+  "listingCount": 17,
+  "itemCount": 6,
   "items": [
     {
-      "name": "스탠 주얼",
-      "category": "기타",
-      "listingCount": 6,
-      "price": {
-        "currency": "P",
-        "min": 4500,
-        "median": 5000,
-        "max": 14000
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "#주얼",
-        "5.",
-        "공격 속도%",
-        "공속",
-        "우리카드",
-        "증뎀",
-        "최대 피해",
-        "피해%"
-      ],
-      "samples": [
-        {
-          "name": "스탠 주얼",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 5000,
-          "unitPriceP": 5000,
-          "options": [
-            {
-              "label": "공격 속도%",
-              "value": "15"
-            },
-            {
-              "label": "피해%",
-              "value": "37"
-            },
-            {
-              "label": "#주얼",
-              "value": "15"
-            },
-            {
-              "label": "공속",
-              "value": "37"
-            },
-            {
-              "label": "우리카드",
-              "value": "247"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=8464"
-        },
-        {
-          "name": "스탠 주얼",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 5000,
-          "unitPriceP": 5000,
-          "options": [
-            {
-              "label": "공격 속도%",
-              "value": "15"
-            },
-            {
-              "label": "피해%",
-              "value": "37"
-            }
-          ],
-          "url": null
-        },
-        {
-          "name": "스탠 주얼",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 14000,
-          "unitPriceP": 14000,
-          "options": [
-            {
-              "label": "피해%",
-              "value": "40"
-            },
-            {
-              "label": "최대 피해",
-              "value": "15"
-            },
-            {
-              "label": "#주얼",
-              "value": "40"
-            },
-            {
-              "label": "증뎀",
-              "value": "15"
-            },
-            {
-              "label": "우리카드",
-              "value": "247"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=8400"
-        },
-        {
-          "name": "스탠 주얼",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 14000,
-          "unitPriceP": 14000,
-          "options": [
-            {
-              "label": "피해%",
-              "value": "40"
-            },
-            {
-              "label": "최대 피해",
-              "value": "15"
-            }
-          ],
-          "url": null
-        },
-        {
-          "name": "스탠 주얼",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 101,
-          "priceP": 4500,
-          "unitPriceP": 4500,
-          "options": [
-            {
-              "label": "공격 속도%",
-              "value": "15"
-            },
-            {
-              "label": "피해%",
-              "value": "37"
-            },
-            {
-              "label": "공속",
-              "value": "37"
-            },
-            {
-              "label": "우리카드",
-              "value": "247"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=8368"
-        },
-        {
-          "name": "스탠 주얼",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 101,
-          "priceP": 4500,
-          "unitPriceP": 4500,
-          "options": [
-            {
-              "label": "공격 속도%",
-              "value": "15"
-            },
-            {
-              "label": "피해%",
-              "value": "37"
-            }
-          ],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "스탠 작은 부적",
+      "name": "래더 거대 부적",
       "category": "부적",
-      "listingCount": 4,
+      "listingCount": 9,
       "price": {
         "currency": "P",
-        "min": 1400,
-        "median": 4950,
-        "max": 8500
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "독 피해",
-        "모든 저항",
-        "올레지",
-        "우리카드",
-        "최대 번개 피해",
-        "최소 번개 피해"
-      ],
-      "samples": [
-        {
-          "name": "스탠 작은 부적",
-          "category": "부적",
-          "server": "악군",
-          "status": "",
-          "quantity": 9,
-          "priceP": 1400,
-          "unitPriceP": 1400,
-          "options": [
-            {
-              "label": "모든 저항",
-              "value": "5"
-            },
-            {
-              "label": "독 피해",
-              "value": "50"
-            },
-            {
-              "label": "올레지",
-              "value": "50"
-            },
-            {
-              "label": "우리카드",
-              "value": "247"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=8409"
-        },
-        {
-          "name": "스탠 작은 부적",
-          "category": "부적",
-          "server": "악군",
-          "status": "",
-          "quantity": 9,
-          "priceP": 1400,
-          "unitPriceP": 1400,
-          "options": [
-            {
-              "label": "모든 저항",
-              "value": "5"
-            },
-            {
-              "label": "독 피해",
-              "value": "50"
-            }
-          ],
-          "url": null
-        },
-        {
-          "name": "스탠 작은 부적",
-          "category": "부적",
-          "server": "악군",
-          "status": "",
-          "quantity": 2,
-          "priceP": 8500,
-          "unitPriceP": 8500,
-          "options": [
-            {
-              "label": "모든 저항",
-              "value": "5"
-            },
-            {
-              "label": "최소 번개 피해",
-              "value": "1"
-            },
-            {
-              "label": "최대 번개 피해",
-              "value": "28"
-            },
-            {
-              "label": "올레지",
-              "value": "28"
-            },
-            {
-              "label": "우리카드",
-              "value": "247"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=8405"
-        },
-        {
-          "name": "스탠 작은 부적",
-          "category": "부적",
-          "server": "악군",
-          "status": "",
-          "quantity": 2,
-          "priceP": 8500,
-          "unitPriceP": 8500,
-          "options": [
-            {
-              "label": "모든 저항",
-              "value": "5"
-            },
-            {
-              "label": "최소 번개 피해",
-              "value": "1"
-            },
-            {
-              "label": "최대 번개 피해",
-              "value": "28"
-            }
-          ],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 거미 그물띠 스파이더웹 새시",
-      "category": "기타",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 500,
-        "median": 500,
+        "min": 200,
+        "median": 300,
         "max": 500
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
+        "#저주스킬",
         "5.",
-        "동아"
+        "공격 오라(성기사 전용)",
+        "냉기 기술 피해%",
+        "냉기 저항-%",
+        "독 기술 피해%",
+        "마법 아이템 발견 확률%",
+        "명중률%",
+        "모든 저항%",
+        "방어 오라(성기사 전용)",
+        "방어력%",
+        "생명력",
+        "시전 속도%",
+        "악마 기술(악마술사)",
+        "저주(강령술사 전용)",
+        "적 처치 시 마나 회복",
+        "적 처치 시 생명력 회복",
+        "적의 마법 저항-%",
+        "정짜윤",
+        "최대 피해",
+        "타격 회복 속도%",
+        "피해 감소",
+        "피해%",
+        "화염 기술(원소술사 전용)"
       ],
       "samples": [
         {
-          "name": "래더 거미 그물띠 스파이더웹 새시",
-          "category": "기타",
+          "name": "래더 거대 부적",
+          "category": "부적",
+          "server": "악군",
+          "status": "거래완료",
+          "quantity": 1,
+          "priceP": 300,
+          "unitPriceP": 300,
+          "options": [
+            {
+              "label": "화염 기술(원소술사 전용)",
+              "value": "1"
+            },
+            {
+              "label": "정짜윤",
+              "value": "61"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            },
+            {
+              "label": "시전 속도%",
+              "value": "28"
+            },
+            {
+              "label": "피해%",
+              "value": "88"
+            },
+            {
+              "label": "명중률%",
+              "value": "63"
+            },
+            {
+              "label": "적의 마법 저항-%",
+              "value": "14"
+            },
+            {
+              "label": "방어력%",
+              "value": "149"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "25"
+            },
+            {
+              "label": "냉기 저항-%",
+              "value": "70"
+            },
+            {
+              "label": "냉기 기술 피해%",
+              "value": "11"
+            },
+            {
+              "label": "생명력",
+              "value": "26"
+            },
+            {
+              "label": "피해 감소",
+              "value": "5"
+            },
+            {
+              "label": "타격 회복 속도%",
+              "value": "20"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "16"
+            },
+            {
+              "label": "모든 저항%",
+              "value": "6"
+            },
+            {
+              "label": "적 처치 시 마나 회복",
+              "value": "2"
+            },
+            {
+              "label": "적 처치 시 생명력 회복",
+              "value": "2"
+            },
+            {
+              "label": "독 기술 피해%",
+              "value": "4"
+            },
+            {
+              "label": "시전 속도%",
+              "value": "10"
+            },
+            {
+              "label": "악마 기술(악마술사)",
+              "value": "1"
+            },
+            {
+              "label": "저주(강령술사 전용)",
+              "value": "1"
+            },
+            {
+              "label": "최대 피해",
+              "value": "3"
+            },
+            {
+              "label": "#저주스킬",
+              "value": "2"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemmarket?index=1"
+        },
+        {
+          "name": "래더 거대 부적",
+          "category": "부적",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 500,
-          "unitPriceP": 500,
+          "priceP": 300,
+          "unitPriceP": 300,
           "options": [
             {
-              "label": "동아",
+              "label": "화염 기술(원소술사 전용)",
+              "value": "1"
+            },
+            {
+              "label": "정짜윤",
               "value": "61"
             },
             {
@@ -368,171 +175,166 @@
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=444736"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=442792"
         },
         {
-          "name": "래더 거미 그물띠 스파이더웹 새시",
-          "category": "기타",
+          "name": "래더 거대 부적",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 300,
+          "unitPriceP": 300,
+          "options": [
+            {
+              "label": "공격 오라(성기사 전용)",
+              "value": "1"
+            }
+          ],
+          "url": null
+        },
+        {
+          "name": "래더 거대 부적",
+          "category": "부적",
           "server": "악군",
           "status": "",
           "quantity": 1,
           "priceP": 500,
           "unitPriceP": 500,
-          "options": [],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "스탠 마라의 만화경",
-      "category": "기타",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 900,
-        "median": 900,
-        "max": 900
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "#마라 아뮬",
-        "5.",
-        "모든 저항",
-        "우리카드"
-      ],
-      "samples": [
-        {
-          "name": "스탠 마라의 만화경",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 3,
-          "priceP": 900,
-          "unitPriceP": 900,
           "options": [
             {
-              "label": "모든 저항",
-              "value": "22"
+              "label": "악마 기술(악마술사)",
+              "value": "1"
             },
             {
-              "label": "#마라 아뮬",
-              "value": "22"
-            },
-            {
-              "label": "우리카드",
-              "value": "247"
+              "label": "정짜윤",
+              "value": "61"
             },
             {
               "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=9880"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=430669"
         },
         {
-          "name": "스탠 마라의 만화경",
-          "category": "기타",
+          "name": "래더 거대 부적",
+          "category": "부적",
           "server": "악군",
           "status": "",
-          "quantity": 3,
-          "priceP": 900,
-          "unitPriceP": 900,
+          "quantity": 1,
+          "priceP": 500,
+          "unitPriceP": 500,
           "options": [
             {
-              "label": "모든 저항",
-              "value": "22"
+              "label": "악마 기술(악마술사)",
+              "value": "1"
             }
           ],
           "url": null
-        }
-      ]
-    },
-    {
-      "name": "스탠 칠흑 서리",
-      "category": "기타",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 700,
-        "median": 700,
-        "max": 700
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "#칠흑서리 레이븐링",
-        "5.",
-        "명중",
-        "명중률",
-        "민첩",
-        "우리카드"
-      ],
-      "samples": [
+        },
         {
-          "name": "스탠 칠흑 서리",
-          "category": "기타",
+          "name": "래더 거대 부적",
+          "category": "부적",
           "server": "악군",
           "status": "",
-          "quantity": 2,
-          "priceP": 700,
-          "unitPriceP": 700,
+          "quantity": 1,
+          "priceP": 300,
+          "unitPriceP": 300,
           "options": [
             {
-              "label": "명중률",
-              "value": "241"
+              "label": "저주(강령술사 전용)",
+              "value": "1"
             },
             {
-              "label": "민첩",
-              "value": "20"
+              "label": "최대 피해",
+              "value": "3"
             },
             {
-              "label": "#칠흑서리 레이븐링",
-              "value": "241"
+              "label": "#저주스킬",
+              "value": "2"
             },
             {
-              "label": "명중",
-              "value": "20"
-            },
-            {
-              "label": "우리카드",
-              "value": "247"
+              "label": "정짜윤",
+              "value": "61"
             },
             {
               "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=10003"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=417639"
         },
         {
-          "name": "스탠 칠흑 서리",
-          "category": "기타",
+          "name": "래더 거대 부적",
+          "category": "부적",
           "server": "악군",
           "status": "",
-          "quantity": 2,
-          "priceP": 700,
-          "unitPriceP": 700,
+          "quantity": 1,
+          "priceP": 200,
+          "unitPriceP": 200,
           "options": [
             {
-              "label": "명중률",
-              "value": "241"
+              "label": "방어 오라(성기사 전용)",
+              "value": "1"
             },
             {
-              "label": "민첩",
-              "value": "20"
+              "label": "정짜윤",
+              "value": "61"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=415142"
+        },
+        {
+          "name": "래더 거대 부적",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 200,
+          "unitPriceP": 200,
+          "options": [
+            {
+              "label": "방어 오라(성기사 전용)",
+              "value": "1"
             }
           ],
           "url": null
+        },
+        {
+          "name": "래더 거대 부적",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 300,
+          "unitPriceP": 300,
+          "options": [
+            {
+              "label": "공격 오라(성기사 전용)",
+              "value": "1"
+            },
+            {
+              "label": "정짜윤",
+              "value": "61"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=405345"
         }
       ]
     },
     {
-      "name": "래더 거미 그물띠 스파이더웹 새시",
-      "category": "룬워드",
-      "listingCount": 1,
+      "name": "래더 새로워진 추위의 파열 거대 부적",
+      "category": "부적",
+      "listingCount": 2,
       "price": {
         "currency": "P",
         "min": 500,
@@ -543,37 +345,347 @@
         "악군"
       ],
       "optionLabels": [
-        "#마라 아뮬",
-        "#주얼",
-        "#칠흑서리 레이븐링",
         "5.",
-        "공격 속도%",
-        "공속",
-        "독 피해",
-        "동아",
-        "디아블로",
-        "명중",
-        "명중률",
-        "모든 저항",
-        "민첩",
-        "올레지",
-        "우리카드",
-        "지금 시작하면, 멤버십 PLUS",
-        "최대 번개 피해",
-        "최대 피해",
-        "최소 번개 피해",
-        "플레이디아 디아블로",
+        "냉기 기술 피해%",
+        "냉기 저항-%",
+        "마법 아이템 발견 확률%",
+        "생명력",
+        "정짜윤",
+        "타격 회복 속도%",
+        "피해 감소"
+      ],
+      "samples": [
+        {
+          "name": "래더 새로워진 추위의 파열 거대 부적",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 500,
+          "unitPriceP": 500,
+          "options": [
+            {
+              "label": "냉기 저항-%",
+              "value": "70"
+            },
+            {
+              "label": "냉기 기술 피해%",
+              "value": "11"
+            },
+            {
+              "label": "생명력",
+              "value": "26"
+            },
+            {
+              "label": "피해 감소",
+              "value": "5"
+            },
+            {
+              "label": "타격 회복 속도%",
+              "value": "20"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "16"
+            },
+            {
+              "label": "정짜윤",
+              "value": "61"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=442561"
+        },
+        {
+          "name": "래더 새로워진 추위의 파열 거대 부적",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 500,
+          "unitPriceP": 500,
+          "options": [
+            {
+              "label": "냉기 저항-%",
+              "value": "70"
+            },
+            {
+              "label": "냉기 기술 피해%",
+              "value": "11"
+            },
+            {
+              "label": "생명력",
+              "value": "26"
+            },
+            {
+              "label": "피해 감소",
+              "value": "5"
+            },
+            {
+              "label": "타격 회복 속도%",
+              "value": "20"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "16"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 아르스 둘메피스토스 비술 고서",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 3000,
+        "median": 3000,
+        "max": 3000
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "5.",
+        "마법 아이템 발견 확률%",
+        "명중률%",
+        "방어력%",
+        "시전 속도%",
+        "적의 마법 저항-%",
+        "정짜윤",
         "피해%"
       ],
       "samples": [
         {
-          "name": "래더 거미 그물띠 스파이더웹 새시",
+          "name": "래더 아르스 둘메피스토스 비술 고서",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 3000,
+          "unitPriceP": 3000,
+          "options": [
+            {
+              "label": "시전 속도%",
+              "value": "28"
+            },
+            {
+              "label": "피해%",
+              "value": "88"
+            },
+            {
+              "label": "명중률%",
+              "value": "63"
+            },
+            {
+              "label": "적의 마법 저항-%",
+              "value": "14"
+            },
+            {
+              "label": "방어력%",
+              "value": "149"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "25"
+            },
+            {
+              "label": "정짜윤",
+              "value": "61"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=442759"
+        },
+        {
+          "name": "래더 아르스 둘메피스토스 비술 고서",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 3000,
+          "unitPriceP": 3000,
+          "options": [
+            {
+              "label": "시전 속도%",
+              "value": "28"
+            },
+            {
+              "label": "피해%",
+              "value": "88"
+            },
+            {
+              "label": "명중률%",
+              "value": "63"
+            },
+            {
+              "label": "적의 마법 저항-%",
+              "value": "14"
+            },
+            {
+              "label": "방어력%",
+              "value": "149"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "25"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 오팔맥 반지",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 2000,
+        "median": 2000,
+        "max": 2000
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "5.",
+        "독 기술 피해%",
+        "모든 저항%",
+        "시전 속도%",
+        "적 처치 시 마나 회복",
+        "적 처치 시 생명력 회복",
+        "정짜윤"
+      ],
+      "samples": [
+        {
+          "name": "래더 오팔맥 반지",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 2000,
+          "unitPriceP": 2000,
+          "options": [
+            {
+              "label": "모든 저항%",
+              "value": "6"
+            },
+            {
+              "label": "적 처치 시 마나 회복",
+              "value": "2"
+            },
+            {
+              "label": "적 처치 시 생명력 회복",
+              "value": "2"
+            },
+            {
+              "label": "독 기술 피해%",
+              "value": "4"
+            },
+            {
+              "label": "시전 속도%",
+              "value": "10"
+            },
+            {
+              "label": "정짜윤",
+              "value": "61"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=439690"
+        },
+        {
+          "name": "래더 오팔맥 반지",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 2000,
+          "unitPriceP": 2000,
+          "options": [
+            {
+              "label": "모든 저항%",
+              "value": "6"
+            },
+            {
+              "label": "적 처치 시 마나 회복",
+              "value": "2"
+            },
+            {
+              "label": "적 처치 시 생명력 회복",
+              "value": "2"
+            },
+            {
+              "label": "독 기술 피해%",
+              "value": "4"
+            },
+            {
+              "label": "시전 속도%",
+              "value": "10"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 거대 부적",
+      "category": "룬워드",
+      "listingCount": 1,
+      "price": {
+        "currency": "P",
+        "min": 300,
+        "median": 300,
+        "max": 300
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "5.",
+        "냉기 기술 피해%",
+        "냉기 저항-%",
+        "독 기술 피해%",
+        "디아블로",
+        "마법 아이템 발견 확률%",
+        "명중률%",
+        "모든 저항%",
+        "방어력%",
+        "생명력",
+        "시전 속도%",
+        "악마 기술(악마술사)",
+        "적 처치 시 마나 회복",
+        "적 처치 시 생명력 회복",
+        "적의 마법 저항-%",
+        "정짜윤",
+        "지금 시작하면, 멤버십 PLUS",
+        "타격 회복 속도%",
+        "플레이디아 디아블로",
+        "피해 감소",
+        "피해%",
+        "화염 기술(원소술사 전용)"
+      ],
+      "samples": [
+        {
+          "name": "래더 거대 부적",
           "category": "룬워드",
           "server": "악군",
           "status": "거래완료",
           "quantity": 1,
-          "priceP": 500,
-          "unitPriceP": 500,
+          "priceP": 300,
+          "unitPriceP": 300,
           "options": [
             {
               "label": "지금 시작하면, 멤버십 PLUS",
@@ -588,7 +700,11 @@
               "value": "2"
             },
             {
-              "label": "동아",
+              "label": "화염 기술(원소술사 전용)",
+              "value": "1"
+            },
+            {
+              "label": "정짜윤",
               "value": "61"
             },
             {
@@ -596,80 +712,76 @@
               "value": "00"
             },
             {
-              "label": "명중률",
-              "value": "241"
-            },
-            {
-              "label": "민첩",
-              "value": "20"
-            },
-            {
-              "label": "#칠흑서리 레이븐링",
-              "value": "241"
-            },
-            {
-              "label": "명중",
-              "value": "20"
-            },
-            {
-              "label": "우리카드",
-              "value": "247"
-            },
-            {
-              "label": "모든 저항",
-              "value": "22"
-            },
-            {
-              "label": "#마라 아뮬",
-              "value": "22"
-            },
-            {
-              "label": "공격 속도%",
-              "value": "15"
+              "label": "시전 속도%",
+              "value": "28"
             },
             {
               "label": "피해%",
-              "value": "37"
+              "value": "88"
             },
             {
-              "label": "#주얼",
-              "value": "15"
+              "label": "명중률%",
+              "value": "63"
             },
             {
-              "label": "공속",
-              "value": "37"
+              "label": "적의 마법 저항-%",
+              "value": "14"
             },
             {
-              "label": "모든 저항",
+              "label": "방어력%",
+              "value": "149"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "25"
+            },
+            {
+              "label": "냉기 저항-%",
+              "value": "70"
+            },
+            {
+              "label": "냉기 기술 피해%",
+              "value": "11"
+            },
+            {
+              "label": "생명력",
+              "value": "26"
+            },
+            {
+              "label": "피해 감소",
               "value": "5"
             },
             {
-              "label": "독 피해",
-              "value": "50"
+              "label": "타격 회복 속도%",
+              "value": "20"
             },
             {
-              "label": "올레지",
-              "value": "50"
+              "label": "마법 아이템 발견 확률%",
+              "value": "16"
             },
             {
-              "label": "최소 번개 피해",
+              "label": "모든 저항%",
+              "value": "6"
+            },
+            {
+              "label": "적 처치 시 마나 회복",
+              "value": "2"
+            },
+            {
+              "label": "적 처치 시 생명력 회복",
+              "value": "2"
+            },
+            {
+              "label": "독 기술 피해%",
+              "value": "4"
+            },
+            {
+              "label": "시전 속도%",
+              "value": "10"
+            },
+            {
+              "label": "악마 기술(악마술사)",
               "value": "1"
-            },
-            {
-              "label": "최대 번개 피해",
-              "value": "28"
-            },
-            {
-              "label": "올레지",
-              "value": "28"
-            },
-            {
-              "label": "피해%",
-              "value": "40"
-            },
-            {
-              "label": "최대 피해",
-              "value": "15"
             }
           ],
           "url": "https://www.playnote.co.kr/customer/noticedetail?Index=5"
@@ -677,232 +789,29 @@
       ]
     },
     {
-      "name": "래더 거미 그물띠 스파이더웹 새시",
-      "category": "세트",
-      "listingCount": 1,
-      "price": {
-        "currency": "P",
-        "min": 500,
-        "median": 500,
-        "max": 500
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "#마라 아뮬",
-        "#주얼",
-        "#칠흑서리 레이븐링",
-        "5.",
-        "공격 속도%",
-        "공속",
-        "독 피해",
-        "동아",
-        "명중",
-        "명중률",
-        "모든 저항",
-        "민첩",
-        "올레지",
-        "우리카드",
-        "적중당 생명력 훔침%",
-        "증뎀",
-        "최대 번개 피해",
-        "최대 피해",
-        "최소 번개 피해",
-        "피해%"
-      ],
-      "samples": [
-        {
-          "name": "래더 거미 그물띠 스파이더웹 새시",
-          "category": "세트",
-          "server": "악군",
-          "status": "거래완료",
-          "quantity": 1,
-          "priceP": 500,
-          "unitPriceP": 500,
-          "options": [
-            {
-              "label": "동아",
-              "value": "61"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            },
-            {
-              "label": "명중률",
-              "value": "241"
-            },
-            {
-              "label": "민첩",
-              "value": "20"
-            },
-            {
-              "label": "#칠흑서리 레이븐링",
-              "value": "241"
-            },
-            {
-              "label": "명중",
-              "value": "20"
-            },
-            {
-              "label": "우리카드",
-              "value": "247"
-            },
-            {
-              "label": "모든 저항",
-              "value": "22"
-            },
-            {
-              "label": "#마라 아뮬",
-              "value": "22"
-            },
-            {
-              "label": "공격 속도%",
-              "value": "15"
-            },
-            {
-              "label": "피해%",
-              "value": "37"
-            },
-            {
-              "label": "#주얼",
-              "value": "15"
-            },
-            {
-              "label": "공속",
-              "value": "37"
-            },
-            {
-              "label": "모든 저항",
-              "value": "5"
-            },
-            {
-              "label": "독 피해",
-              "value": "50"
-            },
-            {
-              "label": "올레지",
-              "value": "50"
-            },
-            {
-              "label": "최소 번개 피해",
-              "value": "1"
-            },
-            {
-              "label": "최대 번개 피해",
-              "value": "28"
-            },
-            {
-              "label": "올레지",
-              "value": "28"
-            },
-            {
-              "label": "피해%",
-              "value": "40"
-            },
-            {
-              "label": "최대 피해",
-              "value": "15"
-            },
-            {
-              "label": "#주얼",
-              "value": "40"
-            },
-            {
-              "label": "증뎀",
-              "value": "15"
-            },
-            {
-              "label": "적중당 생명력 훔침%",
-              "value": "5"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemmarket?index=1"
-        }
-      ]
-    },
-    {
-      "name": "스탠 불카토스의 결혼 반지",
-      "category": "세트",
-      "listingCount": 1,
-      "price": {
-        "currency": "P",
-        "min": 1700,
-        "median": 1700,
-        "max": 1700
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "#불카링 흑진주모양",
-        "5.",
-        "우리카드",
-        "적중당 생명력 훔침%"
-      ],
-      "samples": [
-        {
-          "name": "스탠 불카토스의 결혼 반지",
-          "category": "세트",
-          "server": "악군",
-          "status": "",
-          "quantity": 2,
-          "priceP": 1700,
-          "unitPriceP": 1700,
-          "options": [
-            {
-              "label": "적중당 생명력 훔침%",
-              "value": "5"
-            },
-            {
-              "label": "#불카링 흑진주모양",
-              "value": "2"
-            },
-            {
-              "label": "우리카드",
-              "value": "247"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=8396"
-        }
-      ]
-    },
-    {
-      "name": "스탠 불카토스의 결혼 반지",
+      "name": "래더 면죄의 징표",
       "category": "기타",
       "listingCount": 1,
       "price": {
         "currency": "P",
-        "min": 1700,
-        "median": 1700,
-        "max": 1700
+        "min": 150,
+        "median": 150,
+        "max": 150
       },
       "servers": [
         "악군"
       ],
-      "optionLabels": [
-        "적중당 생명력 훔침%"
-      ],
+      "optionLabels": [],
       "samples": [
         {
-          "name": "스탠 불카토스의 결혼 반지",
+          "name": "래더 면죄의 징표",
           "category": "기타",
           "server": "악군",
           "status": "",
           "quantity": 2,
-          "priceP": 1700,
-          "unitPriceP": 1700,
-          "options": [
-            {
-              "label": "적중당 생명력 훔침%",
-              "value": "5"
-            }
-          ],
+          "priceP": 150,
+          "unitPriceP": 150,
+          "options": [],
           "url": null
         }
       ]
