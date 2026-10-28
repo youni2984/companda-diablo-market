@@ -1,97 +1,272 @@
 {
   "source": "https://www.playnote.co.kr/trade/itemmarket?index=1",
   "scope": "public-listings-only",
-  "updatedAt": "2026-10-28T00:27:08.679524+00:00",
-  "listingCount": 16,
-  "itemCount": 10,
+  "updatedAt": "2026-10-28T06:13:15.165240+00:00",
+  "listingCount": 20,
+  "itemCount": 11,
   "items": [
     {
-      "name": "스탠 지옥의 횃불(소서)",
-      "category": "부적",
-      "listingCount": 3,
+      "name": "래더 래커드 플레이트",
+      "category": "기타",
+      "listingCount": 2,
       "price": {
         "currency": "P",
-        "min": 750,
-        "median": 750,
-        "max": 750
+        "min": 2000,
+        "median": 2000,
+        "max": 2000
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "#⭐에테 세크아머",
-        "#냉기 저항",
-        "#마법흡수",
-        "#소서횃불",
+        "#에테",
         "0.",
-        "5.",
-        "거래 상대방",
-        "경험치 획득량%",
-        "괴물에게서 얻는 금화%",
-        "냉기 저항%",
-        "마나",
-        "마법 기술 피해%",
-        "마법 아이템 발견 확률%",
-        "마법 흡수",
-        "모든 능력치",
-        "모든 저항",
-        "소다",
-        "시전 속도%",
-        "온리아마",
-        "적의 마법 저항-%",
+        "세오",
         "총 방어력",
-        "크림초코빵",
         "홈 있음(소켓)"
       ],
       "samples": [
         {
-          "name": "스탠 지옥의 횃불(소서)",
-          "category": "부적",
+          "name": "래더 래커드 플레이트",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 2000,
+          "unitPriceP": 2000,
+          "options": [
+            {
+              "label": "총 방어력",
+              "value": "765"
+            },
+            {
+              "label": "홈 있음(소켓)",
+              "value": "3"
+            },
+            {
+              "label": "#에테",
+              "value": "3"
+            },
+            {
+              "label": "세오",
+              "value": "5"
+            },
+            {
+              "label": "0.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=428717"
+        },
+        {
+          "name": "래더 래커드 플레이트",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 2000,
+          "unitPriceP": 2000,
+          "options": [
+            {
+              "label": "총 방어력",
+              "value": "765"
+            },
+            {
+              "label": "홈 있음(소켓)",
+              "value": "3"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 발록 스킨",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 2000,
+        "median": 2000,
+        "max": 2000
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "#에테",
+        "0.",
+        "세오",
+        "총 방어력",
+        "홈 있음(소켓)"
+      ],
+      "samples": [
+        {
+          "name": "래더 발록 스킨",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 2000,
+          "unitPriceP": 2000,
+          "options": [
+            {
+              "label": "총 방어력",
+              "value": "768"
+            },
+            {
+              "label": "홈 있음(소켓)",
+              "value": "3"
+            },
+            {
+              "label": "#에테",
+              "value": "3"
+            },
+            {
+              "label": "세오",
+              "value": "5"
+            },
+            {
+              "label": "0.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=428712"
+        },
+        {
+          "name": "래더 발록 스킨",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 2000,
+          "unitPriceP": 2000,
+          "options": [
+            {
+              "label": "총 방어력",
+              "value": "768"
+            },
+            {
+              "label": "홈 있음(소켓)",
+              "value": "3"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 세이크리드 아머",
+      "category": "재료",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 2000,
+        "median": 2000,
+        "max": 2000
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "#세크",
+        "#에테",
+        "0.",
+        "5.",
+        "경험치 획득량%",
+        "괴물에게서 얻는 금화%",
+        "다있소",
+        "독 저항%",
+        "마법 아이템 발견 확률%",
+        "모든 능력치",
+        "모든 저항",
+        "방어력%",
+        "번개 기술 피해%",
+        "세오",
+        "소다",
+        "적의 물리 피해 저항-%",
+        "적의 번개 저항-%",
+        "총 방어력",
+        "피해%",
+        "홈 있음(소켓)"
+      ],
+      "samples": [
+        {
+          "name": "래더 세이크리드 아머",
+          "category": "재료",
           "server": "악군",
           "status": "거래완료",
           "quantity": 1,
-          "priceP": 750,
-          "unitPriceP": 750,
+          "priceP": 2000,
+          "unitPriceP": 2000,
           "options": [
             {
-              "label": "모든 능력치",
-              "value": "18"
+              "label": "총 방어력",
+              "value": "600"
             },
             {
-              "label": "모든 저항",
-              "value": "13"
+              "label": "홈 있음(소켓)",
+              "value": "3"
             },
             {
-              "label": "#소서횃불",
-              "value": "18"
+              "label": "#세크",
+              "value": "600"
             },
             {
-              "label": "온리아마",
-              "value": "8"
+              "label": "세오",
+              "value": "5"
+            },
+            {
+              "label": "0.",
+              "value": "00"
+            },
+            {
+              "label": "총 방어력",
+              "value": "768"
+            },
+            {
+              "label": "#에테",
+              "value": "3"
+            },
+            {
+              "label": "방어력%",
+              "value": "86"
+            },
+            {
+              "label": "독 저항%",
+              "value": "54"
+            },
+            {
+              "label": "총 방어력",
+              "value": "351"
+            },
+            {
+              "label": "소다",
+              "value": "31"
             },
             {
               "label": "5.",
               "value": "00"
             },
             {
-              "label": "냉기 저항%",
-              "value": "10"
+              "label": "총 방어력",
+              "value": "765"
             },
             {
-              "label": "#냉기 저항",
-              "value": "10"
+              "label": "모든 능력치",
+              "value": "20"
             },
             {
-              "label": "크림초코빵",
-              "value": "109"
+              "label": "모든 저항",
+              "value": "13"
             },
             {
-              "label": "적의 마법 저항-%",
-              "value": "5"
+              "label": "피해%",
+              "value": "41"
             },
             {
-              "label": "마법 기술 피해%",
-              "value": "8"
+              "label": "적의 물리 피해 저항-%",
+              "value": "9"
             },
             {
               "label": "경험치 획득량%",
@@ -99,336 +274,129 @@
             },
             {
               "label": "괴물에게서 얻는 금화%",
-              "value": "25"
+              "value": "27"
             },
             {
               "label": "마법 아이템 발견 확률%",
-              "value": "28"
+              "value": "19"
             },
             {
-              "label": "소다",
-              "value": "31"
+              "label": "다있소",
+              "value": "89"
             },
             {
-              "label": "총 방어력",
-              "value": "883"
-            },
-            {
-              "label": "홈 있음(소켓)",
-              "value": "4"
-            },
-            {
-              "label": "#⭐에테 세크아머",
-              "value": "883"
-            },
-            {
-              "label": "거래 상대방",
-              "value": "1"
-            },
-            {
-              "label": "0.",
-              "value": "00"
-            },
-            {
-              "label": "시전 속도%",
-              "value": "35"
-            },
-            {
-              "label": "마나",
-              "value": "112"
-            },
-            {
-              "label": "마법 흡수",
+              "label": "번개 기술 피해%",
               "value": "6"
             },
             {
-              "label": "총 방어력",
-              "value": "148"
+              "label": "적의 번개 저항-%",
+              "value": "10"
             },
             {
-              "label": "#마법흡수",
-              "value": "2"
+              "label": "경험치 획득량%",
+              "value": "3"
             }
           ],
           "url": "https://www.playnote.co.kr/trade/itemmarket?index=1"
         },
         {
-          "name": "스탠 지옥의 횃불(소서)",
-          "category": "부적",
+          "name": "래더 세이크리드 아머",
+          "category": "재료",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 750,
-          "unitPriceP": 750,
+          "priceP": 2000,
+          "unitPriceP": 2000,
           "options": [
             {
-              "label": "모든 능력치",
-              "value": "18"
+              "label": "총 방어력",
+              "value": "600"
             },
             {
-              "label": "모든 저항",
-              "value": "13"
+              "label": "홈 있음(소켓)",
+              "value": "3"
             },
             {
-              "label": "#소서횃불",
-              "value": "18"
+              "label": "#세크",
+              "value": "600"
             },
             {
-              "label": "온리아마",
-              "value": "8"
+              "label": "세오",
+              "value": "5"
             },
             {
-              "label": "5.",
+              "label": "0.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=443404"
-        },
-        {
-          "name": "스탠 지옥의 횃불(소서)",
-          "category": "부적",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 750,
-          "unitPriceP": 750,
-          "options": [
-            {
-              "label": "모든 능력치",
-              "value": "18"
-            },
-            {
-              "label": "모든 저항",
-              "value": "13"
-            }
-          ],
-          "url": null
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=428706"
         }
       ]
     },
     {
-      "name": "래더 영혼(방패)",
-      "category": "기타",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 4000,
-        "median": 4000,
-        "max": 4000
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "#마법흡수",
-        "5.",
-        "AAA상점",
-        "마나",
-        "마법 흡수",
-        "시전 속도%",
-        "총 방어력"
-      ],
-      "samples": [
-        {
-          "name": "래더 영혼(방패)",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 4000,
-          "unitPriceP": 4000,
-          "options": [
-            {
-              "label": "시전 속도%",
-              "value": "35"
-            },
-            {
-              "label": "마나",
-              "value": "112"
-            },
-            {
-              "label": "마법 흡수",
-              "value": "6"
-            },
-            {
-              "label": "총 방어력",
-              "value": "148"
-            },
-            {
-              "label": "#마법흡수",
-              "value": "2"
-            },
-            {
-              "label": "AAA상점",
-              "value": "143"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=443406"
-        },
-        {
-          "name": "래더 영혼(방패)",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 4000,
-          "unitPriceP": 4000,
-          "options": [
-            {
-              "label": "시전 속도%",
-              "value": "35"
-            },
-            {
-              "label": "마나",
-              "value": "112"
-            },
-            {
-              "label": "마법 흡수",
-              "value": "6"
-            },
-            {
-              "label": "총 방어력",
-              "value": "148"
-            }
-          ],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 작은 부적",
+      "name": "래더 지옥의 횃불(악마술사)",
       "category": "부적",
       "listingCount": 2,
       "price": {
         "currency": "P",
-        "min": 180,
-        "median": 180,
-        "max": 180
+        "min": 5000,
+        "median": 5000,
+        "max": 5000
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "#냉기 저항",
-        "5.",
-        "냉기 저항%",
-        "크림초코빵"
+        "0.",
+        "모든 능력치",
+        "모든 저항",
+        "세오"
       ],
       "samples": [
         {
-          "name": "래더 작은 부적",
+          "name": "래더 지옥의 횃불(악마술사)",
           "category": "부적",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 180,
-          "unitPriceP": 180,
+          "priceP": 5000,
+          "unitPriceP": 5000,
           "options": [
             {
-              "label": "냉기 저항%",
-              "value": "10"
+              "label": "모든 능력치",
+              "value": "20"
             },
             {
-              "label": "#냉기 저항",
-              "value": "10"
+              "label": "모든 저항",
+              "value": "13"
             },
             {
-              "label": "크림초코빵",
-              "value": "109"
+              "label": "세오",
+              "value": "5"
             },
             {
-              "label": "5.",
+              "label": "0.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=393359"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=428720"
         },
         {
-          "name": "래더 작은 부적",
+          "name": "래더 지옥의 횃불(악마술사)",
           "category": "부적",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 180,
-          "unitPriceP": 180,
+          "priceP": 5000,
+          "unitPriceP": 5000,
           "options": [
             {
-              "label": "냉기 저항%",
-              "value": "10"
-            }
-          ],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 주얼",
-      "category": "기타",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 500,
-        "median": 500,
-        "max": 500
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "4.",
-        "모든 저항",
-        "선량",
-        "최대 피해"
-      ],
-      "samples": [
-        {
-          "name": "래더 주얼",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 500,
-          "unitPriceP": 500,
-          "options": [
-            {
-              "label": "최대 피해",
-              "value": "15"
+              "label": "모든 능력치",
+              "value": "20"
             },
             {
               "label": "모든 저항",
-              "value": "11"
-            },
-            {
-              "label": "선량",
-              "value": "39"
-            },
-            {
-              "label": "4.",
-              "value": "90"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=443403"
-        },
-        {
-          "name": "래더 주얼",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 500,
-          "unitPriceP": 500,
-          "options": [
-            {
-              "label": "최대 피해",
-              "value": "15"
-            },
-            {
-              "label": "모든 저항",
-              "value": "11"
+              "value": "13"
             }
           ],
           "url": null
@@ -441,9 +409,9 @@
       "listingCount": 2,
       "price": {
         "currency": "P",
-        "min": 800,
-        "median": 800,
-        "max": 800
+        "min": 7000,
+        "median": 7000,
+        "max": 7000
       },
       "servers": [
         "악군"
@@ -452,9 +420,9 @@
         "5.",
         "경험치 획득량%",
         "괴물에게서 얻는 금화%",
+        "다있소",
         "마법 기술 피해%",
         "마법 아이템 발견 확률%",
-        "소다",
         "적의 마법 저항-%"
       ],
       "samples": [
@@ -464,39 +432,39 @@
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 800,
-          "unitPriceP": 800,
+          "priceP": 7000,
+          "unitPriceP": 7000,
           "options": [
             {
               "label": "적의 마법 저항-%",
-              "value": "5"
+              "value": "10"
             },
             {
               "label": "마법 기술 피해%",
-              "value": "8"
+              "value": "9"
             },
             {
               "label": "경험치 획득량%",
-              "value": "5"
+              "value": "4"
             },
             {
               "label": "괴물에게서 얻는 금화%",
-              "value": "25"
+              "value": "35"
             },
             {
               "label": "마법 아이템 발견 확률%",
-              "value": "28"
+              "value": "19"
             },
             {
-              "label": "소다",
-              "value": "31"
+              "label": "다있소",
+              "value": "89"
             },
             {
               "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=443407"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=442393"
         },
         {
           "name": "스탠 감시자의 빛 주얼",
@@ -504,16 +472,170 @@
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 800,
-          "unitPriceP": 800,
+          "priceP": 7000,
+          "unitPriceP": 7000,
           "options": [
             {
               "label": "적의 마법 저항-%",
-              "value": "5"
+              "value": "10"
             },
             {
               "label": "마법 기술 피해%",
-              "value": "8"
+              "value": "9"
+            },
+            {
+              "label": "경험치 획득량%",
+              "value": "4"
+            },
+            {
+              "label": "괴물에게서 얻는 금화%",
+              "value": "35"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "19"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "스탠 감시자의 천둥 주얼",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 4000,
+        "median": 4000,
+        "max": 4000
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "5.",
+        "경험치 획득량%",
+        "괴물에게서 얻는 금화%",
+        "다있소",
+        "마법 아이템 발견 확률%",
+        "번개 기술 피해%",
+        "적의 번개 저항-%"
+      ],
+      "samples": [
+        {
+          "name": "스탠 감시자의 천둥 주얼",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 4000,
+          "unitPriceP": 4000,
+          "options": [
+            {
+              "label": "번개 기술 피해%",
+              "value": "6"
+            },
+            {
+              "label": "적의 번개 저항-%",
+              "value": "10"
+            },
+            {
+              "label": "경험치 획득량%",
+              "value": "3"
+            },
+            {
+              "label": "괴물에게서 얻는 금화%",
+              "value": "45"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "24"
+            },
+            {
+              "label": "다있소",
+              "value": "89"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=442440"
+        },
+        {
+          "name": "스탠 감시자의 천둥 주얼",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 4000,
+          "unitPriceP": 4000,
+          "options": [
+            {
+              "label": "번개 기술 피해%",
+              "value": "6"
+            },
+            {
+              "label": "적의 번개 저항-%",
+              "value": "10"
+            },
+            {
+              "label": "경험치 획득량%",
+              "value": "3"
+            },
+            {
+              "label": "괴물에게서 얻는 금화%",
+              "value": "45"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "24"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "스탠 보호자의 돌 주얼",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 5000,
+        "median": 5000,
+        "max": 5000
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "5.",
+        "경험치 획득량%",
+        "괴물에게서 얻는 금화%",
+        "다있소",
+        "마법 아이템 발견 확률%",
+        "적의 물리 피해 저항-%",
+        "피해%"
+      ],
+      "samples": [
+        {
+          "name": "스탠 보호자의 돌 주얼",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 5000,
+          "unitPriceP": 5000,
+          "options": [
+            {
+              "label": "피해%",
+              "value": "41"
+            },
+            {
+              "label": "적의 물리 피해 저항-%",
+              "value": "9"
             },
             {
               "label": "경험치 획득량%",
@@ -521,7 +643,144 @@
             },
             {
               "label": "괴물에게서 얻는 금화%",
-              "value": "25"
+              "value": "27"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "19"
+            },
+            {
+              "label": "다있소",
+              "value": "89"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=442445"
+        },
+        {
+          "name": "스탠 보호자의 돌 주얼",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 5000,
+          "unitPriceP": 5000,
+          "options": [
+            {
+              "label": "피해%",
+              "value": "41"
+            },
+            {
+              "label": "적의 물리 피해 저항-%",
+              "value": "9"
+            },
+            {
+              "label": "경험치 획득량%",
+              "value": "5"
+            },
+            {
+              "label": "괴물에게서 얻는 금화%",
+              "value": "27"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "19"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "스탠 수호자의 역정 주얼",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 7000,
+        "median": 7000,
+        "max": 7000
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "5.",
+        "경험치 획득량%",
+        "괴물에게서 얻는 금화%",
+        "다있소",
+        "독 기술 피해%",
+        "마법 아이템 발견 확률%",
+        "적의 독 저항-%"
+      ],
+      "samples": [
+        {
+          "name": "스탠 수호자의 역정 주얼",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 7000,
+          "unitPriceP": 7000,
+          "options": [
+            {
+              "label": "독 기술 피해%",
+              "value": "10"
+            },
+            {
+              "label": "적의 독 저항-%",
+              "value": "10"
+            },
+            {
+              "label": "경험치 획득량%",
+              "value": "4"
+            },
+            {
+              "label": "괴물에게서 얻는 금화%",
+              "value": "26"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "28"
+            },
+            {
+              "label": "다있소",
+              "value": "89"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=434003"
+        },
+        {
+          "name": "스탠 수호자의 역정 주얼",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 7000,
+          "unitPriceP": 7000,
+          "options": [
+            {
+              "label": "독 기술 피해%",
+              "value": "10"
+            },
+            {
+              "label": "적의 독 저항-%",
+              "value": "10"
+            },
+            {
+              "label": "경험치 획득량%",
+              "value": "4"
+            },
+            {
+              "label": "괴물에게서 얻는 금화%",
+              "value": "26"
             },
             {
               "label": "마법 아이템 발견 확률%",
@@ -533,37 +792,228 @@
       ]
     },
     {
-      "name": "래더 거대 부적",
-      "category": "부적",
-      "listingCount": 1,
+      "name": "스탠 치료",
+      "category": "기타",
+      "listingCount": 2,
       "price": {
         "currency": "P",
-        "min": 300,
-        "median": 300,
-        "max": 300
+        "min": 3000,
+        "median": 3000,
+        "max": 3000
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "악마 기술(악마술사)"
+        "5.",
+        "독 저항%",
+        "방어력%",
+        "소다",
+        "총 방어력"
       ],
       "samples": [
         {
-          "name": "래더 거대 부적",
-          "category": "부적",
+          "name": "스탠 치료",
+          "category": "기타",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 300,
-          "unitPriceP": 300,
+          "priceP": 3000,
+          "unitPriceP": 3000,
           "options": [
             {
-              "label": "악마 기술(악마술사)",
-              "value": "1"
+              "label": "방어력%",
+              "value": "86"
+            },
+            {
+              "label": "독 저항%",
+              "value": "54"
+            },
+            {
+              "label": "총 방어력",
+              "value": "351"
+            },
+            {
+              "label": "소다",
+              "value": "31"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=443951"
+        },
+        {
+          "name": "스탠 치료",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 3000,
+          "unitPriceP": 3000,
+          "options": [
+            {
+              "label": "방어력%",
+              "value": "86"
+            },
+            {
+              "label": "독 저항%",
+              "value": "54"
+            },
+            {
+              "label": "총 방어력",
+              "value": "351"
             }
           ],
           "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 세이크리드 아머",
+      "category": "룬워드",
+      "listingCount": 1,
+      "price": {
+        "currency": "P",
+        "min": 2000,
+        "median": 2000,
+        "max": 2000
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "#세크",
+        "#에테",
+        "0.",
+        "5.",
+        "경험치 획득량%",
+        "괴물에게서 얻는 금화%",
+        "다있소",
+        "독 저항%",
+        "디아블로",
+        "마법 아이템 발견 확률%",
+        "모든 능력치",
+        "모든 저항",
+        "방어력%",
+        "세오",
+        "소다",
+        "적의 물리 피해 저항-%",
+        "지금 시작하면, 멤버십 PLUS",
+        "총 방어력",
+        "플레이디아 디아블로",
+        "피해%",
+        "홈 있음(소켓)"
+      ],
+      "samples": [
+        {
+          "name": "래더 세이크리드 아머",
+          "category": "룬워드",
+          "server": "악군",
+          "status": "거래완료",
+          "quantity": 1,
+          "priceP": 2000,
+          "unitPriceP": 2000,
+          "options": [
+            {
+              "label": "지금 시작하면, 멤버십 PLUS",
+              "value": "1"
+            },
+            {
+              "label": "플레이디아 디아블로",
+              "value": "2"
+            },
+            {
+              "label": "디아블로",
+              "value": "2"
+            },
+            {
+              "label": "총 방어력",
+              "value": "600"
+            },
+            {
+              "label": "홈 있음(소켓)",
+              "value": "3"
+            },
+            {
+              "label": "#세크",
+              "value": "600"
+            },
+            {
+              "label": "세오",
+              "value": "5"
+            },
+            {
+              "label": "0.",
+              "value": "00"
+            },
+            {
+              "label": "총 방어력",
+              "value": "768"
+            },
+            {
+              "label": "#에테",
+              "value": "3"
+            },
+            {
+              "label": "방어력%",
+              "value": "86"
+            },
+            {
+              "label": "독 저항%",
+              "value": "54"
+            },
+            {
+              "label": "총 방어력",
+              "value": "351"
+            },
+            {
+              "label": "소다",
+              "value": "31"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            },
+            {
+              "label": "총 방어력",
+              "value": "765"
+            },
+            {
+              "label": "모든 능력치",
+              "value": "20"
+            },
+            {
+              "label": "모든 저항",
+              "value": "13"
+            },
+            {
+              "label": "피해%",
+              "value": "41"
+            },
+            {
+              "label": "적의 물리 피해 저항-%",
+              "value": "9"
+            },
+            {
+              "label": "경험치 획득량%",
+              "value": "5"
+            },
+            {
+              "label": "괴물에게서 얻는 금화%",
+              "value": "27"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "19"
+            },
+            {
+              "label": "다있소",
+              "value": "89"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/customer/noticedetail?Index=5"
         }
       ]
     },
@@ -596,232 +1046,14 @@
           "options": [
             {
               "label": "총 방어력",
-              "value": "883"
+              "value": "600"
             },
             {
               "label": "홈 있음(소켓)",
-              "value": "4"
+              "value": "3"
             }
           ],
           "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 자룬",
-      "category": "룬",
-      "listingCount": 1,
-      "price": {
-        "currency": "P",
-        "min": 3800,
-        "median": 3800,
-        "max": 3800
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [],
-      "samples": [
-        {
-          "name": "래더 자룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 3800,
-          "unitPriceP": 3800,
-          "options": [],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 지옥의 횃불(팔라)",
-      "category": "부적",
-      "listingCount": 1,
-      "price": {
-        "currency": "P",
-        "min": 500,
-        "median": 500,
-        "max": 500
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "모든 능력치",
-        "모든 저항"
-      ],
-      "samples": [
-        {
-          "name": "래더 지옥의 횃불(팔라)",
-          "category": "부적",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 500,
-          "unitPriceP": 500,
-          "options": [
-            {
-              "label": "모든 능력치",
-              "value": "15"
-            },
-            {
-              "label": "모든 저항",
-              "value": "18"
-            }
-          ],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "스탠 지옥의 횃불(소서)",
-      "category": "룬워드",
-      "listingCount": 1,
-      "price": {
-        "currency": "P",
-        "min": 750,
-        "median": 750,
-        "max": 750
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "#⭐에테 세크아머",
-        "#냉기 저항",
-        "#소서횃불",
-        "0.",
-        "5.",
-        "거래 상대방",
-        "경험치 획득량%",
-        "괴물에게서 얻는 금화%",
-        "냉기 저항%",
-        "디아블로",
-        "마나",
-        "마법 기술 피해%",
-        "마법 아이템 발견 확률%",
-        "모든 능력치",
-        "모든 저항",
-        "소다",
-        "시전 속도%",
-        "온리아마",
-        "적의 마법 저항-%",
-        "지금 시작하면, 멤버십 PLUS",
-        "총 방어력",
-        "크림초코빵",
-        "플레이디아 디아블로",
-        "홈 있음(소켓)"
-      ],
-      "samples": [
-        {
-          "name": "스탠 지옥의 횃불(소서)",
-          "category": "룬워드",
-          "server": "악군",
-          "status": "거래완료",
-          "quantity": 1,
-          "priceP": 750,
-          "unitPriceP": 750,
-          "options": [
-            {
-              "label": "지금 시작하면, 멤버십 PLUS",
-              "value": "1"
-            },
-            {
-              "label": "플레이디아 디아블로",
-              "value": "2"
-            },
-            {
-              "label": "디아블로",
-              "value": "2"
-            },
-            {
-              "label": "모든 능력치",
-              "value": "18"
-            },
-            {
-              "label": "모든 저항",
-              "value": "13"
-            },
-            {
-              "label": "#소서횃불",
-              "value": "18"
-            },
-            {
-              "label": "온리아마",
-              "value": "8"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            },
-            {
-              "label": "냉기 저항%",
-              "value": "10"
-            },
-            {
-              "label": "#냉기 저항",
-              "value": "10"
-            },
-            {
-              "label": "크림초코빵",
-              "value": "109"
-            },
-            {
-              "label": "적의 마법 저항-%",
-              "value": "5"
-            },
-            {
-              "label": "마법 기술 피해%",
-              "value": "8"
-            },
-            {
-              "label": "경험치 획득량%",
-              "value": "5"
-            },
-            {
-              "label": "괴물에게서 얻는 금화%",
-              "value": "25"
-            },
-            {
-              "label": "마법 아이템 발견 확률%",
-              "value": "28"
-            },
-            {
-              "label": "소다",
-              "value": "31"
-            },
-            {
-              "label": "총 방어력",
-              "value": "883"
-            },
-            {
-              "label": "홈 있음(소켓)",
-              "value": "4"
-            },
-            {
-              "label": "#⭐에테 세크아머",
-              "value": "883"
-            },
-            {
-              "label": "거래 상대방",
-              "value": "1"
-            },
-            {
-              "label": "0.",
-              "value": "00"
-            },
-            {
-              "label": "시전 속도%",
-              "value": "35"
-            },
-            {
-              "label": "마나",
-              "value": "112"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/customer/noticedetail?Index=5"
         }
       ]
     }
