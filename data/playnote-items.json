@@ -1,143 +1,148 @@
 {
   "source": "https://www.playnote.co.kr/trade/itemmarket?index=1",
   "scope": "public-listings-only",
-  "updatedAt": "2026-10-29T09:49:51.439614+00:00",
-  "listingCount": 19,
+  "updatedAt": "2026-10-29T16:52:46.011435+00:00",
+  "listingCount": 20,
   "itemCount": 9,
   "items": [
     {
-      "name": "래더 거인의 복수 세러모니얼 재벌린",
-      "category": "기타",
-      "listingCount": 3,
+      "name": "스탠 애니참",
+      "category": "부적",
+      "listingCount": 4,
       "price": {
         "currency": "P",
-        "min": 2000,
-        "median": 2000,
-        "max": 2000
+        "min": 5500,
+        "median": 5750,
+        "max": 6000
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "5.",
-        "AAA상점"
-      ],
-      "samples": [
-        {
-          "name": "래더 거인의 복수 세러모니얼 재벌린",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 2,
-          "priceP": 2000,
-          "unitPriceP": 2000,
-          "options": [],
-          "url": null
-        },
-        {
-          "name": "래더 거인의 복수 세러모니얼 재벌린",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 3,
-          "priceP": 2000,
-          "unitPriceP": 2000,
-          "options": [
-            {
-              "label": "AAA상점",
-              "value": "145"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=417899"
-        },
-        {
-          "name": "래더 거인의 복수 세러모니얼 재벌린",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 3,
-          "priceP": 2000,
-          "unitPriceP": 2000,
-          "options": [],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 마라의 만화경",
-      "category": "기타",
-      "listingCount": 3,
-      "price": {
-        "currency": "P",
-        "min": 3000,
-        "median": 3000,
-        "max": 3000
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "AAA상점",
+        "#애니참 #스탠 #악군 #",
+        "4.",
+        "monk",
+        "경험치 획득량%",
+        "모든 능력치",
         "모든 저항"
       ],
       "samples": [
         {
-          "name": "래더 마라의 만화경",
-          "category": "기타",
+          "name": "스탠 애니참",
+          "category": "부적",
           "server": "악군",
           "status": "",
-          "quantity": 1,
-          "priceP": 3000,
-          "unitPriceP": 3000,
+          "quantity": 4,
+          "priceP": 5500,
+          "unitPriceP": 5500,
           "options": [
             {
+              "label": "모든 능력치",
+              "value": "20"
+            },
+            {
               "label": "모든 저항",
-              "value": "30"
+              "value": "20"
+            },
+            {
+              "label": "경험치 획득량%",
+              "value": "6"
+            },
+            {
+              "label": "#애니참 #스탠 #악군 #",
+              "value": "20"
+            },
+            {
+              "label": "monk",
+              "value": "113"
+            },
+            {
+              "label": "4.",
+              "value": "90"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=363245"
+        },
+        {
+          "name": "스탠 애니참",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 4,
+          "priceP": 5500,
+          "unitPriceP": 5500,
+          "options": [
+            {
+              "label": "모든 능력치",
+              "value": "20"
+            },
+            {
+              "label": "모든 저항",
+              "value": "20"
+            },
+            {
+              "label": "경험치 획득량%",
+              "value": "6"
             }
           ],
           "url": null
         },
         {
-          "name": "래더 마라의 만화경",
-          "category": "기타",
+          "name": "스탠 애니참",
+          "category": "부적",
           "server": "악군",
           "status": "",
-          "quantity": 14,
-          "priceP": 3000,
-          "unitPriceP": 3000,
+          "quantity": 7,
+          "priceP": 6000,
+          "unitPriceP": 6000,
           "options": [
             {
+              "label": "모든 능력치",
+              "value": "20"
+            },
+            {
               "label": "모든 저항",
-              "value": "30"
+              "value": "20"
             },
             {
-              "label": "AAA상점",
-              "value": "145"
+              "label": "경험치 획득량%",
+              "value": "7"
             },
             {
-              "label": "5.",
-              "value": "00"
+              "label": "#애니참 #스탠 #악군 #",
+              "value": "20"
+            },
+            {
+              "label": "monk",
+              "value": "113"
+            },
+            {
+              "label": "4.",
+              "value": "90"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=416013"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=363269"
         },
         {
-          "name": "래더 마라의 만화경",
-          "category": "기타",
+          "name": "스탠 애니참",
+          "category": "부적",
           "server": "악군",
           "status": "",
-          "quantity": 14,
-          "priceP": 3000,
-          "unitPriceP": 3000,
+          "quantity": 7,
+          "priceP": 6000,
+          "unitPriceP": 6000,
           "options": [
             {
+              "label": "모든 능력치",
+              "value": "20"
+            },
+            {
               "label": "모든 저항",
-              "value": "30"
+              "value": "20"
+            },
+            {
+              "label": "경험치 획득량%",
+              "value": "7"
             }
           ],
           "url": null
@@ -145,275 +150,205 @@
       ]
     },
     {
-      "name": "래더 마라의 만화경",
-      "category": "룬",
-      "listingCount": 2,
+      "name": "스탠 영혼(방패)",
+      "category": "기타",
+      "listingCount": 3,
       "price": {
         "currency": "P",
-        "min": 3000,
-        "median": 3000,
-        "max": 3000
+        "min": 4500,
+        "median": 4500,
+        "max": 4500
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "0.",
-        "5.",
-        "AAA상점",
-        "거래 상대방",
+        "#네크횃불 #준으뜸 #",
+        "#드루횃불 #준으뜸 #",
+        "#애니참 #스탠 #악군 #",
+        "#영혼 #스피릿 #성기사전용 #세이크리드론다쉬 #",
+        "4.",
+        "monk",
+        "경험치 획득량%",
+        "마나",
+        "마법 흡수",
+        "명중률",
+        "모든 능력치",
         "모든 저항",
-        "장사는피곤해",
-        "조선족아님",
-        "총 방어력",
+        "방어력",
+        "시전 속도%",
+        "피해%",
         "홈 있음(소켓)"
       ],
       "samples": [
         {
-          "name": "래더 마라의 만화경",
-          "category": "룬",
+          "name": "스탠 영혼(방패)",
+          "category": "기타",
           "server": "악군",
           "status": "거래완료",
           "quantity": 1,
-          "priceP": 3000,
-          "unitPriceP": 3000,
+          "priceP": 4500,
+          "unitPriceP": 4500,
           "options": [
             {
+              "label": "시전 속도%",
+              "value": "35"
+            },
+            {
+              "label": "마나",
+              "value": "91"
+            },
+            {
+              "label": "마법 흡수",
+              "value": "7"
+            },
+            {
               "label": "모든 저항",
-              "value": "30"
+              "value": "45"
             },
             {
-              "label": "거래 상대방",
-              "value": "1"
+              "label": "방어력",
+              "value": "153"
             },
             {
-              "label": "0.",
-              "value": "00"
+              "label": "#영혼 #스피릿 #성기사전용 #세이크리드론다쉬 #",
+              "value": "45"
             },
             {
-              "label": "AAA상점",
-              "value": "145"
+              "label": "monk",
+              "value": "113"
             },
             {
-              "label": "5.",
-              "value": "00"
+              "label": "4.",
+              "value": "90"
             },
             {
-              "label": "장사는피곤해",
-              "value": "83"
+              "label": "모든 능력치",
+              "value": "19"
             },
             {
-              "label": "총 방어력",
-              "value": "501"
+              "label": "모든 저항",
+              "value": "20"
             },
             {
-              "label": "홈 있음(소켓)",
-              "value": "3"
+              "label": "#드루횃불 #준으뜸 #",
+              "value": "19"
             },
             {
-              "label": "조선족아님",
-              "value": "221"
+              "label": "#네크횃불 #준으뜸 #",
+              "value": "19"
             },
             {
-              "label": "총 방어력",
-              "value": "135"
+              "label": "모든 능력치",
+              "value": "20"
             },
             {
-              "label": "총 방어력",
-              "value": "60"
+              "label": "경험치 획득량%",
+              "value": "6"
             },
             {
-              "label": "총 방어력",
-              "value": "523"
+              "label": "#애니참 #스탠 #악군 #",
+              "value": "20"
+            },
+            {
+              "label": "경험치 획득량%",
+              "value": "7"
+            },
+            {
+              "label": "모든 능력치",
+              "value": "18"
             },
             {
               "label": "홈 있음(소켓)",
               "value": "4"
+            },
+            {
+              "label": "피해%",
+              "value": "5"
+            },
+            {
+              "label": "명중률",
+              "value": "1"
+            },
+            {
+              "label": "피해%",
+              "value": "65"
             }
           ],
           "url": "https://www.playnote.co.kr/trade/itemmarket?index=1"
         },
         {
-          "name": "래더 마라의 만화경",
-          "category": "룬",
+          "name": "스탠 영혼(방패)",
+          "category": "기타",
           "server": "악군",
-          "status": "거래완료",
+          "status": "",
           "quantity": 1,
-          "priceP": 3000,
-          "unitPriceP": 3000,
+          "priceP": 4500,
+          "unitPriceP": 4500,
           "options": [
+            {
+              "label": "시전 속도%",
+              "value": "35"
+            },
+            {
+              "label": "마나",
+              "value": "91"
+            },
+            {
+              "label": "마법 흡수",
+              "value": "7"
+            },
             {
               "label": "모든 저항",
-              "value": "30"
+              "value": "45"
             },
             {
-              "label": "거래 상대방",
-              "value": "1"
+              "label": "방어력",
+              "value": "153"
             },
             {
-              "label": "0.",
-              "value": "00"
+              "label": "#영혼 #스피릿 #성기사전용 #세이크리드론다쉬 #",
+              "value": "45"
             },
             {
-              "label": "AAA상점",
-              "value": "145"
+              "label": "monk",
+              "value": "113"
             },
             {
-              "label": "5.",
-              "value": "00"
-            },
-            {
-              "label": "장사는피곤해",
-              "value": "83"
-            },
-            {
-              "label": "총 방어력",
-              "value": "501"
-            },
-            {
-              "label": "홈 있음(소켓)",
-              "value": "3"
-            },
-            {
-              "label": "조선족아님",
-              "value": "221"
-            },
-            {
-              "label": "총 방어력",
-              "value": "135"
-            },
-            {
-              "label": "총 방어력",
-              "value": "60"
-            },
-            {
-              "label": "총 방어력",
-              "value": "523"
-            },
-            {
-              "label": "홈 있음(소켓)",
-              "value": "4"
+              "label": "4.",
+              "value": "90"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=416013"
-        }
-      ]
-    },
-    {
-      "name": "래더 참룬",
-      "category": "룬",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 1900,
-        "median": 1900,
-        "max": 1900
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "장사는피곤해"
-      ],
-      "samples": [
-        {
-          "name": "래더 참룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 1900,
-          "unitPriceP": 1900,
-          "options": [
-            {
-              "label": "장사는피곤해",
-              "value": "83"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=440528"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=3400"
         },
         {
-          "name": "래더 참룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 1900,
-          "unitPriceP": 1900,
-          "options": [],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 크라켄 쉘",
-      "category": "기타",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 250,
-        "median": 250,
-        "max": 250
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "조선족아님",
-        "총 방어력",
-        "홈 있음(소켓)"
-      ],
-      "samples": [
-        {
-          "name": "래더 크라켄 쉘",
+          "name": "스탠 영혼(방패)",
           "category": "기타",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 250,
-          "unitPriceP": 250,
+          "priceP": 4500,
+          "unitPriceP": 4500,
           "options": [
             {
-              "label": "총 방어력",
-              "value": "523"
+              "label": "시전 속도%",
+              "value": "35"
             },
             {
-              "label": "홈 있음(소켓)",
-              "value": "4"
+              "label": "마나",
+              "value": "91"
             },
             {
-              "label": "조선족아님",
-              "value": "221"
+              "label": "마법 흡수",
+              "value": "7"
             },
             {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=421932"
-        },
-        {
-          "name": "래더 크라켄 쉘",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 250,
-          "unitPriceP": 250,
-          "options": [
-            {
-              "label": "총 방어력",
-              "value": "523"
+              "label": "모든 저항",
+              "value": "45"
             },
             {
-              "label": "홈 있음(소켓)",
-              "value": "4"
+              "label": "방어력",
+              "value": "153"
             }
           ],
           "url": null
@@ -421,219 +356,9 @@
       ]
     },
     {
-      "name": "스탠 고딕 플레이트",
-      "category": "기타",
+      "name": "스탠 지옥의 횃불(네크)",
+      "category": "부적",
       "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 300,
-        "median": 300,
-        "max": 300
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "조선족아님",
-        "총 방어력",
-        "홈 있음(소켓)"
-      ],
-      "samples": [
-        {
-          "name": "스탠 고딕 플레이트",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 3,
-          "priceP": 300,
-          "unitPriceP": 300,
-          "options": [
-            {
-              "label": "총 방어력",
-              "value": "135"
-            },
-            {
-              "label": "홈 있음(소켓)",
-              "value": "3"
-            },
-            {
-              "label": "조선족아님",
-              "value": "221"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=430324"
-        },
-        {
-          "name": "스탠 고딕 플레이트",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 3,
-          "priceP": 300,
-          "unitPriceP": 300,
-          "options": [
-            {
-              "label": "총 방어력",
-              "value": "135"
-            },
-            {
-              "label": "홈 있음(소켓)",
-              "value": "3"
-            }
-          ],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "스탠 다이어뎀",
-      "category": "기타",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 450,
-        "median": 450,
-        "max": 450
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "조선족아님",
-        "총 방어력",
-        "홈 있음(소켓)"
-      ],
-      "samples": [
-        {
-          "name": "스탠 다이어뎀",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 5,
-          "priceP": 450,
-          "unitPriceP": 450,
-          "options": [
-            {
-              "label": "총 방어력",
-              "value": "60"
-            },
-            {
-              "label": "홈 있음(소켓)",
-              "value": "3"
-            },
-            {
-              "label": "조선족아님",
-              "value": "221"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=430314"
-        },
-        {
-          "name": "스탠 다이어뎀",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 5,
-          "priceP": 450,
-          "unitPriceP": 450,
-          "options": [
-            {
-              "label": "총 방어력",
-              "value": "60"
-            },
-            {
-              "label": "홈 있음(소켓)",
-              "value": "3"
-            }
-          ],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "스탠 아콘 플레이트",
-      "category": "기타",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 450,
-        "median": 450,
-        "max": 450
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "조선족아님",
-        "총 방어력",
-        "홈 있음(소켓)"
-      ],
-      "samples": [
-        {
-          "name": "스탠 아콘 플레이트",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 450,
-          "unitPriceP": 450,
-          "options": [
-            {
-              "label": "총 방어력",
-              "value": "501"
-            },
-            {
-              "label": "홈 있음(소켓)",
-              "value": "3"
-            },
-            {
-              "label": "조선족아님",
-              "value": "221"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=430365"
-        },
-        {
-          "name": "스탠 아콘 플레이트",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 450,
-          "unitPriceP": 450,
-          "options": [
-            {
-              "label": "총 방어력",
-              "value": "501"
-            },
-            {
-              "label": "홈 있음(소켓)",
-              "value": "3"
-            }
-          ],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 마라의 만화경",
-      "category": "룬워드",
-      "listingCount": 1,
       "price": {
         "currency": "P",
         "min": 3000,
@@ -644,36 +369,426 @@
         "악군"
       ],
       "optionLabels": [
-        "-부산중구",
-        "0.",
-        "1,",
-        "5.",
-        "AAA상점",
-        "거래 상대방",
-        "디아블로",
-        "모든 저항",
-        "부산광역시 남구 전포대로",
-        "사업자등록번호:",
-        "연락처",
-        "옵션",
-        "자주묻는질문",
-        "장사는피곤해",
-        "조선족아님",
-        "지금 시작하면, 멤버십 PLUS",
-        "총 방어력",
-        "통신판매신고번호: 제",
-        "플레이디아 디아블로",
+        "#네크횃불 #준으뜸 #",
+        "4.",
+        "monk",
+        "모든 능력치",
+        "모든 저항"
+      ],
+      "samples": [
+        {
+          "name": "스탠 지옥의 횃불(네크)",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 3000,
+          "unitPriceP": 3000,
+          "options": [
+            {
+              "label": "모든 능력치",
+              "value": "19"
+            },
+            {
+              "label": "모든 저항",
+              "value": "20"
+            },
+            {
+              "label": "#네크횃불 #준으뜸 #",
+              "value": "19"
+            },
+            {
+              "label": "monk",
+              "value": "113"
+            },
+            {
+              "label": "4.",
+              "value": "90"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=343188"
+        },
+        {
+          "name": "스탠 지옥의 횃불(네크)",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 3000,
+          "unitPriceP": 3000,
+          "options": [
+            {
+              "label": "모든 능력치",
+              "value": "19"
+            },
+            {
+              "label": "모든 저항",
+              "value": "20"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "스탠 지옥의 횃불(드루)",
+      "category": "부적",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 3000,
+        "median": 3000,
+        "max": 3000
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "#드루횃불 #준으뜸 #",
+        "4.",
+        "monk",
+        "모든 능력치",
+        "모든 저항"
+      ],
+      "samples": [
+        {
+          "name": "스탠 지옥의 횃불(드루)",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 3000,
+          "unitPriceP": 3000,
+          "options": [
+            {
+              "label": "모든 능력치",
+              "value": "19"
+            },
+            {
+              "label": "모든 저항",
+              "value": "20"
+            },
+            {
+              "label": "#드루횃불 #준으뜸 #",
+              "value": "19"
+            },
+            {
+              "label": "monk",
+              "value": "113"
+            },
+            {
+              "label": "4.",
+              "value": "90"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=343238"
+        },
+        {
+          "name": "스탠 지옥의 횃불(드루)",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 3000,
+          "unitPriceP": 3000,
+          "options": [
+            {
+              "label": "모든 능력치",
+              "value": "19"
+            },
+            {
+              "label": "모든 저항",
+              "value": "20"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "하코 래더 쓰레셔",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 2500,
+        "median": 2500,
+        "max": 2500
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "4.",
+        "명중률",
+        "피해%",
         "홈 있음(소켓)"
       ],
       "samples": [
         {
-          "name": "래더 마라의 만화경",
+          "name": "하코 래더 쓰레셔",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 2500,
+          "unitPriceP": 2500,
+          "options": [
+            {
+              "label": "홈 있음(소켓)",
+              "value": "4"
+            },
+            {
+              "label": "피해%",
+              "value": "5"
+            },
+            {
+              "label": "명중률",
+              "value": "1"
+            },
+            {
+              "label": "4.",
+              "value": "90"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=427837"
+        },
+        {
+          "name": "하코 래더 쓰레셔",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 2500,
+          "unitPriceP": 2500,
+          "options": [
+            {
+              "label": "홈 있음(소켓)",
+              "value": "4"
+            },
+            {
+              "label": "피해%",
+              "value": "5"
+            },
+            {
+              "label": "명중률",
+              "value": "1"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "하코 래더 아트마의 스카라베",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 500,
+        "median": 500,
+        "max": 500
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "4."
+      ],
+      "samples": [
+        {
+          "name": "하코 래더 아트마의 스카라베",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 500,
+          "unitPriceP": 500,
+          "options": [
+            {
+              "label": "4.",
+              "value": "90"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=424369"
+        },
+        {
+          "name": "하코 래더 아트마의 스카라베",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 500,
+          "unitPriceP": 500,
+          "options": [],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "하코 래더 지옥의 횃불(악마술사)",
+      "category": "부적",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 8000,
+        "median": 8000,
+        "max": 8000
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "4.",
+        "모든 능력치",
+        "모든 저항"
+      ],
+      "samples": [
+        {
+          "name": "하코 래더 지옥의 횃불(악마술사)",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 8000,
+          "unitPriceP": 8000,
+          "options": [
+            {
+              "label": "모든 능력치",
+              "value": "18"
+            },
+            {
+              "label": "모든 저항",
+              "value": "20"
+            },
+            {
+              "label": "4.",
+              "value": "90"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=441335"
+        },
+        {
+          "name": "하코 래더 지옥의 횃불(악마술사)",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 8000,
+          "unitPriceP": 8000,
+          "options": [
+            {
+              "label": "모든 능력치",
+              "value": "18"
+            },
+            {
+              "label": "모든 저항",
+              "value": "20"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "하코 래더 큰까마귀 발톱 롱보우",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 500,
+        "median": 500,
+        "max": 500
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "4.",
+        "피해%"
+      ],
+      "samples": [
+        {
+          "name": "하코 래더 큰까마귀 발톱 롱보우",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 500,
+          "unitPriceP": 500,
+          "options": [
+            {
+              "label": "피해%",
+              "value": "65"
+            },
+            {
+              "label": "4.",
+              "value": "90"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=427079"
+        },
+        {
+          "name": "하코 래더 큰까마귀 발톱 롱보우",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 500,
+          "unitPriceP": 500,
+          "options": [
+            {
+              "label": "피해%",
+              "value": "65"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "스탠 영혼(방패)",
+      "category": "룬워드",
+      "listingCount": 1,
+      "price": {
+        "currency": "P",
+        "min": 4500,
+        "median": 4500,
+        "max": 4500
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "#네크횃불 #준으뜸 #",
+        "#드루횃불 #준으뜸 #",
+        "#애니참 #스탠 #악군 #",
+        "#영혼 #스피릿 #성기사전용 #세이크리드론다쉬 #",
+        "4.",
+        "monk",
+        "경험치 획득량%",
+        "디아블로",
+        "마나",
+        "마법 흡수",
+        "명중률",
+        "모든 능력치",
+        "모든 저항",
+        "방어력",
+        "시전 속도%",
+        "지금 시작하면, 멤버십 PLUS",
+        "플레이디아 디아블로",
+        "피해%",
+        "홈 있음(소켓)"
+      ],
+      "samples": [
+        {
+          "name": "스탠 영혼(방패)",
           "category": "룬워드",
           "server": "악군",
           "status": "거래완료",
           "quantity": 1,
-          "priceP": 3000,
-          "unitPriceP": 3000,
+          "priceP": 4500,
+          "unitPriceP": 4500,
           "options": [
             {
               "label": "지금 시작하면, 멤버십 PLUS",
@@ -688,88 +803,88 @@
               "value": "2"
             },
             {
+              "label": "시전 속도%",
+              "value": "35"
+            },
+            {
+              "label": "마나",
+              "value": "91"
+            },
+            {
+              "label": "마법 흡수",
+              "value": "7"
+            },
+            {
               "label": "모든 저항",
-              "value": "30"
+              "value": "45"
             },
             {
-              "label": "거래 상대방",
-              "value": "1"
+              "label": "방어력",
+              "value": "153"
             },
             {
-              "label": "0.",
-              "value": "00"
+              "label": "#영혼 #스피릿 #성기사전용 #세이크리드론다쉬 #",
+              "value": "45"
             },
             {
-              "label": "AAA상점",
-              "value": "145"
+              "label": "monk",
+              "value": "113"
             },
             {
-              "label": "5.",
-              "value": "00"
+              "label": "4.",
+              "value": "90"
             },
             {
-              "label": "장사는피곤해",
-              "value": "83"
+              "label": "모든 능력치",
+              "value": "19"
             },
             {
-              "label": "총 방어력",
-              "value": "501"
+              "label": "모든 저항",
+              "value": "20"
             },
             {
-              "label": "홈 있음(소켓)",
-              "value": "3"
+              "label": "#드루횃불 #준으뜸 #",
+              "value": "19"
             },
             {
-              "label": "조선족아님",
-              "value": "221"
+              "label": "#네크횃불 #준으뜸 #",
+              "value": "19"
             },
             {
-              "label": "총 방어력",
-              "value": "135"
+              "label": "모든 능력치",
+              "value": "20"
             },
             {
-              "label": "총 방어력",
-              "value": "60"
+              "label": "경험치 획득량%",
+              "value": "6"
             },
             {
-              "label": "총 방어력",
-              "value": "523"
+              "label": "#애니참 #스탠 #악군 #",
+              "value": "20"
+            },
+            {
+              "label": "경험치 획득량%",
+              "value": "7"
+            },
+            {
+              "label": "모든 능력치",
+              "value": "18"
             },
             {
               "label": "홈 있음(소켓)",
               "value": "4"
             },
             {
-              "label": "옵션",
-              "value": "0"
+              "label": "피해%",
+              "value": "5"
             },
             {
-              "label": "1,",
-              "value": "000"
-            },
-            {
-              "label": "사업자등록번호:",
-              "value": "148"
-            },
-            {
-              "label": "통신판매신고번호: 제",
-              "value": "2021"
-            },
-            {
-              "label": "-부산중구",
-              "value": "0282"
-            },
-            {
-              "label": "부산광역시 남구 전포대로",
-              "value": "116"
-            },
-            {
-              "label": "연락처",
-              "value": "070"
-            },
-            {
-              "label": "자주묻는질문",
+              "label": "명중률",
               "value": "1"
+            },
+            {
+              "label": "피해%",
+              "value": "65"
             }
           ],
           "url": "https://www.playnote.co.kr/customer/noticedetail?Index=5"
