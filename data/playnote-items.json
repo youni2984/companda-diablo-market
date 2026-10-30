@@ -1,14 +1,581 @@
 {
   "source": "https://www.playnote.co.kr/trade/itemmarket?index=1",
   "scope": "public-listings-only",
-  "updatedAt": "2026-10-29T21:45:00.003942+00:00",
+  "updatedAt": "2026-10-30T01:53:00.755930+00:00",
   "listingCount": 20,
   "itemCount": 8,
   "items": [
     {
-      "name": "래더 벡스룬",
-      "category": "룬",
+      "name": "래더 거대 부적",
+      "category": "부적",
       "listingCount": 4,
+      "price": {
+        "currency": "P",
+        "min": 500,
+        "median": 550,
+        "max": 600
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "5.",
+        "기괴 기술(악마술사)",
+        "민첩",
+        "방어 오라(성기사 전용)",
+        "생명력",
+        "시여니"
+      ],
+      "samples": [
+        {
+          "name": "래더 거대 부적",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 500,
+          "unitPriceP": 500,
+          "options": [
+            {
+              "label": "방어 오라(성기사 전용)",
+              "value": "1"
+            },
+            {
+              "label": "생명력",
+              "value": "34"
+            },
+            {
+              "label": "시여니",
+              "value": "63"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=431973"
+        },
+        {
+          "name": "래더 거대 부적",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 500,
+          "unitPriceP": 500,
+          "options": [
+            {
+              "label": "방어 오라(성기사 전용)",
+              "value": "1"
+            },
+            {
+              "label": "생명력",
+              "value": "34"
+            }
+          ],
+          "url": null
+        },
+        {
+          "name": "래더 거대 부적",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 600,
+          "unitPriceP": 600,
+          "options": [
+            {
+              "label": "기괴 기술(악마술사)",
+              "value": "1"
+            },
+            {
+              "label": "민첩",
+              "value": "3"
+            },
+            {
+              "label": "시여니",
+              "value": "63"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=422006"
+        },
+        {
+          "name": "래더 거대 부적",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 600,
+          "unitPriceP": 600,
+          "options": [
+            {
+              "label": "기괴 기술(악마술사)",
+              "value": "1"
+            },
+            {
+              "label": "민첩",
+              "value": "3"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 슬픔",
+      "category": "기타",
+      "listingCount": 4,
+      "price": {
+        "currency": "P",
+        "min": 700,
+        "median": 750,
+        "max": 800
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "5.",
+        "공격 속도%",
+        "시여니",
+        "적 처치 시 생명력 회복",
+        "적의 독 저항-%",
+        "피해"
+      ],
+      "samples": [
+        {
+          "name": "래더 슬픔",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 700,
+          "unitPriceP": 700,
+          "options": [
+            {
+              "label": "공격 속도%",
+              "value": "33"
+            },
+            {
+              "label": "피해",
+              "value": "379"
+            },
+            {
+              "label": "적의 독 저항-%",
+              "value": "20"
+            },
+            {
+              "label": "적 처치 시 생명력 회복",
+              "value": "10"
+            },
+            {
+              "label": "시여니",
+              "value": "63"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=436369"
+        },
+        {
+          "name": "래더 슬픔",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 700,
+          "unitPriceP": 700,
+          "options": [
+            {
+              "label": "공격 속도%",
+              "value": "33"
+            },
+            {
+              "label": "피해",
+              "value": "379"
+            },
+            {
+              "label": "적의 독 저항-%",
+              "value": "20"
+            },
+            {
+              "label": "적 처치 시 생명력 회복",
+              "value": "10"
+            }
+          ],
+          "url": null
+        },
+        {
+          "name": "래더 슬픔",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 800,
+          "unitPriceP": 800,
+          "options": [
+            {
+              "label": "공격 속도%",
+              "value": "34"
+            },
+            {
+              "label": "피해",
+              "value": "346"
+            },
+            {
+              "label": "적의 독 저항-%",
+              "value": "20"
+            },
+            {
+              "label": "적 처치 시 생명력 회복",
+              "value": "13"
+            },
+            {
+              "label": "시여니",
+              "value": "63"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=436364"
+        },
+        {
+          "name": "래더 슬픔",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 800,
+          "unitPriceP": 800,
+          "options": [
+            {
+              "label": "공격 속도%",
+              "value": "34"
+            },
+            {
+              "label": "피해",
+              "value": "346"
+            },
+            {
+              "label": "적의 독 저항-%",
+              "value": "20"
+            },
+            {
+              "label": "적 처치 시 생명력 회복",
+              "value": "13"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 새로워진 천상의 틈 거대 부적",
+      "category": "부적",
+      "listingCount": 3,
+      "price": {
+        "currency": "P",
+        "min": 9000,
+        "median": 9000,
+        "max": 9000
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "0.",
+        "5.",
+        "공격 속도%",
+        "괴물에게서 얻는 금화%",
+        "근면성실",
+        "기괴 기술(악마술사)",
+        "마나",
+        "마법 피해 감소",
+        "방어 오라(성기사 전용)",
+        "번개 저항-%",
+        "생명력",
+        "시여니",
+        "적 처치 시 생명력 회복",
+        "적의 독 저항-%",
+        "적의 번개 저항-%",
+        "타격 회복 속도%",
+        "투창과 창 기술(아마존 전용)",
+        "피해",
+        "피해%"
+      ],
+      "samples": [
+        {
+          "name": "래더 새로워진 천상의 틈 거대 부적",
+          "category": "부적",
+          "server": "악군",
+          "status": "거래완료",
+          "quantity": 1,
+          "priceP": 9000,
+          "unitPriceP": 9000,
+          "options": [
+            {
+              "label": "번개 저항-%",
+              "value": "70"
+            },
+            {
+              "label": "적의 번개 저항-%",
+              "value": "10"
+            },
+            {
+              "label": "타격 회복 속도%",
+              "value": "20"
+            },
+            {
+              "label": "마나",
+              "value": "19"
+            },
+            {
+              "label": "마법 피해 감소",
+              "value": "6"
+            },
+            {
+              "label": "괴물에게서 얻는 금화%",
+              "value": "34"
+            },
+            {
+              "label": "근면성실",
+              "value": "13"
+            },
+            {
+              "label": "0.",
+              "value": "00"
+            },
+            {
+              "label": "피해%",
+              "value": "315"
+            },
+            {
+              "label": "적의 번개 저항-%",
+              "value": "47"
+            },
+            {
+              "label": "투창과 창 기술(아마존 전용)",
+              "value": "4"
+            },
+            {
+              "label": "피해%",
+              "value": "186"
+            },
+            {
+              "label": "시여니",
+              "value": "63"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            },
+            {
+              "label": "공격 속도%",
+              "value": "33"
+            },
+            {
+              "label": "피해",
+              "value": "379"
+            },
+            {
+              "label": "적의 독 저항-%",
+              "value": "20"
+            },
+            {
+              "label": "적 처치 시 생명력 회복",
+              "value": "10"
+            },
+            {
+              "label": "공격 속도%",
+              "value": "34"
+            },
+            {
+              "label": "피해",
+              "value": "346"
+            },
+            {
+              "label": "적 처치 시 생명력 회복",
+              "value": "13"
+            },
+            {
+              "label": "방어 오라(성기사 전용)",
+              "value": "1"
+            },
+            {
+              "label": "생명력",
+              "value": "34"
+            },
+            {
+              "label": "기괴 기술(악마술사)",
+              "value": "1"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemmarket?index=1"
+        },
+        {
+          "name": "래더 새로워진 천상의 틈 거대 부적",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 9000,
+          "unitPriceP": 9000,
+          "options": [
+            {
+              "label": "번개 저항-%",
+              "value": "70"
+            },
+            {
+              "label": "적의 번개 저항-%",
+              "value": "10"
+            },
+            {
+              "label": "타격 회복 속도%",
+              "value": "20"
+            },
+            {
+              "label": "마나",
+              "value": "19"
+            },
+            {
+              "label": "마법 피해 감소",
+              "value": "6"
+            },
+            {
+              "label": "괴물에게서 얻는 금화%",
+              "value": "34"
+            },
+            {
+              "label": "근면성실",
+              "value": "13"
+            },
+            {
+              "label": "0.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=446985"
+        },
+        {
+          "name": "래더 새로워진 천상의 틈 거대 부적",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 9000,
+          "unitPriceP": 9000,
+          "options": [
+            {
+              "label": "번개 저항-%",
+              "value": "70"
+            },
+            {
+              "label": "적의 번개 저항-%",
+              "value": "10"
+            },
+            {
+              "label": "타격 회복 속도%",
+              "value": "20"
+            },
+            {
+              "label": "마나",
+              "value": "19"
+            },
+            {
+              "label": "마법 피해 감소",
+              "value": "6"
+            },
+            {
+              "label": "괴물에게서 얻는 금화%",
+              "value": "34"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 무한",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 9500,
+        "median": 9500,
+        "max": 9500
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "0.",
+        "근면성실",
+        "적의 번개 저항-%",
+        "피해%"
+      ],
+      "samples": [
+        {
+          "name": "래더 무한",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 9500,
+          "unitPriceP": 9500,
+          "options": [
+            {
+              "label": "피해%",
+              "value": "315"
+            },
+            {
+              "label": "적의 번개 저항-%",
+              "value": "47"
+            },
+            {
+              "label": "근면성실",
+              "value": "13"
+            },
+            {
+              "label": "0.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=446990"
+        },
+        {
+          "name": "래더 무한",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 9500,
+          "unitPriceP": 9500,
+          "options": [
+            {
+              "label": "피해%",
+              "value": "315"
+            },
+            {
+              "label": "적의 번개 저항-%",
+              "value": "47"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 천둥일격 메이트리어컬 재벌린",
+      "category": "기타",
+      "listingCount": 2,
       "price": {
         "currency": "P",
         "min": 500,
@@ -20,13 +587,14 @@
       ],
       "optionLabels": [
         "5.",
-        "Dia",
-        "시기비니"
+        "시여니",
+        "투창과 창 기술(아마존 전용)",
+        "피해%"
       ],
       "samples": [
         {
-          "name": "래더 벡스룬",
-          "category": "룬",
+          "name": "래더 천둥일격 메이트리어컬 재벌린",
+          "category": "기타",
           "server": "악군",
           "status": "",
           "quantity": 1,
@@ -34,82 +602,68 @@
           "unitPriceP": 500,
           "options": [
             {
-              "label": "Dia",
-              "value": "2"
+              "label": "투창과 창 기술(아마존 전용)",
+              "value": "4"
+            },
+            {
+              "label": "피해%",
+              "value": "186"
+            },
+            {
+              "label": "시여니",
+              "value": "63"
             },
             {
               "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=446928"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=437701"
         },
         {
-          "name": "래더 벡스룬",
-          "category": "룬",
+          "name": "래더 천둥일격 메이트리어컬 재벌린",
+          "category": "기타",
           "server": "악군",
           "status": "",
           "quantity": 1,
           "priceP": 500,
           "unitPriceP": 500,
-          "options": [],
-          "url": null
-        },
-        {
-          "name": "래더 벡스룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 12,
-          "priceP": 500,
-          "unitPriceP": 500,
           "options": [
             {
-              "label": "시기비니",
-              "value": "158"
+              "label": "투창과 창 기술(아마존 전용)",
+              "value": "4"
             },
             {
-              "label": "5.",
-              "value": "00"
+              "label": "피해%",
+              "value": "186"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=444153"
-        },
-        {
-          "name": "래더 벡스룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 12,
-          "priceP": 500,
-          "unitPriceP": 500,
-          "options": [],
           "url": null
         }
       ]
     },
     {
-      "name": "래더 지옥의 횃불(악마술사)",
+      "name": "스탠 거대 부적",
       "category": "부적",
-      "listingCount": 4,
+      "listingCount": 2,
       "price": {
         "currency": "P",
         "min": 4000,
-        "median": 4500,
-        "max": 5000
+        "median": 4000,
+        "max": 4000
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
         "5.",
-        "모든 능력치",
-        "모든 저항",
-        "시기비니"
+        "디아러버임다",
+        "생명력",
+        "악마 기술(악마술사)"
       ],
       "samples": [
         {
-          "name": "래더 지옥의 횃불(악마술사)",
+          "name": "스탠 거대 부적",
           "category": "부적",
           "server": "악군",
           "status": "",
@@ -118,26 +672,26 @@
           "unitPriceP": 4000,
           "options": [
             {
-              "label": "모든 능력치",
-              "value": "20"
+              "label": "악마 기술(악마술사)",
+              "value": "1"
             },
             {
-              "label": "모든 저항",
-              "value": "15"
+              "label": "생명력",
+              "value": "31"
             },
             {
-              "label": "시기비니",
-              "value": "158"
+              "label": "디아러버임다",
+              "value": "79"
             },
             {
               "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=444530"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=446420"
         },
         {
-          "name": "래더 지옥의 횃불(악마술사)",
+          "name": "스탠 거대 부적",
           "category": "부적",
           "server": "악군",
           "status": "",
@@ -146,444 +700,172 @@
           "unitPriceP": 4000,
           "options": [
             {
-              "label": "모든 능력치",
-              "value": "20"
-            },
-            {
-              "label": "모든 저항",
-              "value": "15"
-            }
-          ],
-          "url": null
-        },
-        {
-          "name": "래더 지옥의 횃불(악마술사)",
-          "category": "부적",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 5000,
-          "unitPriceP": 5000,
-          "options": [
-            {
-              "label": "모든 능력치",
-              "value": "17"
-            },
-            {
-              "label": "모든 저항",
-              "value": "19"
-            },
-            {
-              "label": "시기비니",
-              "value": "158"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=444272"
-        },
-        {
-          "name": "래더 지옥의 횃불(악마술사)",
-          "category": "부적",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 5000,
-          "unitPriceP": 5000,
-          "options": [
-            {
-              "label": "모든 능력치",
-              "value": "17"
-            },
-            {
-              "label": "모든 저항",
-              "value": "19"
-            }
-          ],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 잠복하는 천상의 틈 거대 부적",
-      "category": "부적",
-      "listingCount": 3,
-      "price": {
-        "currency": "P",
-        "min": 1000,
-        "median": 1000,
-        "max": 1000
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "0.",
-        "5.",
-        "Dia",
-        "거래 상대방",
-        "모든 능력치",
-        "모든 저항",
-        "시기비니"
-      ],
-      "samples": [
-        {
-          "name": "래더 잠복하는 천상의 틈 거대 부적",
-          "category": "부적",
-          "server": "악군",
-          "status": "거래완료",
-          "quantity": 1,
-          "priceP": 1000,
-          "unitPriceP": 1000,
-          "options": [
-            {
-              "label": "거래 상대방",
+              "label": "악마 기술(악마술사)",
               "value": "1"
             },
             {
-              "label": "0.",
-              "value": "00"
-            },
-            {
-              "label": "Dia",
-              "value": "2"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            },
-            {
-              "label": "시기비니",
-              "value": "158"
-            },
-            {
-              "label": "모든 능력치",
-              "value": "20"
-            },
-            {
-              "label": "모든 저항",
-              "value": "15"
-            },
-            {
-              "label": "모든 능력치",
-              "value": "17"
-            },
-            {
-              "label": "모든 저항",
-              "value": "19"
+              "label": "생명력",
+              "value": "31"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemmarket?index=1"
-        },
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "스탠 반지",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 9000,
+        "median": 9000,
+        "max": 9000
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "#마상자벨마 마나",
+        "5.",
+        "독 저항%",
+        "디아러버임다",
+        "마나",
+        "마력",
+        "명중률%",
+        "생명력",
+        "시전 속도%"
+      ],
+      "samples": [
         {
-          "name": "래더 잠복하는 천상의 틈 거대 부적",
-          "category": "부적",
-          "server": "악군",
-          "status": "거래완료",
-          "quantity": 1,
-          "priceP": 1000,
-          "unitPriceP": 1000,
-          "options": [
-            {
-              "label": "거래 상대방",
-              "value": "1"
-            },
-            {
-              "label": "0.",
-              "value": "00"
-            },
-            {
-              "label": "Dia",
-              "value": "2"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            },
-            {
-              "label": "시기비니",
-              "value": "158"
-            },
-            {
-              "label": "모든 능력치",
-              "value": "20"
-            },
-            {
-              "label": "모든 저항",
-              "value": "15"
-            },
-            {
-              "label": "모든 능력치",
-              "value": "17"
-            },
-            {
-              "label": "모든 저항",
-              "value": "19"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=446928"
-        },
-        {
-          "name": "래더 잠복하는 천상의 틈 거대 부적",
-          "category": "부적",
+          "name": "스탠 반지",
+          "category": "기타",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 1000,
-          "unitPriceP": 1000,
-          "options": [],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 베르룬",
-      "category": "룬",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 3000,
-        "median": 3000,
-        "max": 3000
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "시기비니"
-      ],
-      "samples": [
-        {
-          "name": "래더 베르룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 15,
-          "priceP": 3000,
-          "unitPriceP": 3000,
+          "priceP": 9000,
+          "unitPriceP": 9000,
           "options": [
             {
-              "label": "시기비니",
-              "value": "158"
+              "label": "시전 속도%",
+              "value": "10"
+            },
+            {
+              "label": "명중률%",
+              "value": "109"
+            },
+            {
+              "label": "마력",
+              "value": "6"
+            },
+            {
+              "label": "생명력",
+              "value": "23"
+            },
+            {
+              "label": "마나",
+              "value": "80"
+            },
+            {
+              "label": "독 저항%",
+              "value": "9"
+            },
+            {
+              "label": "#마상자벨마 마나",
+              "value": "80"
+            },
+            {
+              "label": "디아러버임다",
+              "value": "79"
             },
             {
               "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=446927"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=410288"
         },
         {
-          "name": "래더 베르룬",
-          "category": "룬",
+          "name": "스탠 반지",
+          "category": "기타",
           "server": "악군",
           "status": "",
-          "quantity": 15,
-          "priceP": 3000,
-          "unitPriceP": 3000,
-          "options": [],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 수르룬",
-      "category": "룬",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 1600,
-        "median": 1600,
-        "max": 1600
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "시기비니"
-      ],
-      "samples": [
-        {
-          "name": "래더 수르룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 5,
-          "priceP": 1600,
-          "unitPriceP": 1600,
+          "quantity": 1,
+          "priceP": 9000,
+          "unitPriceP": 9000,
           "options": [
             {
-              "label": "시기비니",
-              "value": "158"
+              "label": "시전 속도%",
+              "value": "10"
             },
             {
-              "label": "5.",
-              "value": "00"
+              "label": "명중률%",
+              "value": "109"
+            },
+            {
+              "label": "마력",
+              "value": "6"
+            },
+            {
+              "label": "생명력",
+              "value": "23"
+            },
+            {
+              "label": "마나",
+              "value": "80"
+            },
+            {
+              "label": "독 저항%",
+              "value": "9"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=444156"
-        },
-        {
-          "name": "래더 수르룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 5,
-          "priceP": 1600,
-          "unitPriceP": 1600,
-          "options": [],
           "url": null
         }
       ]
     },
     {
-      "name": "래더 오움룬",
-      "category": "룬",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 900,
-        "median": 900,
-        "max": 900
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "시기비니"
-      ],
-      "samples": [
-        {
-          "name": "래더 오움룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 18,
-          "priceP": 900,
-          "unitPriceP": 900,
-          "options": [
-            {
-              "label": "시기비니",
-              "value": "158"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=444154"
-        },
-        {
-          "name": "래더 오움룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 18,
-          "priceP": 900,
-          "unitPriceP": 900,
-          "options": [],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 자룬",
-      "category": "룬",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 4100,
-        "median": 4100,
-        "max": 4100
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "시기비니"
-      ],
-      "samples": [
-        {
-          "name": "래더 자룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 30,
-          "priceP": 4100,
-          "unitPriceP": 4100,
-          "options": [
-            {
-              "label": "시기비니",
-              "value": "158"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=446925"
-        },
-        {
-          "name": "래더 자룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 30,
-          "priceP": 4100,
-          "unitPriceP": 4100,
-          "options": [],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 잠복하는 천상의 틈 거대 부적",
+      "name": "래더 새로워진 천상의 틈 거대 부적",
       "category": "룬워드",
       "listingCount": 1,
       "price": {
         "currency": "P",
-        "min": 1000,
-        "median": 1000,
-        "max": 1000
+        "min": 9000,
+        "median": 9000,
+        "max": 9000
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "-부산중구",
         "0.",
-        "1,",
         "5.",
-        "Dia",
-        "거래 상대방",
+        "공격 속도%",
+        "괴물에게서 얻는 금화%",
+        "근면성실",
         "디아블로",
-        "모든 능력치",
-        "모든 저항",
-        "부산광역시 남구 전포대로",
-        "사업자등록번호:",
-        "시기비니",
-        "연락처",
-        "옵션",
-        "자주묻는질문",
+        "마나",
+        "마법 피해 감소",
+        "번개 저항-%",
+        "시여니",
+        "적 처치 시 생명력 회복",
+        "적의 독 저항-%",
+        "적의 번개 저항-%",
         "지금 시작하면, 멤버십 PLUS",
-        "통신판매신고번호: 제",
-        "플레이디아 디아블로"
+        "타격 회복 속도%",
+        "투창과 창 기술(아마존 전용)",
+        "플레이디아 디아블로",
+        "피해",
+        "피해%"
       ],
       "samples": [
         {
-          "name": "래더 잠복하는 천상의 틈 거대 부적",
+          "name": "래더 새로워진 천상의 틈 거대 부적",
           "category": "룬워드",
           "server": "악군",
           "status": "거래완료",
           "quantity": 1,
-          "priceP": 1000,
-          "unitPriceP": 1000,
+          "priceP": 9000,
+          "unitPriceP": 9000,
           "options": [
             {
               "label": "지금 시작하면, 멤버십 PLUS",
@@ -598,72 +880,88 @@
               "value": "2"
             },
             {
-              "label": "거래 상대방",
-              "value": "1"
+              "label": "번개 저항-%",
+              "value": "70"
+            },
+            {
+              "label": "적의 번개 저항-%",
+              "value": "10"
+            },
+            {
+              "label": "타격 회복 속도%",
+              "value": "20"
+            },
+            {
+              "label": "마나",
+              "value": "19"
+            },
+            {
+              "label": "마법 피해 감소",
+              "value": "6"
+            },
+            {
+              "label": "괴물에게서 얻는 금화%",
+              "value": "34"
+            },
+            {
+              "label": "근면성실",
+              "value": "13"
             },
             {
               "label": "0.",
               "value": "00"
             },
             {
-              "label": "Dia",
-              "value": "2"
+              "label": "피해%",
+              "value": "315"
+            },
+            {
+              "label": "적의 번개 저항-%",
+              "value": "47"
+            },
+            {
+              "label": "투창과 창 기술(아마존 전용)",
+              "value": "4"
+            },
+            {
+              "label": "피해%",
+              "value": "186"
+            },
+            {
+              "label": "시여니",
+              "value": "63"
             },
             {
               "label": "5.",
               "value": "00"
             },
             {
-              "label": "시기비니",
-              "value": "158"
+              "label": "공격 속도%",
+              "value": "33"
             },
             {
-              "label": "모든 능력치",
+              "label": "피해",
+              "value": "379"
+            },
+            {
+              "label": "적의 독 저항-%",
               "value": "20"
             },
             {
-              "label": "모든 저항",
-              "value": "15"
+              "label": "적 처치 시 생명력 회복",
+              "value": "10"
             },
             {
-              "label": "모든 능력치",
-              "value": "17"
+              "label": "공격 속도%",
+              "value": "34"
             },
             {
-              "label": "모든 저항",
-              "value": "19"
+              "label": "피해",
+              "value": "346"
             },
             {
-              "label": "옵션",
-              "value": "0"
-            },
-            {
-              "label": "1,",
-              "value": "000"
-            },
-            {
-              "label": "사업자등록번호:",
-              "value": "148"
-            },
-            {
-              "label": "통신판매신고번호: 제",
-              "value": "2021"
-            },
-            {
-              "label": "-부산중구",
-              "value": "0282"
-            },
-            {
-              "label": "부산광역시 남구 전포대로",
-              "value": "116"
-            },
-            {
-              "label": "연락처",
-              "value": "070"
-            },
-            {
-              "label": "자주묻는질문",
-              "value": "1"
+              "label": "적 처치 시 생명력 회복",
+              "value": "13"
             }
           ],
           "url": "https://www.playnote.co.kr/customer/noticedetail?Index=5"
