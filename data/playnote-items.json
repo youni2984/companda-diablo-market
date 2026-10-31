@@ -1,469 +1,121 @@
 {
   "source": "https://www.playnote.co.kr/trade/itemmarket?index=1",
   "scope": "public-listings-only",
-  "updatedAt": "2026-10-31T20:15:41.031143+00:00",
+  "updatedAt": "2026-10-31T23:39:55.114429+00:00",
   "listingCount": 18,
-  "itemCount": 8,
+  "itemCount": 10,
   "items": [
     {
-      "name": "스탠 작은 부적",
+      "name": "래더 베르룬",
+      "category": "룬",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 2400,
+        "median": 2400,
+        "max": 2400
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "5.",
+        "AAA상점",
+        "개구매시 말룬"
+      ],
+      "samples": [
+        {
+          "name": "래더 베르룬",
+          "category": "룬",
+          "server": "악군",
+          "status": "",
+          "quantity": 244,
+          "priceP": 2400,
+          "unitPriceP": 2400,
+          "options": [
+            {
+              "label": "개구매시 말룬",
+              "value": "1"
+            },
+            {
+              "label": "AAA상점",
+              "value": "146"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=447431"
+        },
+        {
+          "name": "래더 베르룬",
+          "category": "룬",
+          "server": "악군",
+          "status": "",
+          "quantity": 244,
+          "priceP": 2400,
+          "unitPriceP": 2400,
+          "options": [],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "스탠 거대 부적",
       "category": "부적",
-      "listingCount": 4,
-      "price": {
-        "currency": "P",
-        "min": 6500,
-        "median": 6500,
-        "max": 6500
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "0.",
-        "5.",
-        "nicegogo",
-        "거래 상대방",
-        "괴물에게서 얻는 금화%",
-        "달리기/걷기 속도%",
-        "독 저항-%",
-        "마나",
-        "마늘먹다체한곰",
-        "마법 아이템 발견 확률%",
-        "마법 피해 감소",
-        "매찬 #",
-        "모든 저항",
-        "모저",
-        "미확인",
-        "번개(공용 기술)",
-        "상점 물품 가격 하락%",
-        "생명력",
-        "적의 독 저항-%",
-        "적의 마법 저항-%",
-        "적의 번개 저항-%",
-        "전투 기술(야만용사 전용)"
-      ],
-      "samples": [
-        {
-          "name": "스탠 작은 부적",
-          "category": "부적",
-          "server": "악군",
-          "status": "거래완료",
-          "quantity": 1,
-          "priceP": 6500,
-          "unitPriceP": 6500,
-          "options": [
-            {
-              "label": "모든 저항",
-              "value": "4"
-            },
-            {
-              "label": "마법 아이템 발견 확률%",
-              "value": "7"
-            },
-            {
-              "label": "모저",
-              "value": "7"
-            },
-            {
-              "label": "매찬 #",
-              "value": "5"
-            },
-            {
-              "label": "거래 상대방",
-              "value": "1"
-            },
-            {
-              "label": "0.",
-              "value": "00"
-            },
-            {
-              "label": "전투 기술(야만용사 전용)",
-              "value": "1"
-            },
-            {
-              "label": "생명력",
-              "value": "32"
-            },
-            {
-              "label": "nicegogo",
-              "value": "10"
-            },
-            {
-              "label": "독 저항-%",
-              "value": "70"
-            },
-            {
-              "label": "적의 독 저항-%",
-              "value": "5"
-            },
-            {
-              "label": "달리기/걷기 속도%",
-              "value": "10"
-            },
-            {
-              "label": "마나",
-              "value": "66"
-            },
-            {
-              "label": "마법 피해 감소",
-              "value": "8"
-            },
-            {
-              "label": "마법 아이템 발견 확률%",
-              "value": "20"
-            },
-            {
-              "label": "번개(공용 기술)",
-              "value": "5"
-            },
-            {
-              "label": "적의 번개 저항-%",
-              "value": "5"
-            },
-            {
-              "label": "미확인",
-              "value": "103"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            },
-            {
-              "label": "괴물에게서 얻는 금화%",
-              "value": "157"
-            },
-            {
-              "label": "마법 아이템 발견 확률%",
-              "value": "40"
-            },
-            {
-              "label": "상점 물품 가격 하락%",
-              "value": "13"
-            },
-            {
-              "label": "마늘먹다체한곰",
-              "value": "105"
-            },
-            {
-              "label": "적의 마법 저항-%",
-              "value": "4"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemmarket?index=1"
-        },
-        {
-          "name": "스탠 작은 부적",
-          "category": "부적",
-          "server": "악군",
-          "status": "거래중",
-          "quantity": 1,
-          "priceP": 6500,
-          "unitPriceP": 6500,
-          "options": [
-            {
-              "label": "모든 저항",
-              "value": "4"
-            },
-            {
-              "label": "마법 아이템 발견 확률%",
-              "value": "7"
-            },
-            {
-              "label": "모저",
-              "value": "7"
-            },
-            {
-              "label": "매찬 #",
-              "value": "5"
-            },
-            {
-              "label": "거래 상대방",
-              "value": "1"
-            },
-            {
-              "label": "0.",
-              "value": "00"
-            },
-            {
-              "label": "전투 기술(야만용사 전용)",
-              "value": "1"
-            },
-            {
-              "label": "생명력",
-              "value": "32"
-            },
-            {
-              "label": "nicegogo",
-              "value": "10"
-            },
-            {
-              "label": "독 저항-%",
-              "value": "70"
-            },
-            {
-              "label": "적의 독 저항-%",
-              "value": "5"
-            },
-            {
-              "label": "달리기/걷기 속도%",
-              "value": "10"
-            },
-            {
-              "label": "마나",
-              "value": "66"
-            },
-            {
-              "label": "마법 피해 감소",
-              "value": "8"
-            },
-            {
-              "label": "마법 아이템 발견 확률%",
-              "value": "20"
-            },
-            {
-              "label": "번개(공용 기술)",
-              "value": "5"
-            },
-            {
-              "label": "적의 번개 저항-%",
-              "value": "5"
-            },
-            {
-              "label": "미확인",
-              "value": "103"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            },
-            {
-              "label": "괴물에게서 얻는 금화%",
-              "value": "157"
-            },
-            {
-              "label": "마법 아이템 발견 확률%",
-              "value": "40"
-            },
-            {
-              "label": "상점 물품 가격 하락%",
-              "value": "13"
-            },
-            {
-              "label": "마늘먹다체한곰",
-              "value": "105"
-            },
-            {
-              "label": "적의 마법 저항-%",
-              "value": "4"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=450936"
-        },
-        {
-          "name": "스탠 작은 부적",
-          "category": "부적",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 6500,
-          "unitPriceP": 6500,
-          "options": [
-            {
-              "label": "모든 저항",
-              "value": "4"
-            },
-            {
-              "label": "마법 아이템 발견 확률%",
-              "value": "7"
-            }
-          ],
-          "url": null
-        },
-        {
-          "name": "스탠 작은 부적",
-          "category": "부적",
-          "server": "악군",
-          "status": "",
-          "quantity": 0,
-          "priceP": 6500,
-          "unitPriceP": 6500,
-          "options": [
-            {
-              "label": "모든 저항",
-              "value": "4"
-            },
-            {
-              "label": "마법 아이템 발견 확률%",
-              "value": "7"
-            }
-          ],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "스탠 무지개 자락 주얼(번개,렙업시)",
-      "category": "기타",
-      "listingCount": 3,
-      "price": {
-        "currency": "P",
-        "min": 850,
-        "median": 850,
-        "max": 850
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "미확인",
-        "번개(공용 기술)",
-        "적의 번개 저항-%"
-      ],
-      "samples": [
-        {
-          "name": "스탠 무지개 자락 주얼(번개,렙업시)",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 850,
-          "unitPriceP": 850,
-          "options": [
-            {
-              "label": "번개(공용 기술)",
-              "value": "5"
-            },
-            {
-              "label": "적의 번개 저항-%",
-              "value": "5"
-            }
-          ],
-          "url": null
-        },
-        {
-          "name": "스탠 무지개 자락 주얼(번개,렙업시)",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 9,
-          "priceP": 850,
-          "unitPriceP": 850,
-          "options": [
-            {
-              "label": "번개(공용 기술)",
-              "value": "5"
-            },
-            {
-              "label": "적의 번개 저항-%",
-              "value": "5"
-            },
-            {
-              "label": "미확인",
-              "value": "103"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=15358"
-        },
-        {
-          "name": "스탠 무지개 자락 주얼(번개,렙업시)",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 9,
-          "priceP": 850,
-          "unitPriceP": 850,
-          "options": [
-            {
-              "label": "번개(공용 기술)",
-              "value": "5"
-            },
-            {
-              "label": "적의 번개 저항-%",
-              "value": "5"
-            }
-          ],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 기드의 행운",
-      "category": "기타",
       "listingCount": 2,
       "price": {
         "currency": "P",
-        "min": 2500,
-        "median": 2500,
-        "max": 2500
+        "min": 500,
+        "median": 500,
+        "max": 500
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
         "5.",
-        "괴물에게서 얻는 금화%",
-        "마늘먹다체한곰",
-        "마법 아이템 발견 확률%",
-        "상점 물품 가격 하락%"
+        "나이스샷",
+        "화염 기술(원소술사 전용)"
       ],
       "samples": [
         {
-          "name": "래더 기드의 행운",
-          "category": "기타",
+          "name": "스탠 거대 부적",
+          "category": "부적",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 2500,
-          "unitPriceP": 2500,
+          "priceP": 500,
+          "unitPriceP": 500,
           "options": [
             {
-              "label": "괴물에게서 얻는 금화%",
-              "value": "157"
+              "label": "화염 기술(원소술사 전용)",
+              "value": "1"
             },
             {
-              "label": "마법 아이템 발견 확률%",
-              "value": "40"
-            },
-            {
-              "label": "상점 물품 가격 하락%",
-              "value": "13"
-            },
-            {
-              "label": "마늘먹다체한곰",
-              "value": "105"
+              "label": "나이스샷",
+              "value": "68"
             },
             {
               "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=380513"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=450992"
         },
         {
-          "name": "래더 기드의 행운",
-          "category": "기타",
+          "name": "스탠 거대 부적",
+          "category": "부적",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 2500,
-          "unitPriceP": 2500,
+          "priceP": 500,
+          "unitPriceP": 500,
           "options": [
             {
-              "label": "괴물에게서 얻는 금화%",
-              "value": "157"
-            },
-            {
-              "label": "마법 아이템 발견 확률%",
-              "value": "40"
-            },
-            {
-              "label": "상점 물품 가격 하락%",
-              "value": "13"
+              "label": "화염 기술(원소술사 전용)",
+              "value": "1"
             }
           ],
           "url": null
@@ -471,77 +123,7 @@
       ]
     },
     {
-      "name": "래더 무지개 자락 주얼(번개,렙업시)",
-      "category": "기타",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 400,
-        "median": 400,
-        "max": 400
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "마늘먹다체한곰",
-        "번개(공용 기술)",
-        "적의 번개 저항-%"
-      ],
-      "samples": [
-        {
-          "name": "래더 무지개 자락 주얼(번개,렙업시)",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 400,
-          "unitPriceP": 400,
-          "options": [
-            {
-              "label": "번개(공용 기술)",
-              "value": "3"
-            },
-            {
-              "label": "적의 번개 저항-%",
-              "value": "5"
-            },
-            {
-              "label": "마늘먹다체한곰",
-              "value": "105"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=448860"
-        },
-        {
-          "name": "래더 무지개 자락 주얼(번개,렙업시)",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 400,
-          "unitPriceP": 400,
-          "options": [
-            {
-              "label": "번개(공용 기술)",
-              "value": "3"
-            },
-            {
-              "label": "적의 번개 저항-%",
-              "value": "5"
-            }
-          ],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 새총 반지",
+      "name": "스탠 망 송의 가르침 아콘 스태프",
       "category": "기타",
       "listingCount": 2,
       "price": {
@@ -555,14 +137,14 @@
       ],
       "optionLabels": [
         "5.",
-        "마늘먹다체한곰",
-        "마력",
-        "마법 아이템 발견 확률%",
-        "적의 마법 저항-%"
+        "나이스샷",
+        "적의 냉기 저항-%",
+        "적의 번개 저항-%",
+        "적의 화염 저항-%"
       ],
       "samples": [
         {
-          "name": "래더 새총 반지",
+          "name": "스탠 망 송의 가르침 아콘 스태프",
           "category": "기타",
           "server": "악군",
           "status": "",
@@ -571,30 +153,30 @@
           "unitPriceP": 2000,
           "options": [
             {
-              "label": "적의 마법 저항-%",
-              "value": "4"
+              "label": "적의 번개 저항-%",
+              "value": "14"
             },
             {
-              "label": "마력",
-              "value": "11"
+              "label": "적의 화염 저항-%",
+              "value": "7"
             },
             {
-              "label": "마법 아이템 발견 확률%",
-              "value": "18"
+              "label": "적의 냉기 저항-%",
+              "value": "9"
             },
             {
-              "label": "마늘먹다체한곰",
-              "value": "105"
+              "label": "나이스샷",
+              "value": "68"
             },
             {
               "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=448826"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=447348"
         },
         {
-          "name": "래더 새총 반지",
+          "name": "스탠 망 송의 가르침 아콘 스태프",
           "category": "기타",
           "server": "악군",
           "status": "",
@@ -603,16 +185,16 @@
           "unitPriceP": 2000,
           "options": [
             {
-              "label": "적의 마법 저항-%",
-              "value": "4"
+              "label": "적의 번개 저항-%",
+              "value": "14"
             },
             {
-              "label": "마력",
-              "value": "11"
+              "label": "적의 화염 저항-%",
+              "value": "7"
             },
             {
-              "label": "마법 아이템 발견 확률%",
-              "value": "18"
+              "label": "적의 냉기 저항-%",
+              "value": "9"
             }
           ],
           "url": null
@@ -620,8 +202,8 @@
       ]
     },
     {
-      "name": "스탠 거대 부적",
-      "category": "부적",
+      "name": "스탠 신중한 진노 불탄 문헌",
+      "category": "기타",
       "listingCount": 2,
       "price": {
         "currency": "P",
@@ -633,15 +215,20 @@
         "악군"
       ],
       "optionLabels": [
-        "0.",
-        "nicegogo",
-        "생명력",
-        "전투 기술(야만용사 전용)"
+        "5.",
+        "나이스샷",
+        "모든 저항",
+        "방어력%",
+        "오염된 자 소환(악마술사 전용)",
+        "적 처치 시 생명력 회복",
+        "화염 고리(악마술사 전용)",
+        "화염 파도(악마술사 전용)",
+        "활력"
       ],
       "samples": [
         {
-          "name": "스탠 거대 부적",
-          "category": "부적",
+          "name": "스탠 신중한 진노 불탄 문헌",
+          "category": "기타",
           "server": "악군",
           "status": "",
           "quantity": 1,
@@ -649,27 +236,47 @@
           "unitPriceP": 3000,
           "options": [
             {
-              "label": "전투 기술(야만용사 전용)",
-              "value": "1"
+              "label": "화염 파도(악마술사 전용)",
+              "value": "2"
             },
             {
-              "label": "생명력",
-              "value": "32"
+              "label": "화염 고리(악마술사 전용)",
+              "value": "3"
             },
             {
-              "label": "nicegogo",
-              "value": "10"
+              "label": "오염된 자 소환(악마술사 전용)",
+              "value": "3"
             },
             {
-              "label": "0.",
+              "label": "방어력%",
+              "value": "150"
+            },
+            {
+              "label": "활력",
+              "value": "13"
+            },
+            {
+              "label": "모든 저항",
+              "value": "30"
+            },
+            {
+              "label": "적 처치 시 생명력 회복",
+              "value": "3"
+            },
+            {
+              "label": "나이스샷",
+              "value": "68"
+            },
+            {
+              "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=450936"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=429286"
         },
         {
-          "name": "스탠 거대 부적",
-          "category": "부적",
+          "name": "스탠 신중한 진노 불탄 문헌",
+          "category": "기타",
           "server": "악군",
           "status": "",
           "quantity": 1,
@@ -677,12 +284,32 @@
           "unitPriceP": 3000,
           "options": [
             {
-              "label": "전투 기술(야만용사 전용)",
-              "value": "1"
+              "label": "화염 파도(악마술사 전용)",
+              "value": "2"
             },
             {
-              "label": "생명력",
-              "value": "32"
+              "label": "화염 고리(악마술사 전용)",
+              "value": "3"
+            },
+            {
+              "label": "오염된 자 소환(악마술사 전용)",
+              "value": "3"
+            },
+            {
+              "label": "방어력%",
+              "value": "150"
+            },
+            {
+              "label": "활력",
+              "value": "13"
+            },
+            {
+              "label": "모든 저항",
+              "value": "30"
+            },
+            {
+              "label": "적 처치 시 생명력 회복",
+              "value": "3"
             }
           ],
           "url": null
@@ -690,105 +317,110 @@
       ]
     },
     {
-      "name": "스탠 새로워진 부패의 분열 거대 부적",
+      "name": "스탠 잠복하는 불길의 균열 거대 부적",
       "category": "부적",
       "listingCount": 2,
       "price": {
         "currency": "P",
-        "min": 800,
-        "median": 800,
-        "max": 800
+        "min": 1000,
+        "median": 1000,
+        "max": 1000
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "0.",
-        "nicegogo",
-        "달리기/걷기 속도%",
-        "독 저항-%",
-        "마나",
-        "마법 아이템 발견 확률%",
-        "마법 피해 감소",
-        "적의 독 저항-%"
+        "5.",
+        "나이스샷"
       ],
       "samples": [
         {
-          "name": "스탠 새로워진 부패의 분열 거대 부적",
+          "name": "스탠 잠복하는 불길의 균열 거대 부적",
           "category": "부적",
           "server": "악군",
           "status": "",
-          "quantity": 1,
-          "priceP": 800,
-          "unitPriceP": 800,
+          "quantity": 3,
+          "priceP": 1000,
+          "unitPriceP": 1000,
           "options": [
             {
-              "label": "독 저항-%",
-              "value": "70"
+              "label": "나이스샷",
+              "value": "68"
             },
             {
-              "label": "적의 독 저항-%",
-              "value": "5"
-            },
-            {
-              "label": "달리기/걷기 속도%",
-              "value": "10"
-            },
-            {
-              "label": "마나",
-              "value": "66"
-            },
-            {
-              "label": "마법 피해 감소",
-              "value": "8"
-            },
-            {
-              "label": "마법 아이템 발견 확률%",
-              "value": "20"
-            },
-            {
-              "label": "nicegogo",
-              "value": "10"
-            },
-            {
-              "label": "0.",
+              "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=450935"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=436381"
         },
         {
-          "name": "스탠 새로워진 부패의 분열 거대 부적",
+          "name": "스탠 잠복하는 불길의 균열 거대 부적",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 3,
+          "priceP": 1000,
+          "unitPriceP": 1000,
+          "options": [],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "스탠 지옥의 횃불(아마)",
+      "category": "부적",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 2200,
+        "median": 2200,
+        "max": 2200
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "모든 능력치",
+        "모든 저항"
+      ],
+      "samples": [
+        {
+          "name": "스탠 지옥의 횃불(아마)",
           "category": "부적",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 800,
-          "unitPriceP": 800,
+          "priceP": 2200,
+          "unitPriceP": 2200,
           "options": [
             {
-              "label": "독 저항-%",
-              "value": "70"
-            },
-            {
-              "label": "적의 독 저항-%",
-              "value": "5"
-            },
-            {
-              "label": "달리기/걷기 속도%",
-              "value": "10"
-            },
-            {
-              "label": "마나",
-              "value": "66"
-            },
-            {
-              "label": "마법 피해 감소",
-              "value": "8"
-            },
-            {
-              "label": "마법 아이템 발견 확률%",
+              "label": "모든 능력치",
               "value": "20"
+            },
+            {
+              "label": "모든 저항",
+              "value": "16"
+            }
+          ],
+          "url": null
+        },
+        {
+          "name": "스탠 지옥의 횃불(아마)",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 0,
+          "priceP": 2200,
+          "unitPriceP": 2200,
+          "options": [
+            {
+              "label": "모든 능력치",
+              "value": "20"
+            },
+            {
+              "label": "모든 저항",
+              "value": "16"
             }
           ],
           "url": null
@@ -796,51 +428,170 @@
       ]
     },
     {
-      "name": "스탠 작은 부적",
-      "category": "룬워드",
-      "listingCount": 1,
+      "name": "스탠 퍼펙트보석",
+      "category": "보석",
+      "listingCount": 2,
       "price": {
         "currency": "P",
-        "min": 6500,
-        "median": 6500,
-        "max": 6500
+        "min": 1500,
+        "median": 1500,
+        "max": 1500
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "0.",
+        "#퍼보석",
         "5.",
-        "nicegogo",
-        "거래 상대방",
-        "괴물에게서 얻는 금화%",
-        "달리기/걷기 속도%",
-        "독 저항-%",
-        "디아블로",
-        "마나",
-        "마법 아이템 발견 확률%",
-        "마법 피해 감소",
-        "매찬 #",
-        "모든 저항",
-        "모저",
-        "미확인",
-        "번개(공용 기술)",
-        "생명력",
-        "적의 독 저항-%",
-        "적의 번개 저항-%",
-        "전투 기술(야만용사 전용)",
-        "지금 시작하면, 멤버십 PLUS",
-        "플레이디아 디아블로"
+        "나이스샷"
       ],
       "samples": [
         {
-          "name": "스탠 작은 부적",
+          "name": "스탠 퍼펙트보석",
+          "category": "보석",
+          "server": "악군",
+          "status": "",
+          "quantity": 2,
+          "priceP": 1500,
+          "unitPriceP": 1500,
+          "options": [
+            {
+              "label": "#퍼보석",
+              "value": "100"
+            },
+            {
+              "label": "나이스샷",
+              "value": "68"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=449946"
+        },
+        {
+          "name": "스탠 퍼펙트보석",
+          "category": "보석",
+          "server": "악군",
+          "status": "",
+          "quantity": 2,
+          "priceP": 1500,
+          "unitPriceP": 1500,
+          "options": [],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "스탠 헬룬",
+      "category": "룬",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 100,
+        "median": 100,
+        "max": 100
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "5.",
+        "개사면",
+        "개증정",
+        "나이스샷"
+      ],
+      "samples": [
+        {
+          "name": "스탠 헬룬",
+          "category": "룬",
+          "server": "악군",
+          "status": "",
+          "quantity": 50,
+          "priceP": 100,
+          "unitPriceP": 100,
+          "options": [
+            {
+              "label": "개사면",
+              "value": "1"
+            },
+            {
+              "label": "개증정",
+              "value": "10"
+            },
+            {
+              "label": "나이스샷",
+              "value": "68"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=435869"
+        },
+        {
+          "name": "스탠 헬룬",
+          "category": "룬",
+          "server": "악군",
+          "status": "",
+          "quantity": 50,
+          "priceP": 100,
+          "unitPriceP": 100,
+          "options": [],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 베르룬",
+      "category": "룬워드",
+      "listingCount": 1,
+      "price": {
+        "currency": "P",
+        "min": 2400,
+        "median": 2400,
+        "max": 2400
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "#♣",
+        "#퍼보석",
+        "0.",
+        "5.",
+        "AAA상점",
+        "개구매시 말룬",
+        "개사면",
+        "개증정",
+        "거래 상대방",
+        "나이스샷",
+        "디아블로",
+        "모든 능력치",
+        "모든 저항",
+        "방어력%",
+        "오염된 자 소환(악마술사 전용)",
+        "적의 냉기 저항-%",
+        "적의 번개 저항-%",
+        "적의 화염 저항-%",
+        "지금 시작하면, 멤버십 PLUS",
+        "플레이디아 디아블로",
+        "화염 고리(악마술사 전용)",
+        "화염 기술(원소술사 전용)",
+        "화염 파도(악마술사 전용)",
+        "활력"
+      ],
+      "samples": [
+        {
+          "name": "래더 베르룬",
           "category": "룬워드",
           "server": "악군",
           "status": "거래완료",
-          "quantity": 1,
-          "priceP": 6500,
-          "unitPriceP": 6500,
+          "quantity": 244,
+          "priceP": 2400,
+          "unitPriceP": 2400,
           "options": [
             {
               "label": "지금 시작하면, 멤버십 PLUS",
@@ -855,20 +606,28 @@
               "value": "2"
             },
             {
+              "label": "개구매시 말룬",
+              "value": "1"
+            },
+            {
+              "label": "AAA상점",
+              "value": "146"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            },
+            {
+              "label": "모든 능력치",
+              "value": "20"
+            },
+            {
               "label": "모든 저항",
-              "value": "4"
+              "value": "16"
             },
             {
-              "label": "마법 아이템 발견 확률%",
-              "value": "7"
-            },
-            {
-              "label": "모저",
-              "value": "7"
-            },
-            {
-              "label": "매찬 #",
-              "value": "5"
+              "label": "#♣",
+              "value": "20"
             },
             {
               "label": "거래 상대방",
@@ -879,67 +638,203 @@
               "value": "00"
             },
             {
-              "label": "전투 기술(야만용사 전용)",
+              "label": "화염 기술(원소술사 전용)",
               "value": "1"
             },
             {
-              "label": "생명력",
-              "value": "32"
+              "label": "나이스샷",
+              "value": "68"
             },
             {
-              "label": "nicegogo",
-              "value": "10"
-            },
-            {
-              "label": "독 저항-%",
-              "value": "70"
-            },
-            {
-              "label": "적의 독 저항-%",
-              "value": "5"
-            },
-            {
-              "label": "달리기/걷기 속도%",
-              "value": "10"
-            },
-            {
-              "label": "마나",
-              "value": "66"
-            },
-            {
-              "label": "마법 피해 감소",
-              "value": "8"
-            },
-            {
-              "label": "마법 아이템 발견 확률%",
-              "value": "20"
-            },
-            {
-              "label": "번개(공용 기술)",
-              "value": "5"
+              "label": "#퍼보석",
+              "value": "100"
             },
             {
               "label": "적의 번개 저항-%",
-              "value": "5"
+              "value": "14"
             },
             {
-              "label": "미확인",
-              "value": "103"
+              "label": "적의 화염 저항-%",
+              "value": "7"
+            },
+            {
+              "label": "적의 냉기 저항-%",
+              "value": "9"
+            },
+            {
+              "label": "개사면",
+              "value": "1"
+            },
+            {
+              "label": "개증정",
+              "value": "10"
+            },
+            {
+              "label": "화염 파도(악마술사 전용)",
+              "value": "2"
+            },
+            {
+              "label": "화염 고리(악마술사 전용)",
+              "value": "3"
+            },
+            {
+              "label": "오염된 자 소환(악마술사 전용)",
+              "value": "3"
+            },
+            {
+              "label": "방어력%",
+              "value": "150"
+            },
+            {
+              "label": "활력",
+              "value": "13"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/customer/noticedetail?Index=5"
+        }
+      ]
+    },
+    {
+      "name": "래더 베르룬",
+      "category": "부적",
+      "listingCount": 1,
+      "price": {
+        "currency": "P",
+        "min": 2400,
+        "median": 2400,
+        "max": 2400
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "#♣",
+        "#퍼보석",
+        "0.",
+        "5.",
+        "AAA상점",
+        "개구매시 말룬",
+        "개사면",
+        "개증정",
+        "거래 상대방",
+        "나이스샷",
+        "모든 능력치",
+        "모든 저항",
+        "방어력%",
+        "오염된 자 소환(악마술사 전용)",
+        "적 처치 시 생명력 회복",
+        "적의 냉기 저항-%",
+        "적의 번개 저항-%",
+        "적의 화염 저항-%",
+        "화염 고리(악마술사 전용)",
+        "화염 기술(원소술사 전용)",
+        "화염 파도(악마술사 전용)",
+        "활력"
+      ],
+      "samples": [
+        {
+          "name": "래더 베르룬",
+          "category": "부적",
+          "server": "악군",
+          "status": "거래완료",
+          "quantity": 244,
+          "priceP": 2400,
+          "unitPriceP": 2400,
+          "options": [
+            {
+              "label": "개구매시 말룬",
+              "value": "1"
+            },
+            {
+              "label": "AAA상점",
+              "value": "146"
             },
             {
               "label": "5.",
               "value": "00"
             },
             {
-              "label": "괴물에게서 얻는 금화%",
-              "value": "157"
+              "label": "모든 능력치",
+              "value": "20"
             },
             {
-              "label": "마법 아이템 발견 확률%",
-              "value": "40"
+              "label": "모든 저항",
+              "value": "16"
+            },
+            {
+              "label": "#♣",
+              "value": "20"
+            },
+            {
+              "label": "거래 상대방",
+              "value": "1"
+            },
+            {
+              "label": "0.",
+              "value": "00"
+            },
+            {
+              "label": "화염 기술(원소술사 전용)",
+              "value": "1"
+            },
+            {
+              "label": "나이스샷",
+              "value": "68"
+            },
+            {
+              "label": "#퍼보석",
+              "value": "100"
+            },
+            {
+              "label": "적의 번개 저항-%",
+              "value": "14"
+            },
+            {
+              "label": "적의 화염 저항-%",
+              "value": "7"
+            },
+            {
+              "label": "적의 냉기 저항-%",
+              "value": "9"
+            },
+            {
+              "label": "개사면",
+              "value": "1"
+            },
+            {
+              "label": "개증정",
+              "value": "10"
+            },
+            {
+              "label": "화염 파도(악마술사 전용)",
+              "value": "2"
+            },
+            {
+              "label": "화염 고리(악마술사 전용)",
+              "value": "3"
+            },
+            {
+              "label": "오염된 자 소환(악마술사 전용)",
+              "value": "3"
+            },
+            {
+              "label": "방어력%",
+              "value": "150"
+            },
+            {
+              "label": "활력",
+              "value": "13"
+            },
+            {
+              "label": "모든 저항",
+              "value": "30"
+            },
+            {
+              "label": "적 처치 시 생명력 회복",
+              "value": "3"
             }
           ],
-          "url": "https://www.playnote.co.kr/customer/noticedetail?Index=5"
+          "url": "https://www.playnote.co.kr/trade/itemmarket?index=1"
         }
       ]
     }
