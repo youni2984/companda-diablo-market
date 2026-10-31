@@ -1,308 +1,215 @@
 {
   "source": "https://www.playnote.co.kr/trade/itemmarket?index=1",
   "scope": "public-listings-only",
-  "updatedAt": "2026-10-30T23:41:42.923514+00:00",
+  "updatedAt": "2026-10-31T05:25:46.179467+00:00",
   "listingCount": 20,
-  "itemCount": 8,
+  "itemCount": 14,
   "items": [
     {
-      "name": "래더 명예의 굴레",
-      "category": "기타",
-      "listingCount": 7,
+      "name": "스탠 거대 부적",
+      "category": "부적",
+      "listingCount": 2,
       "price": {
         "currency": "P",
-        "min": 5300,
-        "median": 6900,
-        "max": 13000
+        "min": 800,
+        "median": 800,
+        "max": 800
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "#에테 다이아몬드메일",
-        "#에테 아콘 명굴갑",
         "5.",
-        "ak"
+        "다란",
+        "악마 기술(악마술사)"
       ],
       "samples": [
         {
-          "name": "래더 명예의 굴레",
-          "category": "기타",
+          "name": "스탠 거대 부적",
+          "category": "부적",
           "server": "악군",
           "status": "",
-          "quantity": 1,
-          "priceP": 13000,
-          "unitPriceP": 13000,
-          "options": [],
-          "url": null
-        },
-        {
-          "name": "래더 명예의 굴레",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 5300,
-          "unitPriceP": 5300,
+          "quantity": 25,
+          "priceP": 800,
+          "unitPriceP": 800,
           "options": [
             {
-              "label": "#에테 다이아몬드메일",
-              "value": "1200"
+              "label": "악마 기술(악마술사)",
+              "value": "1"
             },
             {
-              "label": "ak",
-              "value": "52"
+              "label": "다란",
+              "value": "462"
             },
             {
               "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=440101"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=51235"
         },
         {
-          "name": "래더 명예의 굴레",
-          "category": "기타",
+          "name": "스탠 거대 부적",
+          "category": "부적",
           "server": "악군",
           "status": "",
-          "quantity": 1,
-          "priceP": 5300,
-          "unitPriceP": 5300,
-          "options": [],
-          "url": null
-        },
-        {
-          "name": "래더 명예의 굴레",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 6900,
-          "unitPriceP": 6900,
+          "quantity": 25,
+          "priceP": 800,
+          "unitPriceP": 800,
           "options": [
             {
-              "label": "#에테 아콘 명굴갑",
-              "value": "1300"
-            },
-            {
-              "label": "ak",
-              "value": "52"
-            },
-            {
-              "label": "5.",
-              "value": "00"
+              "label": "악마 기술(악마술사)",
+              "value": "1"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=440025"
-        },
-        {
-          "name": "래더 명예의 굴레",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 6900,
-          "unitPriceP": 6900,
-          "options": [],
-          "url": null
-        },
-        {
-          "name": "래더 명예의 굴레",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 8000,
-          "unitPriceP": 8000,
-          "options": [
-            {
-              "label": "#에테 아콘 명굴갑",
-              "value": "1336"
-            },
-            {
-              "label": "ak",
-              "value": "52"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=410402"
-        },
-        {
-          "name": "래더 명예의 굴레",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 8000,
-          "unitPriceP": 8000,
-          "options": [],
           "url": null
         }
       ]
     },
     {
-      "name": "스탠 지옥의 횃불(소서)",
-      "category": "부적",
-      "listingCount": 3,
+      "name": "스탠 거미 그물띠 스파이더웹 새시",
+      "category": "기타",
+      "listingCount": 2,
       "price": {
         "currency": "P",
-        "min": 3000,
-        "median": 3000,
-        "max": 3000
+        "min": 800,
+        "median": 800,
+        "max": 800
       },
       "servers": [
-        "레저렉션"
+        "악군"
       ],
       "optionLabels": [
-        "#메이지",
-        "#에테 다이아몬드메일",
-        "#에테 아콘 명굴갑",
+        "#스웹",
         "5.",
-        "ak",
-        "괴물에게서 얻는 금화%",
-        "마법 아이템 발견 확률%",
-        "모든 능력치",
-        "모든 저항",
-        "방상/",
-        "방어력%",
-        "번개 저항%",
-        "상점 물품 가격 하락%",
-        "적 처치 시 마나 회복",
-        "적의 마법 저항-%",
-        "적의 화염 저항-%"
+        "다란",
+        "방어력",
+        "방어력%"
       ],
       "samples": [
         {
-          "name": "스탠 지옥의 횃불(소서)",
-          "category": "부적",
-          "server": "레저렉션",
-          "status": "거래완료",
-          "quantity": 1,
-          "priceP": 3000,
-          "unitPriceP": 3000,
+          "name": "스탠 거미 그물띠 스파이더웹 새시",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 30,
+          "priceP": 800,
+          "unitPriceP": 800,
           "options": [
             {
-              "label": "모든 능력치",
-              "value": "14"
+              "label": "방어력%",
+              "value": "114"
             },
             {
-              "label": "모든 저항",
-              "value": "14"
+              "label": "방어력",
+              "value": "134"
             },
             {
-              "label": "ak",
-              "value": "52"
+              "label": "#스웹",
+              "value": "114"
+            },
+            {
+              "label": "다란",
+              "value": "462"
             },
             {
               "label": "5.",
               "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=11183"
+        },
+        {
+          "name": "스탠 거미 그물띠 스파이더웹 새시",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 30,
+          "priceP": 800,
+          "unitPriceP": 800,
+          "options": [
+            {
+              "label": "방어력%",
+              "value": "114"
             },
             {
-              "label": "#에테 아콘 명굴갑",
-              "value": "1440"
-            },
+              "label": "방어력",
+              "value": "134"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "스탠 목걸이",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 1100,
+        "median": 1100,
+        "max": 1100
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "5.",
+        "다란",
+        "번개",
+        "번개 기술(원소술사 전용)",
+        "시전 속도%"
+      ],
+      "samples": [
+        {
+          "name": "스탠 목걸이",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 7,
+          "priceP": 1100,
+          "unitPriceP": 1100,
+          "options": [
             {
-              "label": "#에테 다이아몬드메일",
-              "value": "1200"
-            },
-            {
-              "label": "#에테 아콘 명굴갑",
-              "value": "1300"
-            },
-            {
-              "label": "#메이지",
-              "value": "15"
-            },
-            {
-              "label": "방상/",
+              "label": "번개 기술(원소술사 전용)",
               "value": "3"
             },
             {
-              "label": "번개 저항%",
-              "value": "11"
+              "label": "시전 속도%",
+              "value": "10"
             },
             {
-              "label": "괴물에게서 얻는 금화%",
-              "value": "124"
+              "label": "번개",
+              "value": "10"
             },
             {
-              "label": "마법 아이템 발견 확률%",
-              "value": "30"
-            },
-            {
-              "label": "상점 물품 가격 하락%",
-              "value": "15"
-            },
-            {
-              "label": "#에테 아콘 명굴갑",
-              "value": "1336"
-            },
-            {
-              "label": "적의 마법 저항-%",
-              "value": "8"
-            },
-            {
-              "label": "적의 화염 저항-%",
-              "value": "8"
-            },
-            {
-              "label": "방어력%",
-              "value": "170"
-            },
-            {
-              "label": "적 처치 시 마나 회복",
-              "value": "4"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemmarket?index=1"
-        },
-        {
-          "name": "스탠 지옥의 횃불(소서)",
-          "category": "부적",
-          "server": "레저렉션",
-          "status": "",
-          "quantity": 1,
-          "priceP": 3000,
-          "unitPriceP": 3000,
-          "options": [
-            {
-              "label": "모든 능력치",
-              "value": "14"
-            },
-            {
-              "label": "모든 저항",
-              "value": "14"
-            },
-            {
-              "label": "ak",
-              "value": "52"
+              "label": "다란",
+              "value": "462"
             },
             {
               "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=445218"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=30139"
         },
         {
-          "name": "스탠 지옥의 횃불(소서)",
-          "category": "부적",
-          "server": "레저렉션",
+          "name": "스탠 목걸이",
+          "category": "기타",
+          "server": "악군",
           "status": "",
-          "quantity": 1,
-          "priceP": 3000,
-          "unitPriceP": 3000,
+          "quantity": 7,
+          "priceP": 1100,
+          "unitPriceP": 1100,
           "options": [
             {
-              "label": "모든 능력치",
-              "value": "14"
+              "label": "번개 기술(원소술사 전용)",
+              "value": "3"
             },
             {
-              "label": "모든 저항",
-              "value": "14"
+              "label": "시전 속도%",
+              "value": "10"
             }
           ],
           "url": null
@@ -310,7 +217,7 @@
       ]
     },
     {
-      "name": "스탠 기드의 행운",
+      "name": "스탠 아르스 둘메피스토스 비술 고서",
       "category": "기타",
       "listingCount": 2,
       "price": {
@@ -320,68 +227,95 @@
         "max": 1500
       },
       "servers": [
-        "레저렉션"
+        "악군"
       ],
       "optionLabels": [
         "5.",
-        "ak",
-        "괴물에게서 얻는 금화%",
+        "다란",
         "마법 아이템 발견 확률%",
-        "상점 물품 가격 하락%"
+        "명중률%",
+        "방어력%",
+        "시전 속도%",
+        "적의 마법 저항-%",
+        "피해%"
       ],
       "samples": [
         {
-          "name": "스탠 기드의 행운",
+          "name": "스탠 아르스 둘메피스토스 비술 고서",
           "category": "기타",
-          "server": "레저렉션",
+          "server": "악군",
           "status": "",
-          "quantity": 1,
+          "quantity": 70,
           "priceP": 1500,
           "unitPriceP": 1500,
           "options": [
             {
-              "label": "괴물에게서 얻는 금화%",
-              "value": "124"
+              "label": "시전 속도%",
+              "value": "1"
+            },
+            {
+              "label": "피해%",
+              "value": "1"
+            },
+            {
+              "label": "명중률%",
+              "value": "1"
+            },
+            {
+              "label": "적의 마법 저항-%",
+              "value": "1"
+            },
+            {
+              "label": "방어력%",
+              "value": "1"
             },
             {
               "label": "마법 아이템 발견 확률%",
-              "value": "30"
+              "value": "1"
             },
             {
-              "label": "상점 물품 가격 하락%",
-              "value": "15"
-            },
-            {
-              "label": "ak",
-              "value": "52"
+              "label": "다란",
+              "value": "462"
             },
             {
               "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=418807"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=3792"
         },
         {
-          "name": "스탠 기드의 행운",
+          "name": "스탠 아르스 둘메피스토스 비술 고서",
           "category": "기타",
-          "server": "레저렉션",
+          "server": "악군",
           "status": "",
-          "quantity": 1,
+          "quantity": 70,
           "priceP": 1500,
           "unitPriceP": 1500,
           "options": [
             {
-              "label": "괴물에게서 얻는 금화%",
-              "value": "124"
+              "label": "시전 속도%",
+              "value": "1"
+            },
+            {
+              "label": "피해%",
+              "value": "1"
+            },
+            {
+              "label": "명중률%",
+              "value": "1"
+            },
+            {
+              "label": "적의 마법 저항-%",
+              "value": "1"
+            },
+            {
+              "label": "방어력%",
+              "value": "1"
             },
             {
               "label": "마법 아이템 발견 확률%",
-              "value": "30"
-            },
-            {
-              "label": "상점 물품 가격 하락%",
-              "value": "15"
+              "value": "1"
             }
           ],
           "url": null
@@ -389,121 +323,74 @@
       ]
     },
     {
-      "name": "스탠 수수께끼",
+      "name": "스탠 주얼",
       "category": "기타",
       "listingCount": 2,
       "price": {
         "currency": "P",
-        "min": 8000,
-        "median": 8000,
-        "max": 8000
+        "min": 800,
+        "median": 800,
+        "max": 800
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "#메이지",
         "5.",
-        "ak",
-        "방상/"
+        "공격 속도%",
+        "공속",
+        "다란",
+        "적 처치 시 마나 회복"
       ],
       "samples": [
         {
-          "name": "스탠 수수께끼",
+          "name": "스탠 주얼",
           "category": "기타",
           "server": "악군",
           "status": "",
-          "quantity": 1,
-          "priceP": 8000,
-          "unitPriceP": 8000,
+          "quantity": 97,
+          "priceP": 800,
+          "unitPriceP": 800,
           "options": [
             {
-              "label": "#메이지",
+              "label": "공격 속도%",
               "value": "15"
             },
             {
-              "label": "방상/",
+              "label": "적 처치 시 마나 회복",
               "value": "3"
             },
             {
-              "label": "ak",
-              "value": "52"
+              "label": "공속",
+              "value": "3"
+            },
+            {
+              "label": "다란",
+              "value": "462"
             },
             {
               "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=439752"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=422841"
         },
         {
-          "name": "스탠 수수께끼",
+          "name": "스탠 주얼",
           "category": "기타",
           "server": "악군",
           "status": "",
-          "quantity": 1,
-          "priceP": 8000,
-          "unitPriceP": 8000,
-          "options": [],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "스탠 작은 부적",
-      "category": "부적",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 100,
-        "median": 100,
-        "max": 100
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "ak",
-        "번개 저항%"
-      ],
-      "samples": [
-        {
-          "name": "스탠 작은 부적",
-          "category": "부적",
-          "server": "악군",
-          "status": "",
-          "quantity": 53,
-          "priceP": 100,
-          "unitPriceP": 100,
+          "quantity": 97,
+          "priceP": 800,
+          "unitPriceP": 800,
           "options": [
             {
-              "label": "번개 저항%",
-              "value": "11"
+              "label": "공격 속도%",
+              "value": "15"
             },
             {
-              "label": "ak",
-              "value": "52"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=423034"
-        },
-        {
-          "name": "스탠 작은 부적",
-          "category": "부적",
-          "server": "악군",
-          "status": "",
-          "quantity": 53,
-          "priceP": 100,
-          "unitPriceP": 100,
-          "options": [
-            {
-              "label": "번개 저항%",
-              "value": "11"
+              "label": "적 처치 시 마나 회복",
+              "value": "3"
             }
           ],
           "url": null
@@ -516,16 +403,17 @@
       "listingCount": 2,
       "price": {
         "currency": "P",
-        "min": 3000,
-        "median": 3000,
-        "max": 3000
+        "min": 1000,
+        "median": 1000,
+        "max": 1000
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
+        "#지옥파수꾼",
         "5.",
-        "ak",
+        "다란",
         "방어력%",
         "적 처치 시 마나 회복",
         "적의 마법 저항-%",
@@ -537,9 +425,9 @@
           "category": "기타",
           "server": "악군",
           "status": "",
-          "quantity": 1,
-          "priceP": 3000,
-          "unitPriceP": 3000,
+          "quantity": 88,
+          "priceP": 1000,
+          "unitPriceP": 1000,
           "options": [
             {
               "label": "적의 마법 저항-%",
@@ -547,35 +435,39 @@
             },
             {
               "label": "적의 화염 저항-%",
-              "value": "8"
+              "value": "5"
             },
             {
               "label": "방어력%",
-              "value": "170"
+              "value": "100"
             },
             {
               "label": "적 처치 시 마나 회복",
               "value": "4"
             },
             {
-              "label": "ak",
-              "value": "52"
+              "label": "#지옥파수꾼",
+              "value": "-8"
+            },
+            {
+              "label": "다란",
+              "value": "462"
             },
             {
               "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=408624"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=49382"
         },
         {
           "name": "스탠 지옥파수꾼의 의지 데스 마스크",
           "category": "기타",
           "server": "악군",
           "status": "",
-          "quantity": 1,
-          "priceP": 3000,
-          "unitPriceP": 3000,
+          "quantity": 88,
+          "priceP": 1000,
+          "unitPriceP": 1000,
           "options": [
             {
               "label": "적의 마법 저항-%",
@@ -583,11 +475,11 @@
             },
             {
               "label": "적의 화염 저항-%",
-              "value": "8"
+              "value": "5"
             },
             {
               "label": "방어력%",
-              "value": "170"
+              "value": "100"
             },
             {
               "label": "적 처치 시 마나 회복",
@@ -599,96 +491,268 @@
       ]
     },
     {
-      "name": "래더 명예의 굴레",
-      "category": "재료",
+      "name": "스탠 무한",
+      "category": "룬",
       "listingCount": 1,
       "price": {
         "currency": "P",
-        "min": 13000,
-        "median": 13000,
-        "max": 13000
+        "min": 8500,
+        "median": 8500,
+        "max": 8500
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "#에테 아콘 명굴갑",
+        "#무한직작셋",
         "5.",
-        "ak"
+        "다란"
       ],
       "samples": [
         {
-          "name": "래더 명예의 굴레",
-          "category": "재료",
+          "name": "스탠 무한",
+          "category": "룬",
           "server": "악군",
           "status": "",
-          "quantity": 1,
-          "priceP": 13000,
-          "unitPriceP": 13000,
+          "quantity": 10,
+          "priceP": 8500,
+          "unitPriceP": 8500,
           "options": [
             {
-              "label": "#에테 아콘 명굴갑",
-              "value": "1440"
+              "label": "#무한직작셋",
+              "value": "4"
             },
             {
-              "label": "ak",
-              "value": "52"
+              "label": "다란",
+              "value": "462"
             },
             {
               "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=440132"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=2844"
         }
       ]
     },
     {
-      "name": "스탠 지옥의 횃불(소서)",
+      "name": "스탠 무한",
+      "category": "기타",
+      "listingCount": 1,
+      "price": {
+        "currency": "P",
+        "min": 8500,
+        "median": 8500,
+        "max": 8500
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [],
+      "samples": [
+        {
+          "name": "스탠 무한",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 10,
+          "priceP": 8500,
+          "unitPriceP": 8500,
+          "options": [],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "스탠 불사조(방패)",
+      "category": "룬",
+      "listingCount": 1,
+      "price": {
+        "currency": "P",
+        "min": 9000,
+        "median": 9000,
+        "max": 9000
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "#불사조직작셋",
+        "5.",
+        "다란"
+      ],
+      "samples": [
+        {
+          "name": "스탠 불사조(방패)",
+          "category": "룬",
+          "server": "악군",
+          "status": "",
+          "quantity": 9,
+          "priceP": 9000,
+          "unitPriceP": 9000,
+          "options": [
+            {
+              "label": "#불사조직작셋",
+              "value": "15"
+            },
+            {
+              "label": "다란",
+              "value": "462"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=2841"
+        }
+      ]
+    },
+    {
+      "name": "스탠 불사조(방패)",
+      "category": "기타",
+      "listingCount": 1,
+      "price": {
+        "currency": "P",
+        "min": 9000,
+        "median": 9000,
+        "max": 9000
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [],
+      "samples": [
+        {
+          "name": "스탠 불사조(방패)",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 9,
+          "priceP": 9000,
+          "unitPriceP": 9000,
+          "options": [],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "스탠 수수께끼",
+      "category": "룬",
+      "listingCount": 1,
+      "price": {
+        "currency": "P",
+        "min": 9000,
+        "median": 9000,
+        "max": 9000
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "#수수직작",
+        "5.",
+        "다란"
+      ],
+      "samples": [
+        {
+          "name": "스탠 수수께끼",
+          "category": "룬",
+          "server": "악군",
+          "status": "",
+          "quantity": 8,
+          "priceP": 9000,
+          "unitPriceP": 9000,
+          "options": [
+            {
+              "label": "#수수직작",
+              "value": "15"
+            },
+            {
+              "label": "다란",
+              "value": "462"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=2820"
+        }
+      ]
+    },
+    {
+      "name": "스탠 수수께끼",
+      "category": "기타",
+      "listingCount": 1,
+      "price": {
+        "currency": "P",
+        "min": 9000,
+        "median": 9000,
+        "max": 9000
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [],
+      "samples": [
+        {
+          "name": "스탠 수수께끼",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 8,
+          "priceP": 9000,
+          "unitPriceP": 9000,
+          "options": [],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "스탠 주얼",
       "category": "룬워드",
       "listingCount": 1,
       "price": {
         "currency": "P",
-        "min": 3000,
-        "median": 3000,
-        "max": 3000
+        "min": 800,
+        "median": 800,
+        "max": 800
       },
       "servers": [
-        "레저렉션"
+        "악군"
       ],
       "optionLabels": [
-        "#메이지",
-        "#에테 다이아몬드메일",
-        "#에테 아콘 명굴갑",
-        "1,",
+        "#스웹",
+        "#지옥파수꾼",
         "5.",
-        "ak",
-        "괴물에게서 얻는 금화%",
+        "공격 속도%",
+        "공속",
+        "다란",
         "디아블로",
-        "마법 아이템 발견 확률%",
-        "모든 능력치",
-        "모든 저항",
-        "방상/",
+        "명중률%",
+        "방어력",
         "방어력%",
-        "번개 저항%",
-        "사업자등록번호:",
-        "상점 물품 가격 하락%",
-        "옵션",
+        "번개",
+        "번개 기술(원소술사 전용)",
+        "시전 속도%",
+        "악마 기술(악마술사)",
         "적 처치 시 마나 회복",
         "적의 마법 저항-%",
         "적의 화염 저항-%",
         "지금 시작하면, 멤버십 PLUS",
-        "플레이디아 디아블로"
+        "플레이디아 디아블로",
+        "피해%"
       ],
       "samples": [
         {
-          "name": "스탠 지옥의 횃불(소서)",
+          "name": "스탠 주얼",
           "category": "룬워드",
-          "server": "레저렉션",
+          "server": "악군",
           "status": "거래완료",
-          "quantity": 1,
-          "priceP": 3000,
-          "unitPriceP": 3000,
+          "quantity": 97,
+          "priceP": 800,
+          "unitPriceP": 800,
           "options": [
             {
               "label": "지금 시작하면, 멤버십 PLUS",
@@ -703,60 +767,28 @@
               "value": "2"
             },
             {
-              "label": "모든 능력치",
-              "value": "14"
+              "label": "공격 속도%",
+              "value": "15"
             },
             {
-              "label": "모든 저항",
-              "value": "14"
+              "label": "적 처치 시 마나 회복",
+              "value": "3"
             },
             {
-              "label": "ak",
-              "value": "52"
+              "label": "공속",
+              "value": "3"
+            },
+            {
+              "label": "다란",
+              "value": "462"
             },
             {
               "label": "5.",
               "value": "00"
             },
             {
-              "label": "#에테 아콘 명굴갑",
-              "value": "1440"
-            },
-            {
-              "label": "#에테 다이아몬드메일",
-              "value": "1200"
-            },
-            {
-              "label": "#에테 아콘 명굴갑",
-              "value": "1300"
-            },
-            {
-              "label": "#메이지",
-              "value": "15"
-            },
-            {
-              "label": "방상/",
-              "value": "3"
-            },
-            {
-              "label": "번개 저항%",
-              "value": "11"
-            },
-            {
-              "label": "괴물에게서 얻는 금화%",
-              "value": "124"
-            },
-            {
-              "label": "마법 아이템 발견 확률%",
-              "value": "30"
-            },
-            {
-              "label": "상점 물품 가격 하락%",
-              "value": "15"
-            },
-            {
-              "label": "#에테 아콘 명굴갑",
-              "value": "1336"
+              "label": "악마 기술(악마술사)",
+              "value": "1"
             },
             {
               "label": "적의 마법 저항-%",
@@ -764,30 +796,207 @@
             },
             {
               "label": "적의 화염 저항-%",
-              "value": "8"
+              "value": "5"
             },
             {
               "label": "방어력%",
-              "value": "170"
+              "value": "100"
             },
             {
               "label": "적 처치 시 마나 회복",
               "value": "4"
             },
             {
-              "label": "옵션",
-              "value": "0"
+              "label": "#지옥파수꾼",
+              "value": "-8"
             },
             {
-              "label": "1,",
-              "value": "000"
+              "label": "번개 기술(원소술사 전용)",
+              "value": "3"
             },
             {
-              "label": "사업자등록번호:",
-              "value": "148"
+              "label": "시전 속도%",
+              "value": "10"
+            },
+            {
+              "label": "번개",
+              "value": "10"
+            },
+            {
+              "label": "방어력%",
+              "value": "114"
+            },
+            {
+              "label": "방어력",
+              "value": "134"
+            },
+            {
+              "label": "#스웹",
+              "value": "114"
+            },
+            {
+              "label": "시전 속도%",
+              "value": "1"
+            },
+            {
+              "label": "피해%",
+              "value": "1"
+            },
+            {
+              "label": "명중률%",
+              "value": "1"
+            },
+            {
+              "label": "적의 마법 저항-%",
+              "value": "1"
             }
           ],
           "url": "https://www.playnote.co.kr/customer/noticedetail?Index=5"
+        }
+      ]
+    },
+    {
+      "name": "스탠 주얼",
+      "category": "부적",
+      "listingCount": 1,
+      "price": {
+        "currency": "P",
+        "min": 800,
+        "median": 800,
+        "max": 800
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "#무한직작셋",
+        "#스웹",
+        "#지옥파수꾼",
+        "5.",
+        "공격 속도%",
+        "공속",
+        "다란",
+        "마법 아이템 발견 확률%",
+        "명중률%",
+        "방어력",
+        "방어력%",
+        "번개",
+        "번개 기술(원소술사 전용)",
+        "시전 속도%",
+        "악마 기술(악마술사)",
+        "적 처치 시 마나 회복",
+        "적의 마법 저항-%",
+        "적의 화염 저항-%",
+        "피해%"
+      ],
+      "samples": [
+        {
+          "name": "스탠 주얼",
+          "category": "부적",
+          "server": "악군",
+          "status": "거래완료",
+          "quantity": 97,
+          "priceP": 800,
+          "unitPriceP": 800,
+          "options": [
+            {
+              "label": "공격 속도%",
+              "value": "15"
+            },
+            {
+              "label": "적 처치 시 마나 회복",
+              "value": "3"
+            },
+            {
+              "label": "공속",
+              "value": "3"
+            },
+            {
+              "label": "다란",
+              "value": "462"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            },
+            {
+              "label": "악마 기술(악마술사)",
+              "value": "1"
+            },
+            {
+              "label": "적의 마법 저항-%",
+              "value": "8"
+            },
+            {
+              "label": "적의 화염 저항-%",
+              "value": "5"
+            },
+            {
+              "label": "방어력%",
+              "value": "100"
+            },
+            {
+              "label": "적 처치 시 마나 회복",
+              "value": "4"
+            },
+            {
+              "label": "#지옥파수꾼",
+              "value": "-8"
+            },
+            {
+              "label": "번개 기술(원소술사 전용)",
+              "value": "3"
+            },
+            {
+              "label": "시전 속도%",
+              "value": "10"
+            },
+            {
+              "label": "번개",
+              "value": "10"
+            },
+            {
+              "label": "방어력%",
+              "value": "114"
+            },
+            {
+              "label": "방어력",
+              "value": "134"
+            },
+            {
+              "label": "#스웹",
+              "value": "114"
+            },
+            {
+              "label": "시전 속도%",
+              "value": "1"
+            },
+            {
+              "label": "피해%",
+              "value": "1"
+            },
+            {
+              "label": "명중률%",
+              "value": "1"
+            },
+            {
+              "label": "적의 마법 저항-%",
+              "value": "1"
+            },
+            {
+              "label": "방어력%",
+              "value": "1"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "1"
+            },
+            {
+              "label": "#무한직작셋",
+              "value": "4"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemmarket?index=1"
         }
       ]
     }
