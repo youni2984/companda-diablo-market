@@ -1,444 +1,300 @@
 {
   "source": "https://www.playnote.co.kr/trade/itemmarket?index=1",
   "scope": "public-listings-only",
-  "updatedAt": "2026-10-31T16:17:58.983706+00:00",
-  "listingCount": 17,
-  "itemCount": 6,
+  "updatedAt": "2026-10-31T20:15:41.031143+00:00",
+  "listingCount": 18,
+  "itemCount": 8,
   "items": [
     {
-      "name": "래더 반지",
-      "category": "기타",
-      "listingCount": 8,
+      "name": "스탠 작은 부적",
+      "category": "부적",
+      "listingCount": 4,
       "price": {
         "currency": "P",
-        "min": 900,
-        "median": 1000,
-        "max": 1000
+        "min": 6500,
+        "median": 6500,
+        "max": 6500
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "#라흡링 라흡 모저 민첩 어레 빙감 마상 반지",
-        "#라흡링 라흡 모저(으뜸) 포레 반지",
-        "#라흡링 라흡 피 마나 라레 반지",
-        "#패캐링 패캐 마나 어레 매찬 파레 반지",
-        "#패캐링 패캐 민첩(으뜸) 어레 마나 마력 포레 반지",
+        "0.",
         "5.",
-        "yA",
-        "독 저항%",
+        "nicegogo",
+        "거래 상대방",
+        "괴물에게서 얻는 금화%",
+        "달리기/걷기 속도%",
+        "독 저항-%",
         "마나",
-        "마력",
+        "마늘먹다체한곰",
         "마법 아이템 발견 확률%",
-        "명중률",
+        "마법 피해 감소",
+        "매찬 #",
         "모든 저항",
-        "민서아빠",
-        "민첩",
-        "번개 저항%",
+        "모저",
+        "미확인",
+        "번개(공용 기술)",
+        "상점 물품 가격 하락%",
         "생명력",
-        "시전 속도%",
-        "적 처치 시 마나 회복",
-        "적중당 생명력 훔침%",
-        "홈 있음(소켓)",
-        "화염 저항%"
+        "적의 독 저항-%",
+        "적의 마법 저항-%",
+        "적의 번개 저항-%",
+        "전투 기술(야만용사 전용)"
       ],
       "samples": [
         {
-          "name": "래더 반지",
-          "category": "기타",
+          "name": "스탠 작은 부적",
+          "category": "부적",
           "server": "악군",
           "status": "거래완료",
           "quantity": 1,
-          "priceP": 1000,
-          "unitPriceP": 1000,
+          "priceP": 6500,
+          "unitPriceP": 6500,
           "options": [
             {
-              "label": "적중당 생명력 훔침%",
+              "label": "모든 저항",
+              "value": "4"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "7"
+            },
+            {
+              "label": "모저",
+              "value": "7"
+            },
+            {
+              "label": "매찬 #",
               "value": "5"
             },
             {
-              "label": "마나",
-              "value": "68"
+              "label": "거래 상대방",
+              "value": "1"
+            },
+            {
+              "label": "0.",
+              "value": "00"
+            },
+            {
+              "label": "전투 기술(야만용사 전용)",
+              "value": "1"
             },
             {
               "label": "생명력",
-              "value": "29"
+              "value": "32"
             },
             {
-              "label": "번개 저항%",
-              "value": "24"
+              "label": "nicegogo",
+              "value": "10"
             },
             {
-              "label": "#라흡링 라흡 피 마나 라레 반지",
-              "value": "2"
+              "label": "독 저항-%",
+              "value": "70"
             },
             {
-              "label": "yA",
-              "value": "2"
+              "label": "적의 독 저항-%",
+              "value": "5"
             },
             {
-              "label": "yA",
-              "value": "116"
+              "label": "달리기/걷기 속도%",
+              "value": "10"
+            },
+            {
+              "label": "마나",
+              "value": "66"
+            },
+            {
+              "label": "마법 피해 감소",
+              "value": "8"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "20"
+            },
+            {
+              "label": "번개(공용 기술)",
+              "value": "5"
+            },
+            {
+              "label": "적의 번개 저항-%",
+              "value": "5"
+            },
+            {
+              "label": "미확인",
+              "value": "103"
             },
             {
               "label": "5.",
               "value": "00"
             },
             {
-              "label": "모든 저항",
-              "value": "6"
-            },
-            {
-              "label": "민첩",
-              "value": "14"
-            },
-            {
-              "label": "명중률",
-              "value": "11"
-            },
-            {
-              "label": "적 처치 시 마나 회복",
-              "value": "1"
-            },
-            {
-              "label": "#라흡링 라흡 모저 민첩 어레 빙감 마상 반지",
-              "value": "2"
-            },
-            {
-              "label": "시전 속도%",
-              "value": "10"
-            },
-            {
-              "label": "명중률",
-              "value": "117"
-            },
-            {
-              "label": "마나",
-              "value": "81"
+              "label": "괴물에게서 얻는 금화%",
+              "value": "157"
             },
             {
               "label": "마법 아이템 발견 확률%",
-              "value": "11"
+              "value": "40"
             },
             {
-              "label": "화염 저항%",
-              "value": "19"
+              "label": "상점 물품 가격 하락%",
+              "value": "13"
             },
             {
-              "label": "#패캐링 패캐 마나 어레 매찬 파레 반지",
-              "value": "2"
+              "label": "마늘먹다체한곰",
+              "value": "105"
             },
             {
-              "label": "모든 저항",
-              "value": "11"
-            },
-            {
-              "label": "독 저항%",
-              "value": "33"
-            },
-            {
-              "label": "#라흡링 라흡 모저(으뜸) 포레 반지",
-              "value": "2"
-            },
-            {
-              "label": "홈 있음(소켓)",
+              "label": "적의 마법 저항-%",
               "value": "4"
-            },
-            {
-              "label": "민서아빠",
-              "value": "65"
             }
           ],
           "url": "https://www.playnote.co.kr/trade/itemmarket?index=1"
         },
         {
-          "name": "래더 반지",
-          "category": "기타",
+          "name": "스탠 작은 부적",
+          "category": "부적",
           "server": "악군",
-          "status": "",
+          "status": "거래중",
           "quantity": 1,
-          "priceP": 1000,
-          "unitPriceP": 1000,
+          "priceP": 6500,
+          "unitPriceP": 6500,
           "options": [
             {
-              "label": "적중당 생명력 훔침%",
+              "label": "모든 저항",
+              "value": "4"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "7"
+            },
+            {
+              "label": "모저",
+              "value": "7"
+            },
+            {
+              "label": "매찬 #",
               "value": "5"
             },
             {
-              "label": "마나",
-              "value": "68"
+              "label": "거래 상대방",
+              "value": "1"
+            },
+            {
+              "label": "0.",
+              "value": "00"
+            },
+            {
+              "label": "전투 기술(야만용사 전용)",
+              "value": "1"
             },
             {
               "label": "생명력",
-              "value": "29"
+              "value": "32"
             },
             {
-              "label": "번개 저항%",
-              "value": "24"
+              "label": "nicegogo",
+              "value": "10"
             },
             {
-              "label": "#라흡링 라흡 피 마나 라레 반지",
-              "value": "2"
+              "label": "독 저항-%",
+              "value": "70"
             },
             {
-              "label": "yA",
-              "value": "2"
+              "label": "적의 독 저항-%",
+              "value": "5"
             },
             {
-              "label": "yA",
-              "value": "116"
+              "label": "달리기/걷기 속도%",
+              "value": "10"
+            },
+            {
+              "label": "마나",
+              "value": "66"
+            },
+            {
+              "label": "마법 피해 감소",
+              "value": "8"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "20"
+            },
+            {
+              "label": "번개(공용 기술)",
+              "value": "5"
+            },
+            {
+              "label": "적의 번개 저항-%",
+              "value": "5"
+            },
+            {
+              "label": "미확인",
+              "value": "103"
             },
             {
               "label": "5.",
               "value": "00"
+            },
+            {
+              "label": "괴물에게서 얻는 금화%",
+              "value": "157"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "40"
+            },
+            {
+              "label": "상점 물품 가격 하락%",
+              "value": "13"
+            },
+            {
+              "label": "마늘먹다체한곰",
+              "value": "105"
+            },
+            {
+              "label": "적의 마법 저항-%",
+              "value": "4"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=400212"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=450936"
         },
         {
-          "name": "래더 반지",
-          "category": "기타",
+          "name": "스탠 작은 부적",
+          "category": "부적",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 1000,
-          "unitPriceP": 1000,
+          "priceP": 6500,
+          "unitPriceP": 6500,
           "options": [
             {
-              "label": "적중당 생명력 훔침%",
-              "value": "5"
-            },
-            {
               "label": "모든 저항",
-              "value": "11"
+              "value": "4"
             },
             {
-              "label": "독 저항%",
-              "value": "33"
+              "label": "마법 아이템 발견 확률%",
+              "value": "7"
             }
           ],
           "url": null
         },
         {
-          "name": "래더 반지",
-          "category": "기타",
+          "name": "스탠 작은 부적",
+          "category": "부적",
           "server": "악군",
           "status": "",
-          "quantity": 1,
-          "priceP": 1000,
-          "unitPriceP": 1000,
+          "quantity": 0,
+          "priceP": 6500,
+          "unitPriceP": 6500,
           "options": [
-            {
-              "label": "적중당 생명력 훔침%",
-              "value": "5"
-            },
             {
               "label": "모든 저항",
-              "value": "6"
-            },
-            {
-              "label": "민첩",
-              "value": "14"
-            },
-            {
-              "label": "명중률",
-              "value": "11"
-            },
-            {
-              "label": "적 처치 시 마나 회복",
-              "value": "1"
-            },
-            {
-              "label": "#라흡링 라흡 모저 민첩 어레 빙감 마상 반지",
-              "value": "2"
-            },
-            {
-              "label": "yA",
-              "value": "2"
-            },
-            {
-              "label": "yA",
-              "value": "116"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=400221"
-        },
-        {
-          "name": "래더 반지",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 1000,
-          "unitPriceP": 1000,
-          "options": [
-            {
-              "label": "시전 속도%",
-              "value": "10"
-            },
-            {
-              "label": "명중률",
-              "value": "117"
-            },
-            {
-              "label": "마나",
-              "value": "81"
+              "value": "4"
             },
             {
               "label": "마법 아이템 발견 확률%",
-              "value": "11"
-            },
-            {
-              "label": "화염 저항%",
-              "value": "19"
-            },
-            {
-              "label": "#패캐링 패캐 마나 어레 매찬 파레 반지",
-              "value": "2"
-            },
-            {
-              "label": "yA",
-              "value": "2"
-            },
-            {
-              "label": "yA",
-              "value": "116"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=400206"
-        },
-        {
-          "name": "래더 반지",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 1000,
-          "unitPriceP": 1000,
-          "options": [
-            {
-              "label": "적중당 생명력 훔침%",
-              "value": "5"
-            },
-            {
-              "label": "모든 저항",
-              "value": "11"
-            },
-            {
-              "label": "독 저항%",
-              "value": "33"
-            },
-            {
-              "label": "#라흡링 라흡 모저(으뜸) 포레 반지",
-              "value": "2"
-            },
-            {
-              "label": "yA",
-              "value": "2"
-            },
-            {
-              "label": "yA",
-              "value": "116"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=400236"
-        },
-        {
-          "name": "래더 반지",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 900,
-          "unitPriceP": 900,
-          "options": [
-            {
-              "label": "시전 속도%",
-              "value": "10"
-            },
-            {
-              "label": "명중률",
-              "value": "47"
-            },
-            {
-              "label": "민첩",
-              "value": "15"
-            },
-            {
-              "label": "독 저항%",
-              "value": "5"
-            },
-            {
-              "label": "마나",
-              "value": "39"
-            },
-            {
-              "label": "마력",
-              "value": "6"
-            },
-            {
-              "label": "#패캐링 패캐 민첩(으뜸) 어레 마나 마력 포레 반지",
-              "value": "2"
-            },
-            {
-              "label": "yA",
-              "value": "2"
-            },
-            {
-              "label": "yA",
-              "value": "116"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=400265"
-        },
-        {
-          "name": "래더 반지",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 900,
-          "unitPriceP": 900,
-          "options": [
-            {
-              "label": "시전 속도%",
-              "value": "10"
-            },
-            {
-              "label": "명중률",
-              "value": "47"
-            },
-            {
-              "label": "민첩",
-              "value": "15"
-            },
-            {
-              "label": "독 저항%",
-              "value": "5"
-            },
-            {
-              "label": "마나",
-              "value": "39"
-            },
-            {
-              "label": "마력",
-              "value": "6"
+              "value": "7"
             }
           ],
           "url": null
@@ -446,114 +302,89 @@
       ]
     },
     {
-      "name": "래더 그리브",
+      "name": "스탠 무지개 자락 주얼(번개,렙업시)",
       "category": "기타",
-      "listingCount": 2,
+      "listingCount": 3,
       "price": {
         "currency": "P",
-        "min": 1500,
-        "median": 1500,
-        "max": 1500
+        "min": 850,
+        "median": 850,
+        "max": 850
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "#달려 라파포 삥 부츠 신발",
         "5.",
-        "yA",
-        "괴물에게서 얻는 금화%",
-        "달리기/걷기 속도%",
-        "독 저항%",
-        "명중률",
-        "번개 저항%",
-        "화염 저항%"
+        "미확인",
+        "번개(공용 기술)",
+        "적의 번개 저항-%"
       ],
       "samples": [
         {
-          "name": "래더 그리브",
+          "name": "스탠 무지개 자락 주얼(번개,렙업시)",
           "category": "기타",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 1500,
-          "unitPriceP": 1500,
+          "priceP": 850,
+          "unitPriceP": 850,
           "options": [
             {
-              "label": "달리기/걷기 속도%",
-              "value": "30"
+              "label": "번개(공용 기술)",
+              "value": "5"
             },
             {
-              "label": "명중률",
-              "value": "15"
+              "label": "적의 번개 저항-%",
+              "value": "5"
+            }
+          ],
+          "url": null
+        },
+        {
+          "name": "스탠 무지개 자락 주얼(번개,렙업시)",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 9,
+          "priceP": 850,
+          "unitPriceP": 850,
+          "options": [
+            {
+              "label": "번개(공용 기술)",
+              "value": "5"
             },
             {
-              "label": "번개 저항%",
-              "value": "9"
+              "label": "적의 번개 저항-%",
+              "value": "5"
             },
             {
-              "label": "화염 저항%",
-              "value": "39"
-            },
-            {
-              "label": "독 저항%",
-              "value": "15"
-            },
-            {
-              "label": "괴물에게서 얻는 금화%",
-              "value": "79"
-            },
-            {
-              "label": "#달려 라파포 삥 부츠 신발",
-              "value": "2"
-            },
-            {
-              "label": "yA",
-              "value": "2"
-            },
-            {
-              "label": "yA",
-              "value": "116"
+              "label": "미확인",
+              "value": "103"
             },
             {
               "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=409151"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=15358"
         },
         {
-          "name": "래더 그리브",
+          "name": "스탠 무지개 자락 주얼(번개,렙업시)",
           "category": "기타",
           "server": "악군",
           "status": "",
-          "quantity": 1,
-          "priceP": 1500,
-          "unitPriceP": 1500,
+          "quantity": 9,
+          "priceP": 850,
+          "unitPriceP": 850,
           "options": [
             {
-              "label": "달리기/걷기 속도%",
-              "value": "30"
+              "label": "번개(공용 기술)",
+              "value": "5"
             },
             {
-              "label": "명중률",
-              "value": "15"
-            },
-            {
-              "label": "번개 저항%",
-              "value": "9"
-            },
-            {
-              "label": "화염 저항%",
-              "value": "39"
-            },
-            {
-              "label": "독 저항%",
-              "value": "15"
-            },
-            {
-              "label": "괴물에게서 얻는 금화%",
-              "value": "79"
+              "label": "적의 번개 저항-%",
+              "value": "5"
             }
           ],
           "url": null
@@ -561,7 +392,156 @@
       ]
     },
     {
-      "name": "래더 써클릿",
+      "name": "래더 기드의 행운",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 2500,
+        "median": 2500,
+        "max": 2500
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "5.",
+        "괴물에게서 얻는 금화%",
+        "마늘먹다체한곰",
+        "마법 아이템 발견 확률%",
+        "상점 물품 가격 하락%"
+      ],
+      "samples": [
+        {
+          "name": "래더 기드의 행운",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 2500,
+          "unitPriceP": 2500,
+          "options": [
+            {
+              "label": "괴물에게서 얻는 금화%",
+              "value": "157"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "40"
+            },
+            {
+              "label": "상점 물품 가격 하락%",
+              "value": "13"
+            },
+            {
+              "label": "마늘먹다체한곰",
+              "value": "105"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=380513"
+        },
+        {
+          "name": "래더 기드의 행운",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 2500,
+          "unitPriceP": 2500,
+          "options": [
+            {
+              "label": "괴물에게서 얻는 금화%",
+              "value": "157"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "40"
+            },
+            {
+              "label": "상점 물품 가격 하락%",
+              "value": "13"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 무지개 자락 주얼(번개,렙업시)",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 400,
+        "median": 400,
+        "max": 400
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "5.",
+        "마늘먹다체한곰",
+        "번개(공용 기술)",
+        "적의 번개 저항-%"
+      ],
+      "samples": [
+        {
+          "name": "래더 무지개 자락 주얼(번개,렙업시)",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 400,
+          "unitPriceP": 400,
+          "options": [
+            {
+              "label": "번개(공용 기술)",
+              "value": "3"
+            },
+            {
+              "label": "적의 번개 저항-%",
+              "value": "5"
+            },
+            {
+              "label": "마늘먹다체한곰",
+              "value": "105"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=448860"
+        },
+        {
+          "name": "래더 무지개 자락 주얼(번개,렙업시)",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 400,
+          "unitPriceP": 400,
+          "options": [
+            {
+              "label": "번개(공용 기술)",
+              "value": "3"
+            },
+            {
+              "label": "적의 번개 저항-%",
+              "value": "5"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 새총 반지",
       "category": "기타",
       "listingCount": 2,
       "price": {
@@ -574,15 +554,15 @@
         "악군"
       ],
       "optionLabels": [
-        "#바바패캐써클 패캐 써클릿 야만",
         "5.",
-        "yA",
-        "시전 속도%",
-        "홈 있음(소켓)"
+        "마늘먹다체한곰",
+        "마력",
+        "마법 아이템 발견 확률%",
+        "적의 마법 저항-%"
       ],
       "samples": [
         {
-          "name": "래더 써클릿",
+          "name": "래더 새총 반지",
           "category": "기타",
           "server": "악군",
           "status": "",
@@ -591,34 +571,30 @@
           "unitPriceP": 2000,
           "options": [
             {
-              "label": "시전 속도%",
-              "value": "20"
+              "label": "적의 마법 저항-%",
+              "value": "4"
             },
             {
-              "label": "홈 있음(소켓)",
-              "value": "2"
+              "label": "마력",
+              "value": "11"
             },
             {
-              "label": "#바바패캐써클 패캐 써클릿 야만",
-              "value": "2"
+              "label": "마법 아이템 발견 확률%",
+              "value": "18"
             },
             {
-              "label": "yA",
-              "value": "2"
-            },
-            {
-              "label": "yA",
-              "value": "116"
+              "label": "마늘먹다체한곰",
+              "value": "105"
             },
             {
               "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=410634"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=448826"
         },
         {
-          "name": "래더 써클릿",
+          "name": "래더 새총 반지",
           "category": "기타",
           "server": "악군",
           "status": "",
@@ -627,73 +603,192 @@
           "unitPriceP": 2000,
           "options": [
             {
-              "label": "시전 속도%",
+              "label": "적의 마법 저항-%",
+              "value": "4"
+            },
+            {
+              "label": "마력",
+              "value": "11"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "18"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "스탠 거대 부적",
+      "category": "부적",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 3000,
+        "median": 3000,
+        "max": 3000
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "0.",
+        "nicegogo",
+        "생명력",
+        "전투 기술(야만용사 전용)"
+      ],
+      "samples": [
+        {
+          "name": "스탠 거대 부적",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 3000,
+          "unitPriceP": 3000,
+          "options": [
+            {
+              "label": "전투 기술(야만용사 전용)",
+              "value": "1"
+            },
+            {
+              "label": "생명력",
+              "value": "32"
+            },
+            {
+              "label": "nicegogo",
+              "value": "10"
+            },
+            {
+              "label": "0.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=450936"
+        },
+        {
+          "name": "스탠 거대 부적",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 3000,
+          "unitPriceP": 3000,
+          "options": [
+            {
+              "label": "전투 기술(야만용사 전용)",
+              "value": "1"
+            },
+            {
+              "label": "생명력",
+              "value": "32"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "스탠 새로워진 부패의 분열 거대 부적",
+      "category": "부적",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 800,
+        "median": 800,
+        "max": 800
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "0.",
+        "nicegogo",
+        "달리기/걷기 속도%",
+        "독 저항-%",
+        "마나",
+        "마법 아이템 발견 확률%",
+        "마법 피해 감소",
+        "적의 독 저항-%"
+      ],
+      "samples": [
+        {
+          "name": "스탠 새로워진 부패의 분열 거대 부적",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 800,
+          "unitPriceP": 800,
+          "options": [
+            {
+              "label": "독 저항-%",
+              "value": "70"
+            },
+            {
+              "label": "적의 독 저항-%",
+              "value": "5"
+            },
+            {
+              "label": "달리기/걷기 속도%",
+              "value": "10"
+            },
+            {
+              "label": "마나",
+              "value": "66"
+            },
+            {
+              "label": "마법 피해 감소",
+              "value": "8"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
               "value": "20"
             },
             {
-              "label": "홈 있음(소켓)",
-              "value": "2"
-            }
-          ],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 자이언트 쓰레셔",
-      "category": "기타",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 1000,
-        "median": 1000,
-        "max": 1000
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "민서아빠",
-        "홈 있음(소켓)"
-      ],
-      "samples": [
-        {
-          "name": "래더 자이언트 쓰레셔",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 1000,
-          "unitPriceP": 1000,
-          "options": [
-            {
-              "label": "홈 있음(소켓)",
-              "value": "4"
+              "label": "nicegogo",
+              "value": "10"
             },
             {
-              "label": "민서아빠",
-              "value": "65"
-            },
-            {
-              "label": "5.",
+              "label": "0.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=450790"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=450935"
         },
         {
-          "name": "래더 자이언트 쓰레셔",
-          "category": "기타",
+          "name": "스탠 새로워진 부패의 분열 거대 부적",
+          "category": "부적",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 1000,
-          "unitPriceP": 1000,
+          "priceP": 800,
+          "unitPriceP": 800,
           "options": [
             {
-              "label": "홈 있음(소켓)",
-              "value": "4"
+              "label": "독 저항-%",
+              "value": "70"
+            },
+            {
+              "label": "적의 독 저항-%",
+              "value": "5"
+            },
+            {
+              "label": "달리기/걷기 속도%",
+              "value": "10"
+            },
+            {
+              "label": "마나",
+              "value": "66"
+            },
+            {
+              "label": "마법 피해 감소",
+              "value": "8"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "20"
             }
           ],
           "url": null
@@ -701,132 +796,51 @@
       ]
     },
     {
-      "name": "스탠 지옥파수꾼의 의지 데스 마스크",
-      "category": "기타",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 4000,
-        "median": 4000,
-        "max": 4000
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "방어력%",
-        "적 처치 시 마나 회복",
-        "적의 마법 저항-%",
-        "적의 화염 저항-%"
-      ],
-      "samples": [
-        {
-          "name": "스탠 지옥파수꾼의 의지 데스 마스크",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 4000,
-          "unitPriceP": 4000,
-          "options": [
-            {
-              "label": "적의 마법 저항-%",
-              "value": "8"
-            },
-            {
-              "label": "적의 화염 저항-%",
-              "value": "8"
-            },
-            {
-              "label": "방어력%",
-              "value": "203"
-            },
-            {
-              "label": "적 처치 시 마나 회복",
-              "value": "6"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=450789"
-        },
-        {
-          "name": "스탠 지옥파수꾼의 의지 데스 마스크",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 4000,
-          "unitPriceP": 4000,
-          "options": [
-            {
-              "label": "적의 마법 저항-%",
-              "value": "8"
-            },
-            {
-              "label": "적의 화염 저항-%",
-              "value": "8"
-            },
-            {
-              "label": "방어력%",
-              "value": "203"
-            },
-            {
-              "label": "적 처치 시 마나 회복",
-              "value": "6"
-            }
-          ],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 반지",
+      "name": "스탠 작은 부적",
       "category": "룬워드",
       "listingCount": 1,
       "price": {
         "currency": "P",
-        "min": 1000,
-        "median": 1000,
-        "max": 1000
+        "min": 6500,
+        "median": 6500,
+        "max": 6500
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "#라흡링 라흡 모저 민첩 어레 빙감 마상 반지",
-        "#라흡링 라흡 피 마나 라레 반지",
-        "#패캐링 패캐 마나 어레 매찬 파레 반지",
+        "0.",
         "5.",
-        "yA",
-        "독 저항%",
+        "nicegogo",
+        "거래 상대방",
+        "괴물에게서 얻는 금화%",
+        "달리기/걷기 속도%",
+        "독 저항-%",
         "디아블로",
         "마나",
         "마법 아이템 발견 확률%",
-        "명중률",
+        "마법 피해 감소",
+        "매찬 #",
         "모든 저항",
-        "민첩",
-        "번개 저항%",
+        "모저",
+        "미확인",
+        "번개(공용 기술)",
         "생명력",
-        "시전 속도%",
-        "적 처치 시 마나 회복",
-        "적중당 생명력 훔침%",
+        "적의 독 저항-%",
+        "적의 번개 저항-%",
+        "전투 기술(야만용사 전용)",
         "지금 시작하면, 멤버십 PLUS",
-        "플레이디아 디아블로",
-        "화염 저항%"
+        "플레이디아 디아블로"
       ],
       "samples": [
         {
-          "name": "래더 반지",
+          "name": "스탠 작은 부적",
           "category": "룬워드",
           "server": "악군",
           "status": "거래완료",
           "quantity": 1,
-          "priceP": 1000,
-          "unitPriceP": 1000,
+          "priceP": 6500,
+          "unitPriceP": 6500,
           "options": [
             {
               "label": "지금 시작하면, 멤버십 PLUS",
@@ -841,88 +855,88 @@
               "value": "2"
             },
             {
-              "label": "적중당 생명력 훔침%",
+              "label": "모든 저항",
+              "value": "4"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "7"
+            },
+            {
+              "label": "모저",
+              "value": "7"
+            },
+            {
+              "label": "매찬 #",
               "value": "5"
             },
             {
-              "label": "마나",
-              "value": "68"
+              "label": "거래 상대방",
+              "value": "1"
+            },
+            {
+              "label": "0.",
+              "value": "00"
+            },
+            {
+              "label": "전투 기술(야만용사 전용)",
+              "value": "1"
             },
             {
               "label": "생명력",
-              "value": "29"
+              "value": "32"
             },
             {
-              "label": "번개 저항%",
-              "value": "24"
+              "label": "nicegogo",
+              "value": "10"
             },
             {
-              "label": "#라흡링 라흡 피 마나 라레 반지",
-              "value": "2"
+              "label": "독 저항-%",
+              "value": "70"
             },
             {
-              "label": "yA",
-              "value": "2"
+              "label": "적의 독 저항-%",
+              "value": "5"
             },
             {
-              "label": "yA",
-              "value": "116"
+              "label": "달리기/걷기 속도%",
+              "value": "10"
+            },
+            {
+              "label": "마나",
+              "value": "66"
+            },
+            {
+              "label": "마법 피해 감소",
+              "value": "8"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "20"
+            },
+            {
+              "label": "번개(공용 기술)",
+              "value": "5"
+            },
+            {
+              "label": "적의 번개 저항-%",
+              "value": "5"
+            },
+            {
+              "label": "미확인",
+              "value": "103"
             },
             {
               "label": "5.",
               "value": "00"
             },
             {
-              "label": "모든 저항",
-              "value": "6"
-            },
-            {
-              "label": "민첩",
-              "value": "14"
-            },
-            {
-              "label": "명중률",
-              "value": "11"
-            },
-            {
-              "label": "적 처치 시 마나 회복",
-              "value": "1"
-            },
-            {
-              "label": "#라흡링 라흡 모저 민첩 어레 빙감 마상 반지",
-              "value": "2"
-            },
-            {
-              "label": "시전 속도%",
-              "value": "10"
-            },
-            {
-              "label": "명중률",
-              "value": "117"
-            },
-            {
-              "label": "마나",
-              "value": "81"
+              "label": "괴물에게서 얻는 금화%",
+              "value": "157"
             },
             {
               "label": "마법 아이템 발견 확률%",
-              "value": "11"
-            },
-            {
-              "label": "화염 저항%",
-              "value": "19"
-            },
-            {
-              "label": "#패캐링 패캐 마나 어레 매찬 파레 반지",
-              "value": "2"
-            },
-            {
-              "label": "모든 저항",
-              "value": "11"
-            },
-            {
-              "label": "독 저항%",
-              "value": "33"
+              "value": "40"
             }
           ],
           "url": "https://www.playnote.co.kr/customer/noticedetail?Index=5"
