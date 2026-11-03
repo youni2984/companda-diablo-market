@@ -1,230 +1,258 @@
 {
   "source": "https://www.playnote.co.kr/trade/itemmarket?index=1",
   "scope": "public-listings-only",
-  "updatedAt": "2026-11-02T19:44:28.164862+00:00",
+  "updatedAt": "2026-11-03T02:13:11.250308+00:00",
   "listingCount": 20,
-  "itemCount": 10,
+  "itemCount": 12,
   "items": [
     {
-      "name": "래더 우움룬",
-      "category": "룬",
-      "listingCount": 3,
+      "name": "래더 라주크(소켓)",
+      "category": "기타",
+      "listingCount": 2,
       "price": {
         "currency": "P",
-        "min": 150,
-        "median": 150,
-        "max": 150
+        "min": 400,
+        "median": 400,
+        "max": 400
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
+        "#✅✅ㅡ라주크ㅡㅡ바로가능ㅡㅡ",
         "5.",
-        "샤브르"
+        "바로_번개거래",
+        "시~"
       ],
       "samples": [
         {
-          "name": "래더 우움룬",
-          "category": "룬",
+          "name": "래더 라주크(소켓)",
+          "category": "기타",
           "server": "악군",
-          "status": "거래완료",
-          "quantity": 20,
-          "priceP": 150,
-          "unitPriceP": 150,
+          "status": "",
+          "quantity": 14,
+          "priceP": 400,
+          "unitPriceP": 400,
           "options": [
             {
-              "label": "샤브르",
-              "value": "251"
+              "label": "#✅✅ㅡ라주크ㅡㅡ바로가능ㅡㅡ",
+              "value": "09"
+            },
+            {
+              "label": "시~",
+              "value": "24"
+            },
+            {
+              "label": "바로_번개거래",
+              "value": "544"
             },
             {
               "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemmarket?index=1"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=329718"
         },
         {
-          "name": "래더 우움룬",
-          "category": "룬",
+          "name": "래더 라주크(소켓)",
+          "category": "기타",
           "server": "악군",
           "status": "",
-          "quantity": 20,
-          "priceP": 150,
-          "unitPriceP": 150,
-          "options": [
-            {
-              "label": "샤브르",
-              "value": "251"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=454694"
-        },
-        {
-          "name": "래더 우움룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 20,
-          "priceP": 150,
-          "unitPriceP": 150,
+          "quantity": 14,
+          "priceP": 400,
+          "unitPriceP": 400,
           "options": [],
           "url": null
         }
       ]
     },
     {
-      "name": "래더 굴룬",
+      "name": "래더 말룬",
       "category": "룬",
       "listingCount": 2,
       "price": {
         "currency": "P",
-        "min": 240,
-        "median": 240,
-        "max": 240
+        "min": 190,
+        "median": 190,
+        "max": 190
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
         "5.",
-        "샤브르"
+        "바로_번개거래"
       ],
       "samples": [
         {
-          "name": "래더 굴룬",
+          "name": "래더 말룬",
           "category": "룬",
           "server": "악군",
           "status": "",
-          "quantity": 5,
-          "priceP": 240,
-          "unitPriceP": 240,
+          "quantity": 31,
+          "priceP": 190,
+          "unitPriceP": 190,
           "options": [
             {
-              "label": "샤브르",
-              "value": "251"
+              "label": "바로_번개거래",
+              "value": "544"
             },
             {
               "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=454738"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=416690"
         },
         {
-          "name": "래더 굴룬",
+          "name": "래더 말룬",
           "category": "룬",
           "server": "악군",
           "status": "",
-          "quantity": 5,
-          "priceP": 240,
-          "unitPriceP": 240,
+          "quantity": 31,
+          "priceP": 190,
+          "unitPriceP": 190,
           "options": [],
           "url": null
         }
       ]
     },
     {
-      "name": "래더 렘룬",
-      "category": "룬",
+      "name": "래더 면죄의 징표",
+      "category": "기타",
       "listingCount": 2,
       "price": {
         "currency": "P",
-        "min": 140,
-        "median": 140,
-        "max": 140
+        "min": 300,
+        "median": 300,
+        "max": 300
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
+        "#✅✅ㅡ면죄ㅡ",
         "5.",
-        "샤브르"
+        "개 주문시",
+        "바로_번개거래"
       ],
       "samples": [
         {
-          "name": "래더 렘룬",
-          "category": "룬",
+          "name": "래더 면죄의 징표",
+          "category": "기타",
           "server": "악군",
           "status": "",
-          "quantity": 29,
-          "priceP": 140,
-          "unitPriceP": 140,
+          "quantity": 61,
+          "priceP": 300,
+          "unitPriceP": 300,
           "options": [
             {
-              "label": "샤브르",
-              "value": "251"
+              "label": "#✅✅ㅡ면죄ㅡ",
+              "value": "10"
+            },
+            {
+              "label": "개 주문시",
+              "value": "1"
+            },
+            {
+              "label": "바로_번개거래",
+              "value": "544"
             },
             {
               "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=454696"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=365680"
         },
         {
-          "name": "래더 렘룬",
-          "category": "룬",
+          "name": "래더 면죄의 징표",
+          "category": "기타",
           "server": "악군",
           "status": "",
-          "quantity": 29,
-          "priceP": 140,
-          "unitPriceP": 140,
+          "quantity": 61,
+          "priceP": 300,
+          "unitPriceP": 300,
           "options": [],
           "url": null
         }
       ]
     },
     {
-      "name": "래더 로룬",
-      "category": "룬",
+      "name": "래더 모서리",
+      "category": "기타",
       "listingCount": 2,
       "price": {
         "currency": "P",
-        "min": 1190,
-        "median": 1190,
-        "max": 1190
+        "min": 300,
+        "median": 300,
+        "max": 300
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
         "5.",
-        "샤브르"
+        "모든 능력치",
+        "바로_번개거래",
+        "상점 물품 가격 하락%",
+        "악마에게 주는 피해%"
       ],
       "samples": [
         {
-          "name": "래더 로룬",
-          "category": "룬",
+          "name": "래더 모서리",
+          "category": "기타",
           "server": "악군",
           "status": "",
-          "quantity": 27,
-          "priceP": 1190,
-          "unitPriceP": 1190,
+          "quantity": 4,
+          "priceP": 300,
+          "unitPriceP": 300,
           "options": [
             {
-              "label": "샤브르",
-              "value": "251"
+              "label": "악마에게 주는 피해%",
+              "value": "1"
+            },
+            {
+              "label": "모든 능력치",
+              "value": "1"
+            },
+            {
+              "label": "상점 물품 가격 하락%",
+              "value": "15"
+            },
+            {
+              "label": "바로_번개거래",
+              "value": "544"
             },
             {
               "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=454690"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=176656"
         },
         {
-          "name": "래더 로룬",
-          "category": "룬",
+          "name": "래더 모서리",
+          "category": "기타",
           "server": "악군",
           "status": "",
-          "quantity": 27,
-          "priceP": 1190,
-          "unitPriceP": 1190,
-          "options": [],
+          "quantity": 4,
+          "priceP": 300,
+          "unitPriceP": 300,
+          "options": [
+            {
+              "label": "악마에게 주는 피해%",
+              "value": "1"
+            },
+            {
+              "label": "모든 능력치",
+              "value": "1"
+            },
+            {
+              "label": "상점 물품 가격 하락%",
+              "value": "15"
+            }
+          ],
           "url": null
         }
       ]
@@ -235,16 +263,16 @@
       "listingCount": 2,
       "price": {
         "currency": "P",
-        "min": 390,
-        "median": 390,
-        "max": 390
+        "min": 500,
+        "median": 500,
+        "max": 500
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
         "5.",
-        "샤브르"
+        "바로_번개거래"
       ],
       "samples": [
         {
@@ -252,275 +280,401 @@
           "category": "룬",
           "server": "악군",
           "status": "",
-          "quantity": 29,
-          "priceP": 390,
-          "unitPriceP": 390,
+          "quantity": 25,
+          "priceP": 500,
+          "unitPriceP": 500,
           "options": [
             {
-              "label": "샤브르",
-              "value": "251"
+              "label": "바로_번개거래",
+              "value": "544"
             },
             {
               "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=454692"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=416704"
         },
         {
           "name": "래더 벡스룬",
           "category": "룬",
           "server": "악군",
           "status": "",
-          "quantity": 29,
-          "priceP": 390,
-          "unitPriceP": 390,
+          "quantity": 25,
+          "priceP": 500,
+          "unitPriceP": 500,
           "options": [],
           "url": null
         }
       ]
     },
     {
-      "name": "래더 수르룬",
+      "name": "래더 솔룬",
       "category": "룬",
       "listingCount": 2,
       "price": {
         "currency": "P",
-        "min": 1440,
-        "median": 1440,
-        "max": 1440
+        "min": 100,
+        "median": 100,
+        "max": 100
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
+        "#✅ㅡ솔룬ㅡ",
         "5.",
-        "샤브르"
+        "ㅡㅡㅡ",
+        "개==",
+        "바로_번개거래"
       ],
       "samples": [
         {
-          "name": "래더 수르룬",
+          "name": "래더 솔룬",
           "category": "룬",
           "server": "악군",
           "status": "",
-          "quantity": 20,
-          "priceP": 1440,
-          "unitPriceP": 1440,
+          "quantity": 51,
+          "priceP": 100,
+          "unitPriceP": 100,
           "options": [
             {
-              "label": "샤브르",
-              "value": "251"
+              "label": "#✅ㅡ솔룬ㅡ",
+              "value": "3"
+            },
+            {
+              "label": "개==",
+              "value": "100"
+            },
+            {
+              "label": "ㅡㅡㅡ",
+              "value": "10"
+            },
+            {
+              "label": "개==",
+              "value": "300"
+            },
+            {
+              "label": "바로_번개거래",
+              "value": "544"
             },
             {
               "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=454689"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=277665"
         },
         {
-          "name": "래더 수르룬",
+          "name": "래더 솔룬",
           "category": "룬",
           "server": "악군",
           "status": "",
-          "quantity": 20,
-          "priceP": 1440,
-          "unitPriceP": 1440,
+          "quantity": 51,
+          "priceP": 100,
+          "unitPriceP": 100,
           "options": [],
           "url": null
         }
       ]
     },
     {
-      "name": "래더 오움룬",
+      "name": "래더 탈룬",
       "category": "룬",
       "listingCount": 2,
       "price": {
         "currency": "P",
-        "min": 690,
-        "median": 690,
-        "max": 690
+        "min": 100,
+        "median": 100,
+        "max": 100
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
+        "#✅ㅡ룬ㅡ",
         "5.",
-        "샤브르"
+        "ㅡㅡㅡ",
+        "개==",
+        "바로_번개거래"
       ],
       "samples": [
         {
-          "name": "래더 오움룬",
+          "name": "래더 탈룬",
           "category": "룬",
           "server": "악군",
           "status": "",
-          "quantity": 15,
-          "priceP": 690,
-          "unitPriceP": 690,
+          "quantity": 61,
+          "priceP": 100,
+          "unitPriceP": 100,
           "options": [
             {
-              "label": "샤브르",
-              "value": "251"
+              "label": "#✅ㅡ룬ㅡ",
+              "value": "3"
+            },
+            {
+              "label": "개==",
+              "value": "100"
+            },
+            {
+              "label": "ㅡㅡㅡ",
+              "value": "10"
+            },
+            {
+              "label": "개==",
+              "value": "300"
+            },
+            {
+              "label": "바로_번개거래",
+              "value": "544"
             },
             {
               "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=454691"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=412357"
         },
         {
-          "name": "래더 오움룬",
+          "name": "래더 탈룬",
           "category": "룬",
           "server": "악군",
           "status": "",
-          "quantity": 15,
-          "priceP": 690,
-          "unitPriceP": 690,
+          "quantity": 61,
+          "priceP": 100,
+          "unitPriceP": 100,
           "options": [],
           "url": null
         }
       ]
     },
     {
-      "name": "래더 이스트룬",
-      "category": "룬",
+      "name": "스탠 세이크리드 론다쉬",
+      "category": "기타",
       "listingCount": 2,
       "price": {
         "currency": "P",
-        "min": 230,
-        "median": 230,
-        "max": 230
+        "min": 5000,
+        "median": 5000,
+        "max": 5000
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
         "5.",
-        "샤브르"
+        "모든 저항",
+        "배릉",
+        "올레",
+        "홈 있음(소켓)"
       ],
       "samples": [
         {
-          "name": "래더 이스트룬",
-          "category": "룬",
+          "name": "스탠 세이크리드 론다쉬",
+          "category": "기타",
           "server": "악군",
           "status": "",
-          "quantity": 33,
-          "priceP": 230,
-          "unitPriceP": 230,
+          "quantity": 2,
+          "priceP": 5000,
+          "unitPriceP": 5000,
           "options": [
             {
-              "label": "샤브르",
-              "value": "251"
+              "label": "모든 저항",
+              "value": "45"
+            },
+            {
+              "label": "홈 있음(소켓)",
+              "value": "4"
+            },
+            {
+              "label": "올레",
+              "value": "4"
+            },
+            {
+              "label": "배릉",
+              "value": "49"
             },
             {
               "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=454693"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=439704"
         },
         {
-          "name": "래더 이스트룬",
-          "category": "룬",
+          "name": "스탠 세이크리드 론다쉬",
+          "category": "기타",
           "server": "악군",
           "status": "",
-          "quantity": 33,
-          "priceP": 230,
-          "unitPriceP": 230,
-          "options": [],
+          "quantity": 2,
+          "priceP": 5000,
+          "unitPriceP": 5000,
+          "options": [
+            {
+              "label": "모든 저항",
+              "value": "45"
+            },
+            {
+              "label": "홈 있음(소켓)",
+              "value": "4"
+            }
+          ],
           "url": null
         }
       ]
     },
     {
-      "name": "래더 조드룬",
+      "name": "래더 영혼(방패)",
       "category": "룬",
-      "listingCount": 2,
+      "listingCount": 1,
       "price": {
         "currency": "P",
-        "min": 3990,
-        "median": 3990,
-        "max": 3990
+        "min": 100,
+        "median": 100,
+        "max": 100
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
+        "#✅ㅡ영혼룬ㅡ탈주울오르트앰=",
         "5.",
-        "샤브르"
+        "마나",
+        "마법 흡수",
+        "바로_번개거래",
+        "시전 속도%"
       ],
       "samples": [
         {
-          "name": "래더 조드룬",
+          "name": "래더 영혼(방패)",
           "category": "룬",
           "server": "악군",
           "status": "",
-          "quantity": 1,
-          "priceP": 3990,
-          "unitPriceP": 3990,
+          "quantity": 119,
+          "priceP": 100,
+          "unitPriceP": 100,
           "options": [
             {
-              "label": "샤브르",
-              "value": "251"
+              "label": "시전 속도%",
+              "value": "100"
+            },
+            {
+              "label": "마나",
+              "value": "100"
+            },
+            {
+              "label": "마법 흡수",
+              "value": "100"
+            },
+            {
+              "label": "#✅ㅡ영혼룬ㅡ탈주울오르트앰=",
+              "value": "1"
+            },
+            {
+              "label": "바로_번개거래",
+              "value": "544"
             },
             {
               "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=454688"
-        },
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=206768"
+        }
+      ]
+    },
+    {
+      "name": "래더 영혼(방패)",
+      "category": "기타",
+      "listingCount": 1,
+      "price": {
+        "currency": "P",
+        "min": 100,
+        "median": 100,
+        "max": 100
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "마나",
+        "마법 흡수",
+        "시전 속도%"
+      ],
+      "samples": [
         {
-          "name": "래더 조드룬",
-          "category": "룬",
+          "name": "래더 영혼(방패)",
+          "category": "기타",
           "server": "악군",
           "status": "",
-          "quantity": 1,
-          "priceP": 3990,
-          "unitPriceP": 3990,
-          "options": [],
+          "quantity": 119,
+          "priceP": 100,
+          "unitPriceP": 100,
+          "options": [
+            {
+              "label": "시전 속도%",
+              "value": "100"
+            },
+            {
+              "label": "마나",
+              "value": "100"
+            },
+            {
+              "label": "마법 흡수",
+              "value": "100"
+            }
+          ],
           "url": null
         }
       ]
     },
     {
-      "name": "래더 우움룬",
+      "name": "스탠 세이크리드 론다쉬",
       "category": "룬워드",
       "listingCount": 1,
       "price": {
         "currency": "P",
-        "min": 150,
-        "median": 150,
-        "max": 150
+        "min": 5000,
+        "median": 5000,
+        "max": 5000
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "-부산중구",
-        "1,",
+        "#✅✅ㅡ라주크ㅡㅡ바로가능ㅡㅡ",
+        "#✅✅ㅡ면죄ㅡ",
+        "#✅ㅡ룬ㅡ",
+        "#✅ㅡ솔룬ㅡ",
+        "#✅ㅡ영혼룬ㅡ탈주울오르트앰=",
         "5.",
+        "ㅡㅡㅡ",
+        "개 주문시",
+        "개==",
         "디아블로",
-        "부산광역시 남구 전포대로",
-        "사업자등록번호:",
-        "샤브르",
-        "연락처",
-        "옵션",
-        "자주묻는질문",
+        "마나",
+        "마법 흡수",
+        "모든 능력치",
+        "모든 저항",
+        "바로_번개거래",
+        "배릉",
+        "시~",
+        "시전 속도%",
+        "악마에게 주는 피해%",
+        "올레",
         "지금 시작하면, 멤버십 PLUS",
-        "통신판매신고번호: 제",
-        "플레이디아 디아블로"
+        "플레이디아 디아블로",
+        "홈 있음(소켓)"
       ],
       "samples": [
         {
-          "name": "래더 우움룬",
+          "name": "스탠 세이크리드 론다쉬",
           "category": "룬워드",
           "server": "악군",
           "status": "거래완료",
-          "quantity": 20,
-          "priceP": 150,
-          "unitPriceP": 150,
+          "quantity": 2,
+          "priceP": 5000,
+          "unitPriceP": 5000,
           "options": [
             {
               "label": "지금 시작하면, 멤버십 PLUS",
@@ -535,47 +689,230 @@
               "value": "2"
             },
             {
-              "label": "샤브르",
-              "value": "251"
+              "label": "모든 저항",
+              "value": "45"
+            },
+            {
+              "label": "홈 있음(소켓)",
+              "value": "4"
+            },
+            {
+              "label": "올레",
+              "value": "4"
+            },
+            {
+              "label": "배릉",
+              "value": "49"
             },
             {
               "label": "5.",
               "value": "00"
             },
             {
-              "label": "옵션",
-              "value": "0"
+              "label": "바로_번개거래",
+              "value": "544"
             },
             {
-              "label": "1,",
-              "value": "000"
+              "label": "#✅ㅡ룬ㅡ",
+              "value": "3"
             },
             {
-              "label": "사업자등록번호:",
-              "value": "148"
+              "label": "개==",
+              "value": "100"
             },
             {
-              "label": "통신판매신고번호: 제",
-              "value": "2021"
+              "label": "ㅡㅡㅡ",
+              "value": "10"
             },
             {
-              "label": "-부산중구",
-              "value": "0282"
+              "label": "개==",
+              "value": "300"
             },
             {
-              "label": "부산광역시 남구 전포대로",
-              "value": "116"
+              "label": "#✅✅ㅡ면죄ㅡ",
+              "value": "10"
             },
             {
-              "label": "연락처",
-              "value": "070"
+              "label": "개 주문시",
+              "value": "1"
             },
             {
-              "label": "자주묻는질문",
+              "label": "#✅✅ㅡ라주크ㅡㅡ바로가능ㅡㅡ",
+              "value": "09"
+            },
+            {
+              "label": "시~",
+              "value": "24"
+            },
+            {
+              "label": "#✅ㅡ솔룬ㅡ",
+              "value": "3"
+            },
+            {
+              "label": "시전 속도%",
+              "value": "100"
+            },
+            {
+              "label": "마나",
+              "value": "100"
+            },
+            {
+              "label": "마법 흡수",
+              "value": "100"
+            },
+            {
+              "label": "#✅ㅡ영혼룬ㅡ탈주울오르트앰=",
+              "value": "1"
+            },
+            {
+              "label": "악마에게 주는 피해%",
+              "value": "1"
+            },
+            {
+              "label": "모든 능력치",
               "value": "1"
             }
           ],
           "url": "https://www.playnote.co.kr/customer/noticedetail?Index=5"
+        }
+      ]
+    },
+    {
+      "name": "스탠 세이크리드 론다쉬",
+      "category": "룬",
+      "listingCount": 1,
+      "price": {
+        "currency": "P",
+        "min": 5000,
+        "median": 5000,
+        "max": 5000
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "#✅✅ㅡ라주크ㅡㅡ바로가능ㅡㅡ",
+        "#✅✅ㅡ면죄ㅡ",
+        "#✅ㅡ룬ㅡ",
+        "#✅ㅡ솔룬ㅡ",
+        "#✅ㅡ영혼룬ㅡ탈주울오르트앰=",
+        "5.",
+        "ㅡㅡㅡ",
+        "개 주문시",
+        "개==",
+        "마나",
+        "마법 흡수",
+        "모든 능력치",
+        "모든 저항",
+        "바로_번개거래",
+        "배릉",
+        "상점 물품 가격 하락%",
+        "시~",
+        "시전 속도%",
+        "악마에게 주는 피해%",
+        "올레",
+        "홈 있음(소켓)"
+      ],
+      "samples": [
+        {
+          "name": "스탠 세이크리드 론다쉬",
+          "category": "룬",
+          "server": "악군",
+          "status": "거래완료",
+          "quantity": 2,
+          "priceP": 5000,
+          "unitPriceP": 5000,
+          "options": [
+            {
+              "label": "모든 저항",
+              "value": "45"
+            },
+            {
+              "label": "홈 있음(소켓)",
+              "value": "4"
+            },
+            {
+              "label": "올레",
+              "value": "4"
+            },
+            {
+              "label": "배릉",
+              "value": "49"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            },
+            {
+              "label": "바로_번개거래",
+              "value": "544"
+            },
+            {
+              "label": "#✅ㅡ룬ㅡ",
+              "value": "3"
+            },
+            {
+              "label": "개==",
+              "value": "100"
+            },
+            {
+              "label": "ㅡㅡㅡ",
+              "value": "10"
+            },
+            {
+              "label": "개==",
+              "value": "300"
+            },
+            {
+              "label": "#✅✅ㅡ면죄ㅡ",
+              "value": "10"
+            },
+            {
+              "label": "개 주문시",
+              "value": "1"
+            },
+            {
+              "label": "#✅✅ㅡ라주크ㅡㅡ바로가능ㅡㅡ",
+              "value": "09"
+            },
+            {
+              "label": "시~",
+              "value": "24"
+            },
+            {
+              "label": "#✅ㅡ솔룬ㅡ",
+              "value": "3"
+            },
+            {
+              "label": "시전 속도%",
+              "value": "100"
+            },
+            {
+              "label": "마나",
+              "value": "100"
+            },
+            {
+              "label": "마법 흡수",
+              "value": "100"
+            },
+            {
+              "label": "#✅ㅡ영혼룬ㅡ탈주울오르트앰=",
+              "value": "1"
+            },
+            {
+              "label": "악마에게 주는 피해%",
+              "value": "1"
+            },
+            {
+              "label": "모든 능력치",
+              "value": "1"
+            },
+            {
+              "label": "상점 물품 가격 하락%",
+              "value": "15"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemmarket?index=1"
         }
       ]
     }
