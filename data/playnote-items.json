@@ -1,494 +1,417 @@
 {
   "source": "https://www.playnote.co.kr/trade/itemmarket?index=1",
   "scope": "public-listings-only",
-  "updatedAt": "2026-11-05T15:46:15.047243+00:00",
-  "listingCount": 20,
-  "itemCount": 9,
+  "updatedAt": "2026-11-05T21:56:03.857005+00:00",
+  "listingCount": 19,
+  "itemCount": 11,
   "items": [
     {
-      "name": "래더 거대 부적",
-      "category": "부적",
-      "listingCount": 4,
+      "name": "스탠 에슈타의 성미 엘드리치 오브",
+      "category": "기타",
+      "listingCount": 3,
       "price": {
         "currency": "P",
         "min": 300,
-        "median": 550,
-        "max": 800
+        "median": 300,
+        "max": 300
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "4.",
-        "나비혀니",
-        "달리기/걷기 속도%",
-        "생명력",
-        "전투 기술(야만용사 전용)"
+        "5.",
+        "강샘"
       ],
       "samples": [
         {
-          "name": "래더 거대 부적",
-          "category": "부적",
+          "name": "스탠 에슈타의 성미 엘드리치 오브",
+          "category": "기타",
           "server": "악군",
           "status": "",
-          "quantity": 1,
+          "quantity": 10,
+          "priceP": 300,
+          "unitPriceP": 300,
+          "options": [],
+          "url": null
+        },
+        {
+          "name": "스탠 에슈타의 성미 엘드리치 오브",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 58,
           "priceP": 300,
           "unitPriceP": 300,
           "options": [
             {
-              "label": "전투 기술(야만용사 전용)",
-              "value": "1"
+              "label": "강샘",
+              "value": "112"
             },
             {
-              "label": "달리기/걷기 속도%",
-              "value": "7"
-            },
-            {
-              "label": "나비혀니",
-              "value": "74"
-            },
-            {
-              "label": "4.",
-              "value": "90"
+              "label": "5.",
+              "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=450363"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=50523"
         },
         {
-          "name": "래더 거대 부적",
-          "category": "부적",
+          "name": "스탠 에슈타의 성미 엘드리치 오브",
+          "category": "기타",
           "server": "악군",
           "status": "",
-          "quantity": 1,
+          "quantity": 58,
           "priceP": 300,
           "unitPriceP": 300,
-          "options": [
-            {
-              "label": "전투 기술(야만용사 전용)",
-              "value": "1"
-            },
-            {
-              "label": "달리기/걷기 속도%",
-              "value": "7"
-            }
-          ],
-          "url": null
-        },
-        {
-          "name": "래더 거대 부적",
-          "category": "부적",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 800,
-          "unitPriceP": 800,
-          "options": [
-            {
-              "label": "전투 기술(야만용사 전용)",
-              "value": "1"
-            },
-            {
-              "label": "생명력",
-              "value": "39"
-            },
-            {
-              "label": "나비혀니",
-              "value": "74"
-            },
-            {
-              "label": "4.",
-              "value": "90"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=450314"
-        },
-        {
-          "name": "래더 거대 부적",
-          "category": "부적",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 800,
-          "unitPriceP": 800,
-          "options": [
-            {
-              "label": "전투 기술(야만용사 전용)",
-              "value": "1"
-            },
-            {
-              "label": "생명력",
-              "value": "39"
-            }
-          ],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 오팔맥 반지",
-      "category": "기타",
-      "listingCount": 4,
-      "price": {
-        "currency": "P",
-        "min": 900,
-        "median": 2250,
-        "max": 3600
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "4.",
-        "나비혀니",
-        "독 기술 피해%",
-        "모든 저항%",
-        "번개 기술 피해%",
-        "적 처치 시 마나 회복",
-        "적 처치 시 생명력 회복"
-      ],
-      "samples": [
-        {
-          "name": "래더 오팔맥 반지",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 3600,
-          "unitPriceP": 3600,
-          "options": [
-            {
-              "label": "모든 저항%",
-              "value": "6"
-            },
-            {
-              "label": "적 처치 시 마나 회복",
-              "value": "2"
-            },
-            {
-              "label": "적 처치 시 생명력 회복",
-              "value": "2"
-            },
-            {
-              "label": "번개 기술 피해%",
-              "value": "4"
-            },
-            {
-              "label": "나비혀니",
-              "value": "74"
-            },
-            {
-              "label": "4.",
-              "value": "90"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=458537"
-        },
-        {
-          "name": "래더 오팔맥 반지",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 3600,
-          "unitPriceP": 3600,
-          "options": [
-            {
-              "label": "모든 저항%",
-              "value": "6"
-            },
-            {
-              "label": "적 처치 시 마나 회복",
-              "value": "2"
-            },
-            {
-              "label": "적 처치 시 생명력 회복",
-              "value": "2"
-            },
-            {
-              "label": "번개 기술 피해%",
-              "value": "4"
-            }
-          ],
-          "url": null
-        },
-        {
-          "name": "래더 오팔맥 반지",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 900,
-          "unitPriceP": 900,
-          "options": [
-            {
-              "label": "모든 저항%",
-              "value": "6"
-            },
-            {
-              "label": "적 처치 시 마나 회복",
-              "value": "1"
-            },
-            {
-              "label": "적 처치 시 생명력 회복",
-              "value": "3"
-            },
-            {
-              "label": "독 기술 피해%",
-              "value": "4"
-            },
-            {
-              "label": "나비혀니",
-              "value": "74"
-            },
-            {
-              "label": "4.",
-              "value": "90"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=458379"
-        },
-        {
-          "name": "래더 오팔맥 반지",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 900,
-          "unitPriceP": 900,
-          "options": [
-            {
-              "label": "모든 저항%",
-              "value": "6"
-            },
-            {
-              "label": "적 처치 시 마나 회복",
-              "value": "1"
-            },
-            {
-              "label": "적 처치 시 생명력 회복",
-              "value": "3"
-            },
-            {
-              "label": "독 기술 피해%",
-              "value": "4"
-            }
-          ],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 새로워진 추위의 파열 거대 부적",
-      "category": "부적",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 500,
-        "median": 500,
-        "max": 500
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "4.",
-        "나비혀니",
-        "마나",
-        "마법 아이템 발견 확률%",
-        "적의 냉기 저항-%",
-        "타격 회복 속도%",
-        "피해 감소"
-      ],
-      "samples": [
-        {
-          "name": "래더 새로워진 추위의 파열 거대 부적",
-          "category": "부적",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 500,
-          "unitPriceP": 500,
-          "options": [
-            {
-              "label": "타격 회복 속도%",
-              "value": "19"
-            },
-            {
-              "label": "적의 냉기 저항-%",
-              "value": "8"
-            },
-            {
-              "label": "마나",
-              "value": "53"
-            },
-            {
-              "label": "피해 감소",
-              "value": "9"
-            },
-            {
-              "label": "마법 아이템 발견 확률%",
-              "value": "22"
-            },
-            {
-              "label": "나비혀니",
-              "value": "74"
-            },
-            {
-              "label": "4.",
-              "value": "90"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=457449"
-        },
-        {
-          "name": "래더 새로워진 추위의 파열 거대 부적",
-          "category": "부적",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 500,
-          "unitPriceP": 500,
-          "options": [
-            {
-              "label": "타격 회복 속도%",
-              "value": "19"
-            },
-            {
-              "label": "적의 냉기 저항-%",
-              "value": "8"
-            },
-            {
-              "label": "마나",
-              "value": "53"
-            },
-            {
-              "label": "피해 감소",
-              "value": "9"
-            },
-            {
-              "label": "마법 아이템 발견 확률%",
-              "value": "22"
-            }
-          ],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 죽음",
-      "category": "기타",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 700,
-        "median": 700,
-        "max": 700
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "4.",
-        "나비혀니",
-        "피해%"
-      ],
-      "samples": [
-        {
-          "name": "래더 죽음",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 700,
-          "unitPriceP": 700,
-          "options": [
-            {
-              "label": "피해%",
-              "value": "332"
-            },
-            {
-              "label": "나비혀니",
-              "value": "74"
-            },
-            {
-              "label": "4.",
-              "value": "90"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=429905"
-        },
-        {
-          "name": "래더 죽음",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 700,
-          "unitPriceP": 700,
-          "options": [
-            {
-              "label": "피해%",
-              "value": "332"
-            }
-          ],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 탈 라샤의 선고",
-      "category": "기타",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 200,
-        "median": 200,
-        "max": 200
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "4.",
-        "나비혀니"
-      ],
-      "samples": [
-        {
-          "name": "래더 탈 라샤의 선고",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 200,
-          "unitPriceP": 200,
-          "options": [
-            {
-              "label": "나비혀니",
-              "value": "74"
-            },
-            {
-              "label": "4.",
-              "value": "90"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=457055"
-        },
-        {
-          "name": "래더 탈 라샤의 선고",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 200,
-          "unitPriceP": 200,
           "options": [],
           "url": null
         }
       ]
     },
     {
-      "name": "스탠 용(갑옷)",
+      "name": "래더 그리폰의 눈 다이어뎀",
       "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 2200,
+        "median": 2200,
+        "max": 2200
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "5.",
+        "문장군"
+      ],
+      "samples": [
+        {
+          "name": "래더 그리폰의 눈 다이어뎀",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 2200,
+          "unitPriceP": 2200,
+          "options": [
+            {
+              "label": "문장군",
+              "value": "93"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=457707"
+        },
+        {
+          "name": "래더 그리폰의 눈 다이어뎀",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 2200,
+          "unitPriceP": 2200,
+          "options": [],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 레더 글러브",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 1000,
+        "median": 1000,
+        "max": 1000
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "5.",
+        "냉기 저항%",
+        "마나",
+        "마나 재생%",
+        "문장군",
+        "민첩",
+        "적 처치 시 마나 회복",
+        "화염 저항%"
+      ],
+      "samples": [
+        {
+          "name": "래더 레더 글러브",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 1000,
+          "unitPriceP": 1000,
+          "options": [
+            {
+              "label": "마나",
+              "value": "20"
+            },
+            {
+              "label": "마나 재생%",
+              "value": "9"
+            },
+            {
+              "label": "냉기 저항%",
+              "value": "29"
+            },
+            {
+              "label": "화염 저항%",
+              "value": "23"
+            },
+            {
+              "label": "적 처치 시 마나 회복",
+              "value": "3"
+            },
+            {
+              "label": "민첩",
+              "value": "2"
+            },
+            {
+              "label": "문장군",
+              "value": "93"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=423904"
+        },
+        {
+          "name": "래더 레더 글러브",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 1000,
+          "unitPriceP": 1000,
+          "options": [
+            {
+              "label": "마나",
+              "value": "20"
+            },
+            {
+              "label": "마나 재생%",
+              "value": "9"
+            },
+            {
+              "label": "냉기 저항%",
+              "value": "29"
+            },
+            {
+              "label": "화염 저항%",
+              "value": "23"
+            },
+            {
+              "label": "적 처치 시 마나 회복",
+              "value": "3"
+            },
+            {
+              "label": "민첩",
+              "value": "2"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 새로워진 불길의 균열 거대 부적",
+      "category": "부적",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 2500,
+        "median": 2500,
+        "max": 2500
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "5.",
+        "마나",
+        "마법 아이템 발견 확률%",
+        "문장군",
+        "적의 화염 저항-%",
+        "타격 회복 속도%",
+        "피해 감소",
+        "화염 저항-%"
+      ],
+      "samples": [
+        {
+          "name": "래더 새로워진 불길의 균열 거대 부적",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 2500,
+          "unitPriceP": 2500,
+          "options": [
+            {
+              "label": "화염 저항-%",
+              "value": "70"
+            },
+            {
+              "label": "적의 화염 저항-%",
+              "value": "10"
+            },
+            {
+              "label": "타격 회복 속도%",
+              "value": "17"
+            },
+            {
+              "label": "마나",
+              "value": "21"
+            },
+            {
+              "label": "피해 감소",
+              "value": "8"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "23"
+            },
+            {
+              "label": "문장군",
+              "value": "93"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=457758"
+        },
+        {
+          "name": "래더 새로워진 불길의 균열 거대 부적",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 2500,
+          "unitPriceP": 2500,
+          "options": [
+            {
+              "label": "화염 저항-%",
+              "value": "70"
+            },
+            {
+              "label": "적의 화염 저항-%",
+              "value": "10"
+            },
+            {
+              "label": "타격 회복 속도%",
+              "value": "17"
+            },
+            {
+              "label": "마나",
+              "value": "21"
+            },
+            {
+              "label": "피해 감소",
+              "value": "8"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "23"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 에슈타의 성미 엘드리치 오브",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 1000,
+        "median": 1000,
+        "max": 1000
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "5.",
+        "마력",
+        "문장군",
+        "번개 기술 피해%",
+        "화염 기술 피해%"
+      ],
+      "samples": [
+        {
+          "name": "래더 에슈타의 성미 엘드리치 오브",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 1000,
+          "unitPriceP": 1000,
+          "options": [
+            {
+              "label": "번개 기술 피해%",
+              "value": "16"
+            },
+            {
+              "label": "화염 기술 피해%",
+              "value": "20"
+            },
+            {
+              "label": "마력",
+              "value": "23"
+            },
+            {
+              "label": "문장군",
+              "value": "93"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=445219"
+        },
+        {
+          "name": "래더 에슈타의 성미 엘드리치 오브",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 1000,
+          "unitPriceP": 1000,
+          "options": [
+            {
+              "label": "번개 기술 피해%",
+              "value": "16"
+            },
+            {
+              "label": "화염 기술 피해%",
+              "value": "20"
+            },
+            {
+              "label": "마력",
+              "value": "23"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 자룬",
+      "category": "룬",
       "listingCount": 2,
       "price": {
         "currency": "P",
@@ -500,14 +423,13 @@
         "악군"
       ],
       "optionLabels": [
-        "4.",
-        "나비혀니",
-        "모든 능력치"
+        "5.",
+        "문장군"
       ],
       "samples": [
         {
-          "name": "스탠 용(갑옷)",
-          "category": "기타",
+          "name": "래더 자룬",
+          "category": "룬",
           "server": "악군",
           "status": "",
           "quantity": 1,
@@ -515,93 +437,316 @@
           "unitPriceP": 2900,
           "options": [
             {
-              "label": "모든 능력치",
-              "value": "3"
+              "label": "문장군",
+              "value": "93"
             },
             {
-              "label": "나비혀니",
-              "value": "74"
-            },
-            {
-              "label": "4.",
-              "value": "90"
+              "label": "5.",
+              "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=451350"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=458824"
         },
         {
-          "name": "스탠 용(갑옷)",
-          "category": "기타",
+          "name": "래더 자룬",
+          "category": "룬",
           "server": "악군",
           "status": "",
           "quantity": 1,
           "priceP": 2900,
           "unitPriceP": 2900,
-          "options": [
-            {
-              "label": "모든 능력치",
-              "value": "3"
-            }
-          ],
+          "options": [],
           "url": null
         }
       ]
     },
     {
-      "name": "스탠 정의의 손길",
-      "category": "기타",
+      "name": "스탠 에슈타의 성미 엘드리치 오브",
+      "category": "부적",
       "listingCount": 2,
       "price": {
         "currency": "P",
-        "min": 4900,
-        "median": 4900,
-        "max": 4900
+        "min": 300,
+        "median": 300,
+        "max": 300
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "4.",
-        "나비혀니",
-        "피해%"
+        "0.",
+        "5.",
+        "강샘",
+        "거래 상대방",
+        "냉기 저항%",
+        "다음",
+        "마나",
+        "마나 재생%",
+        "마력",
+        "마법 아이템 발견 확률%",
+        "문장군",
+        "민첩",
+        "방어력%",
+        "번개 기술 피해%",
+        "적 처치 시 마나 회복",
+        "적의 화염 저항-%",
+        "총 방어력",
+        "타격 회복 속도%",
+        "투창과 창 기술(아마존 전용)",
+        "피해 감소",
+        "홈 있음(소켓)",
+        "화염 기술 피해%",
+        "화염 저항%",
+        "화염 저항-%"
       ],
       "samples": [
         {
-          "name": "스탠 정의의 손길",
-          "category": "기타",
+          "name": "스탠 에슈타의 성미 엘드리치 오브",
+          "category": "부적",
           "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 4900,
-          "unitPriceP": 4900,
+          "status": "거래완료",
+          "quantity": 10,
+          "priceP": 300,
+          "unitPriceP": 300,
           "options": [
             {
-              "label": "피해%",
-              "value": "293"
+              "label": "다음",
+              "value": "20"
             },
             {
-              "label": "나비혀니",
-              "value": "74"
+              "label": "거래 상대방",
+              "value": "1"
             },
             {
-              "label": "4.",
-              "value": "90"
+              "label": "0.",
+              "value": "00"
+            },
+            {
+              "label": "강샘",
+              "value": "112"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            },
+            {
+              "label": "투창과 창 기술(아마존 전용)",
+              "value": "1"
+            },
+            {
+              "label": "문장군",
+              "value": "93"
+            },
+            {
+              "label": "화염 저항-%",
+              "value": "70"
+            },
+            {
+              "label": "적의 화염 저항-%",
+              "value": "10"
+            },
+            {
+              "label": "타격 회복 속도%",
+              "value": "17"
+            },
+            {
+              "label": "마나",
+              "value": "21"
+            },
+            {
+              "label": "피해 감소",
+              "value": "8"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "23"
+            },
+            {
+              "label": "방어력%",
+              "value": "11"
+            },
+            {
+              "label": "홈 있음(소켓)",
+              "value": "3"
+            },
+            {
+              "label": "총 방어력",
+              "value": "582"
+            },
+            {
+              "label": "번개 기술 피해%",
+              "value": "16"
+            },
+            {
+              "label": "화염 기술 피해%",
+              "value": "20"
+            },
+            {
+              "label": "마력",
+              "value": "23"
+            },
+            {
+              "label": "마나",
+              "value": "20"
+            },
+            {
+              "label": "마나 재생%",
+              "value": "9"
+            },
+            {
+              "label": "냉기 저항%",
+              "value": "29"
+            },
+            {
+              "label": "화염 저항%",
+              "value": "23"
+            },
+            {
+              "label": "적 처치 시 마나 회복",
+              "value": "3"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=451347"
+          "url": "https://www.playnote.co.kr/trade/itemmarket?index=1"
         },
         {
-          "name": "스탠 정의의 손길",
-          "category": "기타",
+          "name": "스탠 에슈타의 성미 엘드리치 오브",
+          "category": "부적",
+          "server": "악군",
+          "status": "거래완료",
+          "quantity": 10,
+          "priceP": 300,
+          "unitPriceP": 300,
+          "options": [
+            {
+              "label": "거래 상대방",
+              "value": "1"
+            },
+            {
+              "label": "0.",
+              "value": "00"
+            },
+            {
+              "label": "강샘",
+              "value": "112"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            },
+            {
+              "label": "투창과 창 기술(아마존 전용)",
+              "value": "1"
+            },
+            {
+              "label": "문장군",
+              "value": "93"
+            },
+            {
+              "label": "화염 저항-%",
+              "value": "70"
+            },
+            {
+              "label": "적의 화염 저항-%",
+              "value": "10"
+            },
+            {
+              "label": "타격 회복 속도%",
+              "value": "17"
+            },
+            {
+              "label": "마나",
+              "value": "21"
+            },
+            {
+              "label": "피해 감소",
+              "value": "8"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "23"
+            },
+            {
+              "label": "방어력%",
+              "value": "11"
+            },
+            {
+              "label": "홈 있음(소켓)",
+              "value": "3"
+            },
+            {
+              "label": "총 방어력",
+              "value": "582"
+            },
+            {
+              "label": "번개 기술 피해%",
+              "value": "16"
+            },
+            {
+              "label": "화염 기술 피해%",
+              "value": "20"
+            },
+            {
+              "label": "마력",
+              "value": "23"
+            },
+            {
+              "label": "마나",
+              "value": "20"
+            },
+            {
+              "label": "마나 재생%",
+              "value": "9"
+            },
+            {
+              "label": "냉기 저항%",
+              "value": "29"
+            },
+            {
+              "label": "화염 저항%",
+              "value": "23"
+            },
+            {
+              "label": "적 처치 시 마나 회복",
+              "value": "3"
+            },
+            {
+              "label": "민첩",
+              "value": "2"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=50523"
+        }
+      ]
+    },
+    {
+      "name": "래더 거대 부적",
+      "category": "부적",
+      "listingCount": 1,
+      "price": {
+        "currency": "P",
+        "min": 100,
+        "median": 100,
+        "max": 100
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "투창과 창 기술(아마존 전용)"
+      ],
+      "samples": [
+        {
+          "name": "래더 거대 부적",
+          "category": "부적",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 4900,
-          "unitPriceP": 4900,
+          "priceP": 100,
+          "unitPriceP": 100,
           "options": [
             {
-              "label": "피해%",
-              "value": "293"
+              "label": "투창과 창 기술(아마존 전용)",
+              "value": "1"
             }
           ],
           "url": null
@@ -609,50 +754,152 @@
       ]
     },
     {
-      "name": "래더 오팔맥 반지",
+      "name": "래더 아콘 플레이트",
+      "category": "재료",
+      "listingCount": 1,
+      "price": {
+        "currency": "P",
+        "min": 1200,
+        "median": 1200,
+        "max": 1200
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "5.",
+        "문장군",
+        "방어력%",
+        "총 방어력",
+        "홈 있음(소켓)"
+      ],
+      "samples": [
+        {
+          "name": "래더 아콘 플레이트",
+          "category": "재료",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 1200,
+          "unitPriceP": 1200,
+          "options": [
+            {
+              "label": "방어력%",
+              "value": "11"
+            },
+            {
+              "label": "홈 있음(소켓)",
+              "value": "3"
+            },
+            {
+              "label": "총 방어력",
+              "value": "582"
+            },
+            {
+              "label": "문장군",
+              "value": "93"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=445225"
+        }
+      ]
+    },
+    {
+      "name": "래더 아콘 플레이트",
+      "category": "기타",
+      "listingCount": 1,
+      "price": {
+        "currency": "P",
+        "min": 1200,
+        "median": 1200,
+        "max": 1200
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "방어력%",
+        "총 방어력",
+        "홈 있음(소켓)"
+      ],
+      "samples": [
+        {
+          "name": "래더 아콘 플레이트",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 1200,
+          "unitPriceP": 1200,
+          "options": [
+            {
+              "label": "방어력%",
+              "value": "11"
+            },
+            {
+              "label": "홈 있음(소켓)",
+              "value": "3"
+            },
+            {
+              "label": "총 방어력",
+              "value": "582"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "스탠 에슈타의 성미 엘드리치 오브",
       "category": "룬워드",
       "listingCount": 1,
       "price": {
         "currency": "P",
-        "min": 3600,
-        "median": 3600,
-        "max": 3600
+        "min": 300,
+        "median": 300,
+        "max": 300
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "4.",
-        "나비혀니",
+        "0.",
+        "5.",
+        "강샘",
+        "거래 상대방",
         "다음",
-        "달리기/걷기 속도%",
-        "독 기술 피해%",
         "디아블로",
         "마나",
+        "마나 재생%",
+        "마력",
         "마법 아이템 발견 확률%",
-        "모든 능력치",
-        "모든 저항%",
+        "문장군",
+        "방어력%",
         "번개 기술 피해%",
-        "생명력",
-        "적 처치 시 마나 회복",
-        "적 처치 시 생명력 회복",
-        "적의 냉기 저항-%",
-        "전투 기술(야만용사 전용)",
+        "적의 화염 저항-%",
         "지금 시작하면, 멤버십 PLUS",
+        "총 방어력",
         "타격 회복 속도%",
+        "투창과 창 기술(아마존 전용)",
         "플레이디아 디아블로",
         "피해 감소",
-        "피해%"
+        "홈 있음(소켓)",
+        "화염 기술 피해%",
+        "화염 저항-%"
       ],
       "samples": [
         {
-          "name": "래더 오팔맥 반지",
+          "name": "스탠 에슈타의 성미 엘드리치 오브",
           "category": "룬워드",
           "server": "악군",
           "status": "거래완료",
-          "quantity": 1,
-          "priceP": 3600,
-          "unitPriceP": 3600,
+          "quantity": 10,
+          "priceP": 300,
+          "unitPriceP": 300,
           "options": [
             {
               "label": "지금 시작하면, 멤버십 PLUS",
@@ -671,219 +918,87 @@
               "value": "20"
             },
             {
-              "label": "모든 저항%",
-              "value": "6"
-            },
-            {
-              "label": "적 처치 시 마나 회복",
-              "value": "2"
-            },
-            {
-              "label": "적 처치 시 생명력 회복",
-              "value": "2"
-            },
-            {
-              "label": "번개 기술 피해%",
-              "value": "4"
-            },
-            {
-              "label": "나비혀니",
-              "value": "74"
-            },
-            {
-              "label": "4.",
-              "value": "90"
-            },
-            {
-              "label": "적 처치 시 마나 회복",
+              "label": "거래 상대방",
               "value": "1"
             },
             {
-              "label": "적 처치 시 생명력 회복",
-              "value": "3"
+              "label": "0.",
+              "value": "00"
             },
             {
-              "label": "독 기술 피해%",
-              "value": "4"
+              "label": "강샘",
+              "value": "112"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            },
+            {
+              "label": "투창과 창 기술(아마존 전용)",
+              "value": "1"
+            },
+            {
+              "label": "문장군",
+              "value": "93"
+            },
+            {
+              "label": "화염 저항-%",
+              "value": "70"
+            },
+            {
+              "label": "적의 화염 저항-%",
+              "value": "10"
             },
             {
               "label": "타격 회복 속도%",
-              "value": "19"
-            },
-            {
-              "label": "적의 냉기 저항-%",
-              "value": "8"
+              "value": "17"
             },
             {
               "label": "마나",
-              "value": "53"
+              "value": "21"
             },
             {
               "label": "피해 감소",
-              "value": "9"
+              "value": "8"
             },
             {
               "label": "마법 아이템 발견 확률%",
-              "value": "22"
+              "value": "23"
             },
             {
-              "label": "모든 능력치",
+              "label": "방어력%",
+              "value": "11"
+            },
+            {
+              "label": "홈 있음(소켓)",
               "value": "3"
             },
             {
-              "label": "피해%",
-              "value": "293"
+              "label": "총 방어력",
+              "value": "582"
             },
             {
-              "label": "전투 기술(야만용사 전용)",
-              "value": "1"
+              "label": "번개 기술 피해%",
+              "value": "16"
             },
             {
-              "label": "달리기/걷기 속도%",
-              "value": "7"
-            },
-            {
-              "label": "생명력",
-              "value": "39"
-            },
-            {
-              "label": "피해%",
-              "value": "332"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/customer/noticedetail?Index=5"
-        }
-      ]
-    },
-    {
-      "name": "래더 오팔맥 반지",
-      "category": "부적",
-      "listingCount": 1,
-      "price": {
-        "currency": "P",
-        "min": 3600,
-        "median": 3600,
-        "max": 3600
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "4.",
-        "나비혀니",
-        "다음",
-        "달리기/걷기 속도%",
-        "독 기술 피해%",
-        "마나",
-        "마법 아이템 발견 확률%",
-        "모든 능력치",
-        "모든 저항%",
-        "번개 기술 피해%",
-        "생명력",
-        "적 처치 시 마나 회복",
-        "적 처치 시 생명력 회복",
-        "적의 냉기 저항-%",
-        "전투 기술(야만용사 전용)",
-        "타격 회복 속도%",
-        "피해 감소",
-        "피해%"
-      ],
-      "samples": [
-        {
-          "name": "래더 오팔맥 반지",
-          "category": "부적",
-          "server": "악군",
-          "status": "거래완료",
-          "quantity": 1,
-          "priceP": 3600,
-          "unitPriceP": 3600,
-          "options": [
-            {
-              "label": "다음",
+              "label": "화염 기술 피해%",
               "value": "20"
             },
             {
-              "label": "모든 저항%",
-              "value": "6"
-            },
-            {
-              "label": "적 처치 시 마나 회복",
-              "value": "2"
-            },
-            {
-              "label": "적 처치 시 생명력 회복",
-              "value": "2"
-            },
-            {
-              "label": "번개 기술 피해%",
-              "value": "4"
-            },
-            {
-              "label": "나비혀니",
-              "value": "74"
-            },
-            {
-              "label": "4.",
-              "value": "90"
-            },
-            {
-              "label": "적 처치 시 마나 회복",
-              "value": "1"
-            },
-            {
-              "label": "적 처치 시 생명력 회복",
-              "value": "3"
-            },
-            {
-              "label": "독 기술 피해%",
-              "value": "4"
-            },
-            {
-              "label": "타격 회복 속도%",
-              "value": "19"
-            },
-            {
-              "label": "적의 냉기 저항-%",
-              "value": "8"
+              "label": "마력",
+              "value": "23"
             },
             {
               "label": "마나",
-              "value": "53"
+              "value": "20"
             },
             {
-              "label": "피해 감소",
+              "label": "마나 재생%",
               "value": "9"
-            },
-            {
-              "label": "마법 아이템 발견 확률%",
-              "value": "22"
-            },
-            {
-              "label": "모든 능력치",
-              "value": "3"
-            },
-            {
-              "label": "피해%",
-              "value": "293"
-            },
-            {
-              "label": "전투 기술(야만용사 전용)",
-              "value": "1"
-            },
-            {
-              "label": "달리기/걷기 속도%",
-              "value": "7"
-            },
-            {
-              "label": "생명력",
-              "value": "39"
-            },
-            {
-              "label": "피해%",
-              "value": "332"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemmarket?index=1"
+          "url": "https://www.playnote.co.kr/customer/noticedetail?Index=5"
         }
       ]
     }
