@@ -1,14 +1,369 @@
 {
   "source": "https://www.playnote.co.kr/trade/itemmarket?index=1",
   "scope": "public-listings-only",
-  "updatedAt": "2026-11-07T02:19:38.105437+00:00",
+  "updatedAt": "2026-11-07T09:11:53.110308+00:00",
   "listingCount": 20,
-  "itemCount": 9,
+  "itemCount": 10,
   "items": [
     {
-      "name": "래더 라주크(소켓)",
+      "name": "스탠 드림 스피리트",
       "category": "기타",
-      "listingCount": 4,
+      "listingCount": 3,
+      "price": {
+        "currency": "P",
+        "min": 30000,
+        "median": 30000,
+        "max": 30000
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "#북부세계석 조각",
+        "#업글 기욤",
+        "0.",
+        "5.",
+        "개 서비스",
+        "개뚜껑, 엘리트뼈대",
+        "다음",
+        "마술하나보여드림",
+        "막기 속도%",
+        "막기 확률%",
+        "명중률",
+        "번개 기술(원소술사 전용)",
+        "분노(드루이드 전용)",
+        "소서리스",
+        "시전 속도%",
+        "울버린의 심장(드루이드 전용)",
+        "총 방어력",
+        "피해%",
+        "하만두",
+        "홈 있음(소켓)"
+      ],
+      "samples": [
+        {
+          "name": "스탠 드림 스피리트",
+          "category": "기타",
+          "server": "악군",
+          "status": "거래완료",
+          "quantity": 1,
+          "priceP": 30000,
+          "unitPriceP": 30000,
+          "options": [
+            {
+              "label": "다음",
+              "value": "20"
+            },
+            {
+              "label": "분노(드루이드 전용)",
+              "value": "3"
+            },
+            {
+              "label": "울버린의 심장(드루이드 전용)",
+              "value": "3"
+            },
+            {
+              "label": "총 방어력",
+              "value": "112"
+            },
+            {
+              "label": "개뚜껑, 엘리트뼈대",
+              "value": "3"
+            },
+            {
+              "label": "소서리스",
+              "value": "131"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            },
+            {
+              "label": "총 방어력",
+              "value": "349"
+            },
+            {
+              "label": "#업글 기욤",
+              "value": "349"
+            },
+            {
+              "label": "마술하나보여드림",
+              "value": "34"
+            },
+            {
+              "label": "0.",
+              "value": "00"
+            },
+            {
+              "label": "#북부세계석 조각",
+              "value": "50"
+            },
+            {
+              "label": "개 서비스",
+              "value": "2"
+            },
+            {
+              "label": "홈 있음(소켓)",
+              "value": "4"
+            },
+            {
+              "label": "하만두",
+              "value": "154"
+            },
+            {
+              "label": "번개 기술(원소술사 전용)",
+              "value": "3"
+            },
+            {
+              "label": "시전 속도%",
+              "value": "20"
+            },
+            {
+              "label": "홈 있음(소켓)",
+              "value": "2"
+            },
+            {
+              "label": "피해%",
+              "value": "15"
+            },
+            {
+              "label": "명중률",
+              "value": "2"
+            },
+            {
+              "label": "홈 있음(소켓)",
+              "value": "5"
+            },
+            {
+              "label": "막기 속도%",
+              "value": "30"
+            },
+            {
+              "label": "막기 확률%",
+              "value": "20"
+            },
+            {
+              "label": "홈 있음(소켓)",
+              "value": "3"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemmarket?index=1"
+        },
+        {
+          "name": "스탠 드림 스피리트",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 30000,
+          "unitPriceP": 30000,
+          "options": [
+            {
+              "label": "분노(드루이드 전용)",
+              "value": "3"
+            },
+            {
+              "label": "울버린의 심장(드루이드 전용)",
+              "value": "3"
+            },
+            {
+              "label": "총 방어력",
+              "value": "112"
+            },
+            {
+              "label": "개뚜껑, 엘리트뼈대",
+              "value": "3"
+            },
+            {
+              "label": "소서리스",
+              "value": "131"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=74337"
+        },
+        {
+          "name": "스탠 드림 스피리트",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 30000,
+          "unitPriceP": 30000,
+          "options": [
+            {
+              "label": "분노(드루이드 전용)",
+              "value": "3"
+            },
+            {
+              "label": "울버린의 심장(드루이드 전용)",
+              "value": "3"
+            },
+            {
+              "label": "총 방어력",
+              "value": "112"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 모너크",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 10000,
+        "median": 10000,
+        "max": 10000
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "5.",
+        "막기 속도%",
+        "막기 확률%",
+        "하만두",
+        "홈 있음(소켓)"
+      ],
+      "samples": [
+        {
+          "name": "래더 모너크",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 10000,
+          "unitPriceP": 10000,
+          "options": [
+            {
+              "label": "막기 속도%",
+              "value": "30"
+            },
+            {
+              "label": "막기 확률%",
+              "value": "20"
+            },
+            {
+              "label": "홈 있음(소켓)",
+              "value": "3"
+            },
+            {
+              "label": "하만두",
+              "value": "154"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=442746"
+        },
+        {
+          "name": "래더 모너크",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 10000,
+          "unitPriceP": 10000,
+          "options": [
+            {
+              "label": "막기 속도%",
+              "value": "30"
+            },
+            {
+              "label": "막기 확률%",
+              "value": "20"
+            },
+            {
+              "label": "홈 있음(소켓)",
+              "value": "3"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 무지개 자락 주얼(화염,랩업시)",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 500,
+        "median": 500,
+        "max": 500
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "5.",
+        "적의 화염 저항-%",
+        "하만두",
+        "화염 기술 피해%"
+      ],
+      "samples": [
+        {
+          "name": "래더 무지개 자락 주얼(화염,랩업시)",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 500,
+          "unitPriceP": 500,
+          "options": [
+            {
+              "label": "화염 기술 피해%",
+              "value": "4"
+            },
+            {
+              "label": "적의 화염 저항-%",
+              "value": "5"
+            },
+            {
+              "label": "하만두",
+              "value": "154"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=442616"
+        },
+        {
+          "name": "래더 무지개 자락 주얼(화염,랩업시)",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 500,
+          "unitPriceP": 500,
+          "options": [
+            {
+              "label": "화염 기술 피해%",
+              "value": "4"
+            },
+            {
+              "label": "적의 화염 저항-%",
+              "value": "5"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 쓰레셔",
+      "category": "기타",
+      "listingCount": 2,
       "price": {
         "currency": "P",
         "min": 400,
@@ -19,564 +374,292 @@
         "악군"
       ],
       "optionLabels": [
-        "#✅✅ㅡ라주크ㅡㅡ바로가능ㅡㅡ",
         "5.",
-        "바로_번개거래",
-        "시~"
+        "하만두",
+        "홈 있음(소켓)"
       ],
       "samples": [
         {
-          "name": "래더 라주크(소켓)",
+          "name": "래더 쓰레셔",
           "category": "기타",
           "server": "악군",
           "status": "",
-          "quantity": 24,
+          "quantity": 1,
           "priceP": 400,
           "unitPriceP": 400,
           "options": [
             {
-              "label": "#✅✅ㅡ라주크ㅡㅡ바로가능ㅡㅡ",
-              "value": "09"
+              "label": "홈 있음(소켓)",
+              "value": "4"
             },
             {
-              "label": "시~",
-              "value": "24"
-            },
-            {
-              "label": "바로_번개거래",
-              "value": "544"
+              "label": "하만두",
+              "value": "154"
             },
             {
               "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=329785"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=459795"
         },
         {
-          "name": "래더 라주크(소켓)",
+          "name": "래더 쓰레셔",
           "category": "기타",
           "server": "악군",
           "status": "",
-          "quantity": 24,
-          "priceP": 400,
-          "unitPriceP": 400,
-          "options": [],
-          "url": null
-        },
-        {
-          "name": "래더 라주크(소켓)",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 12,
+          "quantity": 1,
           "priceP": 400,
           "unitPriceP": 400,
           "options": [
             {
-              "label": "#✅✅ㅡ라주크ㅡㅡ바로가능ㅡㅡ",
-              "value": "09"
-            },
-            {
-              "label": "시~",
-              "value": "24"
-            },
-            {
-              "label": "바로_번개거래",
-              "value": "544"
-            },
-            {
-              "label": "5.",
-              "value": "00"
+              "label": "홈 있음(소켓)",
+              "value": "4"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=329718"
-        },
-        {
-          "name": "래더 라주크(소켓)",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 12,
-          "priceP": 400,
-          "unitPriceP": 400,
-          "options": [],
           "url": null
         }
       ]
     },
     {
-      "name": "래더 북부 세계석 조각",
+      "name": "래더 코로니트",
       "category": "기타",
-      "listingCount": 3,
+      "listingCount": 2,
       "price": {
         "currency": "P",
-        "min": 1500,
-        "median": 1500,
-        "max": 1500
+        "min": 4500,
+        "median": 4500,
+        "max": 4500
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "#✅",
-        "#✅✅ㅡ라주크ㅡㅡ바로가능ㅡㅡ",
-        "#✅✅ㅡ면죄ㅡ",
         "5.",
-        "개 주문시",
-        "개==",
-        "개===",
-        "다음",
-        "로베르자",
-        "바로_번개거래",
-        "방어력%",
-        "시~",
-        "총 방어력",
-        "️⃣ㅡ남부 세계석 조각ㅡ",
-        "️⃣ㅡ동부 세계석 조각ㅡ",
-        "️⃣ㅡ북부 세계석 조각===",
-        "️⃣ㅡ서부 세계석 조각ㅡ"
+        "번개 기술(원소술사 전용)",
+        "시전 속도%",
+        "하만두",
+        "홈 있음(소켓)"
       ],
       "samples": [
         {
-          "name": "래더 북부 세계석 조각",
+          "name": "래더 코로니트",
           "category": "기타",
           "server": "악군",
-          "status": "거래완료",
-          "quantity": 38,
-          "priceP": 1500,
-          "unitPriceP": 1500,
+          "status": "",
+          "quantity": 1,
+          "priceP": 4500,
+          "unitPriceP": 4500,
           "options": [
             {
-              "label": "다음",
+              "label": "번개 기술(원소술사 전용)",
+              "value": "3"
+            },
+            {
+              "label": "시전 속도%",
               "value": "20"
             },
             {
-              "label": "#✅",
+              "label": "홈 있음(소켓)",
+              "value": "2"
+            },
+            {
+              "label": "하만두",
+              "value": "154"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=454629"
+        },
+        {
+          "name": "래더 코로니트",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 4500,
+          "unitPriceP": 4500,
+          "options": [
+            {
+              "label": "번개 기술(원소술사 전용)",
+              "value": "3"
+            },
+            {
+              "label": "시전 속도%",
+              "value": "20"
+            },
+            {
+              "label": "홈 있음(소켓)",
+              "value": "2"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 티아라",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 4500,
+        "median": 4500,
+        "max": 4500
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "5.",
+        "번개 기술(원소술사 전용)",
+        "시전 속도%",
+        "하만두",
+        "홈 있음(소켓)"
+      ],
+      "samples": [
+        {
+          "name": "래더 티아라",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 4500,
+          "unitPriceP": 4500,
+          "options": [
+            {
+              "label": "번개 기술(원소술사 전용)",
+              "value": "3"
+            },
+            {
+              "label": "시전 속도%",
+              "value": "20"
+            },
+            {
+              "label": "홈 있음(소켓)",
+              "value": "2"
+            },
+            {
+              "label": "하만두",
+              "value": "154"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=454630"
+        },
+        {
+          "name": "래더 티아라",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 4500,
+          "unitPriceP": 4500,
+          "options": [
+            {
+              "label": "번개 기술(원소술사 전용)",
+              "value": "3"
+            },
+            {
+              "label": "시전 속도%",
+              "value": "20"
+            },
+            {
+              "label": "홈 있음(소켓)",
+              "value": "2"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 페이즈 블레이드",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 3500,
+        "median": 3500,
+        "max": 3500
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "5.",
+        "명중률",
+        "피해%",
+        "하만두",
+        "홈 있음(소켓)"
+      ],
+      "samples": [
+        {
+          "name": "래더 페이즈 블레이드",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 3500,
+          "unitPriceP": 3500,
+          "options": [
+            {
+              "label": "피해%",
+              "value": "15"
+            },
+            {
+              "label": "명중률",
+              "value": "2"
+            },
+            {
+              "label": "홈 있음(소켓)",
               "value": "5"
             },
             {
-              "label": "️⃣ㅡ북부 세계석 조각===",
-              "value": "38"
-            },
-            {
-              "label": "개==",
-              "value": "1500"
-            },
-            {
-              "label": "바로_번개거래",
-              "value": "544"
+              "label": "하만두",
+              "value": "154"
             },
             {
               "label": "5.",
               "value": "00"
-            },
-            {
-              "label": "️⃣ㅡ동부 세계석 조각ㅡ",
-              "value": "40"
-            },
-            {
-              "label": "개===",
-              "value": "500"
-            },
-            {
-              "label": "#✅✅ㅡ면죄ㅡ",
-              "value": "10"
-            },
-            {
-              "label": "개 주문시",
-              "value": "1"
-            },
-            {
-              "label": "#✅✅ㅡ라주크ㅡㅡ바로가능ㅡㅡ",
-              "value": "09"
-            },
-            {
-              "label": "시~",
-              "value": "24"
-            },
-            {
-              "label": "️⃣ㅡ남부 세계석 조각ㅡ",
-              "value": "3"
-            },
-            {
-              "label": "개===",
-              "value": "100"
-            },
-            {
-              "label": "#✅",
-              "value": "3"
-            },
-            {
-              "label": "️⃣ㅡ서부 세계석 조각ㅡ",
-              "value": "40"
-            },
-            {
-              "label": "개==",
-              "value": "400"
-            },
-            {
-              "label": "방어력%",
-              "value": "30"
-            },
-            {
-              "label": "총 방어력",
-              "value": "98"
-            },
-            {
-              "label": "로베르자",
-              "value": "94"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemmarket?index=1"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=443121"
         },
         {
-          "name": "래더 북부 세계석 조각",
+          "name": "래더 페이즈 블레이드",
           "category": "기타",
           "server": "악군",
           "status": "",
-          "quantity": 38,
-          "priceP": 1500,
-          "unitPriceP": 1500,
+          "quantity": 1,
+          "priceP": 3500,
+          "unitPriceP": 3500,
           "options": [
             {
-              "label": "#✅",
+              "label": "피해%",
+              "value": "15"
+            },
+            {
+              "label": "명중률",
+              "value": "2"
+            },
+            {
+              "label": "홈 있음(소켓)",
               "value": "5"
-            },
-            {
-              "label": "️⃣ㅡ북부 세계석 조각===",
-              "value": "38"
-            },
-            {
-              "label": "개==",
-              "value": "1500"
-            },
-            {
-              "label": "바로_번개거래",
-              "value": "544"
-            },
-            {
-              "label": "5.",
-              "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=452932"
-        },
-        {
-          "name": "래더 북부 세계석 조각",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 38,
-          "priceP": 1500,
-          "unitPriceP": 1500,
-          "options": [],
           "url": null
         }
       ]
     },
     {
-      "name": "래더 남부 세계석 조각",
-      "category": "기타",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 100,
-        "median": 100,
-        "max": 100
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "개===",
-        "바로_번개거래",
-        "️⃣ㅡ남부 세계석 조각ㅡ"
-      ],
-      "samples": [
-        {
-          "name": "래더 남부 세계석 조각",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 21,
-          "priceP": 100,
-          "unitPriceP": 100,
-          "options": [
-            {
-              "label": "️⃣ㅡ남부 세계석 조각ㅡ",
-              "value": "3"
-            },
-            {
-              "label": "개===",
-              "value": "100"
-            },
-            {
-              "label": "바로_번개거래",
-              "value": "544"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=312964"
-        },
-        {
-          "name": "래더 남부 세계석 조각",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 21,
-          "priceP": 100,
-          "unitPriceP": 100,
-          "options": [],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 동부 세계석 조각",
-      "category": "기타",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 500,
-        "median": 500,
-        "max": 500
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "개===",
-        "바로_번개거래",
-        "️⃣ㅡ동부 세계석 조각ㅡ"
-      ],
-      "samples": [
-        {
-          "name": "래더 동부 세계석 조각",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 2,
-          "priceP": 500,
-          "unitPriceP": 500,
-          "options": [
-            {
-              "label": "️⃣ㅡ동부 세계석 조각ㅡ",
-              "value": "40"
-            },
-            {
-              "label": "개===",
-              "value": "500"
-            },
-            {
-              "label": "바로_번개거래",
-              "value": "544"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=452914"
-        },
-        {
-          "name": "래더 동부 세계석 조각",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 2,
-          "priceP": 500,
-          "unitPriceP": 500,
-          "options": [],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 마도크의 분노",
-      "category": "기타",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 150,
-        "median": 150,
-        "max": 150
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "#✅",
-        "5.",
-        "바로_번개거래"
-      ],
-      "samples": [
-        {
-          "name": "래더 마도크의 분노",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 6,
-          "priceP": 150,
-          "unitPriceP": 150,
-          "options": [
-            {
-              "label": "#✅",
-              "value": "3"
-            },
-            {
-              "label": "바로_번개거래",
-              "value": "544"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=258383"
-        },
-        {
-          "name": "래더 마도크의 분노",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 6,
-          "priceP": 150,
-          "unitPriceP": 150,
-          "options": [],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 면죄의 징표",
-      "category": "기타",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 300,
-        "median": 300,
-        "max": 300
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "#✅✅ㅡ면죄ㅡ",
-        "5.",
-        "개 주문시",
-        "바로_번개거래"
-      ],
-      "samples": [
-        {
-          "name": "래더 면죄의 징표",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 61,
-          "priceP": 300,
-          "unitPriceP": 300,
-          "options": [
-            {
-              "label": "#✅✅ㅡ면죄ㅡ",
-              "value": "10"
-            },
-            {
-              "label": "개 주문시",
-              "value": "1"
-            },
-            {
-              "label": "바로_번개거래",
-              "value": "544"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=365680"
-        },
-        {
-          "name": "래더 면죄의 징표",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 61,
-          "priceP": 300,
-          "unitPriceP": 300,
-          "options": [],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 서부 세계석 조각",
-      "category": "기타",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 500,
-        "median": 500,
-        "max": 500
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "개==",
-        "바로_번개거래",
-        "️⃣ㅡ서부 세계석 조각ㅡ"
-      ],
-      "samples": [
-        {
-          "name": "래더 서부 세계석 조각",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 5,
-          "priceP": 500,
-          "unitPriceP": 500,
-          "options": [
-            {
-              "label": "️⃣ㅡ서부 세계석 조각ㅡ",
-              "value": "40"
-            },
-            {
-              "label": "개==",
-              "value": "400"
-            },
-            {
-              "label": "바로_번개거래",
-              "value": "544"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=93624"
-        },
-        {
-          "name": "래더 서부 세계석 조각",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 5,
-          "priceP": 500,
-          "unitPriceP": 500,
-          "options": [],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "스탠 마수 라이트 건틀릿",
+      "name": "스탠 기욤의 얼굴",
       "category": "기타",
       "listingCount": 2,
       "price": {
@@ -589,14 +672,14 @@
         "악군"
       ],
       "optionLabels": [
-        "5.",
-        "로베르자",
-        "방어력%",
+        "#업글 기욤",
+        "0.",
+        "마술하나보여드림",
         "총 방어력"
       ],
       "samples": [
         {
-          "name": "스탠 마수 라이트 건틀릿",
+          "name": "스탠 기욤의 얼굴",
           "category": "기타",
           "server": "악군",
           "status": "",
@@ -605,26 +688,26 @@
           "unitPriceP": 4000,
           "options": [
             {
-              "label": "방어력%",
-              "value": "30"
-            },
-            {
               "label": "총 방어력",
-              "value": "98"
+              "value": "349"
             },
             {
-              "label": "로베르자",
-              "value": "94"
+              "label": "#업글 기욤",
+              "value": "349"
             },
             {
-              "label": "5.",
+              "label": "마술하나보여드림",
+              "value": "34"
+            },
+            {
+              "label": "0.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=458196"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=448883"
         },
         {
-          "name": "스탠 마수 라이트 건틀릿",
+          "name": "스탠 기욤의 얼굴",
           "category": "기타",
           "server": "악군",
           "status": "",
@@ -633,12 +716,8 @@
           "unitPriceP": 4000,
           "options": [
             {
-              "label": "방어력%",
-              "value": "30"
-            },
-            {
               "label": "총 방어력",
-              "value": "98"
+              "value": "349"
             }
           ],
           "url": null
@@ -646,50 +725,111 @@
       ]
     },
     {
-      "name": "래더 북부 세계석 조각",
-      "category": "룬워드",
-      "listingCount": 1,
+      "name": "스탠 북부 세계석 조각",
+      "category": "기타",
+      "listingCount": 2,
       "price": {
         "currency": "P",
-        "min": 1500,
-        "median": 1500,
-        "max": 1500
+        "min": 4000,
+        "median": 4000,
+        "max": 4000
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "#✅",
-        "#✅✅ㅡ라주크ㅡㅡ바로가능ㅡㅡ",
-        "#✅✅ㅡ면죄ㅡ",
-        "5.",
-        "개 주문시",
-        "개==",
-        "개===",
-        "다음",
-        "디아블로",
-        "로베르자",
-        "바로_번개거래",
-        "방어력%",
-        "시~",
-        "옵션",
-        "지금 시작하면, 멤버십 PLUS",
-        "총 방어력",
-        "플레이디아 디아블로",
-        "️⃣ㅡ남부 세계석 조각ㅡ",
-        "️⃣ㅡ동부 세계석 조각ㅡ",
-        "️⃣ㅡ북부 세계석 조각===",
-        "️⃣ㅡ서부 세계석 조각ㅡ"
+        "#북부세계석 조각",
+        "0.",
+        "개 서비스",
+        "마술하나보여드림"
       ],
       "samples": [
         {
-          "name": "래더 북부 세계석 조각",
+          "name": "스탠 북부 세계석 조각",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 50,
+          "priceP": 4000,
+          "unitPriceP": 4000,
+          "options": [
+            {
+              "label": "#북부세계석 조각",
+              "value": "50"
+            },
+            {
+              "label": "개 서비스",
+              "value": "2"
+            },
+            {
+              "label": "마술하나보여드림",
+              "value": "34"
+            },
+            {
+              "label": "0.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=434149"
+        },
+        {
+          "name": "스탠 북부 세계석 조각",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 50,
+          "priceP": 4000,
+          "unitPriceP": 4000,
+          "options": [],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "스탠 드림 스피리트",
+      "category": "룬워드",
+      "listingCount": 1,
+      "price": {
+        "currency": "P",
+        "min": 30000,
+        "median": 30000,
+        "max": 30000
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "#북부세계석 조각",
+        "#업글 기욤",
+        "0.",
+        "5.",
+        "개 서비스",
+        "개뚜껑, 엘리트뼈대",
+        "다음",
+        "디아블로",
+        "마술하나보여드림",
+        "명중률",
+        "번개 기술(원소술사 전용)",
+        "분노(드루이드 전용)",
+        "소서리스",
+        "시전 속도%",
+        "울버린의 심장(드루이드 전용)",
+        "지금 시작하면, 멤버십 PLUS",
+        "총 방어력",
+        "플레이디아 디아블로",
+        "피해%",
+        "하만두",
+        "홈 있음(소켓)"
+      ],
+      "samples": [
+        {
+          "name": "스탠 드림 스피리트",
           "category": "룬워드",
           "server": "악군",
           "status": "거래완료",
-          "quantity": 38,
-          "priceP": 1500,
-          "unitPriceP": 1500,
+          "quantity": 1,
+          "priceP": 30000,
+          "unitPriceP": 30000,
           "options": [
             {
               "label": "지금 시작하면, 멤버십 PLUS",
@@ -708,84 +848,84 @@
               "value": "20"
             },
             {
-              "label": "#✅",
-              "value": "5"
+              "label": "분노(드루이드 전용)",
+              "value": "3"
             },
             {
-              "label": "️⃣ㅡ북부 세계석 조각===",
-              "value": "38"
+              "label": "울버린의 심장(드루이드 전용)",
+              "value": "3"
             },
             {
-              "label": "개==",
-              "value": "1500"
+              "label": "총 방어력",
+              "value": "112"
             },
             {
-              "label": "바로_번개거래",
-              "value": "544"
+              "label": "개뚜껑, 엘리트뼈대",
+              "value": "3"
+            },
+            {
+              "label": "소서리스",
+              "value": "131"
             },
             {
               "label": "5.",
               "value": "00"
             },
             {
-              "label": "️⃣ㅡ동부 세계석 조각ㅡ",
-              "value": "40"
-            },
-            {
-              "label": "개===",
-              "value": "500"
-            },
-            {
-              "label": "#✅✅ㅡ면죄ㅡ",
-              "value": "10"
-            },
-            {
-              "label": "개 주문시",
-              "value": "1"
-            },
-            {
-              "label": "#✅✅ㅡ라주크ㅡㅡ바로가능ㅡㅡ",
-              "value": "09"
-            },
-            {
-              "label": "시~",
-              "value": "24"
-            },
-            {
-              "label": "️⃣ㅡ남부 세계석 조각ㅡ",
-              "value": "3"
-            },
-            {
-              "label": "개===",
-              "value": "100"
-            },
-            {
-              "label": "#✅",
-              "value": "3"
-            },
-            {
-              "label": "️⃣ㅡ서부 세계석 조각ㅡ",
-              "value": "40"
-            },
-            {
-              "label": "개==",
-              "value": "400"
-            },
-            {
-              "label": "방어력%",
-              "value": "30"
-            },
-            {
               "label": "총 방어력",
-              "value": "98"
+              "value": "349"
             },
             {
-              "label": "로베르자",
-              "value": "94"
+              "label": "#업글 기욤",
+              "value": "349"
             },
             {
-              "label": "옵션",
-              "value": "0"
+              "label": "마술하나보여드림",
+              "value": "34"
+            },
+            {
+              "label": "0.",
+              "value": "00"
+            },
+            {
+              "label": "#북부세계석 조각",
+              "value": "50"
+            },
+            {
+              "label": "개 서비스",
+              "value": "2"
+            },
+            {
+              "label": "홈 있음(소켓)",
+              "value": "4"
+            },
+            {
+              "label": "하만두",
+              "value": "154"
+            },
+            {
+              "label": "번개 기술(원소술사 전용)",
+              "value": "3"
+            },
+            {
+              "label": "시전 속도%",
+              "value": "20"
+            },
+            {
+              "label": "홈 있음(소켓)",
+              "value": "2"
+            },
+            {
+              "label": "피해%",
+              "value": "15"
+            },
+            {
+              "label": "명중률",
+              "value": "2"
+            },
+            {
+              "label": "홈 있음(소켓)",
+              "value": "5"
             }
           ],
           "url": "https://www.playnote.co.kr/customer/noticedetail?Index=5"
