@@ -1,158 +1,113 @@
 {
   "source": "https://www.playnote.co.kr/trade/itemmarket?index=1",
   "scope": "public-listings-only",
-  "updatedAt": "2026-11-06T22:20:41.242206+00:00",
+  "updatedAt": "2026-11-07T02:19:38.105437+00:00",
   "listingCount": 20,
   "itemCount": 9,
   "items": [
     {
-      "name": "래더 애니참",
-      "category": "부적",
+      "name": "래더 라주크(소켓)",
+      "category": "기타",
       "listingCount": 4,
       "price": {
         "currency": "P",
-        "min": 230,
-        "median": 615,
-        "max": 1000
+        "min": 400,
+        "median": 400,
+        "max": 400
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "#모든저항",
+        "#✅✅ㅡ라주크ㅡㅡ바로가능ㅡㅡ",
         "5.",
-        "경험치 획득량%",
-        "모든 능력치",
-        "모든 저항",
-        "준으뜸 경험치",
-        "크림초코빵"
+        "바로_번개거래",
+        "시~"
       ],
       "samples": [
         {
-          "name": "래더 애니참",
-          "category": "부적",
+          "name": "래더 라주크(소켓)",
+          "category": "기타",
           "server": "악군",
           "status": "",
-          "quantity": 1,
-          "priceP": 230,
-          "unitPriceP": 230,
+          "quantity": 24,
+          "priceP": 400,
+          "unitPriceP": 400,
           "options": [
             {
-              "label": "모든 능력치",
-              "value": "16"
+              "label": "#✅✅ㅡ라주크ㅡㅡ바로가능ㅡㅡ",
+              "value": "09"
             },
             {
-              "label": "모든 저항",
-              "value": "10"
+              "label": "시~",
+              "value": "24"
             },
             {
-              "label": "경험치 획득량%",
-              "value": "7"
-            },
-            {
-              "label": "크림초코빵",
-              "value": "110"
+              "label": "바로_번개거래",
+              "value": "544"
             },
             {
               "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=437796"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=329785"
         },
         {
-          "name": "래더 애니참",
-          "category": "부적",
+          "name": "래더 라주크(소켓)",
+          "category": "기타",
           "server": "악군",
           "status": "",
-          "quantity": 1,
-          "priceP": 230,
-          "unitPriceP": 230,
-          "options": [
-            {
-              "label": "모든 능력치",
-              "value": "16"
-            },
-            {
-              "label": "모든 저항",
-              "value": "10"
-            },
-            {
-              "label": "경험치 획득량%",
-              "value": "7"
-            }
-          ],
+          "quantity": 24,
+          "priceP": 400,
+          "unitPriceP": 400,
+          "options": [],
           "url": null
         },
         {
-          "name": "래더 애니참",
-          "category": "부적",
+          "name": "래더 라주크(소켓)",
+          "category": "기타",
           "server": "악군",
           "status": "",
-          "quantity": 1,
-          "priceP": 1000,
-          "unitPriceP": 1000,
+          "quantity": 12,
+          "priceP": 400,
+          "unitPriceP": 400,
           "options": [
             {
-              "label": "모든 능력치",
-              "value": "14"
+              "label": "#✅✅ㅡ라주크ㅡㅡ바로가능ㅡㅡ",
+              "value": "09"
             },
             {
-              "label": "모든 저항",
-              "value": "19"
+              "label": "시~",
+              "value": "24"
             },
             {
-              "label": "경험치 획득량%",
-              "value": "10"
-            },
-            {
-              "label": "#모든저항",
-              "value": "19"
-            },
-            {
-              "label": "준으뜸 경험치",
-              "value": "10"
-            },
-            {
-              "label": "크림초코빵",
-              "value": "110"
+              "label": "바로_번개거래",
+              "value": "544"
             },
             {
               "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=382815"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=329718"
         },
         {
-          "name": "래더 애니참",
-          "category": "부적",
+          "name": "래더 라주크(소켓)",
+          "category": "기타",
           "server": "악군",
           "status": "",
-          "quantity": 1,
-          "priceP": 1000,
-          "unitPriceP": 1000,
-          "options": [
-            {
-              "label": "모든 능력치",
-              "value": "14"
-            },
-            {
-              "label": "모든 저항",
-              "value": "19"
-            },
-            {
-              "label": "경험치 획득량%",
-              "value": "10"
-            }
-          ],
+          "quantity": 12,
+          "priceP": 400,
+          "unitPriceP": 400,
+          "options": [],
           "url": null
         }
       ]
     },
     {
-      "name": "스탠 거대 부적",
-      "category": "부적",
+      "name": "래더 북부 세계석 조각",
+      "category": "기타",
       "listingCount": 3,
       "price": {
         "currency": "P",
@@ -164,32 +119,31 @@
         "악군"
       ],
       "optionLabels": [
-        "#모든저항",
-        "#피해",
+        "#✅",
+        "#✅✅ㅡ라주크ㅡㅡ바로가능ㅡㅡ",
+        "#✅✅ㅡ면죄ㅡ",
         "5.",
-        "경험치 획득량%",
-        "괴물에게서 얻는 금화%",
+        "개 주문시",
+        "개==",
+        "개===",
         "다음",
-        "독 저항%",
-        "모든 능력치",
-        "모든 저항",
+        "로베르자",
+        "바로_번개거래",
         "방어력%",
-        "번개 저항%",
-        "준으뜸 경험치",
-        "최소 피해",
-        "크림초코빵",
-        "피해%",
-        "혼돈 기술(악마술사)",
-        "화염 저항%",
-        "흰털여우"
+        "시~",
+        "총 방어력",
+        "️⃣ㅡ남부 세계석 조각ㅡ",
+        "️⃣ㅡ동부 세계석 조각ㅡ",
+        "️⃣ㅡ북부 세계석 조각===",
+        "️⃣ㅡ서부 세계석 조각ㅡ"
       ],
       "samples": [
         {
-          "name": "스탠 거대 부적",
-          "category": "부적",
+          "name": "래더 북부 세계석 조각",
+          "category": "기타",
           "server": "악군",
           "status": "거래완료",
-          "quantity": 1,
+          "quantity": 38,
           "priceP": 1500,
           "unitPriceP": 1500,
           "options": [
@@ -198,132 +152,131 @@
               "value": "20"
             },
             {
-              "label": "혼돈 기술(악마술사)",
-              "value": "1"
+              "label": "#✅",
+              "value": "5"
             },
             {
-              "label": "흰털여우",
-              "value": "2"
+              "label": "️⃣ㅡ북부 세계석 조각===",
+              "value": "38"
+            },
+            {
+              "label": "개==",
+              "value": "1500"
+            },
+            {
+              "label": "바로_번개거래",
+              "value": "544"
             },
             {
               "label": "5.",
               "value": "00"
             },
             {
-              "label": "번개 저항%",
-              "value": "14"
+              "label": "️⃣ㅡ동부 세계석 조각ㅡ",
+              "value": "40"
             },
             {
-              "label": "화염 저항%",
-              "value": "16"
+              "label": "개===",
+              "value": "500"
             },
             {
-              "label": "독 저항%",
+              "label": "#✅✅ㅡ면죄ㅡ",
               "value": "10"
             },
             {
-              "label": "최소 피해",
+              "label": "개 주문시",
+              "value": "1"
+            },
+            {
+              "label": "#✅✅ㅡ라주크ㅡㅡ바로가능ㅡㅡ",
+              "value": "09"
+            },
+            {
+              "label": "시~",
+              "value": "24"
+            },
+            {
+              "label": "️⃣ㅡ남부 세계석 조각ㅡ",
               "value": "3"
             },
             {
-              "label": "크림초코빵",
-              "value": "110"
+              "label": "개===",
+              "value": "100"
             },
             {
-              "label": "모든 능력치",
-              "value": "16"
+              "label": "#✅",
+              "value": "3"
             },
             {
-              "label": "모든 저항",
-              "value": "10"
+              "label": "️⃣ㅡ서부 세계석 조각ㅡ",
+              "value": "40"
             },
             {
-              "label": "경험치 획득량%",
-              "value": "7"
+              "label": "개==",
+              "value": "400"
             },
             {
               "label": "방어력%",
-              "value": "142"
+              "value": "30"
             },
             {
-              "label": "괴물에게서 얻는 금화%",
-              "value": "48"
+              "label": "총 방어력",
+              "value": "98"
             },
             {
-              "label": "모든 능력치",
-              "value": "14"
-            },
-            {
-              "label": "모든 저항",
-              "value": "19"
-            },
-            {
-              "label": "경험치 획득량%",
-              "value": "10"
-            },
-            {
-              "label": "#모든저항",
-              "value": "19"
-            },
-            {
-              "label": "준으뜸 경험치",
-              "value": "10"
-            },
-            {
-              "label": "피해%",
-              "value": "65"
-            },
-            {
-              "label": "#피해",
-              "value": "65"
+              "label": "로베르자",
+              "value": "94"
             }
           ],
           "url": "https://www.playnote.co.kr/trade/itemmarket?index=1"
         },
         {
-          "name": "스탠 거대 부적",
-          "category": "부적",
+          "name": "래더 북부 세계석 조각",
+          "category": "기타",
           "server": "악군",
           "status": "",
-          "quantity": 1,
+          "quantity": 38,
           "priceP": 1500,
           "unitPriceP": 1500,
           "options": [
             {
-              "label": "혼돈 기술(악마술사)",
-              "value": "1"
+              "label": "#✅",
+              "value": "5"
             },
             {
-              "label": "흰털여우",
-              "value": "2"
+              "label": "️⃣ㅡ북부 세계석 조각===",
+              "value": "38"
+            },
+            {
+              "label": "개==",
+              "value": "1500"
+            },
+            {
+              "label": "바로_번개거래",
+              "value": "544"
             },
             {
               "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=459916"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=452932"
         },
         {
-          "name": "스탠 거대 부적",
-          "category": "부적",
+          "name": "래더 북부 세계석 조각",
+          "category": "기타",
           "server": "악군",
           "status": "",
-          "quantity": 1,
+          "quantity": 38,
           "priceP": 1500,
           "unitPriceP": 1500,
-          "options": [
-            {
-              "label": "혼돈 기술(악마술사)",
-              "value": "1"
-            }
-          ],
+          "options": [],
           "url": null
         }
       ]
     },
     {
-      "name": "래더 반지",
+      "name": "래더 남부 세계석 조각",
       "category": "기타",
       "listingCount": 2,
       "price": {
@@ -337,174 +290,45 @@
       ],
       "optionLabels": [
         "5.",
-        "독 저항%",
-        "번개 저항%",
-        "최소 피해",
-        "크림초코빵",
-        "화염 저항%"
+        "개===",
+        "바로_번개거래",
+        "️⃣ㅡ남부 세계석 조각ㅡ"
       ],
       "samples": [
         {
-          "name": "래더 반지",
+          "name": "래더 남부 세계석 조각",
           "category": "기타",
           "server": "악군",
           "status": "",
-          "quantity": 1,
+          "quantity": 21,
           "priceP": 100,
           "unitPriceP": 100,
           "options": [
             {
-              "label": "번개 저항%",
-              "value": "14"
-            },
-            {
-              "label": "화염 저항%",
-              "value": "16"
-            },
-            {
-              "label": "독 저항%",
-              "value": "10"
-            },
-            {
-              "label": "최소 피해",
+              "label": "️⃣ㅡ남부 세계석 조각ㅡ",
               "value": "3"
             },
             {
-              "label": "크림초코빵",
-              "value": "110"
+              "label": "개===",
+              "value": "100"
+            },
+            {
+              "label": "바로_번개거래",
+              "value": "544"
             },
             {
               "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=456751"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=312964"
         },
         {
-          "name": "래더 반지",
+          "name": "래더 남부 세계석 조각",
           "category": "기타",
           "server": "악군",
           "status": "",
-          "quantity": 1,
-          "priceP": 100,
-          "unitPriceP": 100,
-          "options": [
-            {
-              "label": "번개 저항%",
-              "value": "14"
-            },
-            {
-              "label": "화염 저항%",
-              "value": "16"
-            },
-            {
-              "label": "독 저항%",
-              "value": "10"
-            },
-            {
-              "label": "최소 피해",
-              "value": "3"
-            }
-          ],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 엘드룬",
-      "category": "룬",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 200,
-        "median": 200,
-        "max": 200
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "크림초코빵"
-      ],
-      "samples": [
-        {
-          "name": "래더 엘드룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 200,
-          "unitPriceP": 200,
-          "options": [
-            {
-              "label": "크림초코빵",
-              "value": "110"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=382313"
-        },
-        {
-          "name": "래더 엘드룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 200,
-          "unitPriceP": 200,
-          "options": [],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 엘룬",
-      "category": "룬",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 100,
-        "median": 100,
-        "max": 100
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "크림초코빵"
-      ],
-      "samples": [
-        {
-          "name": "래더 엘룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 100,
-          "unitPriceP": 100,
-          "options": [
-            {
-              "label": "크림초코빵",
-              "value": "110"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=394733"
-        },
-        {
-          "name": "래더 엘룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
+          "quantity": 21,
           "priceP": 100,
           "unitPriceP": 100,
           "options": [],
@@ -513,69 +337,308 @@
       ]
     },
     {
-      "name": "래더 지옥불걸음 데몬하이드 부츠",
+      "name": "래더 동부 세계석 조각",
       "category": "기타",
       "listingCount": 2,
       "price": {
         "currency": "P",
-        "min": 100,
-        "median": 100,
-        "max": 100
+        "min": 500,
+        "median": 500,
+        "max": 500
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
         "5.",
-        "괴물에게서 얻는 금화%",
+        "개===",
+        "바로_번개거래",
+        "️⃣ㅡ동부 세계석 조각ㅡ"
+      ],
+      "samples": [
+        {
+          "name": "래더 동부 세계석 조각",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 2,
+          "priceP": 500,
+          "unitPriceP": 500,
+          "options": [
+            {
+              "label": "️⃣ㅡ동부 세계석 조각ㅡ",
+              "value": "40"
+            },
+            {
+              "label": "개===",
+              "value": "500"
+            },
+            {
+              "label": "바로_번개거래",
+              "value": "544"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=452914"
+        },
+        {
+          "name": "래더 동부 세계석 조각",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 2,
+          "priceP": 500,
+          "unitPriceP": 500,
+          "options": [],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 마도크의 분노",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 150,
+        "median": 150,
+        "max": 150
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "#✅",
+        "5.",
+        "바로_번개거래"
+      ],
+      "samples": [
+        {
+          "name": "래더 마도크의 분노",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 6,
+          "priceP": 150,
+          "unitPriceP": 150,
+          "options": [
+            {
+              "label": "#✅",
+              "value": "3"
+            },
+            {
+              "label": "바로_번개거래",
+              "value": "544"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=258383"
+        },
+        {
+          "name": "래더 마도크의 분노",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 6,
+          "priceP": 150,
+          "unitPriceP": 150,
+          "options": [],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 면죄의 징표",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 300,
+        "median": 300,
+        "max": 300
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "#✅✅ㅡ면죄ㅡ",
+        "5.",
+        "개 주문시",
+        "바로_번개거래"
+      ],
+      "samples": [
+        {
+          "name": "래더 면죄의 징표",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 61,
+          "priceP": 300,
+          "unitPriceP": 300,
+          "options": [
+            {
+              "label": "#✅✅ㅡ면죄ㅡ",
+              "value": "10"
+            },
+            {
+              "label": "개 주문시",
+              "value": "1"
+            },
+            {
+              "label": "바로_번개거래",
+              "value": "544"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=365680"
+        },
+        {
+          "name": "래더 면죄의 징표",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 61,
+          "priceP": 300,
+          "unitPriceP": 300,
+          "options": [],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 서부 세계석 조각",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 500,
+        "median": 500,
+        "max": 500
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "5.",
+        "개==",
+        "바로_번개거래",
+        "️⃣ㅡ서부 세계석 조각ㅡ"
+      ],
+      "samples": [
+        {
+          "name": "래더 서부 세계석 조각",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 5,
+          "priceP": 500,
+          "unitPriceP": 500,
+          "options": [
+            {
+              "label": "️⃣ㅡ서부 세계석 조각ㅡ",
+              "value": "40"
+            },
+            {
+              "label": "개==",
+              "value": "400"
+            },
+            {
+              "label": "바로_번개거래",
+              "value": "544"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=93624"
+        },
+        {
+          "name": "래더 서부 세계석 조각",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 5,
+          "priceP": 500,
+          "unitPriceP": 500,
+          "options": [],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "스탠 마수 라이트 건틀릿",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 4000,
+        "median": 4000,
+        "max": 4000
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "5.",
+        "로베르자",
         "방어력%",
-        "크림초코빵"
+        "총 방어력"
       ],
       "samples": [
         {
-          "name": "래더 지옥불걸음 데몬하이드 부츠",
+          "name": "스탠 마수 라이트 건틀릿",
           "category": "기타",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 100,
-          "unitPriceP": 100,
+          "priceP": 4000,
+          "unitPriceP": 4000,
           "options": [
             {
               "label": "방어력%",
-              "value": "142"
+              "value": "30"
             },
             {
-              "label": "괴물에게서 얻는 금화%",
-              "value": "48"
+              "label": "총 방어력",
+              "value": "98"
             },
             {
-              "label": "크림초코빵",
-              "value": "110"
+              "label": "로베르자",
+              "value": "94"
             },
             {
               "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=386409"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=458196"
         },
         {
-          "name": "래더 지옥불걸음 데몬하이드 부츠",
+          "name": "스탠 마수 라이트 건틀릿",
           "category": "기타",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 100,
-          "unitPriceP": 100,
+          "priceP": 4000,
+          "unitPriceP": 4000,
           "options": [
             {
               "label": "방어력%",
-              "value": "142"
+              "value": "30"
             },
             {
-              "label": "괴물에게서 얻는 금화%",
-              "value": "48"
+              "label": "총 방어력",
+              "value": "98"
             }
           ],
           "url": null
@@ -583,124 +646,7 @@
       ]
     },
     {
-      "name": "래더 큰까마귀 발톱 롱보우",
-      "category": "기타",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 100,
-        "median": 100,
-        "max": 100
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "#피해",
-        "5.",
-        "크림초코빵",
-        "피해%"
-      ],
-      "samples": [
-        {
-          "name": "래더 큰까마귀 발톱 롱보우",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 100,
-          "unitPriceP": 100,
-          "options": [
-            {
-              "label": "피해%",
-              "value": "65"
-            },
-            {
-              "label": "#피해",
-              "value": "65"
-            },
-            {
-              "label": "크림초코빵",
-              "value": "110"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=381783"
-        },
-        {
-          "name": "래더 큰까마귀 발톱 롱보우",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 100,
-          "unitPriceP": 100,
-          "options": [
-            {
-              "label": "피해%",
-              "value": "65"
-            }
-          ],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 트래그울의 날개",
-      "category": "기타",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 100,
-        "median": 100,
-        "max": 100
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "크림초코빵"
-      ],
-      "samples": [
-        {
-          "name": "래더 트래그울의 날개",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 2,
-          "priceP": 100,
-          "unitPriceP": 100,
-          "options": [
-            {
-              "label": "크림초코빵",
-              "value": "110"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=385756"
-        },
-        {
-          "name": "래더 트래그울의 날개",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 2,
-          "priceP": 100,
-          "unitPriceP": 100,
-          "options": [],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "스탠 거대 부적",
+      "name": "래더 북부 세계석 조각",
       "category": "룬워드",
       "listingCount": 1,
       "price": {
@@ -713,35 +659,35 @@
         "악군"
       ],
       "optionLabels": [
-        "#모든저항",
-        "#피해",
+        "#✅",
+        "#✅✅ㅡ라주크ㅡㅡ바로가능ㅡㅡ",
+        "#✅✅ㅡ면죄ㅡ",
         "5.",
-        "경험치 획득량%",
-        "괴물에게서 얻는 금화%",
+        "개 주문시",
+        "개==",
+        "개===",
         "다음",
-        "독 저항%",
         "디아블로",
-        "모든 능력치",
-        "모든 저항",
+        "로베르자",
+        "바로_번개거래",
         "방어력%",
-        "번개 저항%",
-        "준으뜸 경험치",
+        "시~",
+        "옵션",
         "지금 시작하면, 멤버십 PLUS",
-        "최소 피해",
-        "크림초코빵",
+        "총 방어력",
         "플레이디아 디아블로",
-        "피해%",
-        "혼돈 기술(악마술사)",
-        "화염 저항%",
-        "흰털여우"
+        "️⃣ㅡ남부 세계석 조각ㅡ",
+        "️⃣ㅡ동부 세계석 조각ㅡ",
+        "️⃣ㅡ북부 세계석 조각===",
+        "️⃣ㅡ서부 세계석 조각ㅡ"
       ],
       "samples": [
         {
-          "name": "스탠 거대 부적",
+          "name": "래더 북부 세계석 조각",
           "category": "룬워드",
           "server": "악군",
           "status": "거래완료",
-          "quantity": 1,
+          "quantity": 38,
           "priceP": 1500,
           "unitPriceP": 1500,
           "options": [
@@ -762,84 +708,84 @@
               "value": "20"
             },
             {
-              "label": "혼돈 기술(악마술사)",
-              "value": "1"
+              "label": "#✅",
+              "value": "5"
             },
             {
-              "label": "흰털여우",
-              "value": "2"
+              "label": "️⃣ㅡ북부 세계석 조각===",
+              "value": "38"
+            },
+            {
+              "label": "개==",
+              "value": "1500"
+            },
+            {
+              "label": "바로_번개거래",
+              "value": "544"
             },
             {
               "label": "5.",
               "value": "00"
             },
             {
-              "label": "번개 저항%",
-              "value": "14"
+              "label": "️⃣ㅡ동부 세계석 조각ㅡ",
+              "value": "40"
             },
             {
-              "label": "화염 저항%",
-              "value": "16"
+              "label": "개===",
+              "value": "500"
             },
             {
-              "label": "독 저항%",
+              "label": "#✅✅ㅡ면죄ㅡ",
               "value": "10"
             },
             {
-              "label": "최소 피해",
+              "label": "개 주문시",
+              "value": "1"
+            },
+            {
+              "label": "#✅✅ㅡ라주크ㅡㅡ바로가능ㅡㅡ",
+              "value": "09"
+            },
+            {
+              "label": "시~",
+              "value": "24"
+            },
+            {
+              "label": "️⃣ㅡ남부 세계석 조각ㅡ",
               "value": "3"
             },
             {
-              "label": "크림초코빵",
-              "value": "110"
+              "label": "개===",
+              "value": "100"
             },
             {
-              "label": "모든 능력치",
-              "value": "16"
+              "label": "#✅",
+              "value": "3"
             },
             {
-              "label": "모든 저항",
-              "value": "10"
+              "label": "️⃣ㅡ서부 세계석 조각ㅡ",
+              "value": "40"
             },
             {
-              "label": "경험치 획득량%",
-              "value": "7"
+              "label": "개==",
+              "value": "400"
             },
             {
               "label": "방어력%",
-              "value": "142"
+              "value": "30"
             },
             {
-              "label": "괴물에게서 얻는 금화%",
-              "value": "48"
+              "label": "총 방어력",
+              "value": "98"
             },
             {
-              "label": "모든 능력치",
-              "value": "14"
+              "label": "로베르자",
+              "value": "94"
             },
             {
-              "label": "모든 저항",
-              "value": "19"
-            },
-            {
-              "label": "경험치 획득량%",
-              "value": "10"
-            },
-            {
-              "label": "#모든저항",
-              "value": "19"
-            },
-            {
-              "label": "준으뜸 경험치",
-              "value": "10"
-            },
-            {
-              "label": "피해%",
-              "value": "65"
-            },
-            {
-              "label": "#피해",
-              "value": "65"
+              "label": "옵션",
+              "value": "0"
             }
           ],
           "url": "https://www.playnote.co.kr/customer/noticedetail?Index=5"
