@@ -1,231 +1,636 @@
 {
   "source": "https://www.playnote.co.kr/trade/itemmarket?index=1",
   "scope": "public-listings-only",
-  "updatedAt": "2026-11-08T05:51:40.239073+00:00",
+  "updatedAt": "2026-11-08T13:14:06.287291+00:00",
   "listingCount": 20,
-  "itemCount": 9,
+  "itemCount": 11,
   "items": [
     {
-      "name": "래더 로룬",
-      "category": "룬",
-      "listingCount": 4,
-      "price": {
-        "currency": "P",
-        "min": 660,
-        "median": 905,
-        "max": 1150
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "샤브르"
-      ],
-      "samples": [
-        {
-          "name": "래더 로룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 24,
-          "priceP": 660,
-          "unitPriceP": 660,
-          "options": [
-            {
-              "label": "샤브르",
-              "value": "253"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=461469"
-        },
-        {
-          "name": "래더 로룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 24,
-          "priceP": 660,
-          "unitPriceP": 660,
-          "options": [],
-          "url": null
-        },
-        {
-          "name": "래더 로룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 13,
-          "priceP": 1150,
-          "unitPriceP": 1150,
-          "options": [
-            {
-              "label": "샤브르",
-              "value": "253"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=461468"
-        },
-        {
-          "name": "래더 로룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 13,
-          "priceP": 1150,
-          "unitPriceP": 1150,
-          "options": [],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 애니참",
+      "name": "래더 거대 부적",
       "category": "부적",
-      "listingCount": 4,
+      "listingCount": 2,
       "price": {
         "currency": "P",
-        "min": 230,
-        "median": 515,
-        "max": 800
+        "min": 35000,
+        "median": 35000,
+        "max": 35000
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "#모든저항",
         "5.",
-        "경험치 획득량%",
-        "모든 능력치",
-        "모든 저항",
-        "준으뜸 경험치",
-        "크림초코빵"
+        "생명력",
+        "성원",
+        "악마 기술(악마술사)"
       ],
       "samples": [
         {
-          "name": "래더 애니참",
+          "name": "래더 거대 부적",
           "category": "부적",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 230,
-          "unitPriceP": 230,
+          "priceP": 35000,
+          "unitPriceP": 35000,
           "options": [
             {
-              "label": "모든 능력치",
-              "value": "16"
+              "label": "악마 기술(악마술사)",
+              "value": "1"
             },
             {
-              "label": "모든 저항",
-              "value": "10"
+              "label": "생명력",
+              "value": "44"
             },
             {
-              "label": "경험치 획득량%",
-              "value": "7"
-            },
-            {
-              "label": "크림초코빵",
-              "value": "110"
+              "label": "성원",
+              "value": "3"
             },
             {
               "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=437796"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=461942"
         },
         {
-          "name": "래더 애니참",
+          "name": "래더 거대 부적",
           "category": "부적",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 230,
-          "unitPriceP": 230,
+          "priceP": 35000,
+          "unitPriceP": 35000,
           "options": [
             {
-              "label": "모든 능력치",
-              "value": "16"
+              "label": "악마 기술(악마술사)",
+              "value": "1"
             },
             {
-              "label": "모든 저항",
-              "value": "10"
-            },
-            {
-              "label": "경험치 획득량%",
-              "value": "7"
+              "label": "생명력",
+              "value": "44"
             }
           ],
           "url": null
-        },
+        }
+      ]
+    },
+    {
+      "name": "래더 쉐도우 플레이트",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 700,
+        "median": 700,
+        "max": 700
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "4.",
+        "아러아러",
+        "총 방어력",
+        "홈 있음(소켓)"
+      ],
+      "samples": [
         {
-          "name": "래더 애니참",
-          "category": "부적",
+          "name": "래더 쉐도우 플레이트",
+          "category": "기타",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 800,
-          "unitPriceP": 800,
+          "priceP": 700,
+          "unitPriceP": 700,
           "options": [
             {
-              "label": "모든 능력치",
+              "label": "홈 있음(소켓)",
+              "value": "4"
+            },
+            {
+              "label": "총 방어력",
+              "value": "811"
+            },
+            {
+              "label": "아러아러",
+              "value": "24"
+            },
+            {
+              "label": "4.",
+              "value": "90"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=437441"
+        },
+        {
+          "name": "래더 쉐도우 플레이트",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 700,
+          "unitPriceP": 700,
+          "options": [
+            {
+              "label": "홈 있음(소켓)",
+              "value": "4"
+            },
+            {
+              "label": "총 방어력",
+              "value": "811"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 오르무스의 장포 더스크 슈라우드",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 500,
+        "median": 500,
+        "max": 500
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "4.",
+        "냉기 기술 피해%",
+        "마나 재생%",
+        "방어력",
+        "번개 기술 피해%",
+        "순간이동(원소술사 전용)",
+        "아러아러",
+        "화염 기술 피해%"
+      ],
+      "samples": [
+        {
+          "name": "래더 오르무스의 장포 더스크 슈라우드",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 500,
+          "unitPriceP": 500,
+          "options": [
+            {
+              "label": "냉기 기술 피해%",
               "value": "14"
             },
             {
-              "label": "모든 저항",
-              "value": "19"
+              "label": "번개 기술 피해%",
+              "value": "14"
             },
             {
-              "label": "경험치 획득량%",
+              "label": "화염 기술 피해%",
+              "value": "15"
+            },
+            {
+              "label": "방어력",
               "value": "10"
             },
             {
-              "label": "#모든저항",
-              "value": "19"
+              "label": "마나 재생%",
+              "value": "15"
             },
             {
-              "label": "준으뜸 경험치",
-              "value": "10"
+              "label": "순간이동(원소술사 전용)",
+              "value": "3"
             },
             {
-              "label": "크림초코빵",
-              "value": "110"
+              "label": "아러아러",
+              "value": "24"
             },
             {
-              "label": "5.",
-              "value": "00"
+              "label": "4.",
+              "value": "90"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=382815"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=444787"
         },
         {
-          "name": "래더 애니참",
+          "name": "래더 오르무스의 장포 더스크 슈라우드",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 500,
+          "unitPriceP": 500,
+          "options": [
+            {
+              "label": "냉기 기술 피해%",
+              "value": "14"
+            },
+            {
+              "label": "번개 기술 피해%",
+              "value": "14"
+            },
+            {
+              "label": "화염 기술 피해%",
+              "value": "15"
+            },
+            {
+              "label": "방어력",
+              "value": "10"
+            },
+            {
+              "label": "마나 재생%",
+              "value": "15"
+            },
+            {
+              "label": "순간이동(원소술사 전용)",
+              "value": "3"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 워 스태프",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 1000,
+        "median": 1000,
+        "max": 1000
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "4.",
+        "마력 보호막(원소술사 전용)",
+        "순간이동(원소술사 전용)",
+        "아러아러",
+        "홈 있음(소켓)"
+      ],
+      "samples": [
+        {
+          "name": "래더 워 스태프",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 1000,
+          "unitPriceP": 1000,
+          "options": [
+            {
+              "label": "마력 보호막(원소술사 전용)",
+              "value": "1"
+            },
+            {
+              "label": "순간이동(원소술사 전용)",
+              "value": "2"
+            },
+            {
+              "label": "홈 있음(소켓)",
+              "value": "4"
+            },
+            {
+              "label": "아러아러",
+              "value": "24"
+            },
+            {
+              "label": "4.",
+              "value": "90"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=436470"
+        },
+        {
+          "name": "래더 워 스태프",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 1000,
+          "unitPriceP": 1000,
+          "options": [
+            {
+              "label": "마력 보호막(원소술사 전용)",
+              "value": "1"
+            },
+            {
+              "label": "순간이동(원소술사 전용)",
+              "value": "2"
+            },
+            {
+              "label": "홈 있음(소켓)",
+              "value": "4"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 지옥파수꾼의 의지 데스 마스크",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 300,
+        "median": 300,
+        "max": 300
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "4.",
+        "방어력%",
+        "아러아러",
+        "적 처치 시 마나 회복",
+        "적의 마법 저항-%",
+        "적의 화염 저항-%"
+      ],
+      "samples": [
+        {
+          "name": "래더 지옥파수꾼의 의지 데스 마스크",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 300,
+          "unitPriceP": 300,
+          "options": [
+            {
+              "label": "적의 마법 저항-%",
+              "value": "7"
+            },
+            {
+              "label": "적의 화염 저항-%",
+              "value": "8"
+            },
+            {
+              "label": "방어력%",
+              "value": "163"
+            },
+            {
+              "label": "적 처치 시 마나 회복",
+              "value": "5"
+            },
+            {
+              "label": "아러아러",
+              "value": "24"
+            },
+            {
+              "label": "4.",
+              "value": "90"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=434690"
+        },
+        {
+          "name": "래더 지옥파수꾼의 의지 데스 마스크",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 300,
+          "unitPriceP": 300,
+          "options": [
+            {
+              "label": "적의 마법 저항-%",
+              "value": "7"
+            },
+            {
+              "label": "적의 화염 저항-%",
+              "value": "8"
+            },
+            {
+              "label": "방어력%",
+              "value": "163"
+            },
+            {
+              "label": "적 처치 시 마나 회복",
+              "value": "5"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 콜로서스 블레이드",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 400,
+        "median": 400,
+        "max": 400
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "4.",
+        "아러아러",
+        "홈 있음(소켓)"
+      ],
+      "samples": [
+        {
+          "name": "래더 콜로서스 블레이드",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 400,
+          "unitPriceP": 400,
+          "options": [
+            {
+              "label": "홈 있음(소켓)",
+              "value": "5"
+            },
+            {
+              "label": "아러아러",
+              "value": "24"
+            },
+            {
+              "label": "4.",
+              "value": "90"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=419639"
+        },
+        {
+          "name": "래더 콜로서스 블레이드",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 400,
+          "unitPriceP": 400,
+          "options": [
+            {
+              "label": "홈 있음(소켓)",
+              "value": "5"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 크리스탈 소드",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 300,
+        "median": 300,
+        "max": 300
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "4.",
+        "명중률",
+        "아러아러",
+        "피해%",
+        "홈 있음(소켓)"
+      ],
+      "samples": [
+        {
+          "name": "래더 크리스탈 소드",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 300,
+          "unitPriceP": 300,
+          "options": [
+            {
+              "label": "피해%",
+              "value": "14"
+            },
+            {
+              "label": "명중률",
+              "value": "2"
+            },
+            {
+              "label": "홈 있음(소켓)",
+              "value": "4"
+            },
+            {
+              "label": "아러아러",
+              "value": "24"
+            },
+            {
+              "label": "4.",
+              "value": "90"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=450970"
+        },
+        {
+          "name": "래더 크리스탈 소드",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 300,
+          "unitPriceP": 300,
+          "options": [
+            {
+              "label": "피해%",
+              "value": "14"
+            },
+            {
+              "label": "명중률",
+              "value": "2"
+            },
+            {
+              "label": "홈 있음(소켓)",
+              "value": "4"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 큰 부적",
+      "category": "부적",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 1000,
+        "median": 1000,
+        "max": 1000
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "4.",
+        "명중률",
+        "생명력",
+        "아러아러",
+        "최대 피해"
+      ],
+      "samples": [
+        {
+          "name": "래더 큰 부적",
           "category": "부적",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 800,
-          "unitPriceP": 800,
+          "priceP": 1000,
+          "unitPriceP": 1000,
           "options": [
             {
-              "label": "모든 능력치",
-              "value": "14"
+              "label": "명중률",
+              "value": "29"
             },
             {
-              "label": "모든 저항",
-              "value": "19"
+              "label": "최대 피해",
+              "value": "5"
             },
             {
-              "label": "경험치 획득량%",
-              "value": "10"
+              "label": "생명력",
+              "value": "25"
+            },
+            {
+              "label": "아러아러",
+              "value": "24"
+            },
+            {
+              "label": "4.",
+              "value": "90"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=448020"
+        },
+        {
+          "name": "래더 큰 부적",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 1000,
+          "unitPriceP": 1000,
+          "options": [
+            {
+              "label": "명중률",
+              "value": "29"
+            },
+            {
+              "label": "최대 피해",
+              "value": "5"
+            },
+            {
+              "label": "생명력",
+              "value": "25"
             }
           ],
           "url": null
@@ -233,304 +638,111 @@
       ]
     },
     {
-      "name": "래더 굴룬",
-      "category": "룬",
+      "name": "스탠 스파이더 보우",
+      "category": "기타",
       "listingCount": 2,
       "price": {
         "currency": "P",
-        "min": 280,
-        "median": 280,
-        "max": 280
+        "min": 1300,
+        "median": 1300,
+        "max": 1300
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "5.",
-        "샤브르"
+        "4.",
+        "온앤온",
+        "피해%"
       ],
       "samples": [
         {
-          "name": "래더 굴룬",
-          "category": "룬",
+          "name": "스탠 스파이더 보우",
+          "category": "기타",
           "server": "악군",
           "status": "",
-          "quantity": 5,
-          "priceP": 280,
-          "unitPriceP": 280,
+          "quantity": 1,
+          "priceP": 1300,
+          "unitPriceP": 1300,
           "options": [
             {
-              "label": "샤브르",
-              "value": "253"
+              "label": "피해%",
+              "value": "15"
             },
             {
-              "label": "5.",
-              "value": "00"
+              "label": "온앤온",
+              "value": "111"
+            },
+            {
+              "label": "4.",
+              "value": "90"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=461470"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=461943"
         },
         {
-          "name": "래더 굴룬",
-          "category": "룬",
+          "name": "스탠 스파이더 보우",
+          "category": "기타",
           "server": "악군",
           "status": "",
-          "quantity": 5,
-          "priceP": 280,
-          "unitPriceP": 280,
-          "options": [],
+          "quantity": 1,
+          "priceP": 1300,
+          "unitPriceP": 1300,
+          "options": [
+            {
+              "label": "피해%",
+              "value": "15"
+            }
+          ],
           "url": null
         }
       ]
     },
     {
-      "name": "래더 렘룬",
-      "category": "룬",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 120,
-        "median": 120,
-        "max": 120
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "샤브르"
-      ],
-      "samples": [
-        {
-          "name": "래더 렘룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 12,
-          "priceP": 120,
-          "unitPriceP": 120,
-          "options": [
-            {
-              "label": "샤브르",
-              "value": "253"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=461477"
-        },
-        {
-          "name": "래더 렘룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 12,
-          "priceP": 120,
-          "unitPriceP": 120,
-          "options": [],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 말룬",
-      "category": "룬",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 140,
-        "median": 140,
-        "max": 140
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "샤브르"
-      ],
-      "samples": [
-        {
-          "name": "래더 말룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 7,
-          "priceP": 140,
-          "unitPriceP": 140,
-          "options": [
-            {
-              "label": "샤브르",
-              "value": "253"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=461473"
-        },
-        {
-          "name": "래더 말룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 7,
-          "priceP": 140,
-          "unitPriceP": 140,
-          "options": [],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 이스트룬",
-      "category": "룬",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 220,
-        "median": 220,
-        "max": 220
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "샤브르"
-      ],
-      "samples": [
-        {
-          "name": "래더 이스트룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 39,
-          "priceP": 220,
-          "unitPriceP": 220,
-          "options": [
-            {
-              "label": "샤브르",
-              "value": "253"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=461472"
-        },
-        {
-          "name": "래더 이스트룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 39,
-          "priceP": 220,
-          "unitPriceP": 220,
-          "options": [],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 풀룬",
-      "category": "룬",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 140,
-        "median": 140,
-        "max": 140
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "샤브르"
-      ],
-      "samples": [
-        {
-          "name": "래더 풀룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 6,
-          "priceP": 140,
-          "unitPriceP": 140,
-          "options": [
-            {
-              "label": "샤브르",
-              "value": "253"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=461476"
-        },
-        {
-          "name": "래더 풀룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 6,
-          "priceP": 140,
-          "unitPriceP": 140,
-          "options": [],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 애니참",
+      "name": "스탠 스파이더 보우",
       "category": "룬워드",
       "listingCount": 1,
       "price": {
         "currency": "P",
-        "min": 230,
-        "median": 230,
-        "max": 230
+        "min": 1300,
+        "median": 1300,
+        "max": 1300
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "#모든저항",
-        "-부산중구",
-        "1,",
+        "4.",
         "5.",
-        "경험치 획득량%",
+        "냉기 기술 피해%",
         "다음",
         "디아블로",
-        "모든 능력치",
-        "모든 저항",
-        "부산광역시 남구 전포대로",
-        "사업자등록번호:",
-        "샤브르",
-        "연락처",
-        "옵션",
-        "자주묻는질문",
-        "준으뜸 경험치",
+        "마나 재생%",
+        "명중률",
+        "방어력",
+        "번개 기술 피해%",
+        "생명력",
+        "성원",
+        "순간이동(원소술사 전용)",
+        "아러아러",
+        "악마 기술(악마술사)",
+        "온앤온",
         "지금 시작하면, 멤버십 PLUS",
-        "크림초코빵",
-        "통신판매신고번호: 제",
-        "플레이디아 디아블로"
+        "최대 피해",
+        "플레이디아 디아블로",
+        "피해%",
+        "홈 있음(소켓)",
+        "화염 기술 피해%"
       ],
       "samples": [
         {
-          "name": "래더 애니참",
+          "name": "스탠 스파이더 보우",
           "category": "룬워드",
           "server": "악군",
           "status": "거래완료",
           "quantity": 1,
-          "priceP": 230,
-          "unitPriceP": 230,
+          "priceP": 1300,
+          "unitPriceP": 1300,
           "options": [
             {
               "label": "지금 시작하면, 멤버십 PLUS",
@@ -549,80 +761,84 @@
               "value": "20"
             },
             {
-              "label": "모든 능력치",
-              "value": "16"
+              "label": "피해%",
+              "value": "15"
             },
             {
-              "label": "모든 저항",
-              "value": "10"
+              "label": "온앤온",
+              "value": "111"
             },
             {
-              "label": "경험치 획득량%",
-              "value": "7"
+              "label": "4.",
+              "value": "90"
             },
             {
-              "label": "크림초코빵",
-              "value": "110"
+              "label": "악마 기술(악마술사)",
+              "value": "1"
+            },
+            {
+              "label": "생명력",
+              "value": "44"
+            },
+            {
+              "label": "성원",
+              "value": "3"
             },
             {
               "label": "5.",
               "value": "00"
             },
             {
-              "label": "모든 능력치",
+              "label": "피해%",
               "value": "14"
             },
             {
-              "label": "모든 저항",
-              "value": "19"
+              "label": "명중률",
+              "value": "2"
             },
             {
-              "label": "경험치 획득량%",
+              "label": "홈 있음(소켓)",
+              "value": "4"
+            },
+            {
+              "label": "아러아러",
+              "value": "24"
+            },
+            {
+              "label": "명중률",
+              "value": "29"
+            },
+            {
+              "label": "최대 피해",
+              "value": "5"
+            },
+            {
+              "label": "생명력",
+              "value": "25"
+            },
+            {
+              "label": "냉기 기술 피해%",
+              "value": "14"
+            },
+            {
+              "label": "번개 기술 피해%",
+              "value": "14"
+            },
+            {
+              "label": "화염 기술 피해%",
+              "value": "15"
+            },
+            {
+              "label": "방어력",
               "value": "10"
             },
             {
-              "label": "#모든저항",
-              "value": "19"
+              "label": "마나 재생%",
+              "value": "15"
             },
             {
-              "label": "준으뜸 경험치",
-              "value": "10"
-            },
-            {
-              "label": "샤브르",
-              "value": "253"
-            },
-            {
-              "label": "옵션",
-              "value": "0"
-            },
-            {
-              "label": "1,",
-              "value": "000"
-            },
-            {
-              "label": "사업자등록번호:",
-              "value": "148"
-            },
-            {
-              "label": "통신판매신고번호: 제",
-              "value": "2021"
-            },
-            {
-              "label": "-부산중구",
-              "value": "0282"
-            },
-            {
-              "label": "부산광역시 남구 전포대로",
-              "value": "116"
-            },
-            {
-              "label": "연락처",
-              "value": "070"
-            },
-            {
-              "label": "자주묻는질문",
-              "value": "1"
+              "label": "순간이동(원소술사 전용)",
+              "value": "3"
             }
           ],
           "url": "https://www.playnote.co.kr/customer/noticedetail?Index=5"
@@ -630,86 +846,145 @@
       ]
     },
     {
-      "name": "래더 애니참",
-      "category": "룬",
+      "name": "스탠 스파이더 보우",
+      "category": "부적",
       "listingCount": 1,
       "price": {
         "currency": "P",
-        "min": 230,
-        "median": 230,
-        "max": 230
+        "min": 1300,
+        "median": 1300,
+        "max": 1300
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "#모든저항",
+        "4.",
         "5.",
-        "경험치 획득량%",
+        "냉기 기술 피해%",
         "다음",
-        "모든 능력치",
-        "모든 저항",
-        "샤브르",
-        "준으뜸 경험치",
-        "크림초코빵"
+        "마나 재생%",
+        "마력 보호막(원소술사 전용)",
+        "명중률",
+        "방어력",
+        "번개 기술 피해%",
+        "생명력",
+        "성원",
+        "순간이동(원소술사 전용)",
+        "아러아러",
+        "악마 기술(악마술사)",
+        "온앤온",
+        "총 방어력",
+        "최대 피해",
+        "피해%",
+        "홈 있음(소켓)",
+        "화염 기술 피해%"
       ],
       "samples": [
         {
-          "name": "래더 애니참",
-          "category": "룬",
+          "name": "스탠 스파이더 보우",
+          "category": "부적",
           "server": "악군",
           "status": "거래완료",
           "quantity": 1,
-          "priceP": 230,
-          "unitPriceP": 230,
+          "priceP": 1300,
+          "unitPriceP": 1300,
           "options": [
             {
               "label": "다음",
               "value": "20"
             },
             {
-              "label": "모든 능력치",
-              "value": "16"
+              "label": "피해%",
+              "value": "15"
             },
             {
-              "label": "모든 저항",
-              "value": "10"
+              "label": "온앤온",
+              "value": "111"
             },
             {
-              "label": "경험치 획득량%",
-              "value": "7"
+              "label": "4.",
+              "value": "90"
             },
             {
-              "label": "크림초코빵",
-              "value": "110"
+              "label": "악마 기술(악마술사)",
+              "value": "1"
+            },
+            {
+              "label": "생명력",
+              "value": "44"
+            },
+            {
+              "label": "성원",
+              "value": "3"
             },
             {
               "label": "5.",
               "value": "00"
             },
             {
-              "label": "모든 능력치",
+              "label": "피해%",
               "value": "14"
             },
             {
-              "label": "모든 저항",
-              "value": "19"
+              "label": "명중률",
+              "value": "2"
             },
             {
-              "label": "경험치 획득량%",
+              "label": "홈 있음(소켓)",
+              "value": "4"
+            },
+            {
+              "label": "아러아러",
+              "value": "24"
+            },
+            {
+              "label": "명중률",
+              "value": "29"
+            },
+            {
+              "label": "최대 피해",
+              "value": "5"
+            },
+            {
+              "label": "생명력",
+              "value": "25"
+            },
+            {
+              "label": "냉기 기술 피해%",
+              "value": "14"
+            },
+            {
+              "label": "번개 기술 피해%",
+              "value": "14"
+            },
+            {
+              "label": "화염 기술 피해%",
+              "value": "15"
+            },
+            {
+              "label": "방어력",
               "value": "10"
             },
             {
-              "label": "#모든저항",
-              "value": "19"
+              "label": "마나 재생%",
+              "value": "15"
             },
             {
-              "label": "준으뜸 경험치",
-              "value": "10"
+              "label": "순간이동(원소술사 전용)",
+              "value": "3"
             },
             {
-              "label": "샤브르",
-              "value": "253"
+              "label": "총 방어력",
+              "value": "811"
+            },
+            {
+              "label": "마력 보호막(원소술사 전용)",
+              "value": "1"
+            },
+            {
+              "label": "순간이동(원소술사 전용)",
+              "value": "2"
             }
           ],
           "url": "https://www.playnote.co.kr/trade/itemmarket?index=1"
