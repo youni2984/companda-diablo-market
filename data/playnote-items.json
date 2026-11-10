@@ -1,13 +1,359 @@
 {
   "source": "https://www.playnote.co.kr/trade/itemmarket?index=1",
   "scope": "public-listings-only",
-  "updatedAt": "2026-11-10T11:41:43.801377+00:00",
-  "listingCount": 15,
+  "updatedAt": "2026-11-10T19:39:01.022730+00:00",
+  "listingCount": 20,
   "itemCount": 10,
   "items": [
     {
-      "name": "스탠 독사마술사의 가죽 서펀트스킨 아머",
+      "name": "스탠 거대 부적",
+      "category": "부적",
+      "listingCount": 4,
+      "price": {
+        "currency": "P",
+        "min": 200,
+        "median": 7100,
+        "max": 14000
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "#악사 혼돈기술 /",
+        "5.",
+        "NasdaQ",
+        "생명력",
+        "함성(야만용사 전용)",
+        "혼돈 기술(악마술사)"
+      ],
+      "samples": [
+        {
+          "name": "스탠 거대 부적",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 9,
+          "priceP": 200,
+          "unitPriceP": 200,
+          "options": [
+            {
+              "label": "함성(야만용사 전용)",
+              "value": "1"
+            },
+            {
+              "label": "NasdaQ",
+              "value": "132"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=464414"
+        },
+        {
+          "name": "스탠 거대 부적",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 9,
+          "priceP": 200,
+          "unitPriceP": 200,
+          "options": [
+            {
+              "label": "함성(야만용사 전용)",
+              "value": "1"
+            }
+          ],
+          "url": null
+        },
+        {
+          "name": "스탠 거대 부적",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 14000,
+          "unitPriceP": 14000,
+          "options": [
+            {
+              "label": "혼돈 기술(악마술사)",
+              "value": "1"
+            },
+            {
+              "label": "생명력",
+              "value": "33"
+            },
+            {
+              "label": "#악사 혼돈기술 /",
+              "value": "33"
+            },
+            {
+              "label": "NasdaQ",
+              "value": "132"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=464413"
+        },
+        {
+          "name": "스탠 거대 부적",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 14000,
+          "unitPriceP": 14000,
+          "options": [
+            {
+              "label": "혼돈 기술(악마술사)",
+              "value": "1"
+            },
+            {
+              "label": "생명력",
+              "value": "33"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "스탠 데몬하이드 부츠",
       "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 200000,
+        "median": 200000,
+        "max": 200000
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "5.",
+        "달리기/걷기 속도%",
+        "레이서송",
+        "마나",
+        "마나 재생%",
+        "방어력%",
+        "번개 저항%",
+        "총 방어력",
+        "최대 마나%",
+        "화염 저항%"
+      ],
+      "samples": [
+        {
+          "name": "스탠 데몬하이드 부츠",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 200000,
+          "unitPriceP": 200000,
+          "options": [
+            {
+              "label": "총 방어력",
+              "value": "41"
+            },
+            {
+              "label": "달리기/걷기 속도%",
+              "value": "30"
+            },
+            {
+              "label": "방어력%",
+              "value": "15"
+            },
+            {
+              "label": "마나",
+              "value": "15"
+            },
+            {
+              "label": "최대 마나%",
+              "value": "4"
+            },
+            {
+              "label": "마나 재생%",
+              "value": "5"
+            },
+            {
+              "label": "번개 저항%",
+              "value": "34"
+            },
+            {
+              "label": "화염 저항%",
+              "value": "37"
+            },
+            {
+              "label": "레이서송",
+              "value": "48"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=446663"
+        },
+        {
+          "name": "스탠 데몬하이드 부츠",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 200000,
+          "unitPriceP": 200000,
+          "options": [
+            {
+              "label": "총 방어력",
+              "value": "41"
+            },
+            {
+              "label": "달리기/걷기 속도%",
+              "value": "30"
+            },
+            {
+              "label": "방어력%",
+              "value": "15"
+            },
+            {
+              "label": "마나",
+              "value": "15"
+            },
+            {
+              "label": "최대 마나%",
+              "value": "4"
+            },
+            {
+              "label": "마나 재생%",
+              "value": "5"
+            },
+            {
+              "label": "번개 저항%",
+              "value": "34"
+            },
+            {
+              "label": "화염 저항%",
+              "value": "37"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "스탠 새로워진 뼈의 분쇄 거대 부적",
+      "category": "부적",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 8000,
+        "median": 8000,
+        "max": 8000
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "5.",
+        "달리기/걷기 속도%",
+        "달벵이",
+        "마법 아이템 발견 확률%",
+        "받는 물리 피해%",
+        "생명력",
+        "피해 감소",
+        "피해%"
+      ],
+      "samples": [
+        {
+          "name": "스탠 새로워진 뼈의 분쇄 거대 부적",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 8000,
+          "unitPriceP": 8000,
+          "options": [
+            {
+              "label": "받는 물리 피해%",
+              "value": "10"
+            },
+            {
+              "label": "달리기/걷기 속도%",
+              "value": "10"
+            },
+            {
+              "label": "피해%",
+              "value": "94"
+            },
+            {
+              "label": "생명력",
+              "value": "16"
+            },
+            {
+              "label": "피해 감소",
+              "value": "7"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "20"
+            },
+            {
+              "label": "달벵이",
+              "value": "147"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=349567"
+        },
+        {
+          "name": "스탠 새로워진 뼈의 분쇄 거대 부적",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 8000,
+          "unitPriceP": 8000,
+          "options": [
+            {
+              "label": "받는 물리 피해%",
+              "value": "10"
+            },
+            {
+              "label": "달리기/걷기 속도%",
+              "value": "10"
+            },
+            {
+              "label": "피해%",
+              "value": "94"
+            },
+            {
+              "label": "생명력",
+              "value": "16"
+            },
+            {
+              "label": "피해 감소",
+              "value": "7"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "20"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "스탠 아이드룬",
+      "category": "룬",
       "listingCount": 2,
       "price": {
         "currency": "P",
@@ -19,358 +365,240 @@
         "악군"
       ],
       "optionLabels": [
-        "#무지개주얼 번깍",
-        "4.",
-        "모든 저항",
-        "번개 기술 피해%",
-        "적의 번개 저항-%",
-        "츄러스"
-      ],
-      "samples": [
-        {
-          "name": "스탠 독사마술사의 가죽 서펀트스킨 아머",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 2000,
-          "unitPriceP": 2000,
-          "options": [
-            {
-              "label": "모든 저항",
-              "value": "35"
-            },
-            {
-              "label": "적의 번개 저항-%",
-              "value": "5"
-            },
-            {
-              "label": "번개 기술 피해%",
-              "value": "5"
-            },
-            {
-              "label": "#무지개주얼 번깍",
-              "value": "5"
-            },
-            {
-              "label": "츄러스",
-              "value": "65"
-            },
-            {
-              "label": "4.",
-              "value": "90"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=463564"
-        },
-        {
-          "name": "스탠 독사마술사의 가죽 서펀트스킨 아머",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 2000,
-          "unitPriceP": 2000,
-          "options": [
-            {
-              "label": "모든 저항",
-              "value": "35"
-            },
-            {
-              "label": "적의 번개 저항-%",
-              "value": "5"
-            },
-            {
-              "label": "번개 기술 피해%",
-              "value": "5"
-            }
-          ],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "스탠 샤크스킨 글러브",
-      "category": "기타",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 19500,
-        "median": 19500,
-        "max": 19500
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "4.",
-        "fallrain",
-        "공격 속도%",
-        "마법 아이템 발견 확률%",
-        "방어력%",
-        "번개 저항%",
-        "적중당 마나 훔침%",
-        "총 방어력",
-        "투창과 창 기술(아마존 전용)"
-      ],
-      "samples": [
-        {
-          "name": "스탠 샤크스킨 글러브",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 19500,
-          "unitPriceP": 19500,
-          "options": [
-            {
-              "label": "공격 속도%",
-              "value": "20"
-            },
-            {
-              "label": "투창과 창 기술(아마존 전용)",
-              "value": "2"
-            },
-            {
-              "label": "적중당 마나 훔침%",
-              "value": "3"
-            },
-            {
-              "label": "마법 아이템 발견 확률%",
-              "value": "18"
-            },
-            {
-              "label": "번개 저항%",
-              "value": "7"
-            },
-            {
-              "label": "방어력%",
-              "value": "27"
-            },
-            {
-              "label": "총 방어력",
-              "value": "50"
-            },
-            {
-              "label": "fallrain",
-              "value": "138"
-            },
-            {
-              "label": "4.",
-              "value": "90"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=461268"
-        },
-        {
-          "name": "스탠 샤크스킨 글러브",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 19500,
-          "unitPriceP": 19500,
-          "options": [
-            {
-              "label": "공격 속도%",
-              "value": "20"
-            },
-            {
-              "label": "투창과 창 기술(아마존 전용)",
-              "value": "2"
-            },
-            {
-              "label": "적중당 마나 훔침%",
-              "value": "3"
-            },
-            {
-              "label": "마법 아이템 발견 확률%",
-              "value": "18"
-            },
-            {
-              "label": "번개 저항%",
-              "value": "7"
-            },
-            {
-              "label": "방어력%",
-              "value": "27"
-            },
-            {
-              "label": "총 방어력",
-              "value": "50"
-            }
-          ],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "스탠 자이언트 쓰레셔",
-      "category": "기타",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 1500,
-        "median": 1500,
-        "max": 1500
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
+        "#아이드룬",
         "5.",
-        "푸른하늘바람",
-        "홈 있음(소켓)"
+        "개 한묶음",
+        "소다"
       ],
       "samples": [
         {
-          "name": "스탠 자이언트 쓰레셔",
-          "category": "기타",
+          "name": "스탠 아이드룬",
+          "category": "룬",
           "server": "악군",
           "status": "",
-          "quantity": 1,
-          "priceP": 1500,
-          "unitPriceP": 1500,
+          "quantity": 99,
+          "priceP": 2000,
+          "unitPriceP": 2000,
           "options": [
             {
-              "label": "홈 있음(소켓)",
-              "value": "4"
+              "label": "#아이드룬",
+              "value": "99"
             },
             {
-              "label": "푸른하늘바람",
-              "value": "95"
+              "label": "개 한묶음",
+              "value": "6"
+            },
+            {
+              "label": "소다",
+              "value": "47"
             },
             {
               "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=463934"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=464412"
         },
         {
-          "name": "스탠 자이언트 쓰레셔",
-          "category": "기타",
+          "name": "스탠 아이드룬",
+          "category": "룬",
           "server": "악군",
           "status": "",
-          "quantity": 1,
-          "priceP": 1500,
-          "unitPriceP": 1500,
-          "options": [
-            {
-              "label": "홈 있음(소켓)",
-              "value": "4"
-            }
-          ],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "스탠 키 세트",
-      "category": "세트",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 700,
-        "median": 700,
-        "max": 700
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "4.",
-        "츄러스"
-      ],
-      "samples": [
-        {
-          "name": "스탠 키 세트",
-          "category": "세트",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 700,
-          "unitPriceP": 700,
-          "options": [
-            {
-              "label": "츄러스",
-              "value": "65"
-            },
-            {
-              "label": "4.",
-              "value": "90"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=463765"
-        },
-        {
-          "name": "스탠 키 세트",
-          "category": "세트",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 700,
-          "unitPriceP": 700,
+          "quantity": 99,
+          "priceP": 2000,
+          "unitPriceP": 2000,
           "options": [],
           "url": null
         }
       ]
     },
     {
-      "name": "스탠 티르룬",
+      "name": "스탠 에드룬",
       "category": "룬",
       "listingCount": 2,
       "price": {
         "currency": "P",
-        "min": 1500,
-        "median": 1500,
-        "max": 1500
+        "min": 2000,
+        "median": 2000,
+        "max": 2000
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
+        "#에드룬",
         "5.",
-        "이런젠장"
+        "개 한묶음",
+        "소다"
       ],
       "samples": [
         {
-          "name": "스탠 티르룬",
+          "name": "스탠 에드룬",
           "category": "룬",
           "server": "악군",
           "status": "",
-          "quantity": 100,
-          "priceP": 1500,
-          "unitPriceP": 1500,
+          "quantity": 99,
+          "priceP": 2000,
+          "unitPriceP": 2000,
           "options": [
             {
-              "label": "이런젠장",
+              "label": "#에드룬",
+              "value": "99"
+            },
+            {
+              "label": "개 한묶음",
               "value": "5"
+            },
+            {
+              "label": "소다",
+              "value": "47"
             },
             {
               "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=463933"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=464411"
         },
         {
-          "name": "스탠 티르룬",
+          "name": "스탠 에드룬",
           "category": "룬",
           "server": "악군",
           "status": "",
-          "quantity": 100,
-          "priceP": 1500,
-          "unitPriceP": 1500,
+          "quantity": 99,
+          "priceP": 2000,
+          "unitPriceP": 2000,
           "options": [],
           "url": null
         }
       ]
     },
     {
-      "name": "스탠 마지막 소원",
-      "category": "기타",
-      "listingCount": 1,
+      "name": "스탠 오르트룬",
+      "category": "룬",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 2000,
+        "median": 2000,
+        "max": 2000
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "#오르트룬",
+        "5.",
+        "개 한묶음",
+        "소다"
+      ],
+      "samples": [
+        {
+          "name": "스탠 오르트룬",
+          "category": "룬",
+          "server": "악군",
+          "status": "",
+          "quantity": 99,
+          "priceP": 2000,
+          "unitPriceP": 2000,
+          "options": [
+            {
+              "label": "#오르트룬",
+              "value": "99"
+            },
+            {
+              "label": "개 한묶음",
+              "value": "9"
+            },
+            {
+              "label": "소다",
+              "value": "47"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=429562"
+        },
+        {
+          "name": "스탠 오르트룬",
+          "category": "룬",
+          "server": "악군",
+          "status": "",
+          "quantity": 99,
+          "priceP": 2000,
+          "unitPriceP": 2000,
+          "options": [],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "스탠 주울룬",
+      "category": "룬",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 2000,
+        "median": 2000,
+        "max": 2000
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "#주울룬",
+        "5.",
+        "개 한묶음",
+        "소다"
+      ],
+      "samples": [
+        {
+          "name": "스탠 주울룬",
+          "category": "룬",
+          "server": "악군",
+          "status": "",
+          "quantity": 99,
+          "priceP": 2000,
+          "unitPriceP": 2000,
+          "options": [
+            {
+              "label": "#주울룬",
+              "value": "99"
+            },
+            {
+              "label": "개 한묶음",
+              "value": "10"
+            },
+            {
+              "label": "소다",
+              "value": "47"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=464415"
+        },
+        {
+          "name": "스탠 주울룬",
+          "category": "룬",
+          "server": "악군",
+          "status": "",
+          "quantity": 99,
+          "priceP": 2000,
+          "unitPriceP": 2000,
+          "options": [],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "스탠 지옥의 횃불(바바)",
+      "category": "부적",
+      "listingCount": 2,
       "price": {
         "currency": "P",
         "min": 6000,
@@ -381,13 +609,15 @@
         "악군"
       ],
       "optionLabels": [
-        "강타 확률%",
-        "피해%"
+        "5.",
+        "달벵이",
+        "모든 능력치",
+        "모든 저항"
       ],
       "samples": [
         {
-          "name": "스탠 마지막 소원",
-          "category": "기타",
+          "name": "스탠 지옥의 횃불(바바)",
+          "category": "부적",
           "server": "악군",
           "status": "",
           "quantity": 1,
@@ -395,12 +625,40 @@
           "unitPriceP": 6000,
           "options": [
             {
-              "label": "피해%",
-              "value": "358"
+              "label": "모든 능력치",
+              "value": "20"
             },
             {
-              "label": "강타 확률%",
-              "value": "65"
+              "label": "모든 저항",
+              "value": "19"
+            },
+            {
+              "label": "달벵이",
+              "value": "147"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=357554"
+        },
+        {
+          "name": "스탠 지옥의 횃불(바바)",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 6000,
+          "unitPriceP": 6000,
+          "options": [
+            {
+              "label": "모든 능력치",
+              "value": "20"
+            },
+            {
+              "label": "모든 저항",
+              "value": "19"
             }
           ],
           "url": null
@@ -408,8 +666,8 @@
       ]
     },
     {
-      "name": "스탠 반지",
-      "category": "기타",
+      "name": "스탠 주울룬",
+      "category": "룬워드",
       "listingCount": 1,
       "price": {
         "currency": "P",
@@ -421,95 +679,39 @@
         "악군"
       ],
       "optionLabels": [
-        "괴물에게서 얻는 금화%",
-        "명중률",
-        "모든 저항",
-        "번개 저항%",
-        "적중당 마나 훔침%"
-      ],
-      "samples": [
-        {
-          "name": "스탠 반지",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 2000,
-          "unitPriceP": 2000,
-          "options": [
-            {
-              "label": "명중률",
-              "value": "67"
-            },
-            {
-              "label": "적중당 마나 훔침%",
-              "value": "4"
-            },
-            {
-              "label": "모든 저항",
-              "value": "7"
-            },
-            {
-              "label": "번개 저항%",
-              "value": "19"
-            },
-            {
-              "label": "괴물에게서 얻는 금화%",
-              "value": "40"
-            }
-          ],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "스탠 자이언트 쓰레셔",
-      "category": "룬워드",
-      "listingCount": 1,
-      "price": {
-        "currency": "P",
-        "min": 1500,
-        "median": 1500,
-        "max": 1500
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "0.",
-        "4.",
+        "#오르트룬",
+        "#주울룬",
         "5.",
-        "fallrain",
-        "강타 확률%",
-        "거래 상대방",
-        "공격 속도%",
+        "NasdaQ",
+        "개 한묶음",
         "다음",
+        "달리기/걷기 속도%",
+        "달벵이",
         "디아블로",
-        "마법 아이템 발견 확률%",
-        "명중률",
+        "레이서송",
+        "마나",
+        "마나 재생%",
         "모든 능력치",
         "모든 저항",
         "방어력%",
         "번개 저항%",
-        "이런젠장",
-        "적중당 마나 훔침%",
+        "소다",
         "지금 시작하면, 멤버십 PLUS",
         "총 방어력",
-        "투창과 창 기술(아마존 전용)",
-        "푸른하늘바람",
+        "최대 마나%",
         "플레이디아 디아블로",
-        "피해%",
-        "홈 있음(소켓)"
+        "함성(야만용사 전용)",
+        "화염 저항%"
       ],
       "samples": [
         {
-          "name": "스탠 자이언트 쓰레셔",
+          "name": "스탠 주울룬",
           "category": "룬워드",
           "server": "악군",
           "status": "거래완료",
-          "quantity": 1,
-          "priceP": 1500,
-          "unitPriceP": 1500,
+          "quantity": 99,
+          "priceP": 2000,
+          "unitPriceP": 2000,
           "options": [
             {
               "label": "지금 시작하면, 멤버십 PLUS",
@@ -528,84 +730,84 @@
               "value": "20"
             },
             {
-              "label": "홈 있음(소켓)",
-              "value": "4"
+              "label": "#주울룬",
+              "value": "99"
             },
             {
-              "label": "푸른하늘바람",
-              "value": "95"
+              "label": "개 한묶음",
+              "value": "10"
+            },
+            {
+              "label": "소다",
+              "value": "47"
             },
             {
               "label": "5.",
               "value": "00"
             },
             {
-              "label": "공격 속도%",
-              "value": "20"
-            },
-            {
-              "label": "투창과 창 기술(아마존 전용)",
-              "value": "2"
-            },
-            {
-              "label": "적중당 마나 훔침%",
-              "value": "3"
-            },
-            {
-              "label": "마법 아이템 발견 확률%",
-              "value": "18"
-            },
-            {
-              "label": "번개 저항%",
-              "value": "7"
-            },
-            {
-              "label": "방어력%",
-              "value": "27"
-            },
-            {
-              "label": "총 방어력",
-              "value": "50"
-            },
-            {
-              "label": "fallrain",
-              "value": "138"
-            },
-            {
-              "label": "4.",
-              "value": "90"
-            },
-            {
-              "label": "모든 능력치",
-              "value": "19"
-            },
-            {
-              "label": "모든 저항",
-              "value": "14"
-            },
-            {
-              "label": "거래 상대방",
+              "label": "함성(야만용사 전용)",
               "value": "1"
             },
             {
-              "label": "0.",
-              "value": "00"
+              "label": "NasdaQ",
+              "value": "132"
             },
             {
-              "label": "이런젠장",
+              "label": "#오르트룬",
+              "value": "99"
+            },
+            {
+              "label": "개 한묶음",
+              "value": "9"
+            },
+            {
+              "label": "모든 능력치",
+              "value": "20"
+            },
+            {
+              "label": "모든 저항",
+              "value": "19"
+            },
+            {
+              "label": "달벵이",
+              "value": "147"
+            },
+            {
+              "label": "총 방어력",
+              "value": "41"
+            },
+            {
+              "label": "달리기/걷기 속도%",
+              "value": "30"
+            },
+            {
+              "label": "방어력%",
+              "value": "15"
+            },
+            {
+              "label": "마나",
+              "value": "15"
+            },
+            {
+              "label": "최대 마나%",
+              "value": "4"
+            },
+            {
+              "label": "마나 재생%",
               "value": "5"
             },
             {
-              "label": "피해%",
-              "value": "358"
+              "label": "번개 저항%",
+              "value": "34"
             },
             {
-              "label": "강타 확률%",
-              "value": "65"
+              "label": "화염 저항%",
+              "value": "37"
             },
             {
-              "label": "명중률",
-              "value": "67"
+              "label": "레이서송",
+              "value": "48"
             }
           ],
           "url": "https://www.playnote.co.kr/customer/noticedetail?Index=5"
@@ -613,189 +815,151 @@
       ]
     },
     {
-      "name": "스탠 자이언트 쓰레셔",
-      "category": "세트",
+      "name": "스탠 주울룬",
+      "category": "부적",
       "listingCount": 1,
       "price": {
         "currency": "P",
-        "min": 1500,
-        "median": 1500,
-        "max": 1500
+        "min": 2000,
+        "median": 2000,
+        "max": 2000
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "0.",
-        "4.",
+        "#악사 혼돈기술 /",
+        "#오르트룬",
+        "#주울룬",
         "5.",
-        "fallrain",
-        "강타 확률%",
-        "거래 상대방",
-        "공격 속도%",
+        "NasdaQ",
+        "개 한묶음",
         "다음",
-        "마법 아이템 발견 확률%",
-        "명중률",
+        "달리기/걷기 속도%",
+        "달벵이",
+        "레이서송",
+        "마나",
+        "마나 재생%",
         "모든 능력치",
         "모든 저항",
         "방어력%",
         "번개 저항%",
-        "이런젠장",
-        "적중당 마나 훔침%",
+        "생명력",
+        "소다",
         "총 방어력",
-        "투창과 창 기술(아마존 전용)",
-        "푸른하늘바람",
-        "피해%",
-        "홈 있음(소켓)"
+        "최대 마나%",
+        "함성(야만용사 전용)",
+        "혼돈 기술(악마술사)",
+        "화염 저항%"
       ],
       "samples": [
         {
-          "name": "스탠 자이언트 쓰레셔",
-          "category": "세트",
+          "name": "스탠 주울룬",
+          "category": "부적",
           "server": "악군",
           "status": "거래완료",
-          "quantity": 1,
-          "priceP": 1500,
-          "unitPriceP": 1500,
+          "quantity": 99,
+          "priceP": 2000,
+          "unitPriceP": 2000,
           "options": [
             {
               "label": "다음",
               "value": "20"
             },
             {
-              "label": "홈 있음(소켓)",
-              "value": "4"
+              "label": "#주울룬",
+              "value": "99"
             },
             {
-              "label": "푸른하늘바람",
-              "value": "95"
+              "label": "개 한묶음",
+              "value": "10"
+            },
+            {
+              "label": "소다",
+              "value": "47"
             },
             {
               "label": "5.",
               "value": "00"
             },
             {
-              "label": "공격 속도%",
-              "value": "20"
-            },
-            {
-              "label": "투창과 창 기술(아마존 전용)",
-              "value": "2"
-            },
-            {
-              "label": "적중당 마나 훔침%",
-              "value": "3"
-            },
-            {
-              "label": "마법 아이템 발견 확률%",
-              "value": "18"
-            },
-            {
-              "label": "번개 저항%",
-              "value": "7"
-            },
-            {
-              "label": "방어력%",
-              "value": "27"
-            },
-            {
-              "label": "총 방어력",
-              "value": "50"
-            },
-            {
-              "label": "fallrain",
-              "value": "138"
-            },
-            {
-              "label": "4.",
-              "value": "90"
-            },
-            {
-              "label": "모든 능력치",
-              "value": "19"
-            },
-            {
-              "label": "모든 저항",
-              "value": "14"
-            },
-            {
-              "label": "거래 상대방",
+              "label": "함성(야만용사 전용)",
               "value": "1"
             },
             {
-              "label": "0.",
-              "value": "00"
+              "label": "NasdaQ",
+              "value": "132"
             },
             {
-              "label": "이런젠장",
-              "value": "5"
+              "label": "#오르트룬",
+              "value": "99"
             },
             {
-              "label": "피해%",
-              "value": "358"
+              "label": "개 한묶음",
+              "value": "9"
             },
             {
-              "label": "강타 확률%",
-              "value": "65"
+              "label": "모든 능력치",
+              "value": "20"
             },
             {
-              "label": "명중률",
-              "value": "67"
+              "label": "모든 저항",
+              "value": "19"
             },
             {
-              "label": "적중당 마나 훔침%",
+              "label": "달벵이",
+              "value": "147"
+            },
+            {
+              "label": "총 방어력",
+              "value": "41"
+            },
+            {
+              "label": "달리기/걷기 속도%",
+              "value": "30"
+            },
+            {
+              "label": "방어력%",
+              "value": "15"
+            },
+            {
+              "label": "마나",
+              "value": "15"
+            },
+            {
+              "label": "최대 마나%",
               "value": "4"
             },
             {
-              "label": "모든 저항",
-              "value": "7"
+              "label": "마나 재생%",
+              "value": "5"
             },
             {
               "label": "번개 저항%",
-              "value": "19"
+              "value": "34"
+            },
+            {
+              "label": "화염 저항%",
+              "value": "37"
+            },
+            {
+              "label": "레이서송",
+              "value": "48"
+            },
+            {
+              "label": "혼돈 기술(악마술사)",
+              "value": "1"
+            },
+            {
+              "label": "생명력",
+              "value": "33"
+            },
+            {
+              "label": "#악사 혼돈기술 /",
+              "value": "33"
             }
           ],
           "url": "https://www.playnote.co.kr/trade/itemmarket?index=1"
-        }
-      ]
-    },
-    {
-      "name": "스탠 지옥의 횃불(악마술사)",
-      "category": "부적",
-      "listingCount": 1,
-      "price": {
-        "currency": "P",
-        "min": 3200,
-        "median": 3200,
-        "max": 3200
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "모든 능력치",
-        "모든 저항"
-      ],
-      "samples": [
-        {
-          "name": "스탠 지옥의 횃불(악마술사)",
-          "category": "부적",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 3200,
-          "unitPriceP": 3200,
-          "options": [
-            {
-              "label": "모든 능력치",
-              "value": "19"
-            },
-            {
-              "label": "모든 저항",
-              "value": "14"
-            }
-          ],
-          "url": null
         }
       ]
     }
