@@ -1,102 +1,261 @@
 {
   "source": "https://www.playnote.co.kr/trade/itemmarket?index=1",
   "scope": "public-listings-only",
-  "updatedAt": "2026-11-13T15:39:47.318529+00:00",
+  "updatedAt": "2026-11-13T21:55:51.232734+00:00",
   "listingCount": 20,
-  "itemCount": 10,
+  "itemCount": 8,
   "items": [
     {
-      "name": "스탠 로룬",
-      "category": "룬",
-      "listingCount": 3,
+      "name": "스탠 작은 부적",
+      "category": "부적",
+      "listingCount": 8,
       "price": {
         "currency": "P",
-        "min": 1150,
-        "median": 1150,
-        "max": 1150
+        "min": 1000,
+        "median": 6100,
+        "max": 10700
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "#스탠",
         "5.",
-        "Master",
-        "다음",
-        "모든 저항",
-        "번개(공용 기술)",
-        "적의 번개 저항-%"
+        "눈치코치",
+        "마법 아이템 발견 확률%",
+        "명중률",
+        "번개 저항%",
+        "붐블리",
+        "생명력",
+        "어레",
+        "최대 피해"
       ],
       "samples": [
         {
-          "name": "스탠 로룬",
-          "category": "룬",
+          "name": "스탠 작은 부적",
+          "category": "부적",
           "server": "악군",
-          "status": "거래완료",
-          "quantity": 11,
-          "priceP": 1150,
-          "unitPriceP": 1150,
+          "status": "",
+          "quantity": 1,
+          "priceP": 1000,
+          "unitPriceP": 1000,
           "options": [
             {
-              "label": "다음",
+              "label": "생명력",
+              "value": "18"
+            },
+            {
+              "label": "번개 저항%",
+              "value": "11"
+            },
+            {
+              "label": "붐블리",
+              "value": "60"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=466815"
+        },
+        {
+          "name": "스탠 작은 부적",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 1000,
+          "unitPriceP": 1000,
+          "options": [
+            {
+              "label": "생명력",
+              "value": "18"
+            },
+            {
+              "label": "번개 저항%",
+              "value": "11"
+            }
+          ],
+          "url": null
+        },
+        {
+          "name": "스탠 작은 부적",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 6,
+          "priceP": 10700,
+          "unitPriceP": 10700,
+          "options": [
+            {
+              "label": "최대 피해",
+              "value": "3"
+            },
+            {
+              "label": "명중률",
               "value": "20"
             },
             {
-              "label": "Master",
-              "value": "654"
+              "label": "마법 아이템 발견 확률%",
+              "value": "7"
+            },
+            {
+              "label": "어레",
+              "value": "7"
+            },
+            {
+              "label": "눈치코치",
+              "value": "165"
             },
             {
               "label": "5.",
               "value": "00"
-            },
-            {
-              "label": "모든 저항",
-              "value": "30"
-            },
-            {
-              "label": "번개(공용 기술)",
-              "value": "5"
-            },
-            {
-              "label": "적의 번개 저항-%",
-              "value": "5"
-            },
-            {
-              "label": "#스탠",
-              "value": "55"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemmarket?index=1"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=292321"
         },
         {
-          "name": "스탠 로룬",
-          "category": "룬",
+          "name": "스탠 작은 부적",
+          "category": "부적",
           "server": "악군",
           "status": "",
-          "quantity": 11,
-          "priceP": 1150,
-          "unitPriceP": 1150,
+          "quantity": 6,
+          "priceP": 10700,
+          "unitPriceP": 10700,
           "options": [
             {
-              "label": "Master",
-              "value": "654"
+              "label": "최대 피해",
+              "value": "3"
+            },
+            {
+              "label": "명중률",
+              "value": "20"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "7"
+            }
+          ],
+          "url": null
+        },
+        {
+          "name": "스탠 작은 부적",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 8,
+          "priceP": 5500,
+          "unitPriceP": 5500,
+          "options": [
+            {
+              "label": "최대 피해",
+              "value": "3"
+            },
+            {
+              "label": "명중률",
+              "value": "17"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "7"
+            },
+            {
+              "label": "어레",
+              "value": "7"
+            },
+            {
+              "label": "눈치코치",
+              "value": "165"
             },
             {
               "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=465632"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=292319"
         },
         {
-          "name": "스탠 로룬",
-          "category": "룬",
+          "name": "스탠 작은 부적",
+          "category": "부적",
           "server": "악군",
           "status": "",
-          "quantity": 11,
-          "priceP": 1150,
-          "unitPriceP": 1150,
-          "options": [],
+          "quantity": 8,
+          "priceP": 5500,
+          "unitPriceP": 5500,
+          "options": [
+            {
+              "label": "최대 피해",
+              "value": "3"
+            },
+            {
+              "label": "명중률",
+              "value": "17"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "7"
+            }
+          ],
+          "url": null
+        },
+        {
+          "name": "스탠 작은 부적",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 10,
+          "priceP": 6700,
+          "unitPriceP": 6700,
+          "options": [
+            {
+              "label": "최대 피해",
+              "value": "3"
+            },
+            {
+              "label": "명중률",
+              "value": "18"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "7"
+            },
+            {
+              "label": "어레",
+              "value": "7"
+            },
+            {
+              "label": "눈치코치",
+              "value": "165"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=292316"
+        },
+        {
+          "name": "스탠 작은 부적",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 10,
+          "priceP": 6700,
+          "unitPriceP": 6700,
+          "options": [
+            {
+              "label": "최대 피해",
+              "value": "3"
+            },
+            {
+              "label": "명중률",
+              "value": "18"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "7"
+            }
+          ],
           "url": null
         }
       ]
@@ -107,16 +266,19 @@
       "listingCount": 2,
       "price": {
         "currency": "P",
-        "min": 1500,
-        "median": 1500,
-        "max": 1500
+        "min": 500,
+        "median": 500,
+        "max": 500
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
         "5.",
-        "Master"
+        "눈치코치",
+        "방어력",
+        "번개 기술 피해%",
+        "적의 번개 저항-%"
       ],
       "samples": [
         {
@@ -124,37 +286,279 @@
           "category": "기타",
           "server": "악군",
           "status": "",
-          "quantity": 15,
-          "priceP": 1500,
-          "unitPriceP": 1500,
+          "quantity": 20,
+          "priceP": 500,
+          "unitPriceP": 500,
           "options": [
             {
-              "label": "Master",
-              "value": "654"
+              "label": "적의 번개 저항-%",
+              "value": "15"
+            },
+            {
+              "label": "번개 기술 피해%",
+              "value": "10"
+            },
+            {
+              "label": "방어력",
+              "value": "101"
+            },
+            {
+              "label": "눈치코치",
+              "value": "165"
             },
             {
               "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=463824"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=335489"
         },
         {
           "name": "스탠 그리폰의 눈 다이어뎀",
           "category": "기타",
           "server": "악군",
           "status": "",
-          "quantity": 15,
-          "priceP": 1500,
-          "unitPriceP": 1500,
-          "options": [],
+          "quantity": 20,
+          "priceP": 500,
+          "unitPriceP": 500,
+          "options": [
+            {
+              "label": "적의 번개 저항-%",
+              "value": "15"
+            },
+            {
+              "label": "번개 기술 피해%",
+              "value": "10"
+            },
+            {
+              "label": "방어력",
+              "value": "101"
+            }
+          ],
           "url": null
         }
       ]
     },
     {
-      "name": "스탠 마라의 만화경",
+      "name": "스탠 반지",
       "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 48000,
+        "median": 48000,
+        "max": 48000
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "#패케마흡 피 레지링(콜라포 합",
+        "5.",
+        "냉기 저항%",
+        "눈치코치",
+        "독 저항%",
+        "번개 저항%",
+        "생명력",
+        "시전 속도%",
+        "적중당 마나 훔침%"
+      ],
+      "samples": [
+        {
+          "name": "스탠 반지",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 48000,
+          "unitPriceP": 48000,
+          "options": [
+            {
+              "label": "시전 속도%",
+              "value": "10"
+            },
+            {
+              "label": "적중당 마나 훔침%",
+              "value": "5"
+            },
+            {
+              "label": "생명력",
+              "value": "31"
+            },
+            {
+              "label": "냉기 저항%",
+              "value": "29"
+            },
+            {
+              "label": "번개 저항%",
+              "value": "30"
+            },
+            {
+              "label": "독 저항%",
+              "value": "28"
+            },
+            {
+              "label": "#패케마흡 피 레지링(콜라포 합",
+              "value": "87"
+            },
+            {
+              "label": "눈치코치",
+              "value": "165"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=293014"
+        },
+        {
+          "name": "스탠 반지",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 48000,
+          "unitPriceP": 48000,
+          "options": [
+            {
+              "label": "시전 속도%",
+              "value": "10"
+            },
+            {
+              "label": "적중당 마나 훔침%",
+              "value": "5"
+            },
+            {
+              "label": "생명력",
+              "value": "31"
+            },
+            {
+              "label": "냉기 저항%",
+              "value": "29"
+            },
+            {
+              "label": "번개 저항%",
+              "value": "30"
+            },
+            {
+              "label": "독 저항%",
+              "value": "28"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "스탠 써클릿",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 100000,
+        "median": 100000,
+        "max": 100000
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "4.",
+        "방어력%",
+        "번개 저항%",
+        "시전 속도%",
+        "적중당 마나 훔침%",
+        "적중당 생명력 훔침%",
+        "중고의정",
+        "홈 있음(소켓)"
+      ],
+      "samples": [
+        {
+          "name": "스탠 써클릿",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 100000,
+          "unitPriceP": 100000,
+          "options": [
+            {
+              "label": "시전 속도%",
+              "value": "20"
+            },
+            {
+              "label": "적중당 생명력 훔침%",
+              "value": "8"
+            },
+            {
+              "label": "적중당 마나 훔침%",
+              "value": "7"
+            },
+            {
+              "label": "방어력%",
+              "value": "100"
+            },
+            {
+              "label": "번개 저항%",
+              "value": "10"
+            },
+            {
+              "label": "홈 있음(소켓)",
+              "value": "1"
+            },
+            {
+              "label": "중고의정",
+              "value": "63"
+            },
+            {
+              "label": "4.",
+              "value": "90"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=423282"
+        },
+        {
+          "name": "스탠 써클릿",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 100000,
+          "unitPriceP": 100000,
+          "options": [
+            {
+              "label": "시전 속도%",
+              "value": "20"
+            },
+            {
+              "label": "적중당 생명력 훔침%",
+              "value": "8"
+            },
+            {
+              "label": "적중당 마나 훔침%",
+              "value": "7"
+            },
+            {
+              "label": "방어력%",
+              "value": "100"
+            },
+            {
+              "label": "번개 저항%",
+              "value": "10"
+            },
+            {
+              "label": "홈 있음(소켓)",
+              "value": "1"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "스탠 지옥의 횃불(바바)",
+      "category": "부적",
       "listingCount": 2,
       "price": {
         "currency": "P",
@@ -166,47 +570,61 @@
         "악군"
       ],
       "optionLabels": [
+        "#바바",
         "5.",
-        "Master",
+        "눈치코치",
+        "모든 능력치",
         "모든 저항"
       ],
       "samples": [
         {
-          "name": "스탠 마라의 만화경",
-          "category": "기타",
+          "name": "스탠 지옥의 횃불(바바)",
+          "category": "부적",
           "server": "악군",
           "status": "",
-          "quantity": 28,
+          "quantity": 1,
           "priceP": 1200,
           "unitPriceP": 1200,
           "options": [
             {
-              "label": "모든 저항",
-              "value": "30"
+              "label": "모든 능력치",
+              "value": "14"
             },
             {
-              "label": "Master",
-              "value": "654"
+              "label": "모든 저항",
+              "value": "17"
+            },
+            {
+              "label": "#바바",
+              "value": "14"
+            },
+            {
+              "label": "눈치코치",
+              "value": "165"
             },
             {
               "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=464882"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=309242"
         },
         {
-          "name": "스탠 마라의 만화경",
-          "category": "기타",
+          "name": "스탠 지옥의 횃불(바바)",
+          "category": "부적",
           "server": "악군",
           "status": "",
-          "quantity": 28,
+          "quantity": 1,
           "priceP": 1200,
           "unitPriceP": 1200,
           "options": [
             {
+              "label": "모든 능력치",
+              "value": "14"
+            },
+            {
               "label": "모든 저항",
-              "value": "30"
+              "value": "17"
             }
           ],
           "url": null
@@ -214,74 +632,83 @@
       ]
     },
     {
-      "name": "스탠 무지개 자락 주얼(번개,사망시)",
+      "name": "스탠 치료",
       "category": "기타",
       "listingCount": 2,
       "price": {
         "currency": "P",
-        "min": 700,
-        "median": 700,
-        "max": 700
+        "min": 15000,
+        "median": 15000,
+        "max": 15000
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "#스탠",
-        "5.",
-        "Master",
-        "번개(공용 기술)",
-        "적의 번개 저항-%"
+        "#에테본비지즈작#낮은힘제",
+        "4.",
+        "독 저항%",
+        "방어력%",
+        "중고의정",
+        "최대 내구도%"
       ],
       "samples": [
         {
-          "name": "스탠 무지개 자락 주얼(번개,사망시)",
+          "name": "스탠 치료",
           "category": "기타",
           "server": "악군",
           "status": "",
-          "quantity": 7,
-          "priceP": 700,
-          "unitPriceP": 700,
+          "quantity": 1,
+          "priceP": 15000,
+          "unitPriceP": 15000,
           "options": [
             {
-              "label": "번개(공용 기술)",
-              "value": "5"
+              "label": "방어력%",
+              "value": "115"
             },
             {
-              "label": "적의 번개 저항-%",
-              "value": "5"
+              "label": "독 저항%",
+              "value": "53"
             },
             {
-              "label": "#스탠",
-              "value": "55"
+              "label": "최대 내구도%",
+              "value": "12"
             },
             {
-              "label": "Master",
-              "value": "654"
+              "label": "#에테본비지즈작#낮은힘제",
+              "value": "96"
             },
             {
-              "label": "5.",
-              "value": "00"
+              "label": "중고의정",
+              "value": "63"
+            },
+            {
+              "label": "4.",
+              "value": "90"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=463890"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=8875"
         },
         {
-          "name": "스탠 무지개 자락 주얼(번개,사망시)",
+          "name": "스탠 치료",
           "category": "기타",
           "server": "악군",
           "status": "",
-          "quantity": 7,
-          "priceP": 700,
-          "unitPriceP": 700,
+          "quantity": 1,
+          "priceP": 15000,
+          "unitPriceP": 15000,
           "options": [
             {
-              "label": "번개(공용 기술)",
-              "value": "5"
+              "label": "방어력%",
+              "value": "115"
             },
             {
-              "label": "적의 번개 저항-%",
-              "value": "5"
+              "label": "독 저항%",
+              "value": "53"
+            },
+            {
+              "label": "최대 내구도%",
+              "value": "12"
             }
           ],
           "url": null
@@ -289,302 +716,51 @@
       ]
     },
     {
-      "name": "스탠 베르룬",
-      "category": "룬",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 2260,
-        "median": 2260,
-        "max": 2260
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "Master"
-      ],
-      "samples": [
-        {
-          "name": "스탠 베르룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 40,
-          "priceP": 2260,
-          "unitPriceP": 2260,
-          "options": [
-            {
-              "label": "Master",
-              "value": "654"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=464138"
-        },
-        {
-          "name": "스탠 베르룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 40,
-          "priceP": 2260,
-          "unitPriceP": 2260,
-          "options": [],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "스탠 벡스룬",
-      "category": "룬",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 450,
-        "median": 450,
-        "max": 450
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "Master"
-      ],
-      "samples": [
-        {
-          "name": "스탠 벡스룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 99,
-          "priceP": 450,
-          "unitPriceP": 450,
-          "options": [
-            {
-              "label": "Master",
-              "value": "654"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=463816"
-        },
-        {
-          "name": "스탠 벡스룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 99,
-          "priceP": 450,
-          "unitPriceP": 450,
-          "options": [],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "스탠 수르룬",
-      "category": "룬",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 1250,
-        "median": 1250,
-        "max": 1250
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "Master"
-      ],
-      "samples": [
-        {
-          "name": "스탠 수르룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 88,
-          "priceP": 1250,
-          "unitPriceP": 1250,
-          "options": [
-            {
-              "label": "Master",
-              "value": "654"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=463822"
-        },
-        {
-          "name": "스탠 수르룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 88,
-          "priceP": 1250,
-          "unitPriceP": 1250,
-          "options": [],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "스탠 오움룬",
-      "category": "룬",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 550,
-        "median": 550,
-        "max": 550
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "Master"
-      ],
-      "samples": [
-        {
-          "name": "스탠 오움룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 80,
-          "priceP": 550,
-          "unitPriceP": 550,
-          "options": [
-            {
-              "label": "Master",
-              "value": "654"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=463818"
-        },
-        {
-          "name": "스탠 오움룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 80,
-          "priceP": 550,
-          "unitPriceP": 550,
-          "options": [],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "스탠 참룬",
-      "category": "룬",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 1750,
-        "median": 1750,
-        "max": 1750
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "Master"
-      ],
-      "samples": [
-        {
-          "name": "스탠 참룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 20,
-          "priceP": 1750,
-          "unitPriceP": 1750,
-          "options": [
-            {
-              "label": "Master",
-              "value": "654"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=463893"
-        },
-        {
-          "name": "스탠 참룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 20,
-          "priceP": 1750,
-          "unitPriceP": 1750,
-          "options": [],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "스탠 로룬",
+      "name": "스탠 써클릿",
       "category": "룬워드",
       "listingCount": 1,
       "price": {
         "currency": "P",
-        "min": 1150,
-        "median": 1150,
-        "max": 1150
+        "min": 100000,
+        "median": 100000,
+        "max": 100000
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "#스탠",
-        "-부산중구",
-        "1,",
+        "#에테본비지즈작#낮은힘제",
+        "4.",
         "5.",
-        "Master",
+        "눈치코치",
         "다음",
+        "독 저항%",
         "디아블로",
-        "모든 저항",
-        "번개(공용 기술)",
-        "부산광역시 남구 전포대로",
-        "사업자등록번호:",
-        "연락처",
-        "옵션",
-        "자주묻는질문",
+        "방어력",
+        "방어력%",
+        "번개 기술 피해%",
+        "번개 저항%",
+        "붐블리",
+        "생명력",
+        "시전 속도%",
         "적의 번개 저항-%",
+        "적중당 마나 훔침%",
+        "적중당 생명력 훔침%",
+        "중고의정",
         "지금 시작하면, 멤버십 PLUS",
-        "통신판매신고번호: 제",
-        "플레이디아 디아블로"
+        "최대 내구도%",
+        "플레이디아 디아블로",
+        "홈 있음(소켓)"
       ],
       "samples": [
         {
-          "name": "스탠 로룬",
+          "name": "스탠 써클릿",
           "category": "룬워드",
           "server": "악군",
           "status": "거래완료",
-          "quantity": 11,
-          "priceP": 1150,
-          "unitPriceP": 1150,
+          "quantity": 1,
+          "priceP": 100000,
+          "unitPriceP": 100000,
           "options": [
             {
               "label": "지금 시작하면, 멤버십 PLUS",
@@ -603,63 +779,235 @@
               "value": "20"
             },
             {
-              "label": "Master",
-              "value": "654"
+              "label": "시전 속도%",
+              "value": "20"
+            },
+            {
+              "label": "적중당 생명력 훔침%",
+              "value": "8"
+            },
+            {
+              "label": "적중당 마나 훔침%",
+              "value": "7"
+            },
+            {
+              "label": "방어력%",
+              "value": "100"
+            },
+            {
+              "label": "번개 저항%",
+              "value": "10"
+            },
+            {
+              "label": "홈 있음(소켓)",
+              "value": "1"
+            },
+            {
+              "label": "중고의정",
+              "value": "63"
+            },
+            {
+              "label": "4.",
+              "value": "90"
+            },
+            {
+              "label": "방어력%",
+              "value": "115"
+            },
+            {
+              "label": "독 저항%",
+              "value": "53"
+            },
+            {
+              "label": "최대 내구도%",
+              "value": "12"
+            },
+            {
+              "label": "#에테본비지즈작#낮은힘제",
+              "value": "96"
+            },
+            {
+              "label": "생명력",
+              "value": "18"
+            },
+            {
+              "label": "번개 저항%",
+              "value": "11"
+            },
+            {
+              "label": "붐블리",
+              "value": "60"
             },
             {
               "label": "5.",
               "value": "00"
             },
             {
-              "label": "모든 저항",
-              "value": "30"
-            },
-            {
-              "label": "번개(공용 기술)",
-              "value": "5"
-            },
-            {
               "label": "적의 번개 저항-%",
-              "value": "5"
+              "value": "15"
             },
             {
-              "label": "#스탠",
-              "value": "55"
+              "label": "번개 기술 피해%",
+              "value": "10"
             },
             {
-              "label": "옵션",
-              "value": "0"
+              "label": "방어력",
+              "value": "101"
             },
             {
-              "label": "1,",
-              "value": "000"
-            },
-            {
-              "label": "사업자등록번호:",
-              "value": "148"
-            },
-            {
-              "label": "통신판매신고번호: 제",
-              "value": "2021"
-            },
-            {
-              "label": "-부산중구",
-              "value": "0282"
-            },
-            {
-              "label": "부산광역시 남구 전포대로",
-              "value": "116"
-            },
-            {
-              "label": "연락처",
-              "value": "070"
-            },
-            {
-              "label": "자주묻는질문",
-              "value": "1"
+              "label": "눈치코치",
+              "value": "165"
             }
           ],
           "url": "https://www.playnote.co.kr/customer/noticedetail?Index=5"
+        }
+      ]
+    },
+    {
+      "name": "스탠 써클릿",
+      "category": "부적",
+      "listingCount": 1,
+      "price": {
+        "currency": "P",
+        "min": 100000,
+        "median": 100000,
+        "max": 100000
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "#바바",
+        "#에테본비지즈작#낮은힘제",
+        "4.",
+        "5.",
+        "눈치코치",
+        "다음",
+        "독 저항%",
+        "모든 능력치",
+        "모든 저항",
+        "방어력",
+        "방어력%",
+        "번개 기술 피해%",
+        "번개 저항%",
+        "붐블리",
+        "생명력",
+        "시전 속도%",
+        "적의 번개 저항-%",
+        "적중당 마나 훔침%",
+        "적중당 생명력 훔침%",
+        "중고의정",
+        "최대 내구도%",
+        "홈 있음(소켓)"
+      ],
+      "samples": [
+        {
+          "name": "스탠 써클릿",
+          "category": "부적",
+          "server": "악군",
+          "status": "거래완료",
+          "quantity": 1,
+          "priceP": 100000,
+          "unitPriceP": 100000,
+          "options": [
+            {
+              "label": "다음",
+              "value": "20"
+            },
+            {
+              "label": "시전 속도%",
+              "value": "20"
+            },
+            {
+              "label": "적중당 생명력 훔침%",
+              "value": "8"
+            },
+            {
+              "label": "적중당 마나 훔침%",
+              "value": "7"
+            },
+            {
+              "label": "방어력%",
+              "value": "100"
+            },
+            {
+              "label": "번개 저항%",
+              "value": "10"
+            },
+            {
+              "label": "홈 있음(소켓)",
+              "value": "1"
+            },
+            {
+              "label": "중고의정",
+              "value": "63"
+            },
+            {
+              "label": "4.",
+              "value": "90"
+            },
+            {
+              "label": "방어력%",
+              "value": "115"
+            },
+            {
+              "label": "독 저항%",
+              "value": "53"
+            },
+            {
+              "label": "최대 내구도%",
+              "value": "12"
+            },
+            {
+              "label": "#에테본비지즈작#낮은힘제",
+              "value": "96"
+            },
+            {
+              "label": "생명력",
+              "value": "18"
+            },
+            {
+              "label": "번개 저항%",
+              "value": "11"
+            },
+            {
+              "label": "붐블리",
+              "value": "60"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            },
+            {
+              "label": "적의 번개 저항-%",
+              "value": "15"
+            },
+            {
+              "label": "번개 기술 피해%",
+              "value": "10"
+            },
+            {
+              "label": "방어력",
+              "value": "101"
+            },
+            {
+              "label": "눈치코치",
+              "value": "165"
+            },
+            {
+              "label": "모든 능력치",
+              "value": "14"
+            },
+            {
+              "label": "모든 저항",
+              "value": "17"
+            },
+            {
+              "label": "#바바",
+              "value": "14"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemmarket?index=1"
         }
       ]
     }
