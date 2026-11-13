@@ -1,163 +1,214 @@
 {
   "source": "https://www.playnote.co.kr/trade/itemmarket?index=1",
   "scope": "public-listings-only",
-  "updatedAt": "2026-11-12T18:50:49.861080+00:00",
-  "listingCount": 19,
-  "itemCount": 8,
+  "updatedAt": "2026-11-13T00:10:56.926438+00:00",
+  "listingCount": 20,
+  "itemCount": 9,
   "items": [
     {
-      "name": "스탠 새로워진 뼈의 분쇄 거대 부적",
-      "category": "부적",
-      "listingCount": 4,
+      "name": "스탠 기드의 내기 트롤 벨트",
+      "category": "기타",
+      "listingCount": 6,
       "price": {
         "currency": "P",
-        "min": 8000,
-        "median": 9000,
+        "min": 4000,
+        "median": 5000,
         "max": 10000
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "5.",
+        "4.",
+        "괴물에게서 얻는 금화%",
         "달리기/걷기 속도%",
-        "달벵이",
-        "마법 아이템 발견 확률%",
-        "마법 피해 감소",
-        "받는 물리 피해%",
-        "생명력",
-        "타격 회복 속도%",
-        "피해 감소",
-        "피해%"
+        "모든 저항",
+        "방어력%",
+        "시은",
+        "시전 속도%",
+        "적의 마법 저항-%",
+        "타격 회복 속도%"
       ],
       "samples": [
         {
-          "name": "스탠 새로워진 뼈의 분쇄 거대 부적",
-          "category": "부적",
+          "name": "스탠 기드의 내기 트롤 벨트",
+          "category": "기타",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 8000,
-          "unitPriceP": 8000,
+          "priceP": 4000,
+          "unitPriceP": 4000,
           "options": [
             {
-              "label": "받는 물리 피해%",
-              "value": "10"
-            },
-            {
               "label": "달리기/걷기 속도%",
-              "value": "10"
+              "value": "12"
             },
             {
-              "label": "피해%",
+              "label": "시전 속도%",
+              "value": "17"
+            },
+            {
+              "label": "타격 회복 속도%",
+              "value": "12"
+            },
+            {
+              "label": "적의 마법 저항-%",
+              "value": "4"
+            },
+            {
+              "label": "방어력%",
               "value": "94"
             },
             {
-              "label": "생명력",
-              "value": "16"
+              "label": "괴물에게서 얻는 금화%",
+              "value": "59"
             },
             {
-              "label": "피해 감소",
-              "value": "7"
+              "label": "모든 저항",
+              "value": "9"
             },
             {
-              "label": "마법 아이템 발견 확률%",
-              "value": "20"
+              "label": "시은",
+              "value": "33"
             },
             {
-              "label": "달벵이",
-              "value": "147"
-            },
-            {
-              "label": "5.",
-              "value": "00"
+              "label": "4.",
+              "value": "90"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=349567"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=464664"
         },
         {
-          "name": "스탠 새로워진 뼈의 분쇄 거대 부적",
-          "category": "부적",
+          "name": "스탠 기드의 내기 트롤 벨트",
+          "category": "기타",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 8000,
-          "unitPriceP": 8000,
+          "priceP": 4000,
+          "unitPriceP": 4000,
           "options": [
             {
-              "label": "받는 물리 피해%",
-              "value": "10"
-            },
-            {
               "label": "달리기/걷기 속도%",
-              "value": "10"
+              "value": "12"
             },
             {
-              "label": "피해%",
+              "label": "시전 속도%",
+              "value": "17"
+            },
+            {
+              "label": "타격 회복 속도%",
+              "value": "12"
+            },
+            {
+              "label": "적의 마법 저항-%",
+              "value": "4"
+            },
+            {
+              "label": "방어력%",
               "value": "94"
             },
             {
-              "label": "생명력",
-              "value": "16"
+              "label": "괴물에게서 얻는 금화%",
+              "value": "59"
             },
             {
-              "label": "피해 감소",
-              "value": "7"
-            },
-            {
-              "label": "마법 아이템 발견 확률%",
-              "value": "20"
+              "label": "모든 저항",
+              "value": "9"
             }
           ],
           "url": null
         },
         {
-          "name": "스탠 새로워진 뼈의 분쇄 거대 부적",
-          "category": "부적",
+          "name": "스탠 기드의 내기 트롤 벨트",
+          "category": "기타",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 10000,
-          "unitPriceP": 10000,
+          "priceP": 5000,
+          "unitPriceP": 5000,
           "options": [
             {
-              "label": "받는 물리 피해%",
+              "label": "달리기/걷기 속도%",
               "value": "10"
             },
             {
-              "label": "피해%",
-              "value": "94"
+              "label": "시전 속도%",
+              "value": "17"
             },
             {
               "label": "타격 회복 속도%",
-              "value": "24"
+              "value": "19"
             },
             {
-              "label": "생명력",
-              "value": "35"
+              "label": "적의 마법 저항-%",
+              "value": "3"
             },
             {
-              "label": "마법 피해 감소",
-              "value": "8"
+              "label": "방어력%",
+              "value": "126"
             },
             {
-              "label": "마법 아이템 발견 확률%",
-              "value": "18"
+              "label": "괴물에게서 얻는 금화%",
+              "value": "65"
             },
             {
-              "label": "달벵이",
-              "value": "147"
+              "label": "모든 저항",
+              "value": "11"
             },
             {
-              "label": "5.",
-              "value": "00"
+              "label": "시은",
+              "value": "33"
+            },
+            {
+              "label": "4.",
+              "value": "90"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=349551"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=464662"
         },
         {
-          "name": "스탠 새로워진 뼈의 분쇄 거대 부적",
-          "category": "부적",
+          "name": "스탠 기드의 내기 트롤 벨트",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 5000,
+          "unitPriceP": 5000,
+          "options": [
+            {
+              "label": "달리기/걷기 속도%",
+              "value": "10"
+            },
+            {
+              "label": "시전 속도%",
+              "value": "17"
+            },
+            {
+              "label": "타격 회복 속도%",
+              "value": "19"
+            },
+            {
+              "label": "적의 마법 저항-%",
+              "value": "3"
+            },
+            {
+              "label": "방어력%",
+              "value": "126"
+            },
+            {
+              "label": "괴물에게서 얻는 금화%",
+              "value": "65"
+            },
+            {
+              "label": "모든 저항",
+              "value": "11"
+            }
+          ],
+          "url": null
+        },
+        {
+          "name": "스탠 기드의 내기 트롤 벨트",
+          "category": "기타",
           "server": "악군",
           "status": "",
           "quantity": 1,
@@ -165,28 +216,80 @@
           "unitPriceP": 10000,
           "options": [
             {
-              "label": "받는 물리 피해%",
-              "value": "10"
+              "label": "달리기/걷기 속도%",
+              "value": "12"
             },
             {
-              "label": "피해%",
-              "value": "94"
+              "label": "시전 속도%",
+              "value": "20"
             },
             {
               "label": "타격 회복 속도%",
-              "value": "24"
+              "value": "16"
             },
             {
-              "label": "생명력",
-              "value": "35"
+              "label": "적의 마법 저항-%",
+              "value": "3"
             },
             {
-              "label": "마법 피해 감소",
-              "value": "8"
+              "label": "방어력%",
+              "value": "144"
             },
             {
-              "label": "마법 아이템 발견 확률%",
-              "value": "18"
+              "label": "괴물에게서 얻는 금화%",
+              "value": "59"
+            },
+            {
+              "label": "모든 저항",
+              "value": "5"
+            },
+            {
+              "label": "시은",
+              "value": "33"
+            },
+            {
+              "label": "4.",
+              "value": "90"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=464661"
+        },
+        {
+          "name": "스탠 기드의 내기 트롤 벨트",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 10000,
+          "unitPriceP": 10000,
+          "options": [
+            {
+              "label": "달리기/걷기 속도%",
+              "value": "12"
+            },
+            {
+              "label": "시전 속도%",
+              "value": "20"
+            },
+            {
+              "label": "타격 회복 속도%",
+              "value": "16"
+            },
+            {
+              "label": "적의 마법 저항-%",
+              "value": "3"
+            },
+            {
+              "label": "방어력%",
+              "value": "144"
+            },
+            {
+              "label": "괴물에게서 얻는 금화%",
+              "value": "59"
+            },
+            {
+              "label": "모든 저항",
+              "value": "5"
             }
           ],
           "url": null
@@ -194,175 +297,196 @@
       ]
     },
     {
-      "name": "스탠 지옥의 횃불(바바)",
-      "category": "부적",
-      "listingCount": 3,
+      "name": "스탠 맨캐쳐",
+      "category": "기타",
+      "listingCount": 2,
       "price": {
         "currency": "P",
-        "min": 6000,
-        "median": 6000,
-        "max": 6000
+        "min": 1000,
+        "median": 1000,
+        "max": 1000
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "0.",
-        "5.",
-        "거래 상대방",
-        "다음",
-        "달리기/걷기 속도%",
-        "달벵이",
-        "로베르자",
-        "마법 아이템 발견 확률%",
-        "마법 피해 감소",
-        "모든 능력치",
-        "모든 저항",
-        "받는 물리 피해%",
-        "생명력",
-        "샤브르",
-        "에이아이셀러",
-        "타격 회복 속도%",
-        "피해 감소",
-        "피해%"
+        "#에테 /",
+        "4.",
+        "시은",
+        "홈 있음(소켓)"
       ],
       "samples": [
         {
-          "name": "스탠 지옥의 횃불(바바)",
-          "category": "부적",
+          "name": "스탠 맨캐쳐",
+          "category": "기타",
           "server": "악군",
-          "status": "거래완료",
-          "quantity": 1,
-          "priceP": 6000,
-          "unitPriceP": 6000,
+          "status": "",
+          "quantity": 2,
+          "priceP": 1000,
+          "unitPriceP": 1000,
           "options": [
             {
-              "label": "다음",
-              "value": "20"
+              "label": "홈 있음(소켓)",
+              "value": "4"
             },
             {
-              "label": "모든 능력치",
-              "value": "20"
+              "label": "#에테 /",
+              "value": "4"
             },
+            {
+              "label": "시은",
+              "value": "33"
+            },
+            {
+              "label": "4.",
+              "value": "90"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=464572"
+        },
+        {
+          "name": "스탠 맨캐쳐",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 2,
+          "priceP": 1000,
+          "unitPriceP": 1000,
+          "options": [
+            {
+              "label": "홈 있음(소켓)",
+              "value": "4"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "스탠 볼텍스 쉴드",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 3000,
+        "median": 3000,
+        "max": 3000
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "4.",
+        "모든 저항",
+        "시은",
+        "총 방어력"
+      ],
+      "samples": [
+        {
+          "name": "스탠 볼텍스 쉴드",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 3000,
+          "unitPriceP": 3000,
+          "options": [
             {
               "label": "모든 저항",
-              "value": "19"
+              "value": "45"
             },
             {
-              "label": "달벵이",
-              "value": "147"
+              "label": "총 방어력",
+              "value": "208"
             },
             {
-              "label": "5.",
-              "value": "00"
+              "label": "시은",
+              "value": "33"
             },
             {
-              "label": "거래 상대방",
+              "label": "4.",
+              "value": "90"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=464570"
+        },
+        {
+          "name": "스탠 볼텍스 쉴드",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 3000,
+          "unitPriceP": 3000,
+          "options": [
+            {
+              "label": "모든 저항",
+              "value": "45"
+            },
+            {
+              "label": "총 방어력",
+              "value": "208"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "스탠 아콘 스태프",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 4000,
+        "median": 4000,
+        "max": 4000
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "4.",
+        "냉기 숙련(원소술사 전용)",
+        "시은"
+      ],
+      "samples": [
+        {
+          "name": "스탠 아콘 스태프",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 4000,
+          "unitPriceP": 4000,
+          "options": [
+            {
+              "label": "냉기 숙련(원소술사 전용)",
               "value": "1"
             },
             {
-              "label": "0.",
-              "value": "00"
+              "label": "시은",
+              "value": "33"
             },
             {
-              "label": "로베르자",
-              "value": "98"
-            },
-            {
-              "label": "받는 물리 피해%",
-              "value": "10"
-            },
-            {
-              "label": "달리기/걷기 속도%",
-              "value": "10"
-            },
-            {
-              "label": "피해%",
-              "value": "94"
-            },
-            {
-              "label": "생명력",
-              "value": "16"
-            },
-            {
-              "label": "피해 감소",
-              "value": "7"
-            },
-            {
-              "label": "마법 아이템 발견 확률%",
-              "value": "20"
-            },
-            {
-              "label": "에이아이셀러",
-              "value": "3"
-            },
-            {
-              "label": "타격 회복 속도%",
-              "value": "24"
-            },
-            {
-              "label": "생명력",
-              "value": "35"
-            },
-            {
-              "label": "마법 피해 감소",
-              "value": "8"
-            },
-            {
-              "label": "마법 아이템 발견 확률%",
-              "value": "18"
-            },
-            {
-              "label": "샤브르",
-              "value": "253"
+              "label": "4.",
+              "value": "90"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemmarket?index=1"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=445988"
         },
         {
-          "name": "스탠 지옥의 횃불(바바)",
-          "category": "부적",
+          "name": "스탠 아콘 스태프",
+          "category": "기타",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 6000,
-          "unitPriceP": 6000,
+          "priceP": 4000,
+          "unitPriceP": 4000,
           "options": [
             {
-              "label": "모든 능력치",
-              "value": "20"
-            },
-            {
-              "label": "모든 저항",
-              "value": "19"
-            },
-            {
-              "label": "달벵이",
-              "value": "147"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=357554"
-        },
-        {
-          "name": "스탠 지옥의 횃불(바바)",
-          "category": "부적",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 6000,
-          "unitPriceP": 6000,
-          "options": [
-            {
-              "label": "모든 능력치",
-              "value": "20"
-            },
-            {
-              "label": "모든 저항",
-              "value": "19"
+              "label": "냉기 숙련(원소술사 전용)",
+              "value": "1"
             }
           ],
           "url": null
@@ -370,317 +494,234 @@
       ]
     },
     {
-      "name": "스탠 참룬",
-      "category": "룬",
-      "listingCount": 3,
+      "name": "스탠 잠복하는 불길의 균열 거대 부적",
+      "category": "부적",
+      "listingCount": 2,
       "price": {
         "currency": "P",
-        "min": 1800,
-        "median": 1800,
-        "max": 1800
+        "min": 1000,
+        "median": 1000,
+        "max": 1000
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "4.",
+        "시은"
+      ],
+      "samples": [
+        {
+          "name": "스탠 잠복하는 불길의 균열 거대 부적",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 2,
+          "priceP": 1000,
+          "unitPriceP": 1000,
+          "options": [
+            {
+              "label": "시은",
+              "value": "33"
+            },
+            {
+              "label": "4.",
+              "value": "90"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=465634"
+        },
+        {
+          "name": "스탠 잠복하는 불길의 균열 거대 부적",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 2,
+          "priceP": 1000,
+          "unitPriceP": 1000,
+          "options": [],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "스탠 잠복하는 추위의 파열 거대 부적",
+      "category": "부적",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 300,
+        "median": 300,
+        "max": 300
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "4.",
+        "시은"
+      ],
+      "samples": [
+        {
+          "name": "스탠 잠복하는 추위의 파열 거대 부적",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 300,
+          "unitPriceP": 300,
+          "options": [
+            {
+              "label": "시은",
+              "value": "33"
+            },
+            {
+              "label": "4.",
+              "value": "90"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=465635"
+        },
+        {
+          "name": "스탠 잠복하는 추위의 파열 거대 부적",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 300,
+          "unitPriceP": 300,
+          "options": [],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "스탠 죽음의 깊이 디멘셔널 샤드",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 5200,
+        "median": 5200,
+        "max": 5200
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
         "5.",
-        "로베르자"
+        "necroman",
+        "냉기 기술 피해%",
+        "냉기피해으뜸♣번저+화저=합",
+        "번개 저항%",
+        "화염 저항%"
       ],
       "samples": [
         {
-          "name": "스탠 참룬",
-          "category": "룬",
+          "name": "스탠 죽음의 깊이 디멘셔널 샤드",
+          "category": "기타",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 1800,
-          "unitPriceP": 1800,
-          "options": [],
-          "url": null
-        },
-        {
-          "name": "스탠 참룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 89,
-          "priceP": 1800,
-          "unitPriceP": 1800,
+          "priceP": 5200,
+          "unitPriceP": 5200,
           "options": [
             {
-              "label": "로베르자",
-              "value": "98"
+              "label": "냉기 기술 피해%",
+              "value": "30"
+            },
+            {
+              "label": "번개 저항%",
+              "value": "36"
+            },
+            {
+              "label": "화염 저항%",
+              "value": "38"
+            },
+            {
+              "label": "냉기피해으뜸♣번저+화저=합",
+              "value": "74"
+            },
+            {
+              "label": "necroman",
+              "value": "279"
             },
             {
               "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=456902"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=248302"
         },
         {
-          "name": "스탠 참룬",
-          "category": "룬",
+          "name": "스탠 죽음의 깊이 디멘셔널 샤드",
+          "category": "기타",
           "server": "악군",
           "status": "",
-          "quantity": 89,
-          "priceP": 1800,
-          "unitPriceP": 1800,
-          "options": [],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "스탠 렘룬",
-      "category": "룬",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 150,
-        "median": 150,
-        "max": 150
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "0.",
-        "에이아이셀러"
-      ],
-      "samples": [
-        {
-          "name": "스탠 렘룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 3,
-          "priceP": 150,
-          "unitPriceP": 150,
+          "quantity": 1,
+          "priceP": 5200,
+          "unitPriceP": 5200,
           "options": [
             {
-              "label": "에이아이셀러",
-              "value": "3"
+              "label": "냉기 기술 피해%",
+              "value": "30"
             },
             {
-              "label": "0.",
-              "value": "00"
+              "label": "번개 저항%",
+              "value": "36"
+            },
+            {
+              "label": "화염 저항%",
+              "value": "38"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=462488"
-        },
-        {
-          "name": "스탠 렘룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 3,
-          "priceP": 150,
-          "unitPriceP": 150,
-          "options": [],
           "url": null
         }
       ]
     },
     {
-      "name": "스탠 로룬",
-      "category": "룬",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 1400,
-        "median": 1400,
-        "max": 1400
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "0.",
-        "에이아이셀러"
-      ],
-      "samples": [
-        {
-          "name": "스탠 로룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 3,
-          "priceP": 1400,
-          "unitPriceP": 1400,
-          "options": [
-            {
-              "label": "에이아이셀러",
-              "value": "3"
-            },
-            {
-              "label": "0.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=463817"
-        },
-        {
-          "name": "스탠 로룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 3,
-          "priceP": 1400,
-          "unitPriceP": 1400,
-          "options": [],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "스탠 베르룬",
-      "category": "룬",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 2500,
-        "median": 2500,
-        "max": 2500
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "0.",
-        "에이아이셀러"
-      ],
-      "samples": [
-        {
-          "name": "스탠 베르룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 10,
-          "priceP": 2500,
-          "unitPriceP": 2500,
-          "options": [
-            {
-              "label": "에이아이셀러",
-              "value": "3"
-            },
-            {
-              "label": "0.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=463821"
-        },
-        {
-          "name": "스탠 베르룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 10,
-          "priceP": 2500,
-          "unitPriceP": 2500,
-          "options": [],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "스탠 벡스룬",
-      "category": "룬",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 550,
-        "median": 550,
-        "max": 550
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "샤브르"
-      ],
-      "samples": [
-        {
-          "name": "스탠 벡스룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 12,
-          "priceP": 550,
-          "unitPriceP": 550,
-          "options": [
-            {
-              "label": "샤브르",
-              "value": "253"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=465570"
-        },
-        {
-          "name": "스탠 벡스룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 12,
-          "priceP": 550,
-          "unitPriceP": 550,
-          "options": [],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "스탠 지옥의 횃불(바바)",
+      "name": "스탠 죽음의 깊이 디멘셔널 샤드",
       "category": "룬워드",
       "listingCount": 1,
       "price": {
         "currency": "P",
-        "min": 6000,
-        "median": 6000,
-        "max": 6000
+        "min": 5200,
+        "median": 5200,
+        "max": 5200
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "0.",
+        "4.",
         "5.",
-        "거래 상대방",
+        "necroman",
+        "괴물에게서 얻는 금화%",
+        "냉기 기술 피해%",
+        "냉기피해으뜸♣번저+화저=합",
         "다음",
         "달리기/걷기 속도%",
-        "달벵이",
         "디아블로",
-        "로베르자",
-        "마법 아이템 발견 확률%",
-        "마법 피해 감소",
-        "모든 능력치",
         "모든 저항",
-        "받는 물리 피해%",
-        "생명력",
-        "샤브르",
-        "에이아이셀러",
-        "옵션",
+        "방어력%",
+        "번개 저항%",
+        "시은",
+        "시전 속도%",
+        "적의 마법 저항-%",
         "지금 시작하면, 멤버십 PLUS",
         "타격 회복 속도%",
         "플레이디아 디아블로",
-        "피해 감소",
-        "피해%"
+        "화염 저항%"
       ],
       "samples": [
         {
-          "name": "스탠 지옥의 횃불(바바)",
+          "name": "스탠 죽음의 깊이 디멘셔널 샤드",
           "category": "룬워드",
           "server": "악군",
           "status": "거래완료",
           "quantity": 1,
-          "priceP": 6000,
-          "unitPriceP": 6000,
+          "priceP": 5200,
+          "unitPriceP": 5200,
           "options": [
             {
               "label": "지금 시작하면, 멤버십 PLUS",
@@ -699,87 +740,229 @@
               "value": "20"
             },
             {
-              "label": "모든 능력치",
-              "value": "20"
+              "label": "냉기 기술 피해%",
+              "value": "30"
             },
             {
-              "label": "모든 저항",
-              "value": "19"
+              "label": "번개 저항%",
+              "value": "36"
             },
             {
-              "label": "달벵이",
-              "value": "147"
+              "label": "화염 저항%",
+              "value": "38"
+            },
+            {
+              "label": "냉기피해으뜸♣번저+화저=합",
+              "value": "74"
+            },
+            {
+              "label": "necroman",
+              "value": "279"
             },
             {
               "label": "5.",
               "value": "00"
             },
             {
-              "label": "거래 상대방",
-              "value": "1"
+              "label": "시은",
+              "value": "33"
             },
             {
-              "label": "0.",
-              "value": "00"
+              "label": "4.",
+              "value": "90"
             },
             {
-              "label": "로베르자",
-              "value": "98"
+              "label": "달리기/걷기 속도%",
+              "value": "12"
             },
             {
-              "label": "받는 물리 피해%",
-              "value": "10"
+              "label": "시전 속도%",
+              "value": "17"
+            },
+            {
+              "label": "타격 회복 속도%",
+              "value": "12"
+            },
+            {
+              "label": "적의 마법 저항-%",
+              "value": "4"
+            },
+            {
+              "label": "방어력%",
+              "value": "94"
+            },
+            {
+              "label": "괴물에게서 얻는 금화%",
+              "value": "59"
+            },
+            {
+              "label": "모든 저항",
+              "value": "9"
             },
             {
               "label": "달리기/걷기 속도%",
               "value": "10"
             },
             {
-              "label": "피해%",
-              "value": "94"
+              "label": "타격 회복 속도%",
+              "value": "19"
             },
             {
-              "label": "생명력",
-              "value": "16"
-            },
-            {
-              "label": "피해 감소",
-              "value": "7"
-            },
-            {
-              "label": "마법 아이템 발견 확률%",
-              "value": "20"
-            },
-            {
-              "label": "에이아이셀러",
+              "label": "적의 마법 저항-%",
               "value": "3"
             },
             {
-              "label": "타격 회복 속도%",
-              "value": "24"
+              "label": "방어력%",
+              "value": "126"
             },
             {
-              "label": "생명력",
-              "value": "35"
-            },
-            {
-              "label": "마법 피해 감소",
-              "value": "8"
-            },
-            {
-              "label": "마법 아이템 발견 확률%",
-              "value": "18"
-            },
-            {
-              "label": "샤브르",
-              "value": "253"
-            },
-            {
-              "label": "옵션",
-              "value": "0"
+              "label": "괴물에게서 얻는 금화%",
+              "value": "65"
             }
           ],
           "url": "https://www.playnote.co.kr/customer/noticedetail?Index=5"
+        }
+      ]
+    },
+    {
+      "name": "스탠 죽음의 깊이 디멘셔널 샤드",
+      "category": "부적",
+      "listingCount": 1,
+      "price": {
+        "currency": "P",
+        "min": 5200,
+        "median": 5200,
+        "max": 5200
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "4.",
+        "5.",
+        "necroman",
+        "괴물에게서 얻는 금화%",
+        "냉기 기술 피해%",
+        "냉기피해으뜸♣번저+화저=합",
+        "다음",
+        "달리기/걷기 속도%",
+        "모든 저항",
+        "방어력%",
+        "번개 저항%",
+        "시은",
+        "시전 속도%",
+        "적의 마법 저항-%",
+        "타격 회복 속도%",
+        "화염 저항%"
+      ],
+      "samples": [
+        {
+          "name": "스탠 죽음의 깊이 디멘셔널 샤드",
+          "category": "부적",
+          "server": "악군",
+          "status": "거래완료",
+          "quantity": 1,
+          "priceP": 5200,
+          "unitPriceP": 5200,
+          "options": [
+            {
+              "label": "다음",
+              "value": "20"
+            },
+            {
+              "label": "냉기 기술 피해%",
+              "value": "30"
+            },
+            {
+              "label": "번개 저항%",
+              "value": "36"
+            },
+            {
+              "label": "화염 저항%",
+              "value": "38"
+            },
+            {
+              "label": "냉기피해으뜸♣번저+화저=합",
+              "value": "74"
+            },
+            {
+              "label": "necroman",
+              "value": "279"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            },
+            {
+              "label": "시은",
+              "value": "33"
+            },
+            {
+              "label": "4.",
+              "value": "90"
+            },
+            {
+              "label": "달리기/걷기 속도%",
+              "value": "12"
+            },
+            {
+              "label": "시전 속도%",
+              "value": "17"
+            },
+            {
+              "label": "타격 회복 속도%",
+              "value": "12"
+            },
+            {
+              "label": "적의 마법 저항-%",
+              "value": "4"
+            },
+            {
+              "label": "방어력%",
+              "value": "94"
+            },
+            {
+              "label": "괴물에게서 얻는 금화%",
+              "value": "59"
+            },
+            {
+              "label": "모든 저항",
+              "value": "9"
+            },
+            {
+              "label": "달리기/걷기 속도%",
+              "value": "10"
+            },
+            {
+              "label": "타격 회복 속도%",
+              "value": "19"
+            },
+            {
+              "label": "적의 마법 저항-%",
+              "value": "3"
+            },
+            {
+              "label": "방어력%",
+              "value": "126"
+            },
+            {
+              "label": "괴물에게서 얻는 금화%",
+              "value": "65"
+            },
+            {
+              "label": "모든 저항",
+              "value": "11"
+            },
+            {
+              "label": "시전 속도%",
+              "value": "20"
+            },
+            {
+              "label": "타격 회복 속도%",
+              "value": "16"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemmarket?index=1"
         }
       ]
     }
