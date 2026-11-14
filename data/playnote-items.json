@@ -1,387 +1,14 @@
 {
   "source": "https://www.playnote.co.kr/trade/itemmarket?index=1",
   "scope": "public-listings-only",
-  "updatedAt": "2026-11-14T09:21:41.944374+00:00",
-  "listingCount": 21,
-  "itemCount": 12,
+  "updatedAt": "2026-11-14T16:03:48.396247+00:00",
+  "listingCount": 16,
+  "itemCount": 10,
   "items": [
     {
-      "name": "래더 그리스월드의 심장",
-      "category": "기타",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 500,
-        "median": 500,
-        "max": 500
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "털복쉥이"
-      ],
-      "samples": [
-        {
-          "name": "래더 그리스월드의 심장",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 500,
-          "unitPriceP": 500,
-          "options": [
-            {
-              "label": "털복쉥이",
-              "value": "140"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=467865"
-        },
-        {
-          "name": "래더 그리스월드의 심장",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 500,
-          "unitPriceP": 500,
-          "options": [],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 독사마술사의 가죽 서펀트스킨 아머",
-      "category": "기타",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 15000,
-        "median": 15000,
-        "max": 15000
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "마법 피해 감소",
-        "모든 저항",
-        "이드나"
-      ],
-      "samples": [
-        {
-          "name": "래더 독사마술사의 가죽 서펀트스킨 아머",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 15000,
-          "unitPriceP": 15000,
-          "options": [
-            {
-              "label": "모든 저항",
-              "value": "22"
-            },
-            {
-              "label": "마법 피해 감소",
-              "value": "10"
-            },
-            {
-              "label": "이드나",
-              "value": "61"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=467862"
-        },
-        {
-          "name": "래더 독사마술사의 가죽 서펀트스킨 아머",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 15000,
-          "unitPriceP": 15000,
-          "options": [
-            {
-              "label": "모든 저항",
-              "value": "22"
-            },
-            {
-              "label": "마법 피해 감소",
-              "value": "10"
-            }
-          ],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 렘룬",
+      "name": "래더 앰룬",
       "category": "룬",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 1800,
-        "median": 1800,
-        "max": 1800
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "우리"
-      ],
-      "samples": [
-        {
-          "name": "래더 렘룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 1800,
-          "unitPriceP": 1800,
-          "options": [
-            {
-              "label": "우리",
-              "value": "62"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=467863"
-        },
-        {
-          "name": "래더 렘룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 1800,
-          "unitPriceP": 1800,
-          "options": [],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 브로드소드",
-      "category": "기타",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 600,
-        "median": 600,
-        "max": 600
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "#브로드소드",
-        "5.",
-        "능마루",
-        "홈 있음(소켓)"
-      ],
-      "samples": [
-        {
-          "name": "래더 브로드소드",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 2,
-          "priceP": 600,
-          "unitPriceP": 600,
-          "options": [
-            {
-              "label": "홈 있음(소켓)",
-              "value": "4"
-            },
-            {
-              "label": "#브로드소드",
-              "value": "4"
-            },
-            {
-              "label": "능마루",
-              "value": "65"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=467840"
-        },
-        {
-          "name": "래더 브로드소드",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 2,
-          "priceP": 600,
-          "unitPriceP": 600,
-          "options": [
-            {
-              "label": "홈 있음(소켓)",
-              "value": "4"
-            }
-          ],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 천상의 빛 마이티 셉터",
-      "category": "기타",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 8000,
-        "median": 8000,
-        "max": 8000
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "악마 처치 시 생명력 회복",
-        "피해%",
-        "홈 있음(소켓)"
-      ],
-      "samples": [
-        {
-          "name": "래더 천상의 빛 마이티 셉터",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 8000,
-          "unitPriceP": 8000,
-          "options": [
-            {
-              "label": "피해%",
-              "value": "258"
-            },
-            {
-              "label": "악마 처치 시 생명력 회복",
-              "value": "16"
-            },
-            {
-              "label": "홈 있음(소켓)",
-              "value": "2"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=467433"
-        },
-        {
-          "name": "래더 천상의 빛 마이티 셉터",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 8000,
-          "unitPriceP": 8000,
-          "options": [
-            {
-              "label": "피해%",
-              "value": "258"
-            },
-            {
-              "label": "악마 처치 시 생명력 회복",
-              "value": "16"
-            },
-            {
-              "label": "홈 있음(소켓)",
-              "value": "2"
-            }
-          ],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 탈 라샤의 호라드림 관모",
-      "category": "기타",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 1200,
-        "median": 1200,
-        "max": 1200
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "0.",
-        "방어력%",
-        "아이묭"
-      ],
-      "samples": [
-        {
-          "name": "래더 탈 라샤의 호라드림 관모",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 1200,
-          "unitPriceP": 1200,
-          "options": [
-            {
-              "label": "방어력%",
-              "value": "107"
-            },
-            {
-              "label": "아이묭",
-              "value": "2"
-            },
-            {
-              "label": "0.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=467864"
-        },
-        {
-          "name": "래더 탈 라샤의 호라드림 관모",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 1200,
-          "unitPriceP": 1200,
-          "options": [
-            {
-              "label": "방어력%",
-              "value": "107"
-            }
-          ],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 탈룬",
-      "category": "룬",
-      "listingCount": 2,
+      "listingCount": 3,
       "price": {
         "currency": "P",
         "min": 200,
@@ -392,32 +19,12 @@
         "악군"
       ],
       "optionLabels": [
-        "5.",
-        "라운드"
+        "4.",
+        "너머오미"
       ],
       "samples": [
         {
-          "name": "래더 탈룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 200,
-          "unitPriceP": 200,
-          "options": [
-            {
-              "label": "라운드",
-              "value": "108"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=467483"
-        },
-        {
-          "name": "래더 탈룬",
+          "name": "래더 앰룬",
           "category": "룬",
           "server": "악군",
           "status": "",
@@ -426,277 +33,337 @@
           "unitPriceP": 200,
           "options": [],
           "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 흡혈귀의 눈길 그림 헬름",
-      "category": "기타",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 40000,
-        "median": 40000,
-        "max": 40000
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "0.",
-        "마법 피해 감소",
-        "받는 피해 감소%",
-        "어쩌다마주친",
-        "적중당 마나 훔침%",
-        "적중당 생명력 훔침%"
-      ],
-      "samples": [
-        {
-          "name": "래더 흡혈귀의 눈길 그림 헬름",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 40000,
-          "unitPriceP": 40000,
-          "options": [
-            {
-              "label": "적중당 마나 훔침%",
-              "value": "8"
-            },
-            {
-              "label": "적중당 생명력 훔침%",
-              "value": "8"
-            },
-            {
-              "label": "받는 피해 감소%",
-              "value": "20"
-            },
-            {
-              "label": "마법 피해 감소",
-              "value": "15"
-            },
-            {
-              "label": "어쩌다마주친",
-              "value": "18"
-            },
-            {
-              "label": "0.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=467286"
         },
         {
-          "name": "래더 흡혈귀의 눈길 그림 헬름",
-          "category": "기타",
+          "name": "래더 앰룬",
+          "category": "룬",
           "server": "악군",
           "status": "",
-          "quantity": 1,
-          "priceP": 40000,
-          "unitPriceP": 40000,
+          "quantity": 2,
+          "priceP": 200,
+          "unitPriceP": 200,
           "options": [
             {
-              "label": "적중당 마나 훔침%",
-              "value": "8"
+              "label": "너머오미",
+              "value": "67"
             },
             {
-              "label": "적중당 생명력 훔침%",
-              "value": "8"
-            },
-            {
-              "label": "받는 피해 감소%",
-              "value": "20"
-            },
-            {
-              "label": "마법 피해 감소",
-              "value": "15"
+              "label": "4.",
+              "value": "90"
             }
           ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=470058"
+        },
+        {
+          "name": "래더 앰룬",
+          "category": "룬",
+          "server": "악군",
+          "status": "",
+          "quantity": 2,
+          "priceP": 200,
+          "unitPriceP": 200,
+          "options": [],
           "url": null
         }
       ]
     },
     {
-      "name": "스탠 새로워진 뼈의 분쇄 거대 부적",
-      "category": "부적",
+      "name": "래더 렘룬",
+      "category": "룬",
       "listingCount": 2,
       "price": {
         "currency": "P",
-        "min": 10000,
-        "median": 10000,
-        "max": 10000
+        "min": 700,
+        "median": 700,
+        "max": 700
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
         "5.",
-        "달벵이",
-        "마법 아이템 발견 확률%",
-        "마법 피해 감소",
-        "받는 물리 피해%",
-        "생명력",
-        "타격 회복 속도%",
-        "피해%"
+        "만세천세"
       ],
       "samples": [
         {
-          "name": "스탠 새로워진 뼈의 분쇄 거대 부적",
-          "category": "부적",
+          "name": "래더 렘룬",
+          "category": "룬",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 10000,
-          "unitPriceP": 10000,
+          "priceP": 700,
+          "unitPriceP": 700,
           "options": [
             {
-              "label": "받는 물리 피해%",
-              "value": "10"
-            },
-            {
-              "label": "피해%",
-              "value": "94"
-            },
-            {
-              "label": "타격 회복 속도%",
-              "value": "24"
-            },
-            {
-              "label": "생명력",
-              "value": "35"
-            },
-            {
-              "label": "마법 피해 감소",
-              "value": "8"
-            },
-            {
-              "label": "마법 아이템 발견 확률%",
-              "value": "18"
-            },
-            {
-              "label": "달벵이",
-              "value": "147"
+              "label": "만세천세",
+              "value": "102"
             },
             {
               "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=349551"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=470171"
         },
         {
-          "name": "스탠 새로워진 뼈의 분쇄 거대 부적",
-          "category": "부적",
+          "name": "래더 렘룬",
+          "category": "룬",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 10000,
-          "unitPriceP": 10000,
-          "options": [
-            {
-              "label": "받는 물리 피해%",
-              "value": "10"
-            },
-            {
-              "label": "피해%",
-              "value": "94"
-            },
-            {
-              "label": "타격 회복 속도%",
-              "value": "24"
-            },
-            {
-              "label": "생명력",
-              "value": "35"
-            },
-            {
-              "label": "마법 피해 감소",
-              "value": "8"
-            },
-            {
-              "label": "마법 아이템 발견 확률%",
-              "value": "18"
-            }
-          ],
+          "priceP": 700,
+          "unitPriceP": 700,
+          "options": [],
           "url": null
         }
       ]
     },
     {
-      "name": "래더 잠행",
+      "name": "래더 안수",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 700,
+        "median": 700,
+        "max": 700
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "4.",
+        "TEZZA"
+      ],
+      "samples": [
+        {
+          "name": "래더 안수",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 700,
+          "unitPriceP": 700,
+          "options": [
+            {
+              "label": "TEZZA",
+              "value": "50"
+            },
+            {
+              "label": "4.",
+              "value": "90"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=468073"
+        },
+        {
+          "name": "래더 안수",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 700,
+          "unitPriceP": 700,
+          "options": [],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 증오의 열쇠",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 1000,
+        "median": 1000,
+        "max": 1000
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "5.",
+        "angmond"
+      ],
+      "samples": [
+        {
+          "name": "래더 증오의 열쇠",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 1000,
+          "unitPriceP": 1000,
+          "options": [
+            {
+              "label": "angmond",
+              "value": "52"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=470169"
+        },
+        {
+          "name": "래더 증오의 열쇠",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 1000,
+          "unitPriceP": 1000,
+          "options": [],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 헬룬",
+      "category": "룬",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 350,
+        "median": 350,
+        "max": 350
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "5.",
+        "칼의노래"
+      ],
+      "samples": [
+        {
+          "name": "래더 헬룬",
+          "category": "룬",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 350,
+          "unitPriceP": 350,
+          "options": [
+            {
+              "label": "칼의노래",
+              "value": "22"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=470173"
+        },
+        {
+          "name": "래더 헬룬",
+          "category": "룬",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 350,
+          "unitPriceP": 350,
+          "options": [],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 기드의 행운",
       "category": "기타",
       "listingCount": 1,
       "price": {
         "currency": "P",
-        "min": 500,
-        "median": 500,
-        "max": 500
+        "min": 2000,
+        "median": 2000,
+        "max": 2000
       },
       "servers": [
         "악군"
       ],
-      "optionLabels": [],
+      "optionLabels": [
+        "괴물에게서 얻는 금화%",
+        "마법 아이템 발견 확률%",
+        "상점 물품 가격 하락%"
+      ],
       "samples": [
         {
-          "name": "래더 잠행",
+          "name": "래더 기드의 행운",
           "category": "기타",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 500,
-          "unitPriceP": 500,
-          "options": [],
+          "priceP": 2000,
+          "unitPriceP": 2000,
+          "options": [
+            {
+              "label": "괴물에게서 얻는 금화%",
+              "value": "104"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "34"
+            },
+            {
+              "label": "상점 물품 가격 하락%",
+              "value": "12"
+            }
+          ],
           "url": null
         }
       ]
     },
     {
-      "name": "래더 천상의 빛 마이티 셉터",
+      "name": "래더 안수",
       "category": "룬워드",
       "listingCount": 1,
       "price": {
         "currency": "P",
-        "min": 8000,
-        "median": 8000,
-        "max": 8000
+        "min": 700,
+        "median": 700,
+        "max": 700
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
+        "-부산중구",
         "0.",
+        "1,",
+        "4.",
         "5.",
+        "TEZZA",
+        "angmond",
         "거래 상대방",
+        "괴물에게서 얻는 금화%",
+        "너머오미",
         "다음",
-        "달벵이",
         "디아블로",
-        "라운드",
         "마법 아이템 발견 확률%",
-        "마법 피해 감소",
-        "받는 물리 피해%",
-        "받는 피해 감소%",
-        "생명력",
-        "악마 처치 시 생명력 회복",
-        "어쩌다마주친",
-        "적중당 마나 훔침%",
-        "적중당 생명력 훔침%",
+        "만세천세",
+        "부산광역시 남구 전포대로",
+        "사업자등록번호:",
+        "상점 물품 가격 하락%",
+        "연락처",
+        "옵션",
+        "자주묻는질문",
         "지금 시작하면, 멤버십 PLUS",
-        "타격 회복 속도%",
-        "털복쉥이",
-        "플레이디아 디아블로",
-        "피해%",
-        "홈 있음(소켓)"
+        "칼의노래",
+        "통신판매신고번호: 제",
+        "플레이디아 디아블로"
       ],
       "samples": [
         {
-          "name": "래더 천상의 빛 마이티 셉터",
+          "name": "래더 안수",
           "category": "룬워드",
           "server": "악군",
           "status": "거래완료",
           "quantity": 1,
-          "priceP": 8000,
-          "unitPriceP": 8000,
+          "priceP": 700,
+          "unitPriceP": 700,
           "options": [
             {
               "label": "지금 시작하면, 멤버십 PLUS",
@@ -715,84 +382,84 @@
               "value": "20"
             },
             {
-              "label": "피해%",
-              "value": "258"
+              "label": "TEZZA",
+              "value": "50"
             },
             {
-              "label": "악마 처치 시 생명력 회복",
-              "value": "16"
+              "label": "4.",
+              "value": "90"
             },
             {
-              "label": "홈 있음(소켓)",
-              "value": "2"
+              "label": "칼의노래",
+              "value": "22"
             },
             {
               "label": "5.",
               "value": "00"
             },
             {
-              "label": "적중당 마나 훔침%",
-              "value": "8"
+              "label": "괴물에게서 얻는 금화%",
+              "value": "104"
             },
             {
-              "label": "적중당 생명력 훔침%",
-              "value": "8"
+              "label": "마법 아이템 발견 확률%",
+              "value": "34"
             },
             {
-              "label": "받는 피해 감소%",
-              "value": "20"
-            },
-            {
-              "label": "마법 피해 감소",
-              "value": "15"
-            },
-            {
-              "label": "어쩌다마주친",
-              "value": "18"
-            },
-            {
-              "label": "0.",
-              "value": "00"
+              "label": "상점 물품 가격 하락%",
+              "value": "12"
             },
             {
               "label": "거래 상대방",
               "value": "1"
             },
             {
-              "label": "라운드",
-              "value": "108"
+              "label": "0.",
+              "value": "00"
             },
             {
-              "label": "털복쉥이",
-              "value": "140"
+              "label": "만세천세",
+              "value": "102"
             },
             {
-              "label": "받는 물리 피해%",
-              "value": "10"
+              "label": "angmond",
+              "value": "52"
             },
             {
-              "label": "피해%",
-              "value": "94"
+              "label": "너머오미",
+              "value": "67"
             },
             {
-              "label": "타격 회복 속도%",
-              "value": "24"
+              "label": "옵션",
+              "value": "0"
             },
             {
-              "label": "생명력",
-              "value": "35"
+              "label": "1,",
+              "value": "000"
             },
             {
-              "label": "마법 피해 감소",
-              "value": "8"
+              "label": "사업자등록번호:",
+              "value": "148"
             },
             {
-              "label": "마법 아이템 발견 확률%",
-              "value": "18"
+              "label": "통신판매신고번호: 제",
+              "value": "2021"
             },
             {
-              "label": "달벵이",
-              "value": "147"
+              "label": "-부산중구",
+              "value": "0282"
+            },
+            {
+              "label": "부산광역시 남구 전포대로",
+              "value": "116"
+            },
+            {
+              "label": "연락처",
+              "value": "070"
+            },
+            {
+              "label": "자주묻는질문",
+              "value": "1"
             }
           ],
           "url": "https://www.playnote.co.kr/customer/noticedetail?Index=5"
@@ -800,150 +467,153 @@
       ]
     },
     {
-      "name": "래더 천상의 빛 마이티 셉터",
-      "category": "부적",
+      "name": "래더 안수",
+      "category": "룬",
       "listingCount": 1,
       "price": {
         "currency": "P",
-        "min": 8000,
-        "median": 8000,
-        "max": 8000
+        "min": 700,
+        "median": 700,
+        "max": 700
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
         "0.",
+        "4.",
         "5.",
+        "TEZZA",
+        "angmond",
         "거래 상대방",
+        "괴물에게서 얻는 금화%",
+        "너머오미",
         "다음",
-        "달벵이",
-        "라운드",
         "마법 아이템 발견 확률%",
-        "마법 피해 감소",
-        "받는 물리 피해%",
-        "받는 피해 감소%",
-        "방어력%",
-        "생명력",
-        "아이묭",
-        "악마 처치 시 생명력 회복",
-        "어쩌다마주친",
-        "우리",
-        "적중당 마나 훔침%",
-        "적중당 생명력 훔침%",
-        "타격 회복 속도%",
-        "털복쉥이",
-        "피해%",
-        "홈 있음(소켓)"
+        "만세천세",
+        "상점 물품 가격 하락%",
+        "칼의노래"
       ],
       "samples": [
         {
-          "name": "래더 천상의 빛 마이티 셉터",
-          "category": "부적",
+          "name": "래더 안수",
+          "category": "룬",
           "server": "악군",
           "status": "거래완료",
           "quantity": 1,
-          "priceP": 8000,
-          "unitPriceP": 8000,
+          "priceP": 700,
+          "unitPriceP": 700,
           "options": [
             {
               "label": "다음",
               "value": "20"
             },
             {
-              "label": "피해%",
-              "value": "258"
+              "label": "TEZZA",
+              "value": "50"
             },
             {
-              "label": "악마 처치 시 생명력 회복",
-              "value": "16"
+              "label": "4.",
+              "value": "90"
             },
             {
-              "label": "홈 있음(소켓)",
-              "value": "2"
+              "label": "칼의노래",
+              "value": "22"
             },
             {
               "label": "5.",
               "value": "00"
             },
             {
-              "label": "적중당 마나 훔침%",
-              "value": "8"
+              "label": "괴물에게서 얻는 금화%",
+              "value": "104"
             },
             {
-              "label": "적중당 생명력 훔침%",
-              "value": "8"
+              "label": "마법 아이템 발견 확률%",
+              "value": "34"
             },
             {
-              "label": "받는 피해 감소%",
-              "value": "20"
-            },
-            {
-              "label": "마법 피해 감소",
-              "value": "15"
-            },
-            {
-              "label": "어쩌다마주친",
-              "value": "18"
-            },
-            {
-              "label": "0.",
-              "value": "00"
+              "label": "상점 물품 가격 하락%",
+              "value": "12"
             },
             {
               "label": "거래 상대방",
               "value": "1"
             },
             {
-              "label": "라운드",
-              "value": "108"
+              "label": "0.",
+              "value": "00"
             },
             {
-              "label": "털복쉥이",
-              "value": "140"
+              "label": "만세천세",
+              "value": "102"
             },
             {
-              "label": "받는 물리 피해%",
-              "value": "10"
+              "label": "angmond",
+              "value": "52"
             },
             {
-              "label": "피해%",
-              "value": "94"
-            },
-            {
-              "label": "타격 회복 속도%",
-              "value": "24"
-            },
-            {
-              "label": "생명력",
-              "value": "35"
-            },
-            {
-              "label": "마법 피해 감소",
-              "value": "8"
-            },
-            {
-              "label": "마법 아이템 발견 확률%",
-              "value": "18"
-            },
-            {
-              "label": "달벵이",
-              "value": "147"
-            },
-            {
-              "label": "방어력%",
-              "value": "107"
-            },
-            {
-              "label": "아이묭",
-              "value": "2"
-            },
-            {
-              "label": "우리",
-              "value": "62"
+              "label": "너머오미",
+              "value": "67"
             }
           ],
           "url": "https://www.playnote.co.kr/trade/itemmarket?index=1"
+        }
+      ]
+    },
+    {
+      "name": "래더 주울룬",
+      "category": "룬",
+      "listingCount": 1,
+      "price": {
+        "currency": "P",
+        "min": 400,
+        "median": 400,
+        "max": 400
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [],
+      "samples": [
+        {
+          "name": "래더 주울룬",
+          "category": "룬",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 400,
+          "unitPriceP": 400,
+          "options": [],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 풀룬",
+      "category": "룬",
+      "listingCount": 1,
+      "price": {
+        "currency": "P",
+        "min": 1000,
+        "median": 1000,
+        "max": 1000
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [],
+      "samples": [
+        {
+          "name": "래더 풀룬",
+          "category": "룬",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 1000,
+          "unitPriceP": 1000,
+          "options": [],
+          "url": null
         }
       ]
     }
