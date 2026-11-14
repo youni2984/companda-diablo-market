@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>컴판다 중고PC 마켓</title>
+  <link rel="stylesheet" href="/styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">컴판다 중고PC 마켓</div>
+    <button id="sellOpenBtn" class="secondary">내 부품 판매</button>
+  </header>
+
+  <main class="wrap">
+    <section class="hero">
+      <div>
+        <p class="eyebrow">PC · 노트북 · 그래픽카드 · SSD · 메모리</p>
+        <h1>컴퓨터 중고거래를 한곳에서</h1>
+        <p>부품 사양과 상태를 확인하고 카카오페이로 안전하게 결제하는 중고 컴퓨터 거래 MVP입니다.</p>
+      </div>
+      <div class="hero-card">
+        <strong>빠른 검색</strong>
+        <input id="searchInput" type="search" placeholder="예: RTX 3070, NVMe, 게이밍 PC" />
+        <select id="categoryFilter">
+          <option value="">전체 분류</option>
+          <option>완제품 PC</option>
+          <option>그래픽카드</option>
+          <option>CPU</option>
+          <option>메인보드</option>
+          <option>메모리</option>
+          <option>SSD/HDD</option>
+          <option>노트북</option>
+          <option>모니터</option>
+          <option>기타</option>
+        </select>
+      </div>
+    </section>
+
+    <section class="section-head">
+      <div>
+        <h2>판매중 상품</h2>
+        <p id="resultCount">상품을 불러오는 중입니다.</p>
+      </div>
+    </section>
+
+    <section id="productGrid" class="product-grid"></section>
+  </main>
+
+  <dialog id="sellDialog">
+    <form id="sellForm" method="dialog" class="sell-form">
+      <div class="dialog-head">
+        <div>
+          <h2>중고 부품 등록</h2>
+          <p>필수 항목만 입력하면 바로 목록에 추가됩니다.</p>
+        </div>
+        <button id="sellCloseBtn" type="button" class="icon-btn">×</button>
+      </div>
+
+      <label>상품명<input name="title" required /></label>
+      <label>분류
+        <select name="category" required>
+          <option value="">선택</option>
+          <option>완제품 PC</option><option>그래픽카드</option><option>CPU</option><option>메인보드</option>
+          <option>메모리</option><option>SSD/HDD</option><option>노트북</option><option>모니터</option><option>기타</option>
+        </select>
+      </label>
+      <label>가격(원)<input name="price" type="number" min="1000" step="1000" required /></label>
+      <label>지역<input name="location" placeholder="예: 경남 창원" /></label>
+      <label>상태<input name="condition" placeholder="예: 중고 A급" /></label>
+      <label>상세 사양<textarea name="specs" rows="4" placeholder="CPU, GPU, RAM, SSD, 사용기간, 테스트 상태"></textarea></label>
+      <button type="submit" class="primary">상품 등록</button>
+    </form>
+  </dialog>
+
+  <template id="productTemplate">
+    <article class="product-card">
+      <div class="thumb">PC</div>
+      <div class="card-body">
+        <div class="chips"><span class="chip category"></span><span class="chip status"></span></div>
+        <h3 class="title"></h3>
+        <p class="specs"></p>
+        <p class="meta"></p>
+        <div class="price-row">
+          <strong class="price"></strong>
+          <button class="pay-btn">카카오페이 결제</button>
+        </div>
+      </div>
+    </article>
+  </template>
+
+  <script src="/app.js" defer></script>
+</body>
+</html>
