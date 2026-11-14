@@ -1,67 +1,449 @@
 {
   "source": "https://www.playnote.co.kr/trade/itemmarket?index=1",
   "scope": "public-listings-only",
-  "updatedAt": "2026-11-14T16:03:48.396247+00:00",
-  "listingCount": 16,
-  "itemCount": 10,
+  "updatedAt": "2026-11-14T20:39:36.108372+00:00",
+  "listingCount": 18,
+  "itemCount": 9,
   "items": [
     {
-      "name": "래더 앰룬",
-      "category": "룬",
-      "listingCount": 3,
+      "name": "래더 애니참",
+      "category": "부적",
+      "listingCount": 4,
       "price": {
         "currency": "P",
-        "min": 200,
-        "median": 200,
-        "max": 200
+        "min": 2000,
+        "median": 11000,
+        "max": 20000
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
         "4.",
-        "너머오미"
+        "경험치 획득량%",
+        "꼬미사랑",
+        "모든 능력치",
+        "모든 저항"
       ],
       "samples": [
         {
-          "name": "래더 앰룬",
-          "category": "룬",
+          "name": "래더 애니참",
+          "category": "부적",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 200,
-          "unitPriceP": 200,
-          "options": [],
-          "url": null
-        },
-        {
-          "name": "래더 앰룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 2,
-          "priceP": 200,
-          "unitPriceP": 200,
+          "priceP": 2000,
+          "unitPriceP": 2000,
           "options": [
             {
-              "label": "너머오미",
-              "value": "67"
+              "label": "모든 능력치",
+              "value": "12"
+            },
+            {
+              "label": "모든 저항",
+              "value": "20"
+            },
+            {
+              "label": "경험치 획득량%",
+              "value": "5"
+            },
+            {
+              "label": "꼬미사랑",
+              "value": "69"
             },
             {
               "label": "4.",
               "value": "90"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=470058"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=471168"
         },
         {
-          "name": "래더 앰룬",
+          "name": "래더 애니참",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 2000,
+          "unitPriceP": 2000,
+          "options": [
+            {
+              "label": "모든 능력치",
+              "value": "12"
+            },
+            {
+              "label": "모든 저항",
+              "value": "20"
+            },
+            {
+              "label": "경험치 획득량%",
+              "value": "5"
+            }
+          ],
+          "url": null
+        },
+        {
+          "name": "래더 애니참",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 20000,
+          "unitPriceP": 20000,
+          "options": [
+            {
+              "label": "모든 능력치",
+              "value": "20"
+            },
+            {
+              "label": "모든 저항",
+              "value": "20"
+            },
+            {
+              "label": "경험치 획득량%",
+              "value": "5"
+            },
+            {
+              "label": "꼬미사랑",
+              "value": "69"
+            },
+            {
+              "label": "4.",
+              "value": "90"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=471159"
+        },
+        {
+          "name": "래더 애니참",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 20000,
+          "unitPriceP": 20000,
+          "options": [
+            {
+              "label": "모든 능력치",
+              "value": "20"
+            },
+            {
+              "label": "모든 저항",
+              "value": "20"
+            },
+            {
+              "label": "경험치 획득량%",
+              "value": "5"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 크리스탈 소드",
+      "category": "기타",
+      "listingCount": 4,
+      "price": {
+        "currency": "P",
+        "min": 500,
+        "median": 1250,
+        "max": 2000
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "#✅✅ㅡㅡ",
+        "#오더밥.",
+        "5.",
+        "바로_번개거래",
+        "하하히히호호",
+        "함성(야만용사 전용)",
+        "함성칼x",
+        "홈 있음(소켓)"
+      ],
+      "samples": [
+        {
+          "name": "래더 크리스탈 소드",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 500,
+          "unitPriceP": 500,
+          "options": [
+            {
+              "label": "홈 있음(소켓)",
+              "value": "6"
+            },
+            {
+              "label": "#✅✅ㅡㅡ",
+              "value": "6"
+            },
+            {
+              "label": "바로_번개거래",
+              "value": "544"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=471185"
+        },
+        {
+          "name": "래더 크리스탈 소드",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 500,
+          "unitPriceP": 500,
+          "options": [
+            {
+              "label": "홈 있음(소켓)",
+              "value": "6"
+            }
+          ],
+          "url": null
+        },
+        {
+          "name": "래더 크리스탈 소드",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 2000,
+          "unitPriceP": 2000,
+          "options": [
+            {
+              "label": "함성(야만용사 전용)",
+              "value": "3"
+            },
+            {
+              "label": "#오더밥.",
+              "value": "3"
+            },
+            {
+              "label": "함성칼x",
+              "value": "2"
+            },
+            {
+              "label": "하하히히호호",
+              "value": "61"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=471082"
+        },
+        {
+          "name": "래더 크리스탈 소드",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 2000,
+          "unitPriceP": 2000,
+          "options": [
+            {
+              "label": "함성(야만용사 전용)",
+              "value": "3"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 글레이브",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 2000,
+        "median": 2000,
+        "max": 2000
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "#오더밥.",
+        "5.",
+        "하하히히호호",
+        "함성창x"
+      ],
+      "samples": [
+        {
+          "name": "래더 글레이브",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 2000,
+          "unitPriceP": 2000,
+          "options": [
+            {
+              "label": "#오더밥.",
+              "value": "3"
+            },
+            {
+              "label": "함성창x",
+              "value": "2"
+            },
+            {
+              "label": "하하히히호호",
+              "value": "61"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=471085"
+        },
+        {
+          "name": "래더 글레이브",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 2000,
+          "unitPriceP": 2000,
+          "options": [],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 푸른 서슬 페이즈 블레이드",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 1500,
+        "median": 1500,
+        "max": 1500
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "5.",
+        "모든 능력치",
+        "장착 시 성역 오라 적용",
+        "피해%",
+        "하하히히호호"
+      ],
+      "samples": [
+        {
+          "name": "래더 푸른 서슬 페이즈 블레이드",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 1500,
+          "unitPriceP": 1500,
+          "options": [
+            {
+              "label": "장착 시 성역 오라 적용",
+              "value": "10"
+            },
+            {
+              "label": "피해%",
+              "value": "250"
+            },
+            {
+              "label": "모든 능력치",
+              "value": "6"
+            },
+            {
+              "label": "하하히히호호",
+              "value": "61"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=471184"
+        },
+        {
+          "name": "래더 푸른 서슬 페이즈 블레이드",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 1500,
+          "unitPriceP": 1500,
+          "options": [
+            {
+              "label": "장착 시 성역 오라 적용",
+              "value": "10"
+            },
+            {
+              "label": "피해%",
+              "value": "250"
+            },
+            {
+              "label": "모든 능력치",
+              "value": "6"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "스탠 풀룬",
+      "category": "룬",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 1800,
+        "median": 1800,
+        "max": 1800
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "5.",
+        "달벵이"
+      ],
+      "samples": [
+        {
+          "name": "스탠 풀룬",
           "category": "룬",
           "server": "악군",
           "status": "",
-          "quantity": 2,
-          "priceP": 200,
-          "unitPriceP": 200,
+          "quantity": 7,
+          "priceP": 1800,
+          "unitPriceP": 1800,
+          "options": [
+            {
+              "label": "달벵이",
+              "value": "147"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=407562"
+        },
+        {
+          "name": "스탠 풀룬",
+          "category": "룬",
+          "server": "악군",
+          "status": "",
+          "quantity": 7,
+          "priceP": 1800,
+          "unitPriceP": 1800,
           "options": [],
           "url": null
         }
@@ -70,20 +452,17 @@
     {
       "name": "래더 렘룬",
       "category": "룬",
-      "listingCount": 2,
+      "listingCount": 1,
       "price": {
         "currency": "P",
-        "min": 700,
-        "median": 700,
-        "max": 700
+        "min": 590,
+        "median": 590,
+        "max": 590
       },
       "servers": [
         "악군"
       ],
-      "optionLabels": [
-        "5.",
-        "만세천세"
-      ],
+      "optionLabels": [],
       "samples": [
         {
           "name": "래더 렘룬",
@@ -91,189 +470,44 @@
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 700,
-          "unitPriceP": 700,
-          "options": [
-            {
-              "label": "만세천세",
-              "value": "102"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=470171"
-        },
-        {
-          "name": "래더 렘룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 700,
-          "unitPriceP": 700,
+          "priceP": 590,
+          "unitPriceP": 590,
           "options": [],
           "url": null
         }
       ]
     },
     {
-      "name": "래더 안수",
+      "name": "래더 마법사의 쐐기검 본 나이프",
       "category": "기타",
-      "listingCount": 2,
+      "listingCount": 1,
       "price": {
         "currency": "P",
-        "min": 700,
-        "median": 700,
-        "max": 700
+        "min": 500,
+        "median": 500,
+        "max": 500
       },
       "servers": [
         "악군"
       ],
-      "optionLabels": [
-        "4.",
-        "TEZZA"
-      ],
+      "optionLabels": [],
       "samples": [
         {
-          "name": "래더 안수",
+          "name": "래더 마법사의 쐐기검 본 나이프",
           "category": "기타",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 700,
-          "unitPriceP": 700,
-          "options": [
-            {
-              "label": "TEZZA",
-              "value": "50"
-            },
-            {
-              "label": "4.",
-              "value": "90"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=468073"
-        },
-        {
-          "name": "래더 안수",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 700,
-          "unitPriceP": 700,
+          "priceP": 500,
+          "unitPriceP": 500,
           "options": [],
           "url": null
         }
       ]
     },
     {
-      "name": "래더 증오의 열쇠",
-      "category": "기타",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 1000,
-        "median": 1000,
-        "max": 1000
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "angmond"
-      ],
-      "samples": [
-        {
-          "name": "래더 증오의 열쇠",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 1000,
-          "unitPriceP": 1000,
-          "options": [
-            {
-              "label": "angmond",
-              "value": "52"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=470169"
-        },
-        {
-          "name": "래더 증오의 열쇠",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 1000,
-          "unitPriceP": 1000,
-          "options": [],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 헬룬",
-      "category": "룬",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 350,
-        "median": 350,
-        "max": 350
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "칼의노래"
-      ],
-      "samples": [
-        {
-          "name": "래더 헬룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 350,
-          "unitPriceP": 350,
-          "options": [
-            {
-              "label": "칼의노래",
-              "value": "22"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=470173"
-        },
-        {
-          "name": "래더 헬룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 350,
-          "unitPriceP": 350,
-          "options": [],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 기드의 행운",
-      "category": "기타",
+      "name": "래더 애니참",
+      "category": "룬워드",
       "listingCount": 1,
       "price": {
         "currency": "P",
@@ -285,85 +519,38 @@
         "악군"
       ],
       "optionLabels": [
-        "괴물에게서 얻는 금화%",
-        "마법 아이템 발견 확률%",
-        "상점 물품 가격 하락%"
-      ],
-      "samples": [
-        {
-          "name": "래더 기드의 행운",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 2000,
-          "unitPriceP": 2000,
-          "options": [
-            {
-              "label": "괴물에게서 얻는 금화%",
-              "value": "104"
-            },
-            {
-              "label": "마법 아이템 발견 확률%",
-              "value": "34"
-            },
-            {
-              "label": "상점 물품 가격 하락%",
-              "value": "12"
-            }
-          ],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 안수",
-      "category": "룬워드",
-      "listingCount": 1,
-      "price": {
-        "currency": "P",
-        "min": 700,
-        "median": 700,
-        "max": 700
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "-부산중구",
+        "#✅✅ㅡㅡ",
+        "#오더밥.",
         "0.",
-        "1,",
         "4.",
         "5.",
-        "TEZZA",
-        "angmond",
         "거래 상대방",
-        "괴물에게서 얻는 금화%",
-        "너머오미",
+        "경험치 획득량%",
+        "꼬미사랑",
         "다음",
+        "달벵이",
         "디아블로",
-        "마법 아이템 발견 확률%",
-        "만세천세",
-        "부산광역시 남구 전포대로",
-        "사업자등록번호:",
-        "상점 물품 가격 하락%",
-        "연락처",
-        "옵션",
-        "자주묻는질문",
+        "모든 능력치",
+        "모든 저항",
+        "바로_번개거래",
+        "장착 시 성역 오라 적용",
         "지금 시작하면, 멤버십 PLUS",
-        "칼의노래",
-        "통신판매신고번호: 제",
-        "플레이디아 디아블로"
+        "플레이디아 디아블로",
+        "피해%",
+        "하하히히호호",
+        "함성(야만용사 전용)",
+        "함성창x",
+        "홈 있음(소켓)"
       ],
       "samples": [
         {
-          "name": "래더 안수",
+          "name": "래더 애니참",
           "category": "룬워드",
           "server": "악군",
           "status": "거래완료",
           "quantity": 1,
-          "priceP": 700,
-          "unitPriceP": 700,
+          "priceP": 2000,
+          "unitPriceP": 2000,
           "options": [
             {
               "label": "지금 시작하면, 멤버십 PLUS",
@@ -382,32 +569,28 @@
               "value": "20"
             },
             {
-              "label": "TEZZA",
-              "value": "50"
+              "label": "모든 능력치",
+              "value": "12"
+            },
+            {
+              "label": "모든 저항",
+              "value": "20"
+            },
+            {
+              "label": "경험치 획득량%",
+              "value": "5"
+            },
+            {
+              "label": "꼬미사랑",
+              "value": "69"
             },
             {
               "label": "4.",
               "value": "90"
             },
             {
-              "label": "칼의노래",
-              "value": "22"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            },
-            {
-              "label": "괴물에게서 얻는 금화%",
-              "value": "104"
-            },
-            {
-              "label": "마법 아이템 발견 확률%",
-              "value": "34"
-            },
-            {
-              "label": "상점 물품 가격 하락%",
-              "value": "12"
+              "label": "모든 능력치",
+              "value": "20"
             },
             {
               "label": "거래 상대방",
@@ -418,48 +601,52 @@
               "value": "00"
             },
             {
-              "label": "만세천세",
-              "value": "102"
+              "label": "달벵이",
+              "value": "147"
             },
             {
-              "label": "angmond",
-              "value": "52"
+              "label": "5.",
+              "value": "00"
             },
             {
-              "label": "너머오미",
-              "value": "67"
+              "label": "홈 있음(소켓)",
+              "value": "6"
             },
             {
-              "label": "옵션",
-              "value": "0"
+              "label": "#✅✅ㅡㅡ",
+              "value": "6"
             },
             {
-              "label": "1,",
-              "value": "000"
+              "label": "바로_번개거래",
+              "value": "544"
             },
             {
-              "label": "사업자등록번호:",
-              "value": "148"
+              "label": "장착 시 성역 오라 적용",
+              "value": "10"
             },
             {
-              "label": "통신판매신고번호: 제",
-              "value": "2021"
+              "label": "피해%",
+              "value": "250"
             },
             {
-              "label": "-부산중구",
-              "value": "0282"
+              "label": "모든 능력치",
+              "value": "6"
             },
             {
-              "label": "부산광역시 남구 전포대로",
-              "value": "116"
+              "label": "하하히히호호",
+              "value": "61"
             },
             {
-              "label": "연락처",
-              "value": "070"
+              "label": "#오더밥.",
+              "value": "3"
             },
             {
-              "label": "자주묻는질문",
-              "value": "1"
+              "label": "함성창x",
+              "value": "2"
+            },
+            {
+              "label": "함성(야만용사 전용)",
+              "value": "3"
             }
           ],
           "url": "https://www.playnote.co.kr/customer/noticedetail?Index=5"
@@ -467,74 +654,77 @@
       ]
     },
     {
-      "name": "래더 안수",
+      "name": "래더 애니참",
       "category": "룬",
       "listingCount": 1,
       "price": {
         "currency": "P",
-        "min": 700,
-        "median": 700,
-        "max": 700
+        "min": 2000,
+        "median": 2000,
+        "max": 2000
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
+        "#✅✅ㅡㅡ",
+        "#오더밥.",
         "0.",
         "4.",
         "5.",
-        "TEZZA",
-        "angmond",
         "거래 상대방",
-        "괴물에게서 얻는 금화%",
-        "너머오미",
+        "경험치 획득량%",
+        "꼬미사랑",
         "다음",
-        "마법 아이템 발견 확률%",
-        "만세천세",
-        "상점 물품 가격 하락%",
-        "칼의노래"
+        "달벵이",
+        "모든 능력치",
+        "모든 저항",
+        "바로_번개거래",
+        "장착 시 성역 오라 적용",
+        "피해%",
+        "하하히히호호",
+        "함성(야만용사 전용)",
+        "함성창x",
+        "함성칼x",
+        "홈 있음(소켓)"
       ],
       "samples": [
         {
-          "name": "래더 안수",
+          "name": "래더 애니참",
           "category": "룬",
           "server": "악군",
           "status": "거래완료",
           "quantity": 1,
-          "priceP": 700,
-          "unitPriceP": 700,
+          "priceP": 2000,
+          "unitPriceP": 2000,
           "options": [
             {
               "label": "다음",
               "value": "20"
             },
             {
-              "label": "TEZZA",
-              "value": "50"
+              "label": "모든 능력치",
+              "value": "12"
+            },
+            {
+              "label": "모든 저항",
+              "value": "20"
+            },
+            {
+              "label": "경험치 획득량%",
+              "value": "5"
+            },
+            {
+              "label": "꼬미사랑",
+              "value": "69"
             },
             {
               "label": "4.",
               "value": "90"
             },
             {
-              "label": "칼의노래",
-              "value": "22"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            },
-            {
-              "label": "괴물에게서 얻는 금화%",
-              "value": "104"
-            },
-            {
-              "label": "마법 아이템 발견 확률%",
-              "value": "34"
-            },
-            {
-              "label": "상점 물품 가격 하락%",
-              "value": "12"
+              "label": "모든 능력치",
+              "value": "20"
             },
             {
               "label": "거래 상대방",
@@ -545,75 +735,59 @@
               "value": "00"
             },
             {
-              "label": "만세천세",
-              "value": "102"
+              "label": "달벵이",
+              "value": "147"
             },
             {
-              "label": "angmond",
-              "value": "52"
+              "label": "5.",
+              "value": "00"
             },
             {
-              "label": "너머오미",
-              "value": "67"
+              "label": "홈 있음(소켓)",
+              "value": "6"
+            },
+            {
+              "label": "#✅✅ㅡㅡ",
+              "value": "6"
+            },
+            {
+              "label": "바로_번개거래",
+              "value": "544"
+            },
+            {
+              "label": "장착 시 성역 오라 적용",
+              "value": "10"
+            },
+            {
+              "label": "피해%",
+              "value": "250"
+            },
+            {
+              "label": "모든 능력치",
+              "value": "6"
+            },
+            {
+              "label": "하하히히호호",
+              "value": "61"
+            },
+            {
+              "label": "#오더밥.",
+              "value": "3"
+            },
+            {
+              "label": "함성창x",
+              "value": "2"
+            },
+            {
+              "label": "함성(야만용사 전용)",
+              "value": "3"
+            },
+            {
+              "label": "함성칼x",
+              "value": "2"
             }
           ],
           "url": "https://www.playnote.co.kr/trade/itemmarket?index=1"
-        }
-      ]
-    },
-    {
-      "name": "래더 주울룬",
-      "category": "룬",
-      "listingCount": 1,
-      "price": {
-        "currency": "P",
-        "min": 400,
-        "median": 400,
-        "max": 400
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [],
-      "samples": [
-        {
-          "name": "래더 주울룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 400,
-          "unitPriceP": 400,
-          "options": [],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 풀룬",
-      "category": "룬",
-      "listingCount": 1,
-      "price": {
-        "currency": "P",
-        "min": 1000,
-        "median": 1000,
-        "max": 1000
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [],
-      "samples": [
-        {
-          "name": "래더 풀룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 1000,
-          "unitPriceP": 1000,
-          "options": [],
-          "url": null
         }
       ]
     }
