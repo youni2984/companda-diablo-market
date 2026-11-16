@@ -1,76 +1,180 @@
 {
   "source": "https://www.playnote.co.kr/trade/itemmarket?index=1",
   "scope": "public-listings-only",
-  "updatedAt": "2026-11-16T00:20:05.082577+00:00",
+  "updatedAt": "2026-11-16T07:12:19.623424+00:00",
   "listingCount": 20,
-  "itemCount": 10,
+  "itemCount": 8,
   "items": [
     {
-      "name": "스탠 면죄의 징표",
-      "category": "기타",
-      "listingCount": 3,
+      "name": "스탠 지옥의 횃불(악마술사)",
+      "category": "부적",
+      "listingCount": 6,
       "price": {
         "currency": "P",
-        "min": 200,
-        "median": 200,
-        "max": 200
+        "min": 19000,
+        "median": 23000,
+        "max": 42000
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "5.",
-        "조졌네이거"
+        "4.",
+        "모든 능력치",
+        "모든 저항",
+        "물의무"
       ],
       "samples": [
         {
-          "name": "스탠 면죄의 징표",
-          "category": "기타",
+          "name": "스탠 지옥의 횃불(악마술사)",
+          "category": "부적",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 200,
-          "unitPriceP": 200,
-          "options": [],
+          "priceP": 19000,
+          "unitPriceP": 19000,
+          "options": [
+            {
+              "label": "모든 능력치",
+              "value": "20"
+            },
+            {
+              "label": "모든 저항",
+              "value": "16"
+            },
+            {
+              "label": "물의무",
+              "value": "33"
+            },
+            {
+              "label": "4.",
+              "value": "80"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=477009"
+        },
+        {
+          "name": "스탠 지옥의 횃불(악마술사)",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 19000,
+          "unitPriceP": 19000,
+          "options": [
+            {
+              "label": "모든 능력치",
+              "value": "20"
+            },
+            {
+              "label": "모든 저항",
+              "value": "16"
+            }
+          ],
           "url": null
         },
         {
-          "name": "스탠 면죄의 징표",
-          "category": "기타",
+          "name": "스탠 지옥의 횃불(악마술사)",
+          "category": "부적",
           "server": "악군",
           "status": "",
-          "quantity": 15,
-          "priceP": 200,
-          "unitPriceP": 200,
+          "quantity": 1,
+          "priceP": 23000,
+          "unitPriceP": 23000,
           "options": [
             {
-              "label": "조졌네이거",
-              "value": "76"
+              "label": "모든 능력치",
+              "value": "19"
             },
             {
-              "label": "5.",
-              "value": "00"
+              "label": "모든 저항",
+              "value": "18"
+            },
+            {
+              "label": "물의무",
+              "value": "33"
+            },
+            {
+              "label": "4.",
+              "value": "80"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=466453"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=477001"
         },
         {
-          "name": "스탠 면죄의 징표",
-          "category": "기타",
+          "name": "스탠 지옥의 횃불(악마술사)",
+          "category": "부적",
           "server": "악군",
           "status": "",
-          "quantity": 15,
-          "priceP": 200,
-          "unitPriceP": 200,
-          "options": [],
+          "quantity": 1,
+          "priceP": 23000,
+          "unitPriceP": 23000,
+          "options": [
+            {
+              "label": "모든 능력치",
+              "value": "19"
+            },
+            {
+              "label": "모든 저항",
+              "value": "18"
+            }
+          ],
+          "url": null
+        },
+        {
+          "name": "스탠 지옥의 횃불(악마술사)",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 42000,
+          "unitPriceP": 42000,
+          "options": [
+            {
+              "label": "모든 능력치",
+              "value": "19"
+            },
+            {
+              "label": "모든 저항",
+              "value": "20"
+            },
+            {
+              "label": "물의무",
+              "value": "33"
+            },
+            {
+              "label": "4.",
+              "value": "80"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=476982"
+        },
+        {
+          "name": "스탠 지옥의 횃불(악마술사)",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 42000,
+          "unitPriceP": 42000,
+          "options": [
+            {
+              "label": "모든 능력치",
+              "value": "19"
+            },
+            {
+              "label": "모든 저항",
+              "value": "20"
+            }
+          ],
           "url": null
         }
       ]
     },
     {
-      "name": "래더 거인의 복수 세러모니얼 재벌린",
-      "category": "기타",
-      "listingCount": 2,
+      "name": "래더 풀룬",
+      "category": "룬",
+      "listingCount": 3,
       "price": {
         "currency": "P",
         "min": 700,
@@ -81,638 +185,444 @@
         "악군"
       ],
       "optionLabels": [
-        "5.",
-        "괴짜",
-        "적중당 생명력 훔침%",
-        "피해%"
-      ],
-      "samples": [
-        {
-          "name": "래더 거인의 복수 세러모니얼 재벌린",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 700,
-          "unitPriceP": 700,
-          "options": [
-            {
-              "label": "피해%",
-              "value": "182"
-            },
-            {
-              "label": "적중당 생명력 훔침%",
-              "value": "9"
-            },
-            {
-              "label": "괴짜",
-              "value": "66"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=475623"
-        },
-        {
-          "name": "래더 거인의 복수 세러모니얼 재벌린",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 700,
-          "unitPriceP": 700,
-          "options": [
-            {
-              "label": "피해%",
-              "value": "182"
-            },
-            {
-              "label": "적중당 생명력 훔침%",
-              "value": "9"
-            }
-          ],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 그리스월드의 날 브로드소드",
-      "category": "기타",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 540,
-        "median": 540,
-        "max": 540
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "4.",
-        "나이건",
-        "최대 화염 피해",
-        "최소 화염 피해",
-        "피해%"
-      ],
-      "samples": [
-        {
-          "name": "래더 그리스월드의 날 브로드소드",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 540,
-          "unitPriceP": 540,
-          "options": [
-            {
-              "label": "피해%",
-              "value": "123"
-            },
-            {
-              "label": "최소 화염 피해",
-              "value": "12"
-            },
-            {
-              "label": "최대 화염 피해",
-              "value": "18"
-            },
-            {
-              "label": "나이건",
-              "value": "86"
-            },
-            {
-              "label": "4.",
-              "value": "90"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=475188"
-        },
-        {
-          "name": "래더 그리스월드의 날 브로드소드",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 540,
-          "unitPriceP": 540,
-          "options": [
-            {
-              "label": "피해%",
-              "value": "123"
-            },
-            {
-              "label": "최소 화염 피해",
-              "value": "12"
-            },
-            {
-              "label": "최대 화염 피해",
-              "value": "18"
-            }
-          ],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 렘룬",
-      "category": "룬",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 600,
-        "median": 600,
-        "max": 600
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "#[래더",
-        "5.",
-        "necroman"
-      ],
-      "samples": [
-        {
-          "name": "래더 렘룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 600,
-          "unitPriceP": 600,
-          "options": [
-            {
-              "label": "#[래더",
-              "value": "16"
-            },
-            {
-              "label": "necroman",
-              "value": "280"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=482228"
-        },
-        {
-          "name": "래더 렘룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 600,
-          "unitPriceP": 600,
-          "options": [],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 워루스크의 끝",
-      "category": "기타",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 4500,
-        "median": 4500,
-        "max": 4500
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "소확행"
-      ],
-      "samples": [
-        {
-          "name": "래더 워루스크의 끝",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 5,
-          "priceP": 4500,
-          "unitPriceP": 4500,
-          "options": [
-            {
-              "label": "소확행",
-              "value": "38"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=482229"
-        },
-        {
-          "name": "래더 워루스크의 끝",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 5,
-          "priceP": 4500,
-          "unitPriceP": 4500,
-          "options": [],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 칠흑 서리",
-      "category": "기타",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 28000,
-        "median": 28000,
-        "max": 28000
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "4.",
-        "명중률",
-        "민첩",
-        "즐거운하루"
-      ],
-      "samples": [
-        {
-          "name": "래더 칠흑 서리",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 28000,
-          "unitPriceP": 28000,
-          "options": [
-            {
-              "label": "명중률",
-              "value": "250"
-            },
-            {
-              "label": "민첩",
-              "value": "20"
-            },
-            {
-              "label": "즐거운하루",
-              "value": "31"
-            },
-            {
-              "label": "4.",
-              "value": "90"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=482203"
-        },
-        {
-          "name": "래더 칠흑 서리",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 28000,
-          "unitPriceP": 28000,
-          "options": [
-            {
-              "label": "명중률",
-              "value": "250"
-            },
-            {
-              "label": "민첩",
-              "value": "20"
-            }
-          ],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 한아비 콜로서스 블레이드",
-      "category": "기타",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 630,
-        "median": 630,
-        "max": 630
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "나오이",
-        "피해%"
-      ],
-      "samples": [
-        {
-          "name": "래더 한아비 콜로서스 블레이드",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 630,
-          "unitPriceP": 630,
-          "options": [
-            {
-              "label": "피해%",
-              "value": "199"
-            },
-            {
-              "label": "나오이",
-              "value": "2"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=478613"
-        },
-        {
-          "name": "래더 한아비 콜로서스 블레이드",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 630,
-          "unitPriceP": 630,
-          "options": [
-            {
-              "label": "피해%",
-              "value": "199"
-            }
-          ],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "스탠 면죄의 징표",
-      "category": "룬",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 200,
-        "median": 200,
-        "max": 200
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "#[래더",
-        "0.",
         "4.",
         "5.",
-        "necroman",
-        "거래 상대방",
-        "괴짜",
-        "나오이",
-        "나이건",
+        "가츠",
+        "경험치 획득량%",
+        "괴물에게서 얻는 금화%",
         "다음",
         "마나",
-        "명중률",
-        "민첩",
-        "소서리스",
-        "소확행",
+        "마나 재생%",
+        "마법 아이템 발견 확률%",
+        "모든 능력치",
+        "모든 저항",
+        "모든 저항%",
+        "물의무",
+        "방어력%",
         "시전 속도%",
+        "악마 기술(악마술사)",
+        "적의 화염 저항-%",
         "적중당 마나 훔침%",
-        "적중당 생명력 훔침%",
-        "조졌네이거",
-        "최대 화염 피해",
-        "최소 화염 피해",
-        "피해%",
-        "화염 저항%"
+        "토복츄",
+        "화염 기술 피해%"
       ],
       "samples": [
         {
-          "name": "스탠 면죄의 징표",
+          "name": "래더 풀룬",
           "category": "룬",
           "server": "악군",
           "status": "거래완료",
-          "quantity": 1,
-          "priceP": 200,
-          "unitPriceP": 200,
+          "quantity": 3,
+          "priceP": 700,
+          "unitPriceP": 700,
           "options": [
             {
               "label": "다음",
               "value": "20"
             },
             {
-              "label": "거래 상대방",
-              "value": "1"
-            },
-            {
-              "label": "0.",
-              "value": "00"
-            },
-            {
-              "label": "조졌네이거",
-              "value": "76"
+              "label": "가츠",
+              "value": "74"
             },
             {
               "label": "5.",
               "value": "00"
             },
             {
-              "label": "피해%",
-              "value": "199"
+              "label": "방어력%",
+              "value": "52"
             },
             {
-              "label": "나오이",
-              "value": "2"
+              "label": "괴물에게서 얻는 금화%",
+              "value": "80"
             },
             {
-              "label": "소확행",
-              "value": "38"
+              "label": "토복츄",
+              "value": "25"
             },
             {
               "label": "시전 속도%",
-              "value": "10"
-            },
-            {
-              "label": "적중당 마나 훔침%",
-              "value": "6"
-            },
-            {
-              "label": "명중률",
-              "value": "32"
-            },
-            {
-              "label": "민첩",
-              "value": "11"
-            },
-            {
-              "label": "마나",
-              "value": "90"
-            },
-            {
-              "label": "화염 저항%",
-              "value": "23"
-            },
-            {
-              "label": "소서리스",
-              "value": "131"
-            },
-            {
-              "label": "#[래더",
-              "value": "16"
-            },
-            {
-              "label": "necroman",
-              "value": "280"
-            },
-            {
-              "label": "피해%",
-              "value": "182"
-            },
-            {
-              "label": "적중당 생명력 훔침%",
               "value": "9"
             },
             {
-              "label": "괴짜",
-              "value": "66"
+              "label": "적중당 마나 훔침%",
+              "value": "8"
             },
             {
-              "label": "피해%",
-              "value": "123"
+              "label": "마나",
+              "value": "30"
             },
             {
-              "label": "최소 화염 피해",
-              "value": "12"
+              "label": "마나 재생%",
+              "value": "7"
             },
             {
-              "label": "최대 화염 피해",
+              "label": "모든 저항%",
+              "value": "20"
+            },
+            {
+              "label": "물의무",
+              "value": "33"
+            },
+            {
+              "label": "4.",
+              "value": "80"
+            },
+            {
+              "label": "화염 기술 피해%",
+              "value": "7"
+            },
+            {
+              "label": "적의 화염 저항-%",
+              "value": "10"
+            },
+            {
+              "label": "경험치 획득량%",
+              "value": "5"
+            },
+            {
+              "label": "괴물에게서 얻는 금화%",
+              "value": "29"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "29"
+            },
+            {
+              "label": "모든 능력치",
+              "value": "20"
+            },
+            {
+              "label": "모든 저항",
+              "value": "16"
+            },
+            {
+              "label": "모든 능력치",
+              "value": "19"
+            },
+            {
+              "label": "모든 저항",
               "value": "18"
             },
             {
-              "label": "나이건",
-              "value": "86"
+              "label": "모든 저항",
+              "value": "20"
+            },
+            {
+              "label": "악마 기술(악마술사)",
+              "value": "3"
             }
           ],
           "url": "https://www.playnote.co.kr/trade/itemmarket?index=1"
         },
         {
-          "name": "스탠 면죄의 징표",
+          "name": "래더 풀룬",
           "category": "룬",
           "server": "악군",
-          "status": "거래중",
-          "quantity": 1,
-          "priceP": 200,
-          "unitPriceP": 200,
+          "status": "",
+          "quantity": 3,
+          "priceP": 700,
+          "unitPriceP": 700,
           "options": [
             {
-              "label": "거래 상대방",
-              "value": "1"
-            },
-            {
-              "label": "0.",
-              "value": "00"
-            },
-            {
-              "label": "조졌네이거",
-              "value": "76"
+              "label": "가츠",
+              "value": "74"
             },
             {
               "label": "5.",
               "value": "00"
-            },
-            {
-              "label": "피해%",
-              "value": "199"
-            },
-            {
-              "label": "나오이",
-              "value": "2"
-            },
-            {
-              "label": "소확행",
-              "value": "38"
-            },
-            {
-              "label": "시전 속도%",
-              "value": "10"
-            },
-            {
-              "label": "적중당 마나 훔침%",
-              "value": "6"
-            },
-            {
-              "label": "명중률",
-              "value": "32"
-            },
-            {
-              "label": "민첩",
-              "value": "11"
-            },
-            {
-              "label": "마나",
-              "value": "90"
-            },
-            {
-              "label": "화염 저항%",
-              "value": "23"
-            },
-            {
-              "label": "소서리스",
-              "value": "131"
-            },
-            {
-              "label": "#[래더",
-              "value": "16"
-            },
-            {
-              "label": "necroman",
-              "value": "280"
-            },
-            {
-              "label": "피해%",
-              "value": "182"
-            },
-            {
-              "label": "적중당 생명력 훔침%",
-              "value": "9"
-            },
-            {
-              "label": "괴짜",
-              "value": "66"
-            },
-            {
-              "label": "피해%",
-              "value": "123"
-            },
-            {
-              "label": "최소 화염 피해",
-              "value": "12"
-            },
-            {
-              "label": "최대 화염 피해",
-              "value": "18"
-            },
-            {
-              "label": "나이건",
-              "value": "86"
-            },
-            {
-              "label": "4.",
-              "value": "90"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=466453"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=478954"
+        },
+        {
+          "name": "래더 풀룬",
+          "category": "룬",
+          "server": "악군",
+          "status": "",
+          "quantity": 3,
+          "priceP": 700,
+          "unitPriceP": 700,
+          "options": [],
+          "url": null
         }
       ]
     },
     {
-      "name": "스탠 반지",
+      "name": "래더 금박 허리띠 헤비 벨트",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 2100,
+        "median": 2100,
+        "max": 2100
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "5.",
+        "괴물에게서 얻는 금화%",
+        "방어력%",
+        "토복츄"
+      ],
+      "samples": [
+        {
+          "name": "래더 금박 허리띠 헤비 벨트",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 2100,
+          "unitPriceP": 2100,
+          "options": [
+            {
+              "label": "방어력%",
+              "value": "52"
+            },
+            {
+              "label": "괴물에게서 얻는 금화%",
+              "value": "80"
+            },
+            {
+              "label": "토복츄",
+              "value": "25"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=485522"
+        },
+        {
+          "name": "래더 금박 허리띠 헤비 벨트",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 2100,
+          "unitPriceP": 2100,
+          "options": [
+            {
+              "label": "방어력%",
+              "value": "52"
+            },
+            {
+              "label": "괴물에게서 얻는 금화%",
+              "value": "80"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "스탠 목걸이",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 23000,
+        "median": 23000,
+        "max": 23000
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "4.",
+        "마나",
+        "마나 재생%",
+        "모든 저항%",
+        "물의무",
+        "시전 속도%",
+        "적중당 마나 훔침%"
+      ],
+      "samples": [
+        {
+          "name": "스탠 목걸이",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 23000,
+          "unitPriceP": 23000,
+          "options": [
+            {
+              "label": "시전 속도%",
+              "value": "9"
+            },
+            {
+              "label": "적중당 마나 훔침%",
+              "value": "8"
+            },
+            {
+              "label": "마나",
+              "value": "30"
+            },
+            {
+              "label": "마나 재생%",
+              "value": "7"
+            },
+            {
+              "label": "모든 저항%",
+              "value": "20"
+            },
+            {
+              "label": "물의무",
+              "value": "33"
+            },
+            {
+              "label": "4.",
+              "value": "80"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=481993"
+        },
+        {
+          "name": "스탠 목걸이",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 23000,
+          "unitPriceP": 23000,
+          "options": [
+            {
+              "label": "시전 속도%",
+              "value": "9"
+            },
+            {
+              "label": "적중당 마나 훔침%",
+              "value": "8"
+            },
+            {
+              "label": "마나",
+              "value": "30"
+            },
+            {
+              "label": "마나 재생%",
+              "value": "7"
+            },
+            {
+              "label": "모든 저항%",
+              "value": "20"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "스탠 배틀 부츠",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 25000,
+        "median": 25000,
+        "max": 25000
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "4.",
+        "냉기 저항%",
+        "달리기/걷기 속도%",
+        "독 저항%",
+        "물의무",
+        "방어력",
+        "타격 회복 속도%",
+        "화염 저항%"
+      ],
+      "samples": [
+        {
+          "name": "스탠 배틀 부츠",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 25000,
+          "unitPriceP": 25000,
+          "options": [
+            {
+              "label": "방어력",
+              "value": "39"
+            },
+            {
+              "label": "달리기/걷기 속도%",
+              "value": "20"
+            },
+            {
+              "label": "타격 회복 속도%",
+              "value": "10"
+            },
+            {
+              "label": "냉기 저항%",
+              "value": "39"
+            },
+            {
+              "label": "화염 저항%",
+              "value": "39"
+            },
+            {
+              "label": "독 저항%",
+              "value": "34"
+            },
+            {
+              "label": "물의무",
+              "value": "33"
+            },
+            {
+              "label": "4.",
+              "value": "80"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=460190"
+        },
+        {
+          "name": "스탠 배틀 부츠",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 25000,
+          "unitPriceP": 25000,
+          "options": [
+            {
+              "label": "방어력",
+              "value": "39"
+            },
+            {
+              "label": "달리기/걷기 속도%",
+              "value": "20"
+            },
+            {
+              "label": "타격 회복 속도%",
+              "value": "10"
+            },
+            {
+              "label": "냉기 저항%",
+              "value": "39"
+            },
+            {
+              "label": "화염 저항%",
+              "value": "39"
+            },
+            {
+              "label": "독 저항%",
+              "value": "34"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "스탠 수호자의 불 주얼",
       "category": "기타",
       "listingCount": 2,
       "price": {
@@ -725,18 +635,17 @@
         "악군"
       ],
       "optionLabels": [
-        "5.",
-        "마나",
-        "명중률",
-        "민첩",
-        "소서리스",
-        "시전 속도%",
-        "적중당 마나 훔침%",
-        "화염 저항%"
+        "4.",
+        "경험치 획득량%",
+        "괴물에게서 얻는 금화%",
+        "마법 아이템 발견 확률%",
+        "물의무",
+        "적의 화염 저항-%",
+        "화염 기술 피해%"
       ],
       "samples": [
         {
-          "name": "스탠 반지",
+          "name": "스탠 수호자의 불 주얼",
           "category": "기타",
           "server": "악군",
           "status": "",
@@ -745,42 +654,38 @@
           "unitPriceP": 15000,
           "options": [
             {
-              "label": "시전 속도%",
+              "label": "화염 기술 피해%",
+              "value": "7"
+            },
+            {
+              "label": "적의 화염 저항-%",
               "value": "10"
             },
             {
-              "label": "적중당 마나 훔침%",
-              "value": "6"
+              "label": "경험치 획득량%",
+              "value": "5"
             },
             {
-              "label": "명중률",
-              "value": "32"
+              "label": "괴물에게서 얻는 금화%",
+              "value": "29"
             },
             {
-              "label": "민첩",
-              "value": "11"
+              "label": "마법 아이템 발견 확률%",
+              "value": "29"
             },
             {
-              "label": "마나",
-              "value": "90"
+              "label": "물의무",
+              "value": "33"
             },
             {
-              "label": "화염 저항%",
-              "value": "23"
-            },
-            {
-              "label": "소서리스",
-              "value": "131"
-            },
-            {
-              "label": "5.",
-              "value": "00"
+              "label": "4.",
+              "value": "80"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=64643"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=477038"
         },
         {
-          "name": "스탠 반지",
+          "name": "스탠 수호자의 불 주얼",
           "category": "기타",
           "server": "악군",
           "status": "",
@@ -789,28 +694,24 @@
           "unitPriceP": 15000,
           "options": [
             {
-              "label": "시전 속도%",
+              "label": "화염 기술 피해%",
+              "value": "7"
+            },
+            {
+              "label": "적의 화염 저항-%",
               "value": "10"
             },
             {
-              "label": "적중당 마나 훔침%",
-              "value": "6"
+              "label": "경험치 획득량%",
+              "value": "5"
             },
             {
-              "label": "명중률",
-              "value": "32"
+              "label": "괴물에게서 얻는 금화%",
+              "value": "29"
             },
             {
-              "label": "민첩",
-              "value": "11"
-            },
-            {
-              "label": "마나",
-              "value": "90"
-            },
-            {
-              "label": "화염 저항%",
-              "value": "23"
+              "label": "마법 아이템 발견 확률%",
+              "value": "29"
             }
           ],
           "url": null
@@ -818,51 +719,140 @@
       ]
     },
     {
-      "name": "스탠 면죄의 징표",
-      "category": "룬워드",
-      "listingCount": 1,
+      "name": "스탠 써클릿",
+      "category": "기타",
+      "listingCount": 2,
       "price": {
         "currency": "P",
-        "min": 200,
-        "median": 200,
-        "max": 200
+        "min": 75000,
+        "median": 75000,
+        "max": 75000
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "#[래더",
-        "0.",
-        "5.",
-        "necroman",
-        "거래 상대방",
-        "괴짜",
-        "나오이",
-        "다음",
-        "디아블로",
-        "마나",
-        "명중률",
-        "민첩",
-        "소서리스",
-        "소확행",
+        "4.",
+        "물의무",
         "시전 속도%",
-        "적중당 마나 훔침%",
-        "적중당 생명력 훔침%",
-        "조졌네이거",
-        "지금 시작하면, 멤버십 PLUS",
-        "플레이디아 디아블로",
-        "피해%",
-        "화염 저항%"
+        "악마 기술(악마술사)",
+        "홈 있음(소켓)",
+        "화깍",
+        "화피+구화깍"
       ],
       "samples": [
         {
-          "name": "스탠 면죄의 징표",
+          "name": "스탠 써클릿",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 75000,
+          "unitPriceP": 75000,
+          "options": [
+            {
+              "label": "악마 기술(악마술사)",
+              "value": "3"
+            },
+            {
+              "label": "시전 속도%",
+              "value": "20"
+            },
+            {
+              "label": "홈 있음(소켓)",
+              "value": "2"
+            },
+            {
+              "label": "화깍",
+              "value": "9"
+            },
+            {
+              "label": "화피+구화깍",
+              "value": "5"
+            },
+            {
+              "label": "물의무",
+              "value": "33"
+            },
+            {
+              "label": "4.",
+              "value": "80"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=476962"
+        },
+        {
+          "name": "스탠 써클릿",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 75000,
+          "unitPriceP": 75000,
+          "options": [
+            {
+              "label": "악마 기술(악마술사)",
+              "value": "3"
+            },
+            {
+              "label": "시전 속도%",
+              "value": "20"
+            },
+            {
+              "label": "홈 있음(소켓)",
+              "value": "2"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 풀룬",
+      "category": "룬워드",
+      "listingCount": 1,
+      "price": {
+        "currency": "P",
+        "min": 700,
+        "median": 700,
+        "max": 700
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "4.",
+        "5.",
+        "가츠",
+        "경험치 획득량%",
+        "괴물에게서 얻는 금화%",
+        "다음",
+        "디아블로",
+        "마나",
+        "마나 재생%",
+        "마법 아이템 발견 확률%",
+        "모든 능력치",
+        "모든 저항",
+        "모든 저항%",
+        "물의무",
+        "방어력%",
+        "시전 속도%",
+        "적의 화염 저항-%",
+        "적중당 마나 훔침%",
+        "지금 시작하면, 멤버십 PLUS",
+        "토복츄",
+        "플레이디아 디아블로",
+        "화염 기술 피해%"
+      ],
+      "samples": [
+        {
+          "name": "래더 풀룬",
           "category": "룬워드",
           "server": "악군",
           "status": "거래완료",
-          "quantity": 1,
-          "priceP": 200,
-          "unitPriceP": 200,
+          "quantity": 3,
+          "priceP": 700,
+          "unitPriceP": 700,
           "options": [
             {
               "label": "지금 시작하면, 멤버십 PLUS",
@@ -881,84 +871,84 @@
               "value": "20"
             },
             {
-              "label": "거래 상대방",
-              "value": "1"
-            },
-            {
-              "label": "0.",
-              "value": "00"
-            },
-            {
-              "label": "조졌네이거",
-              "value": "76"
+              "label": "가츠",
+              "value": "74"
             },
             {
               "label": "5.",
               "value": "00"
             },
             {
-              "label": "피해%",
-              "value": "199"
+              "label": "방어력%",
+              "value": "52"
             },
             {
-              "label": "나오이",
-              "value": "2"
+              "label": "괴물에게서 얻는 금화%",
+              "value": "80"
             },
             {
-              "label": "소확행",
-              "value": "38"
+              "label": "토복츄",
+              "value": "25"
             },
             {
               "label": "시전 속도%",
-              "value": "10"
-            },
-            {
-              "label": "적중당 마나 훔침%",
-              "value": "6"
-            },
-            {
-              "label": "명중률",
-              "value": "32"
-            },
-            {
-              "label": "민첩",
-              "value": "11"
-            },
-            {
-              "label": "마나",
-              "value": "90"
-            },
-            {
-              "label": "화염 저항%",
-              "value": "23"
-            },
-            {
-              "label": "소서리스",
-              "value": "131"
-            },
-            {
-              "label": "#[래더",
-              "value": "16"
-            },
-            {
-              "label": "necroman",
-              "value": "280"
-            },
-            {
-              "label": "피해%",
-              "value": "182"
-            },
-            {
-              "label": "적중당 생명력 훔침%",
               "value": "9"
             },
             {
-              "label": "괴짜",
-              "value": "66"
+              "label": "적중당 마나 훔침%",
+              "value": "8"
             },
             {
-              "label": "피해%",
-              "value": "123"
+              "label": "마나",
+              "value": "30"
+            },
+            {
+              "label": "마나 재생%",
+              "value": "7"
+            },
+            {
+              "label": "모든 저항%",
+              "value": "20"
+            },
+            {
+              "label": "물의무",
+              "value": "33"
+            },
+            {
+              "label": "4.",
+              "value": "80"
+            },
+            {
+              "label": "화염 기술 피해%",
+              "value": "7"
+            },
+            {
+              "label": "적의 화염 저항-%",
+              "value": "10"
+            },
+            {
+              "label": "경험치 획득량%",
+              "value": "5"
+            },
+            {
+              "label": "괴물에게서 얻는 금화%",
+              "value": "29"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "29"
+            },
+            {
+              "label": "모든 능력치",
+              "value": "20"
+            },
+            {
+              "label": "모든 저항",
+              "value": "16"
+            },
+            {
+              "label": "모든 능력치",
+              "value": "19"
             }
           ],
           "url": "https://www.playnote.co.kr/customer/noticedetail?Index=5"
