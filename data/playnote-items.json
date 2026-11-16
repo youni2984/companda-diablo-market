@@ -1,141 +1,68 @@
 {
   "source": "https://www.playnote.co.kr/trade/itemmarket?index=1",
   "scope": "public-listings-only",
-  "updatedAt": "2026-11-15T20:33:21.307869+00:00",
+  "updatedAt": "2026-11-16T00:20:05.082577+00:00",
   "listingCount": 20,
   "itemCount": 10,
   "items": [
     {
-      "name": "래더 애니참",
-      "category": "부적",
-      "listingCount": 4,
+      "name": "스탠 면죄의 징표",
+      "category": "기타",
+      "listingCount": 3,
       "price": {
         "currency": "P",
-        "min": 300,
-        "median": 400,
-        "max": 500
+        "min": 200,
+        "median": 200,
+        "max": 200
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
         "5.",
-        "경험치 획득량%",
-        "모든 능력치",
-        "모든 저항",
-        "아저씨"
+        "조졌네이거"
       ],
       "samples": [
         {
-          "name": "래더 애니참",
-          "category": "부적",
+          "name": "스탠 면죄의 징표",
+          "category": "기타",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 500,
-          "unitPriceP": 500,
-          "options": [
-            {
-              "label": "모든 능력치",
-              "value": "18"
-            },
-            {
-              "label": "모든 저항",
-              "value": "12"
-            },
-            {
-              "label": "경험치 획득량%",
-              "value": "8"
-            },
-            {
-              "label": "아저씨",
-              "value": "127"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=479883"
-        },
-        {
-          "name": "래더 애니참",
-          "category": "부적",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 500,
-          "unitPriceP": 500,
-          "options": [
-            {
-              "label": "모든 능력치",
-              "value": "18"
-            },
-            {
-              "label": "모든 저항",
-              "value": "12"
-            },
-            {
-              "label": "경험치 획득량%",
-              "value": "8"
-            }
-          ],
+          "priceP": 200,
+          "unitPriceP": 200,
+          "options": [],
           "url": null
         },
         {
-          "name": "래더 애니참",
-          "category": "부적",
+          "name": "스탠 면죄의 징표",
+          "category": "기타",
           "server": "악군",
           "status": "",
-          "quantity": 1,
-          "priceP": 300,
-          "unitPriceP": 300,
+          "quantity": 15,
+          "priceP": 200,
+          "unitPriceP": 200,
           "options": [
             {
-              "label": "모든 능력치",
-              "value": "14"
-            },
-            {
-              "label": "모든 저항",
-              "value": "11"
-            },
-            {
-              "label": "경험치 획득량%",
-              "value": "6"
-            },
-            {
-              "label": "아저씨",
-              "value": "127"
+              "label": "조졌네이거",
+              "value": "76"
             },
             {
               "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=476033"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=466453"
         },
         {
-          "name": "래더 애니참",
-          "category": "부적",
+          "name": "스탠 면죄의 징표",
+          "category": "기타",
           "server": "악군",
           "status": "",
-          "quantity": 1,
-          "priceP": 300,
-          "unitPriceP": 300,
-          "options": [
-            {
-              "label": "모든 능력치",
-              "value": "14"
-            },
-            {
-              "label": "모든 저항",
-              "value": "11"
-            },
-            {
-              "label": "경험치 획득량%",
-              "value": "6"
-            }
-          ],
+          "quantity": 15,
+          "priceP": 200,
+          "unitPriceP": 200,
+          "options": [],
           "url": null
         }
       ]
@@ -146,16 +73,16 @@
       "listingCount": 2,
       "price": {
         "currency": "P",
-        "min": 3000,
-        "median": 3000,
-        "max": 3000
+        "min": 700,
+        "median": 700,
+        "max": 700
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
         "5.",
-        "듬직이",
+        "괴짜",
         "적중당 생명력 훔침%",
         "피해%"
       ],
@@ -166,19 +93,340 @@
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 3000,
-          "unitPriceP": 3000,
+          "priceP": 700,
+          "unitPriceP": 700,
           "options": [
             {
               "label": "피해%",
-              "value": "189"
+              "value": "182"
             },
             {
               "label": "적중당 생명력 훔침%",
-              "value": "8"
+              "value": "9"
             },
             {
-              "label": "듬직이",
+              "label": "괴짜",
+              "value": "66"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=475623"
+        },
+        {
+          "name": "래더 거인의 복수 세러모니얼 재벌린",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 700,
+          "unitPriceP": 700,
+          "options": [
+            {
+              "label": "피해%",
+              "value": "182"
+            },
+            {
+              "label": "적중당 생명력 훔침%",
+              "value": "9"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 그리스월드의 날 브로드소드",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 540,
+        "median": 540,
+        "max": 540
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "4.",
+        "나이건",
+        "최대 화염 피해",
+        "최소 화염 피해",
+        "피해%"
+      ],
+      "samples": [
+        {
+          "name": "래더 그리스월드의 날 브로드소드",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 540,
+          "unitPriceP": 540,
+          "options": [
+            {
+              "label": "피해%",
+              "value": "123"
+            },
+            {
+              "label": "최소 화염 피해",
+              "value": "12"
+            },
+            {
+              "label": "최대 화염 피해",
+              "value": "18"
+            },
+            {
+              "label": "나이건",
+              "value": "86"
+            },
+            {
+              "label": "4.",
+              "value": "90"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=475188"
+        },
+        {
+          "name": "래더 그리스월드의 날 브로드소드",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 540,
+          "unitPriceP": 540,
+          "options": [
+            {
+              "label": "피해%",
+              "value": "123"
+            },
+            {
+              "label": "최소 화염 피해",
+              "value": "12"
+            },
+            {
+              "label": "최대 화염 피해",
+              "value": "18"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 렘룬",
+      "category": "룬",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 600,
+        "median": 600,
+        "max": 600
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "#[래더",
+        "5.",
+        "necroman"
+      ],
+      "samples": [
+        {
+          "name": "래더 렘룬",
+          "category": "룬",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 600,
+          "unitPriceP": 600,
+          "options": [
+            {
+              "label": "#[래더",
+              "value": "16"
+            },
+            {
+              "label": "necroman",
+              "value": "280"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=482228"
+        },
+        {
+          "name": "래더 렘룬",
+          "category": "룬",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 600,
+          "unitPriceP": 600,
+          "options": [],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 워루스크의 끝",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 4500,
+        "median": 4500,
+        "max": 4500
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "5.",
+        "소확행"
+      ],
+      "samples": [
+        {
+          "name": "래더 워루스크의 끝",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 5,
+          "priceP": 4500,
+          "unitPriceP": 4500,
+          "options": [
+            {
+              "label": "소확행",
+              "value": "38"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=482229"
+        },
+        {
+          "name": "래더 워루스크의 끝",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 5,
+          "priceP": 4500,
+          "unitPriceP": 4500,
+          "options": [],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 칠흑 서리",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 28000,
+        "median": 28000,
+        "max": 28000
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "4.",
+        "명중률",
+        "민첩",
+        "즐거운하루"
+      ],
+      "samples": [
+        {
+          "name": "래더 칠흑 서리",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 28000,
+          "unitPriceP": 28000,
+          "options": [
+            {
+              "label": "명중률",
+              "value": "250"
+            },
+            {
+              "label": "민첩",
+              "value": "20"
+            },
+            {
+              "label": "즐거운하루",
+              "value": "31"
+            },
+            {
+              "label": "4.",
+              "value": "90"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=482203"
+        },
+        {
+          "name": "래더 칠흑 서리",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 28000,
+          "unitPriceP": 28000,
+          "options": [
+            {
+              "label": "명중률",
+              "value": "250"
+            },
+            {
+              "label": "민첩",
+              "value": "20"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 한아비 콜로서스 블레이드",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 630,
+        "median": 630,
+        "max": 630
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "5.",
+        "나오이",
+        "피해%"
+      ],
+      "samples": [
+        {
+          "name": "래더 한아비 콜로서스 블레이드",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 630,
+          "unitPriceP": 630,
+          "options": [
+            {
+              "label": "피해%",
+              "value": "199"
+            },
+            {
+              "label": "나오이",
               "value": "2"
             },
             {
@@ -186,24 +434,20 @@
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=481703"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=478613"
         },
         {
-          "name": "래더 거인의 복수 세러모니얼 재벌린",
+          "name": "래더 한아비 콜로서스 블레이드",
           "category": "기타",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 3000,
-          "unitPriceP": 3000,
+          "priceP": 630,
+          "unitPriceP": 630,
           "options": [
             {
               "label": "피해%",
-              "value": "189"
-            },
-            {
-              "label": "적중당 생명력 훔침%",
-              "value": "8"
+              "value": "199"
             }
           ],
           "url": null
@@ -211,449 +455,414 @@
       ]
     },
     {
-      "name": "래더 곪은 파괴의 정수",
-      "category": "기타",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 990,
-        "median": 990,
-        "max": 990
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "아저씨"
-      ],
-      "samples": [
-        {
-          "name": "래더 곪은 파괴의 정수",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 990,
-          "unitPriceP": 990,
-          "options": [
-            {
-              "label": "아저씨",
-              "value": "127"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=478710"
-        },
-        {
-          "name": "래더 곪은 파괴의 정수",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 990,
-          "unitPriceP": 990,
-          "options": [],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 무지개 자락 주얼(화염,사망시)",
-      "category": "기타",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 500,
-        "median": 500,
-        "max": 500
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "아저씨",
-        "적의 화염 저항-%",
-        "화염 기술 피해%"
-      ],
-      "samples": [
-        {
-          "name": "래더 무지개 자락 주얼(화염,사망시)",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 500,
-          "unitPriceP": 500,
-          "options": [
-            {
-              "label": "화염 기술 피해%",
-              "value": "3"
-            },
-            {
-              "label": "적의 화염 저항-%",
-              "value": "3"
-            },
-            {
-              "label": "아저씨",
-              "value": "127"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=476501"
-        },
-        {
-          "name": "래더 무지개 자락 주얼(화염,사망시)",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 500,
-          "unitPriceP": 500,
-          "options": [
-            {
-              "label": "화염 기술 피해%",
-              "value": "3"
-            },
-            {
-              "label": "적의 화염 저항-%",
-              "value": "3"
-            }
-          ],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 세이크리드 아머",
-      "category": "기타",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 2000,
-        "median": 2000,
-        "max": 2000
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "아저씨",
-        "총 방어력",
-        "홈 있음(소켓)"
-      ],
-      "samples": [
-        {
-          "name": "래더 세이크리드 아머",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 2000,
-          "unitPriceP": 2000,
-          "options": [
-            {
-              "label": "홈 있음(소켓)",
-              "value": "3"
-            },
-            {
-              "label": "총 방어력",
-              "value": "895"
-            },
-            {
-              "label": "아저씨",
-              "value": "127"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=480245"
-        },
-        {
-          "name": "래더 세이크리드 아머",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 2000,
-          "unitPriceP": 2000,
-          "options": [
-            {
-              "label": "홈 있음(소켓)",
-              "value": "3"
-            },
-            {
-              "label": "총 방어력",
-              "value": "895"
-            }
-          ],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 작은 부적",
-      "category": "부적",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 500,
-        "median": 500,
-        "max": 500
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "냉기 저항%",
-        "아저씨",
-        "최대 화염 피해"
-      ],
-      "samples": [
-        {
-          "name": "래더 작은 부적",
-          "category": "부적",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 500,
-          "unitPriceP": 500,
-          "options": [
-            {
-              "label": "냉기 저항%",
-              "value": "10"
-            },
-            {
-              "label": "최대 화염 피해",
-              "value": "9"
-            },
-            {
-              "label": "아저씨",
-              "value": "127"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=476377"
-        },
-        {
-          "name": "래더 작은 부적",
-          "category": "부적",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 500,
-          "unitPriceP": 500,
-          "options": [
-            {
-              "label": "냉기 저항%",
-              "value": "10"
-            },
-            {
-              "label": "최대 화염 피해",
-              "value": "9"
-            }
-          ],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 통찰",
-      "category": "기타",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 1000,
-        "median": 1000,
-        "max": 1000
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "명중률%",
-        "아저씨",
-        "장착 시 명상 오라 적용",
-        "치명타",
-        "피해%"
-      ],
-      "samples": [
-        {
-          "name": "래더 통찰",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 1000,
-          "unitPriceP": 1000,
-          "options": [
-            {
-              "label": "장착 시 명상 오라 적용",
-              "value": "12"
-            },
-            {
-              "label": "피해%",
-              "value": "257"
-            },
-            {
-              "label": "명중률%",
-              "value": "234"
-            },
-            {
-              "label": "치명타",
-              "value": "4"
-            },
-            {
-              "label": "아저씨",
-              "value": "127"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=473629"
-        },
-        {
-          "name": "래더 통찰",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 1000,
-          "unitPriceP": 1000,
-          "options": [
-            {
-              "label": "장착 시 명상 오라 적용",
-              "value": "12"
-            },
-            {
-              "label": "피해%",
-              "value": "257"
-            },
-            {
-              "label": "명중률%",
-              "value": "234"
-            },
-            {
-              "label": "치명타",
-              "value": "4"
-            }
-          ],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 티르룬",
+      "name": "스탠 면죄의 징표",
       "category": "룬",
       "listingCount": 2,
       "price": {
         "currency": "P",
-        "min": 500,
-        "median": 500,
-        "max": 500
+        "min": 200,
+        "median": 200,
+        "max": 200
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "#[래더",
+        "0.",
+        "4.",
+        "5.",
+        "necroman",
+        "거래 상대방",
+        "괴짜",
+        "나오이",
+        "나이건",
+        "다음",
+        "마나",
+        "명중률",
+        "민첩",
+        "소서리스",
+        "소확행",
+        "시전 속도%",
+        "적중당 마나 훔침%",
+        "적중당 생명력 훔침%",
+        "조졌네이거",
+        "최대 화염 피해",
+        "최소 화염 피해",
+        "피해%",
+        "화염 저항%"
+      ],
+      "samples": [
+        {
+          "name": "스탠 면죄의 징표",
+          "category": "룬",
+          "server": "악군",
+          "status": "거래완료",
+          "quantity": 1,
+          "priceP": 200,
+          "unitPriceP": 200,
+          "options": [
+            {
+              "label": "다음",
+              "value": "20"
+            },
+            {
+              "label": "거래 상대방",
+              "value": "1"
+            },
+            {
+              "label": "0.",
+              "value": "00"
+            },
+            {
+              "label": "조졌네이거",
+              "value": "76"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            },
+            {
+              "label": "피해%",
+              "value": "199"
+            },
+            {
+              "label": "나오이",
+              "value": "2"
+            },
+            {
+              "label": "소확행",
+              "value": "38"
+            },
+            {
+              "label": "시전 속도%",
+              "value": "10"
+            },
+            {
+              "label": "적중당 마나 훔침%",
+              "value": "6"
+            },
+            {
+              "label": "명중률",
+              "value": "32"
+            },
+            {
+              "label": "민첩",
+              "value": "11"
+            },
+            {
+              "label": "마나",
+              "value": "90"
+            },
+            {
+              "label": "화염 저항%",
+              "value": "23"
+            },
+            {
+              "label": "소서리스",
+              "value": "131"
+            },
+            {
+              "label": "#[래더",
+              "value": "16"
+            },
+            {
+              "label": "necroman",
+              "value": "280"
+            },
+            {
+              "label": "피해%",
+              "value": "182"
+            },
+            {
+              "label": "적중당 생명력 훔침%",
+              "value": "9"
+            },
+            {
+              "label": "괴짜",
+              "value": "66"
+            },
+            {
+              "label": "피해%",
+              "value": "123"
+            },
+            {
+              "label": "최소 화염 피해",
+              "value": "12"
+            },
+            {
+              "label": "최대 화염 피해",
+              "value": "18"
+            },
+            {
+              "label": "나이건",
+              "value": "86"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemmarket?index=1"
+        },
+        {
+          "name": "스탠 면죄의 징표",
+          "category": "룬",
+          "server": "악군",
+          "status": "거래중",
+          "quantity": 1,
+          "priceP": 200,
+          "unitPriceP": 200,
+          "options": [
+            {
+              "label": "거래 상대방",
+              "value": "1"
+            },
+            {
+              "label": "0.",
+              "value": "00"
+            },
+            {
+              "label": "조졌네이거",
+              "value": "76"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            },
+            {
+              "label": "피해%",
+              "value": "199"
+            },
+            {
+              "label": "나오이",
+              "value": "2"
+            },
+            {
+              "label": "소확행",
+              "value": "38"
+            },
+            {
+              "label": "시전 속도%",
+              "value": "10"
+            },
+            {
+              "label": "적중당 마나 훔침%",
+              "value": "6"
+            },
+            {
+              "label": "명중률",
+              "value": "32"
+            },
+            {
+              "label": "민첩",
+              "value": "11"
+            },
+            {
+              "label": "마나",
+              "value": "90"
+            },
+            {
+              "label": "화염 저항%",
+              "value": "23"
+            },
+            {
+              "label": "소서리스",
+              "value": "131"
+            },
+            {
+              "label": "#[래더",
+              "value": "16"
+            },
+            {
+              "label": "necroman",
+              "value": "280"
+            },
+            {
+              "label": "피해%",
+              "value": "182"
+            },
+            {
+              "label": "적중당 생명력 훔침%",
+              "value": "9"
+            },
+            {
+              "label": "괴짜",
+              "value": "66"
+            },
+            {
+              "label": "피해%",
+              "value": "123"
+            },
+            {
+              "label": "최소 화염 피해",
+              "value": "12"
+            },
+            {
+              "label": "최대 화염 피해",
+              "value": "18"
+            },
+            {
+              "label": "나이건",
+              "value": "86"
+            },
+            {
+              "label": "4.",
+              "value": "90"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=466453"
+        }
+      ]
+    },
+    {
+      "name": "스탠 반지",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 15000,
+        "median": 15000,
+        "max": 15000
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
         "5.",
-        "아저씨"
+        "마나",
+        "명중률",
+        "민첩",
+        "소서리스",
+        "시전 속도%",
+        "적중당 마나 훔침%",
+        "화염 저항%"
       ],
       "samples": [
         {
-          "name": "래더 티르룬",
-          "category": "룬",
+          "name": "스탠 반지",
+          "category": "기타",
           "server": "악군",
           "status": "",
-          "quantity": 2,
-          "priceP": 500,
-          "unitPriceP": 500,
+          "quantity": 1,
+          "priceP": 15000,
+          "unitPriceP": 15000,
           "options": [
             {
-              "label": "아저씨",
-              "value": "127"
+              "label": "시전 속도%",
+              "value": "10"
+            },
+            {
+              "label": "적중당 마나 훔침%",
+              "value": "6"
+            },
+            {
+              "label": "명중률",
+              "value": "32"
+            },
+            {
+              "label": "민첩",
+              "value": "11"
+            },
+            {
+              "label": "마나",
+              "value": "90"
+            },
+            {
+              "label": "화염 저항%",
+              "value": "23"
+            },
+            {
+              "label": "소서리스",
+              "value": "131"
             },
             {
               "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=476652"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=64643"
         },
         {
-          "name": "래더 티르룬",
-          "category": "룬",
+          "name": "스탠 반지",
+          "category": "기타",
           "server": "악군",
           "status": "",
-          "quantity": 2,
-          "priceP": 500,
-          "unitPriceP": 500,
-          "options": [],
+          "quantity": 1,
+          "priceP": 15000,
+          "unitPriceP": 15000,
+          "options": [
+            {
+              "label": "시전 속도%",
+              "value": "10"
+            },
+            {
+              "label": "적중당 마나 훔침%",
+              "value": "6"
+            },
+            {
+              "label": "명중률",
+              "value": "32"
+            },
+            {
+              "label": "민첩",
+              "value": "11"
+            },
+            {
+              "label": "마나",
+              "value": "90"
+            },
+            {
+              "label": "화염 저항%",
+              "value": "23"
+            }
+          ],
           "url": null
         }
       ]
     },
     {
-      "name": "래더 거인의 복수 세러모니얼 재벌린",
+      "name": "스탠 면죄의 징표",
       "category": "룬워드",
       "listingCount": 1,
       "price": {
         "currency": "P",
-        "min": 3000,
-        "median": 3000,
-        "max": 3000
+        "min": 200,
+        "median": 200,
+        "max": 200
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
+        "#[래더",
+        "0.",
         "5.",
-        "경험치 획득량%",
-        "냉기 저항%",
+        "necroman",
+        "거래 상대방",
+        "괴짜",
+        "나오이",
         "다음",
-        "듬직이",
         "디아블로",
-        "명중률%",
-        "모든 능력치",
-        "모든 저항",
-        "아저씨",
-        "장착 시 명상 오라 적용",
-        "적의 화염 저항-%",
+        "마나",
+        "명중률",
+        "민첩",
+        "소서리스",
+        "소확행",
+        "시전 속도%",
+        "적중당 마나 훔침%",
         "적중당 생명력 훔침%",
+        "조졌네이거",
         "지금 시작하면, 멤버십 PLUS",
-        "총 방어력",
-        "최대 화염 피해",
         "플레이디아 디아블로",
         "피해%",
-        "홈 있음(소켓)",
-        "화염 기술 피해%"
+        "화염 저항%"
       ],
       "samples": [
         {
-          "name": "래더 거인의 복수 세러모니얼 재벌린",
+          "name": "스탠 면죄의 징표",
           "category": "룬워드",
           "server": "악군",
           "status": "거래완료",
           "quantity": 1,
-          "priceP": 3000,
-          "unitPriceP": 3000,
+          "priceP": 200,
+          "unitPriceP": 200,
           "options": [
             {
               "label": "지금 시작하면, 멤버십 PLUS",
@@ -672,223 +881,87 @@
               "value": "20"
             },
             {
-              "label": "피해%",
-              "value": "189"
+              "label": "거래 상대방",
+              "value": "1"
             },
             {
-              "label": "적중당 생명력 훔침%",
-              "value": "8"
+              "label": "0.",
+              "value": "00"
             },
             {
-              "label": "듬직이",
-              "value": "2"
+              "label": "조졌네이거",
+              "value": "76"
             },
             {
               "label": "5.",
               "value": "00"
             },
             {
-              "label": "홈 있음(소켓)",
-              "value": "3"
+              "label": "피해%",
+              "value": "199"
             },
             {
-              "label": "총 방어력",
-              "value": "895"
+              "label": "나오이",
+              "value": "2"
             },
             {
-              "label": "아저씨",
-              "value": "127"
+              "label": "소확행",
+              "value": "38"
             },
             {
-              "label": "모든 능력치",
-              "value": "18"
-            },
-            {
-              "label": "모든 저항",
-              "value": "12"
-            },
-            {
-              "label": "경험치 획득량%",
-              "value": "8"
-            },
-            {
-              "label": "화염 기술 피해%",
-              "value": "3"
-            },
-            {
-              "label": "적의 화염 저항-%",
-              "value": "3"
-            },
-            {
-              "label": "냉기 저항%",
+              "label": "시전 속도%",
               "value": "10"
             },
             {
-              "label": "최대 화염 피해",
-              "value": "9"
-            },
-            {
-              "label": "모든 능력치",
-              "value": "14"
-            },
-            {
-              "label": "모든 저항",
-              "value": "11"
-            },
-            {
-              "label": "경험치 획득량%",
+              "label": "적중당 마나 훔침%",
               "value": "6"
             },
             {
-              "label": "장착 시 명상 오라 적용",
-              "value": "12"
+              "label": "명중률",
+              "value": "32"
+            },
+            {
+              "label": "민첩",
+              "value": "11"
+            },
+            {
+              "label": "마나",
+              "value": "90"
+            },
+            {
+              "label": "화염 저항%",
+              "value": "23"
+            },
+            {
+              "label": "소서리스",
+              "value": "131"
+            },
+            {
+              "label": "#[래더",
+              "value": "16"
+            },
+            {
+              "label": "necroman",
+              "value": "280"
             },
             {
               "label": "피해%",
-              "value": "257"
+              "value": "182"
             },
             {
-              "label": "명중률%",
-              "value": "234"
+              "label": "적중당 생명력 훔침%",
+              "value": "9"
+            },
+            {
+              "label": "괴짜",
+              "value": "66"
+            },
+            {
+              "label": "피해%",
+              "value": "123"
             }
           ],
           "url": "https://www.playnote.co.kr/customer/noticedetail?Index=5"
-        }
-      ]
-    },
-    {
-      "name": "래더 거인의 복수 세러모니얼 재벌린",
-      "category": "부적",
-      "listingCount": 1,
-      "price": {
-        "currency": "P",
-        "min": 3000,
-        "median": 3000,
-        "max": 3000
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "경험치 획득량%",
-        "냉기 저항%",
-        "다음",
-        "듬직이",
-        "명중률%",
-        "모든 능력치",
-        "모든 저항",
-        "아저씨",
-        "장착 시 명상 오라 적용",
-        "적의 화염 저항-%",
-        "적중당 생명력 훔침%",
-        "총 방어력",
-        "최대 화염 피해",
-        "치명타",
-        "피해%",
-        "홈 있음(소켓)",
-        "화염 기술 피해%"
-      ],
-      "samples": [
-        {
-          "name": "래더 거인의 복수 세러모니얼 재벌린",
-          "category": "부적",
-          "server": "악군",
-          "status": "거래완료",
-          "quantity": 1,
-          "priceP": 3000,
-          "unitPriceP": 3000,
-          "options": [
-            {
-              "label": "다음",
-              "value": "20"
-            },
-            {
-              "label": "피해%",
-              "value": "189"
-            },
-            {
-              "label": "적중당 생명력 훔침%",
-              "value": "8"
-            },
-            {
-              "label": "듬직이",
-              "value": "2"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            },
-            {
-              "label": "홈 있음(소켓)",
-              "value": "3"
-            },
-            {
-              "label": "총 방어력",
-              "value": "895"
-            },
-            {
-              "label": "아저씨",
-              "value": "127"
-            },
-            {
-              "label": "모든 능력치",
-              "value": "18"
-            },
-            {
-              "label": "모든 저항",
-              "value": "12"
-            },
-            {
-              "label": "경험치 획득량%",
-              "value": "8"
-            },
-            {
-              "label": "화염 기술 피해%",
-              "value": "3"
-            },
-            {
-              "label": "적의 화염 저항-%",
-              "value": "3"
-            },
-            {
-              "label": "냉기 저항%",
-              "value": "10"
-            },
-            {
-              "label": "최대 화염 피해",
-              "value": "9"
-            },
-            {
-              "label": "모든 능력치",
-              "value": "14"
-            },
-            {
-              "label": "모든 저항",
-              "value": "11"
-            },
-            {
-              "label": "경험치 획득량%",
-              "value": "6"
-            },
-            {
-              "label": "장착 시 명상 오라 적용",
-              "value": "12"
-            },
-            {
-              "label": "피해%",
-              "value": "257"
-            },
-            {
-              "label": "명중률%",
-              "value": "234"
-            },
-            {
-              "label": "치명타",
-              "value": "4"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemmarket?index=1"
         }
       ]
     }
