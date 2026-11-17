@@ -1,207 +1,201 @@
 {
   "source": "https://www.playnote.co.kr/trade/itemmarket?index=1",
   "scope": "public-listings-only",
-  "updatedAt": "2026-11-16T17:23:39.284384+00:00",
-  "listingCount": 22,
-  "itemCount": 13,
+  "updatedAt": "2026-11-17T01:01:53.670580+00:00",
+  "listingCount": 20,
+  "itemCount": 11,
   "items": [
     {
-      "name": "래더 건틀릿",
-      "category": "기타",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 20000,
-        "median": 20000,
-        "max": 20000
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "4.",
-        "낭소서",
-        "냉기 저항%",
-        "독 지속시간 감소%",
-        "민첩",
-        "번개 저항%",
-        "화염 저항%"
-      ],
-      "samples": [
-        {
-          "name": "래더 건틀릿",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 20000,
-          "unitPriceP": 20000,
-          "options": [
-            {
-              "label": "민첩",
-              "value": "4"
-            },
-            {
-              "label": "냉기 저항%",
-              "value": "27"
-            },
-            {
-              "label": "번개 저항%",
-              "value": "24"
-            },
-            {
-              "label": "화염 저항%",
-              "value": "20"
-            },
-            {
-              "label": "독 지속시간 감소%",
-              "value": "25"
-            },
-            {
-              "label": "낭소서",
-              "value": "38"
-            },
-            {
-              "label": "4.",
-              "value": "90"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=488456"
-        },
-        {
-          "name": "래더 건틀릿",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 20000,
-          "unitPriceP": 20000,
-          "options": [
-            {
-              "label": "민첩",
-              "value": "4"
-            },
-            {
-              "label": "냉기 저항%",
-              "value": "27"
-            },
-            {
-              "label": "번개 저항%",
-              "value": "24"
-            },
-            {
-              "label": "화염 저항%",
-              "value": "20"
-            },
-            {
-              "label": "독 지속시간 감소%",
-              "value": "25"
-            }
-          ],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 새로워진 뼈의 분쇄 거대 부적",
+      "name": "래더 지옥의 횃불(소서)",
       "category": "부적",
-      "listingCount": 2,
+      "listingCount": 3,
       "price": {
         "currency": "P",
-        "min": 10000,
-        "median": 10000,
-        "max": 10000
+        "min": 22000,
+        "median": 22000,
+        "max": 22000
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
+        "0.",
         "4.",
-        "낭소서",
+        "5.",
+        "SeYaToNa",
+        "mingsa",
+        "거래 상대방",
+        "공격 속도%",
+        "냉기 숙련(원소술사 전용)",
+        "능마루",
+        "다음",
+        "레더만해",
         "마나",
-        "마법 아이템 발견 확률%",
-        "마법 피해 감소",
-        "받는 물리 피해%",
-        "적의 물리 피해 저항-%",
-        "타격 회복 속도%"
+        "마법 흡수",
+        "모든 능력치",
+        "모든 저항",
+        "번개 숙련(원소술사 전용)",
+        "시전 속도%",
+        "이더리움옵션",
+        "적중당 마나 훔침%",
+        "적중당 생명력 훔침%",
+        "총 방어력",
+        "투창과 창 기술(아마존 전용)",
+        "화염 숙련(원소술사 전용)"
       ],
       "samples": [
         {
-          "name": "래더 새로워진 뼈의 분쇄 거대 부적",
+          "name": "래더 지옥의 횃불(소서)",
+          "category": "부적",
+          "server": "악군",
+          "status": "거래완료",
+          "quantity": 1,
+          "priceP": 22000,
+          "unitPriceP": 22000,
+          "options": [
+            {
+              "label": "다음",
+              "value": "20"
+            },
+            {
+              "label": "모든 능력치",
+              "value": "12"
+            },
+            {
+              "label": "모든 저항",
+              "value": "12"
+            },
+            {
+              "label": "레더만해",
+              "value": "68"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            },
+            {
+              "label": "mingsa",
+              "value": "22"
+            },
+            {
+              "label": "시전 속도%",
+              "value": "35"
+            },
+            {
+              "label": "마나",
+              "value": "97"
+            },
+            {
+              "label": "마법 흡수",
+              "value": "8"
+            },
+            {
+              "label": "거래 상대방",
+              "value": "1"
+            },
+            {
+              "label": "0.",
+              "value": "00"
+            },
+            {
+              "label": "총 방어력",
+              "value": "117"
+            },
+            {
+              "label": "SeYaToNa",
+              "value": "72"
+            },
+            {
+              "label": "4.",
+              "value": "90"
+            },
+            {
+              "label": "능마루",
+              "value": "65"
+            },
+            {
+              "label": "냉기 숙련(원소술사 전용)",
+              "value": "2"
+            },
+            {
+              "label": "번개 숙련(원소술사 전용)",
+              "value": "1"
+            },
+            {
+              "label": "화염 숙련(원소술사 전용)",
+              "value": "1"
+            },
+            {
+              "label": "이더리움옵션",
+              "value": "41"
+            },
+            {
+              "label": "총 방어력",
+              "value": "860"
+            },
+            {
+              "label": "투창과 창 기술(아마존 전용)",
+              "value": "1"
+            },
+            {
+              "label": "공격 속도%",
+              "value": "10"
+            },
+            {
+              "label": "적중당 마나 훔침%",
+              "value": "3"
+            },
+            {
+              "label": "적중당 생명력 훔침%",
+              "value": "3"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemmarket?index=1"
+        },
+        {
+          "name": "래더 지옥의 횃불(소서)",
           "category": "부적",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 10000,
-          "unitPriceP": 10000,
+          "priceP": 22000,
+          "unitPriceP": 22000,
           "options": [
             {
-              "label": "받는 물리 피해%",
-              "value": "10"
+              "label": "모든 능력치",
+              "value": "12"
             },
             {
-              "label": "타격 회복 속도%",
-              "value": "23"
+              "label": "모든 저항",
+              "value": "12"
             },
             {
-              "label": "적의 물리 피해 저항-%",
-              "value": "5"
+              "label": "레더만해",
+              "value": "68"
             },
             {
-              "label": "마나",
-              "value": "69"
-            },
-            {
-              "label": "마법 피해 감소",
-              "value": "9"
-            },
-            {
-              "label": "마법 아이템 발견 확률%",
-              "value": "19"
-            },
-            {
-              "label": "낭소서",
-              "value": "38"
-            },
-            {
-              "label": "4.",
-              "value": "90"
+              "label": "5.",
+              "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=492528"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=493902"
         },
         {
-          "name": "래더 새로워진 뼈의 분쇄 거대 부적",
+          "name": "래더 지옥의 횃불(소서)",
           "category": "부적",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 10000,
-          "unitPriceP": 10000,
+          "priceP": 22000,
+          "unitPriceP": 22000,
           "options": [
             {
-              "label": "받는 물리 피해%",
-              "value": "10"
+              "label": "모든 능력치",
+              "value": "12"
             },
             {
-              "label": "타격 회복 속도%",
-              "value": "23"
-            },
-            {
-              "label": "적의 물리 피해 저항-%",
-              "value": "5"
-            },
-            {
-              "label": "마나",
-              "value": "69"
-            },
-            {
-              "label": "마법 피해 감소",
-              "value": "9"
-            },
-            {
-              "label": "마법 아이템 발견 확률%",
-              "value": "19"
+              "label": "모든 저항",
+              "value": "12"
             }
           ],
           "url": null
@@ -209,339 +203,268 @@
       ]
     },
     {
-      "name": "래더 소집",
+      "name": "래더 동부 세계석 조각",
       "category": "기타",
       "listingCount": 2,
       "price": {
         "currency": "P",
-        "min": 6500,
-        "median": 6500,
-        "max": 6500
+        "min": 380,
+        "median": 380,
+        "max": 380
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "4.",
-        "낭소서",
-        "전투 명령(공용 기술)",
-        "전투 지시(공용 기술)",
-        "전투의 함성(공용 기술)",
-        "피해%"
+        "5.",
+        "mingsa"
       ],
       "samples": [
         {
-          "name": "래더 소집",
+          "name": "래더 동부 세계석 조각",
           "category": "기타",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 6500,
-          "unitPriceP": 6500,
+          "priceP": 380,
+          "unitPriceP": 380,
           "options": [
             {
-              "label": "피해%",
-              "value": "255"
+              "label": "mingsa",
+              "value": "22"
             },
             {
-              "label": "전투 명령(공용 기술)",
-              "value": "3"
-            },
-            {
-              "label": "전투 지시(공용 기술)",
-              "value": "2"
-            },
-            {
-              "label": "전투의 함성(공용 기술)",
-              "value": "2"
-            },
-            {
-              "label": "낭소서",
-              "value": "38"
-            },
-            {
-              "label": "4.",
-              "value": "90"
+              "label": "5.",
+              "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=491536"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=493112"
         },
         {
-          "name": "래더 소집",
+          "name": "래더 동부 세계석 조각",
           "category": "기타",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 6500,
-          "unitPriceP": 6500,
-          "options": [
-            {
-              "label": "피해%",
-              "value": "255"
-            },
-            {
-              "label": "전투 명령(공용 기술)",
-              "value": "3"
-            },
-            {
-              "label": "전투 지시(공용 기술)",
-              "value": "2"
-            },
-            {
-              "label": "전투의 함성(공용 기술)",
-              "value": "2"
-            }
-          ],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 수호 천사 템플러 코트",
-      "category": "기타",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 500,
-        "median": 500,
-        "max": 500
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "4.",
-        "낭소서",
-        "방어력%"
-      ],
-      "samples": [
-        {
-          "name": "래더 수호 천사 템플러 코트",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 500,
-          "unitPriceP": 500,
-          "options": [
-            {
-              "label": "방어력%",
-              "value": "183"
-            },
-            {
-              "label": "낭소서",
-              "value": "38"
-            },
-            {
-              "label": "4.",
-              "value": "90"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=492696"
-        },
-        {
-          "name": "래더 수호 천사 템플러 코트",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 500,
-          "unitPriceP": 500,
-          "options": [
-            {
-              "label": "방어력%",
-              "value": "183"
-            }
-          ],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 아트마의 통곡 임바스트 플레이트",
-      "category": "기타",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 4000,
-        "median": 4000,
-        "max": 4000
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "4.",
-        "낭소서",
-        "방어력%"
-      ],
-      "samples": [
-        {
-          "name": "래더 아트마의 통곡 임바스트 플레이트",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 4000,
-          "unitPriceP": 4000,
-          "options": [
-            {
-              "label": "방어력%",
-              "value": "1194"
-            },
-            {
-              "label": "낭소서",
-              "value": "38"
-            },
-            {
-              "label": "4.",
-              "value": "90"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=492691"
-        },
-        {
-          "name": "래더 아트마의 통곡 임바스트 플레이트",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 4000,
-          "unitPriceP": 4000,
-          "options": [
-            {
-              "label": "방어력%",
-              "value": "1194"
-            }
-          ],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 콜로서스 소드",
-      "category": "기타",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 3000,
-        "median": 3000,
-        "max": 3000
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "4.",
-        "낭소서"
-      ],
-      "samples": [
-        {
-          "name": "래더 콜로서스 소드",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 3000,
-          "unitPriceP": 3000,
-          "options": [
-            {
-              "label": "낭소서",
-              "value": "38"
-            },
-            {
-              "label": "4.",
-              "value": "90"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=492234"
-        },
-        {
-          "name": "래더 콜로서스 소드",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 3000,
-          "unitPriceP": 3000,
+          "priceP": 380,
+          "unitPriceP": 380,
           "options": [],
           "url": null
         }
       ]
     },
     {
-      "name": "래더 크라켄 쉘",
+      "name": "래더 면죄의 징표",
       "category": "기타",
       "listingCount": 2,
       "price": {
         "currency": "P",
-        "min": 9000,
-        "median": 9000,
-        "max": 9000
+        "min": 2000,
+        "median": 2000,
+        "max": 2000
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "4.",
-        "낭소서",
-        "방어력",
-        "방어력%",
-        "최대 내구도%"
+        "5.",
+        "능마루"
       ],
       "samples": [
         {
-          "name": "래더 크라켄 쉘",
+          "name": "래더 면죄의 징표",
           "category": "기타",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 9000,
-          "unitPriceP": 9000,
+          "priceP": 2000,
+          "unitPriceP": 2000,
           "options": [
             {
-              "label": "방어력%",
-              "value": "13"
+              "label": "능마루",
+              "value": "65"
             },
             {
-              "label": "최대 내구도%",
-              "value": "14"
-            },
-            {
-              "label": "방어력",
-              "value": "888"
-            },
-            {
-              "label": "낭소서",
-              "value": "38"
-            },
-            {
-              "label": "4.",
-              "value": "90"
+              "label": "5.",
+              "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=487991"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=494221"
         },
         {
-          "name": "래더 크라켄 쉘",
+          "name": "래더 면죄의 징표",
           "category": "기타",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 9000,
-          "unitPriceP": 9000,
+          "priceP": 2000,
+          "unitPriceP": 2000,
+          "options": [],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 북부 세계석 조각",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 380,
+        "median": 380,
+        "max": 380
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "5.",
+        "mingsa"
+      ],
+      "samples": [
+        {
+          "name": "래더 북부 세계석 조각",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 2,
+          "priceP": 380,
+          "unitPriceP": 380,
           "options": [
             {
-              "label": "방어력%",
-              "value": "13"
+              "label": "mingsa",
+              "value": "22"
             },
             {
-              "label": "최대 내구도%",
-              "value": "14"
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=493320"
+        },
+        {
+          "name": "래더 북부 세계석 조각",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 2,
+          "priceP": 380,
+          "unitPriceP": 380,
+          "options": [],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 브램블 미트",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 5000,
+        "median": 5000,
+        "max": 5000
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "5.",
+        "FOX",
+        "공격 속도%",
+        "공속",
+        "냉기 저항%",
+        "적중당 마나 훔침%",
+        "적중당 생명력 훔침%",
+        "최대 지구력",
+        "투창",
+        "투창과 창 기술(아마존 전용)"
+      ],
+      "samples": [
+        {
+          "name": "래더 브램블 미트",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 5000,
+          "unitPriceP": 5000,
+          "options": [
+            {
+              "label": "투창과 창 기술(아마존 전용)",
+              "value": "1"
             },
             {
-              "label": "방어력",
-              "value": "888"
+              "label": "공격 속도%",
+              "value": "10"
+            },
+            {
+              "label": "적중당 마나 훔침%",
+              "value": "3"
+            },
+            {
+              "label": "적중당 생명력 훔침%",
+              "value": "3"
+            },
+            {
+              "label": "최대 지구력",
+              "value": "8"
+            },
+            {
+              "label": "냉기 저항%",
+              "value": "10"
+            },
+            {
+              "label": "투창",
+              "value": "10"
+            },
+            {
+              "label": "공속",
+              "value": "3"
+            },
+            {
+              "label": "FOX",
+              "value": "103"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=494063"
+        },
+        {
+          "name": "래더 브램블 미트",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 5000,
+          "unitPriceP": 5000,
+          "options": [
+            {
+              "label": "투창과 창 기술(아마존 전용)",
+              "value": "1"
+            },
+            {
+              "label": "공격 속도%",
+              "value": "10"
+            },
+            {
+              "label": "적중당 마나 훔침%",
+              "value": "3"
+            },
+            {
+              "label": "적중당 생명력 훔침%",
+              "value": "3"
+            },
+            {
+              "label": "최대 지구력",
+              "value": "8"
+            },
+            {
+              "label": "냉기 저항%",
+              "value": "10"
             }
           ],
           "url": null
@@ -549,69 +472,78 @@
       ]
     },
     {
-      "name": "래더 호라존의 비밀 비술 고문서",
+      "name": "래더 탈 라샤의 잠들지 않는 눈",
       "category": "기타",
       "listingCount": 2,
       "price": {
         "currency": "P",
-        "min": 1500,
-        "median": 1500,
-        "max": 1500
+        "min": 200,
+        "median": 200,
+        "max": 200
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "4.",
-        "낭소서",
-        "생명력",
-        "활력"
+        "5.",
+        "냉기 숙련(원소술사 전용)",
+        "번개 숙련(원소술사 전용)",
+        "이더리움옵션",
+        "화염 숙련(원소술사 전용)"
       ],
       "samples": [
         {
-          "name": "래더 호라존의 비밀 비술 고문서",
+          "name": "래더 탈 라샤의 잠들지 않는 눈",
           "category": "기타",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 1500,
-          "unitPriceP": 1500,
+          "priceP": 200,
+          "unitPriceP": 200,
           "options": [
             {
-              "label": "생명력",
-              "value": "49"
+              "label": "냉기 숙련(원소술사 전용)",
+              "value": "2"
             },
             {
-              "label": "활력",
-              "value": "20"
+              "label": "번개 숙련(원소술사 전용)",
+              "value": "1"
             },
             {
-              "label": "낭소서",
-              "value": "38"
+              "label": "화염 숙련(원소술사 전용)",
+              "value": "1"
             },
             {
-              "label": "4.",
-              "value": "90"
+              "label": "이더리움옵션",
+              "value": "41"
+            },
+            {
+              "label": "5.",
+              "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=488051"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=494220"
         },
         {
-          "name": "래더 호라존의 비밀 비술 고문서",
+          "name": "래더 탈 라샤의 잠들지 않는 눈",
           "category": "기타",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 1500,
-          "unitPriceP": 1500,
+          "priceP": 200,
+          "unitPriceP": 200,
           "options": [
             {
-              "label": "생명력",
-              "value": "49"
+              "label": "냉기 숙련(원소술사 전용)",
+              "value": "2"
             },
             {
-              "label": "활력",
-              "value": "20"
+              "label": "번개 숙련(원소술사 전용)",
+              "value": "1"
+            },
+            {
+              "label": "화염 숙련(원소술사 전용)",
+              "value": "1"
             }
           ],
           "url": null
@@ -619,7 +551,7 @@
       ]
     },
     {
-      "name": "래더 호라존의 지배 러셋 아머",
+      "name": "래더 프로텍터 쉴드",
       "category": "기타",
       "listingCount": 2,
       "price": {
@@ -632,18 +564,15 @@
         "악군"
       ],
       "optionLabels": [
-        "4.",
-        "낭소서",
-        "냉기 저항%",
-        "마나",
-        "방어력%",
-        "번개 저항%",
-        "악마 기술(악마술사)",
-        "화염 저항%"
+        "5.",
+        "FOX",
+        "모든 저항",
+        "총 방어력",
+        "최대 내구도%"
       ],
       "samples": [
         {
-          "name": "래더 호라존의 지배 러셋 아머",
+          "name": "래더 프로텍터 쉴드",
           "category": "기타",
           "server": "악군",
           "status": "",
@@ -652,42 +581,30 @@
           "unitPriceP": 1000,
           "options": [
             {
-              "label": "악마 기술(악마술사)",
-              "value": "2"
+              "label": "총 방어력",
+              "value": "148"
             },
             {
-              "label": "방어력%",
-              "value": "81"
+              "label": "모든 저항",
+              "value": "35"
             },
             {
-              "label": "마나",
-              "value": "80"
+              "label": "최대 내구도%",
+              "value": "15"
             },
             {
-              "label": "냉기 저항%",
-              "value": "21"
+              "label": "FOX",
+              "value": "103"
             },
             {
-              "label": "번개 저항%",
-              "value": "25"
-            },
-            {
-              "label": "화염 저항%",
-              "value": "16"
-            },
-            {
-              "label": "낭소서",
-              "value": "38"
-            },
-            {
-              "label": "4.",
-              "value": "90"
+              "label": "5.",
+              "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=492854"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=493127"
         },
         {
-          "name": "래더 호라존의 지배 러셋 아머",
+          "name": "래더 프로텍터 쉴드",
           "category": "기타",
           "server": "악군",
           "status": "",
@@ -696,28 +613,16 @@
           "unitPriceP": 1000,
           "options": [
             {
-              "label": "악마 기술(악마술사)",
-              "value": "2"
+              "label": "총 방어력",
+              "value": "148"
             },
             {
-              "label": "방어력%",
-              "value": "81"
+              "label": "모든 저항",
+              "value": "35"
             },
             {
-              "label": "마나",
-              "value": "80"
-            },
-            {
-              "label": "냉기 저항%",
-              "value": "21"
-            },
-            {
-              "label": "번개 저항%",
-              "value": "25"
-            },
-            {
-              "label": "화염 저항%",
-              "value": "16"
+              "label": "최대 내구도%",
+              "value": "15"
             }
           ],
           "url": null
@@ -725,51 +630,158 @@
       ]
     },
     {
-      "name": "래더 무덤 강탈자 크립틱 액스",
-      "category": "룬워드",
-      "listingCount": 1,
+      "name": "래더 할리퀸 관모 샤코",
+      "category": "기타",
+      "listingCount": 2,
       "price": {
         "currency": "P",
-        "min": 13000,
-        "median": 13000,
-        "max": 13000
+        "min": 3500,
+        "median": 3500,
+        "max": 3500
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
         "4.",
-        "TEZZA",
-        "낭소서",
-        "냉기 저항%",
-        "다음",
-        "디아블로",
-        "마나",
-        "마법 아이템 발견 확률%",
-        "모든 저항",
-        "받는 물리 피해%",
-        "방어력%",
-        "번개 저항%",
-        "악마 기술(악마술사)",
-        "언데드에 대한 명중률",
-        "언데드에게 주는 피해%",
-        "적 처치 시 생명력 회복",
-        "지금 시작하면, 멤버십 PLUS",
-        "타격 회복 속도%",
-        "플레이디아 디아블로",
-        "피해%",
-        "홈 있음(소켓)",
-        "화염 저항%"
+        "SeYaToNa",
+        "총 방어력"
       ],
       "samples": [
         {
-          "name": "래더 무덤 강탈자 크립틱 액스",
+          "name": "래더 할리퀸 관모 샤코",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 3500,
+          "unitPriceP": 3500,
+          "options": [
+            {
+              "label": "총 방어력",
+              "value": "117"
+            },
+            {
+              "label": "SeYaToNa",
+              "value": "72"
+            },
+            {
+              "label": "4.",
+              "value": "90"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=494222"
+        },
+        {
+          "name": "래더 할리퀸 관모 샤코",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 3500,
+          "unitPriceP": 3500,
+          "options": [
+            {
+              "label": "총 방어력",
+              "value": "117"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 영혼(방패)",
+      "category": "기타",
+      "listingCount": 1,
+      "price": {
+        "currency": "P",
+        "min": 4000,
+        "median": 4000,
+        "max": 4000
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "마나",
+        "마법 흡수",
+        "시전 속도%"
+      ],
+      "samples": [
+        {
+          "name": "래더 영혼(방패)",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 4000,
+          "unitPriceP": 4000,
+          "options": [
+            {
+              "label": "시전 속도%",
+              "value": "35"
+            },
+            {
+              "label": "마나",
+              "value": "97"
+            },
+            {
+              "label": "마법 흡수",
+              "value": "8"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 지옥의 횃불(소서)",
+      "category": "룬워드",
+      "listingCount": 1,
+      "price": {
+        "currency": "P",
+        "min": 22000,
+        "median": 22000,
+        "max": 22000
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "0.",
+        "4.",
+        "5.",
+        "SeYaToNa",
+        "mingsa",
+        "거래 상대방",
+        "냉기 숙련(원소술사 전용)",
+        "능마루",
+        "다음",
+        "디아블로",
+        "레더만해",
+        "마나",
+        "마법 흡수",
+        "모든 능력치",
+        "모든 저항",
+        "번개 숙련(원소술사 전용)",
+        "시전 속도%",
+        "이더리움옵션",
+        "지금 시작하면, 멤버십 PLUS",
+        "총 방어력",
+        "투창과 창 기술(아마존 전용)",
+        "플레이디아 디아블로",
+        "화염 숙련(원소술사 전용)"
+      ],
+      "samples": [
+        {
+          "name": "래더 지옥의 횃불(소서)",
           "category": "룬워드",
           "server": "악군",
           "status": "거래완료",
           "quantity": 1,
-          "priceP": 13000,
-          "unitPriceP": 13000,
+          "priceP": 22000,
+          "unitPriceP": 22000,
           "options": [
             {
               "label": "지금 시작하면, 멤버십 PLUS",
@@ -788,84 +800,84 @@
               "value": "20"
             },
             {
-              "label": "피해%",
-              "value": "216"
-            },
-            {
-              "label": "언데드에게 주는 피해%",
-              "value": "164"
-            },
-            {
-              "label": "언데드에 대한 명중률",
-              "value": "331"
+              "label": "모든 능력치",
+              "value": "12"
             },
             {
               "label": "모든 저항",
-              "value": "47"
+              "value": "12"
             },
             {
-              "label": "적 처치 시 생명력 회복",
-              "value": "13"
+              "label": "레더만해",
+              "value": "68"
             },
             {
-              "label": "마법 아이템 발견 확률%",
-              "value": "123"
+              "label": "5.",
+              "value": "00"
             },
             {
-              "label": "홈 있음(소켓)",
-              "value": "2"
+              "label": "mingsa",
+              "value": "22"
             },
             {
-              "label": "TEZZA",
-              "value": "59"
+              "label": "시전 속도%",
+              "value": "35"
+            },
+            {
+              "label": "마나",
+              "value": "97"
+            },
+            {
+              "label": "마법 흡수",
+              "value": "8"
+            },
+            {
+              "label": "거래 상대방",
+              "value": "1"
+            },
+            {
+              "label": "0.",
+              "value": "00"
+            },
+            {
+              "label": "총 방어력",
+              "value": "117"
+            },
+            {
+              "label": "SeYaToNa",
+              "value": "72"
             },
             {
               "label": "4.",
               "value": "90"
             },
             {
-              "label": "악마 기술(악마술사)",
+              "label": "능마루",
+              "value": "65"
+            },
+            {
+              "label": "냉기 숙련(원소술사 전용)",
               "value": "2"
             },
             {
-              "label": "방어력%",
-              "value": "81"
+              "label": "번개 숙련(원소술사 전용)",
+              "value": "1"
             },
             {
-              "label": "마나",
-              "value": "80"
+              "label": "화염 숙련(원소술사 전용)",
+              "value": "1"
             },
             {
-              "label": "냉기 저항%",
-              "value": "21"
+              "label": "이더리움옵션",
+              "value": "41"
             },
             {
-              "label": "번개 저항%",
-              "value": "25"
+              "label": "총 방어력",
+              "value": "860"
             },
             {
-              "label": "화염 저항%",
-              "value": "16"
-            },
-            {
-              "label": "낭소서",
-              "value": "38"
-            },
-            {
-              "label": "방어력%",
-              "value": "183"
-            },
-            {
-              "label": "방어력%",
-              "value": "1194"
-            },
-            {
-              "label": "받는 물리 피해%",
-              "value": "10"
-            },
-            {
-              "label": "타격 회복 속도%",
-              "value": "23"
+              "label": "투창과 창 기술(아마존 전용)",
+              "value": "1"
             }
           ],
           "url": "https://www.playnote.co.kr/customer/noticedetail?Index=5"
@@ -873,286 +885,34 @@
       ]
     },
     {
-      "name": "래더 무덤 강탈자 크립틱 액스",
-      "category": "부적",
-      "listingCount": 1,
-      "price": {
-        "currency": "P",
-        "min": 13000,
-        "median": 13000,
-        "max": 13000
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "4.",
-        "TEZZA",
-        "낭소서",
-        "냉기 저항%",
-        "다음",
-        "마나",
-        "마법 아이템 발견 확률%",
-        "마법 피해 감소",
-        "모든 저항",
-        "받는 물리 피해%",
-        "방어력%",
-        "번개 저항%",
-        "악마 기술(악마술사)",
-        "언데드에 대한 명중률",
-        "언데드에게 주는 피해%",
-        "적 처치 시 생명력 회복",
-        "적의 물리 피해 저항-%",
-        "타격 회복 속도%",
-        "피해%",
-        "홈 있음(소켓)",
-        "화염 저항%"
-      ],
-      "samples": [
-        {
-          "name": "래더 무덤 강탈자 크립틱 액스",
-          "category": "부적",
-          "server": "악군",
-          "status": "거래완료",
-          "quantity": 1,
-          "priceP": 13000,
-          "unitPriceP": 13000,
-          "options": [
-            {
-              "label": "다음",
-              "value": "20"
-            },
-            {
-              "label": "피해%",
-              "value": "216"
-            },
-            {
-              "label": "언데드에게 주는 피해%",
-              "value": "164"
-            },
-            {
-              "label": "언데드에 대한 명중률",
-              "value": "331"
-            },
-            {
-              "label": "모든 저항",
-              "value": "47"
-            },
-            {
-              "label": "적 처치 시 생명력 회복",
-              "value": "13"
-            },
-            {
-              "label": "마법 아이템 발견 확률%",
-              "value": "123"
-            },
-            {
-              "label": "홈 있음(소켓)",
-              "value": "2"
-            },
-            {
-              "label": "TEZZA",
-              "value": "59"
-            },
-            {
-              "label": "4.",
-              "value": "90"
-            },
-            {
-              "label": "악마 기술(악마술사)",
-              "value": "2"
-            },
-            {
-              "label": "방어력%",
-              "value": "81"
-            },
-            {
-              "label": "마나",
-              "value": "80"
-            },
-            {
-              "label": "냉기 저항%",
-              "value": "21"
-            },
-            {
-              "label": "번개 저항%",
-              "value": "25"
-            },
-            {
-              "label": "화염 저항%",
-              "value": "16"
-            },
-            {
-              "label": "낭소서",
-              "value": "38"
-            },
-            {
-              "label": "방어력%",
-              "value": "183"
-            },
-            {
-              "label": "방어력%",
-              "value": "1194"
-            },
-            {
-              "label": "받는 물리 피해%",
-              "value": "10"
-            },
-            {
-              "label": "타격 회복 속도%",
-              "value": "23"
-            },
-            {
-              "label": "적의 물리 피해 저항-%",
-              "value": "5"
-            },
-            {
-              "label": "마나",
-              "value": "69"
-            },
-            {
-              "label": "마법 피해 감소",
-              "value": "9"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemmarket?index=1"
-        }
-      ]
-    },
-    {
-      "name": "래더 무덤 강탈자 크립틱 액스",
-      "category": "룬",
-      "listingCount": 1,
-      "price": {
-        "currency": "P",
-        "min": 13000,
-        "median": 13000,
-        "max": 13000
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "4.",
-        "TEZZA",
-        "마법 아이템 발견 확률%",
-        "모든 저항",
-        "언데드에 대한 명중률",
-        "언데드에게 주는 피해%",
-        "적 처치 시 생명력 회복",
-        "피해%",
-        "홈 있음(소켓)"
-      ],
-      "samples": [
-        {
-          "name": "래더 무덤 강탈자 크립틱 액스",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 13000,
-          "unitPriceP": 13000,
-          "options": [
-            {
-              "label": "피해%",
-              "value": "216"
-            },
-            {
-              "label": "언데드에게 주는 피해%",
-              "value": "164"
-            },
-            {
-              "label": "언데드에 대한 명중률",
-              "value": "331"
-            },
-            {
-              "label": "모든 저항",
-              "value": "47"
-            },
-            {
-              "label": "적 처치 시 생명력 회복",
-              "value": "13"
-            },
-            {
-              "label": "마법 아이템 발견 확률%",
-              "value": "123"
-            },
-            {
-              "label": "홈 있음(소켓)",
-              "value": "2"
-            },
-            {
-              "label": "TEZZA",
-              "value": "59"
-            },
-            {
-              "label": "4.",
-              "value": "90"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=492697"
-        }
-      ]
-    },
-    {
-      "name": "래더 무덤 강탈자 크립틱 액스",
+      "name": "래더 탈 라샤의 보호",
       "category": "기타",
       "listingCount": 1,
       "price": {
         "currency": "P",
-        "min": 13000,
-        "median": 13000,
-        "max": 13000
+        "min": 2500,
+        "median": 2500,
+        "max": 2500
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "마법 아이템 발견 확률%",
-        "모든 저항",
-        "언데드에 대한 명중률",
-        "언데드에게 주는 피해%",
-        "적 처치 시 생명력 회복",
-        "피해%",
-        "홈 있음(소켓)"
+        "총 방어력"
       ],
       "samples": [
         {
-          "name": "래더 무덤 강탈자 크립틱 액스",
+          "name": "래더 탈 라샤의 보호",
           "category": "기타",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 13000,
-          "unitPriceP": 13000,
+          "priceP": 2500,
+          "unitPriceP": 2500,
           "options": [
             {
-              "label": "피해%",
-              "value": "216"
-            },
-            {
-              "label": "언데드에게 주는 피해%",
-              "value": "164"
-            },
-            {
-              "label": "언데드에 대한 명중률",
-              "value": "331"
-            },
-            {
-              "label": "모든 저항",
-              "value": "47"
-            },
-            {
-              "label": "적 처치 시 생명력 회복",
-              "value": "13"
-            },
-            {
-              "label": "마법 아이템 발견 확률%",
-              "value": "123"
-            },
-            {
-              "label": "홈 있음(소켓)",
-              "value": "2"
+              "label": "총 방어력",
+              "value": "860"
             }
           ],
           "url": null
