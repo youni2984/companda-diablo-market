@@ -1,473 +1,356 @@
 {
   "source": "https://www.playnote.co.kr/trade/itemmarket?index=1",
   "scope": "public-listings-only",
-  "updatedAt": "2026-11-19T23:46:01.347858+00:00",
-  "listingCount": 19,
-  "itemCount": 10,
+  "updatedAt": "2026-11-20T07:01:42.720349+00:00",
+  "listingCount": 17,
+  "itemCount": 11,
   "items": [
     {
-      "name": "래더 지옥의 횃불(미확인)",
-      "category": "부적",
-      "listingCount": 3,
+      "name": "래더 공포의 열쇠",
+      "category": "기타",
+      "listingCount": 2,
       "price": {
         "currency": "P",
-        "min": 3100,
-        "median": 3100,
-        "max": 3100
+        "min": 240,
+        "median": 240,
+        "max": 240
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "5.",
-        "예정"
+        "4.",
+        "맹수포메"
       ],
       "samples": [
         {
-          "name": "래더 지옥의 횃불(미확인)",
-          "category": "부적",
+          "name": "래더 공포의 열쇠",
+          "category": "기타",
           "server": "악군",
           "status": "",
-          "quantity": 1,
-          "priceP": 3100,
-          "unitPriceP": 3100,
-          "options": [],
-          "url": null
-        },
-        {
-          "name": "래더 지옥의 횃불(미확인)",
-          "category": "부적",
-          "server": "악군",
-          "status": "",
-          "quantity": 928,
-          "priceP": 3100,
-          "unitPriceP": 3100,
+          "quantity": 2,
+          "priceP": 240,
+          "unitPriceP": 240,
           "options": [
             {
-              "label": "예정",
-              "value": "392"
+              "label": "맹수포메",
+              "value": "34"
             },
             {
-              "label": "5.",
-              "value": "00"
+              "label": "4.",
+              "value": "90"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=526460"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=529556"
         },
         {
-          "name": "래더 지옥의 횃불(미확인)",
-          "category": "부적",
+          "name": "래더 공포의 열쇠",
+          "category": "기타",
           "server": "악군",
           "status": "",
-          "quantity": 928,
-          "priceP": 3100,
-          "unitPriceP": 3100,
+          "quantity": 2,
+          "priceP": 240,
+          "unitPriceP": 240,
           "options": [],
           "url": null
         }
       ]
     },
     {
-      "name": "래더 그림자 춤꾼 뮈르미돈 그리브",
-      "category": "기타",
+      "name": "래더 기드의 내기 트롤 벨트",
+      "category": "룬",
       "listingCount": 2,
       "price": {
         "currency": "P",
-        "min": 500,
-        "median": 500,
-        "max": 500
+        "min": 2000,
+        "median": 2000,
+        "max": 2000
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
+        "0.",
+        "4.",
         "5.",
-        "그림자 단련(어쌔신 전용)",
-        "민첩",
+        "pkel",
+        "거래 상대방",
+        "공격자가 받는 피해",
+        "괴물에게서 얻는 금화%",
+        "김치치즈참치볶음",
+        "다음",
+        "달리기/걷기 속도%",
+        "로베르자",
+        "마법 아이템 발견 확률%",
+        "맹수포메",
+        "모든 저항",
         "방어력%",
-        "코봉이"
+        "시전 속도%",
+        "적 처치 시 마나 회복",
+        "적의 마법 저항-%",
+        "총 방어력",
+        "타격 회복 속도%"
       ],
       "samples": [
         {
-          "name": "래더 그림자 춤꾼 뮈르미돈 그리브",
-          "category": "기타",
+          "name": "래더 기드의 내기 트롤 벨트",
+          "category": "룬",
           "server": "악군",
-          "status": "",
+          "status": "거래완료",
           "quantity": 1,
-          "priceP": 500,
-          "unitPriceP": 500,
+          "priceP": 2000,
+          "unitPriceP": 2000,
           "options": [
             {
-              "label": "그림자 단련(어쌔신 전용)",
-              "value": "1"
+              "label": "다음",
+              "value": "20"
+            },
+            {
+              "label": "달리기/걷기 속도%",
+              "value": "14"
+            },
+            {
+              "label": "시전 속도%",
+              "value": "16"
+            },
+            {
+              "label": "타격 회복 속도%",
+              "value": "10"
+            },
+            {
+              "label": "적의 마법 저항-%",
+              "value": "3"
             },
             {
               "label": "방어력%",
-              "value": "77"
+              "value": "104"
             },
             {
-              "label": "민첩",
-              "value": "17"
+              "label": "괴물에게서 얻는 금화%",
+              "value": "64"
             },
             {
-              "label": "코봉이",
+              "label": "모든 저항",
+              "value": "12"
+            },
+            {
+              "label": "거래 상대방",
+              "value": "1"
+            },
+            {
+              "label": "0.",
+              "value": "00"
+            },
+            {
+              "label": "로베르자",
+              "value": "102"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            },
+            {
+              "label": "방어력%",
+              "value": "6"
+            },
+            {
+              "label": "총 방어력",
+              "value": "861"
+            },
+            {
+              "label": "맹수포메",
+              "value": "34"
+            },
+            {
+              "label": "4.",
+              "value": "90"
+            },
+            {
+              "label": "pkel",
+              "value": "36"
+            },
+            {
+              "label": "방어력%",
+              "value": "186"
+            },
+            {
+              "label": "적 처치 시 마나 회복",
+              "value": "4"
+            },
+            {
+              "label": "김치치즈참치볶음",
               "value": "67"
             },
             {
-              "label": "5.",
-              "value": "00"
+              "label": "방어력%",
+              "value": "178"
+            },
+            {
+              "label": "공격자가 받는 피해",
+              "value": "7"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "49"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=527206"
+          "url": "https://www.playnote.co.kr/trade/itemmarket?index=1"
         },
         {
-          "name": "래더 그림자 춤꾼 뮈르미돈 그리브",
-          "category": "기타",
+          "name": "래더 기드의 내기 트롤 벨트",
+          "category": "룬",
           "server": "악군",
-          "status": "",
+          "status": "거래완료",
           "quantity": 1,
-          "priceP": 500,
-          "unitPriceP": 500,
+          "priceP": 2000,
+          "unitPriceP": 2000,
           "options": [
             {
-              "label": "그림자 단련(어쌔신 전용)",
-              "value": "1"
+              "label": "달리기/걷기 속도%",
+              "value": "14"
+            },
+            {
+              "label": "시전 속도%",
+              "value": "16"
+            },
+            {
+              "label": "타격 회복 속도%",
+              "value": "10"
+            },
+            {
+              "label": "적의 마법 저항-%",
+              "value": "3"
             },
             {
               "label": "방어력%",
-              "value": "77"
+              "value": "104"
             },
             {
-              "label": "민첩",
-              "value": "17"
-            }
-          ],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 독사마술사의 가죽 서펀트스킨 아머",
-      "category": "기타",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 1000,
-        "median": 1000,
-        "max": 1000
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "엘리"
-      ],
-      "samples": [
-        {
-          "name": "래더 독사마술사의 가죽 서펀트스킨 아머",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 1000,
-          "unitPriceP": 1000,
-          "options": [
+              "label": "괴물에게서 얻는 금화%",
+              "value": "64"
+            },
             {
-              "label": "엘리",
-              "value": "109"
+              "label": "모든 저항",
+              "value": "12"
+            },
+            {
+              "label": "거래 상대방",
+              "value": "1"
+            },
+            {
+              "label": "0.",
+              "value": "00"
+            },
+            {
+              "label": "로베르자",
+              "value": "102"
             },
             {
               "label": "5.",
               "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=525500"
-        },
-        {
-          "name": "래더 독사마술사의 가죽 서펀트스킨 아머",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 1000,
-          "unitPriceP": 1000,
-          "options": [],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 반지",
-      "category": "기타",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 40000,
-        "median": 40000,
-        "max": 40000
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "독 저항%",
-        "번개 저항%",
-        "시전 속도%",
-        "엘리",
-        "적중당 마나 훔침%",
-        "화염 저항%"
-      ],
-      "samples": [
-        {
-          "name": "래더 반지",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 40000,
-          "unitPriceP": 40000,
-          "options": [
-            {
-              "label": "시전 속도%",
-              "value": "10"
             },
             {
-              "label": "적중당 마나 훔침%",
+              "label": "방어력%",
               "value": "6"
             },
             {
-              "label": "번개 저항%",
-              "value": "22"
+              "label": "총 방어력",
+              "value": "861"
             },
             {
-              "label": "화염 저항%",
-              "value": "17"
+              "label": "맹수포메",
+              "value": "34"
             },
             {
-              "label": "독 저항%",
-              "value": "5"
+              "label": "4.",
+              "value": "90"
             },
             {
-              "label": "엘리",
-              "value": "109"
+              "label": "pkel",
+              "value": "36"
             },
             {
-              "label": "5.",
-              "value": "00"
+              "label": "방어력%",
+              "value": "186"
+            },
+            {
+              "label": "적 처치 시 마나 회복",
+              "value": "4"
+            },
+            {
+              "label": "김치치즈참치볶음",
+              "value": "67"
+            },
+            {
+              "label": "방어력%",
+              "value": "178"
+            },
+            {
+              "label": "공격자가 받는 피해",
+              "value": "7"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "49"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=521729"
-        },
-        {
-          "name": "래더 반지",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 40000,
-          "unitPriceP": 40000,
-          "options": [
-            {
-              "label": "시전 속도%",
-              "value": "10"
-            },
-            {
-              "label": "적중당 마나 훔침%",
-              "value": "6"
-            },
-            {
-              "label": "번개 저항%",
-              "value": "22"
-            },
-            {
-              "label": "화염 저항%",
-              "value": "17"
-            },
-            {
-              "label": "독 저항%",
-              "value": "5"
-            }
-          ],
-          "url": null
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=528538"
         }
       ]
     },
     {
-      "name": "래더 아콘 스태프",
+      "name": "래더 남부 세계석 조각",
       "category": "기타",
       "listingCount": 2,
       "price": {
         "currency": "P",
-        "min": 1000,
-        "median": 1000,
-        "max": 1000
+        "min": 1500,
+        "median": 1500,
+        "max": 1500
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
         "5.",
-        "얼음 보주(원소술사 전용)",
-        "엘리",
-        "피해%"
+        "pkel"
       ],
       "samples": [
         {
-          "name": "래더 아콘 스태프",
+          "name": "래더 남부 세계석 조각",
           "category": "기타",
           "server": "악군",
           "status": "",
-          "quantity": 1,
-          "priceP": 1000,
-          "unitPriceP": 1000,
+          "quantity": 30,
+          "priceP": 1500,
+          "unitPriceP": 1500,
           "options": [
             {
-              "label": "피해%",
-              "value": "9"
-            },
-            {
-              "label": "얼음 보주(원소술사 전용)",
-              "value": "2"
-            },
-            {
-              "label": "엘리",
-              "value": "109"
+              "label": "pkel",
+              "value": "36"
             },
             {
               "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=522959"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=529560"
         },
         {
-          "name": "래더 아콘 스태프",
+          "name": "래더 남부 세계석 조각",
           "category": "기타",
           "server": "악군",
           "status": "",
-          "quantity": 1,
-          "priceP": 1000,
-          "unitPriceP": 1000,
-          "options": [
-            {
-              "label": "피해%",
-              "value": "9"
-            },
-            {
-              "label": "얼음 보주(원소술사 전용)",
-              "value": "2"
-            }
-          ],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 잠복하는 천상의 틈 거대 부적",
-      "category": "부적",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 3500,
-        "median": 3500,
-        "max": 3500
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "엘리"
-      ],
-      "samples": [
-        {
-          "name": "래더 잠복하는 천상의 틈 거대 부적",
-          "category": "부적",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 3500,
-          "unitPriceP": 3500,
-          "options": [
-            {
-              "label": "엘리",
-              "value": "109"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=526638"
-        },
-        {
-          "name": "래더 잠복하는 천상의 틈 거대 부적",
-          "category": "부적",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 3500,
-          "unitPriceP": 3500,
+          "quantity": 30,
+          "priceP": 1500,
+          "unitPriceP": 1500,
           "options": [],
           "url": null
         }
       ]
     },
     {
-      "name": "래더 죽음의 깊이 디멘셔널 샤드",
-      "category": "기타",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 4400,
-        "median": 4400,
-        "max": 4400
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "엘리"
-      ],
-      "samples": [
-        {
-          "name": "래더 죽음의 깊이 디멘셔널 샤드",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 4400,
-          "unitPriceP": 4400,
-          "options": [
-            {
-              "label": "엘리",
-              "value": "109"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=526920"
-        },
-        {
-          "name": "래더 죽음의 깊이 디멘셔널 샤드",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 4400,
-          "unitPriceP": 4400,
-          "options": [],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 할리퀸 관모 샤코",
+      "name": "래더 래커드 플레이트",
       "category": "기타",
       "listingCount": 2,
       "price": {
@@ -480,13 +363,14 @@
         "악군"
       ],
       "optionLabels": [
-        "5.",
-        "엘리",
+        "4.",
+        "맹수포메",
+        "방어력%",
         "총 방어력"
       ],
       "samples": [
         {
-          "name": "래더 할리퀸 관모 샤코",
+          "name": "래더 래커드 플레이트",
           "category": "기타",
           "server": "악군",
           "status": "",
@@ -495,22 +379,26 @@
           "unitPriceP": 2000,
           "options": [
             {
+              "label": "방어력%",
+              "value": "6"
+            },
+            {
               "label": "총 방어력",
-              "value": "110"
+              "value": "861"
             },
             {
-              "label": "엘리",
-              "value": "109"
+              "label": "맹수포메",
+              "value": "34"
             },
             {
-              "label": "5.",
-              "value": "00"
+              "label": "4.",
+              "value": "90"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=527205"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=527326"
         },
         {
-          "name": "래더 할리퀸 관모 샤코",
+          "name": "래더 래커드 플레이트",
           "category": "기타",
           "server": "악군",
           "status": "",
@@ -519,8 +407,12 @@
           "unitPriceP": 2000,
           "options": [
             {
+              "label": "방어력%",
+              "value": "6"
+            },
+            {
               "label": "총 방어력",
-              "value": "110"
+              "value": "861"
             }
           ],
           "url": null
@@ -528,53 +420,152 @@
       ]
     },
     {
-      "name": "래더 그림자 춤꾼 뮈르미돈 그리브",
+      "name": "래더 베르룬",
+      "category": "룬",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 15000,
+        "median": 15000,
+        "max": 15000
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "5.",
+        "로베르자"
+      ],
+      "samples": [
+        {
+          "name": "래더 베르룬",
+          "category": "룬",
+          "server": "악군",
+          "status": "",
+          "quantity": 33,
+          "priceP": 15000,
+          "unitPriceP": 15000,
+          "options": [
+            {
+              "label": "로베르자",
+              "value": "102"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=528538"
+        },
+        {
+          "name": "래더 베르룬",
+          "category": "룬",
+          "server": "악군",
+          "status": "",
+          "quantity": 33,
+          "priceP": 15000,
+          "unitPriceP": 15000,
+          "options": [],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 북부 세계석 조각",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 200,
+        "median": 200,
+        "max": 200
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "5.",
+        "김치치즈참치볶음"
+      ],
+      "samples": [
+        {
+          "name": "래더 북부 세계석 조각",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 12,
+          "priceP": 200,
+          "unitPriceP": 200,
+          "options": [
+            {
+              "label": "김치치즈참치볶음",
+              "value": "67"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=529558"
+        },
+        {
+          "name": "래더 북부 세계석 조각",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 12,
+          "priceP": 200,
+          "unitPriceP": 200,
+          "options": [],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 기드의 내기 트롤 벨트",
       "category": "룬워드",
       "listingCount": 1,
       "price": {
         "currency": "P",
-        "min": 500,
-        "median": 500,
-        "max": 500
+        "min": 2000,
+        "median": 2000,
+        "max": 2000
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
         "0.",
-        "1,",
+        "4.",
         "5.",
+        "pkel",
         "거래 상대방",
-        "그림자 단련(어쌔신 전용)",
+        "괴물에게서 얻는 금화%",
+        "김치치즈참치볶음",
         "다음",
-        "독 저항%",
+        "달리기/걷기 속도%",
         "디아블로",
-        "민첩",
+        "로베르자",
+        "맹수포메",
+        "모든 저항",
         "방어력%",
-        "번개 저항%",
-        "사업자등록번호:",
         "시전 속도%",
-        "얼음 보주(원소술사 전용)",
-        "엘리",
-        "예정",
-        "옵션",
-        "적중당 마나 훔침%",
+        "적 처치 시 마나 회복",
+        "적의 마법 저항-%",
         "지금 시작하면, 멤버십 PLUS",
         "총 방어력",
-        "코봉이",
-        "플레이디아 디아블로",
-        "피해%",
-        "화염 저항%"
+        "타격 회복 속도%",
+        "플레이디아 디아블로"
       ],
       "samples": [
         {
-          "name": "래더 그림자 춤꾼 뮈르미돈 그리브",
+          "name": "래더 기드의 내기 트롤 벨트",
           "category": "룬워드",
           "server": "악군",
           "status": "거래완료",
           "quantity": 1,
-          "priceP": 500,
-          "unitPriceP": 500,
+          "priceP": 2000,
+          "unitPriceP": 2000,
           "options": [
             {
               "label": "지금 시작하면, 멤버십 PLUS",
@@ -593,24 +584,32 @@
               "value": "20"
             },
             {
-              "label": "그림자 단련(어쌔신 전용)",
-              "value": "1"
+              "label": "달리기/걷기 속도%",
+              "value": "14"
+            },
+            {
+              "label": "시전 속도%",
+              "value": "16"
+            },
+            {
+              "label": "타격 회복 속도%",
+              "value": "10"
+            },
+            {
+              "label": "적의 마법 저항-%",
+              "value": "3"
             },
             {
               "label": "방어력%",
-              "value": "77"
+              "value": "104"
             },
             {
-              "label": "민첩",
-              "value": "17"
+              "label": "괴물에게서 얻는 금화%",
+              "value": "64"
             },
             {
-              "label": "코봉이",
-              "value": "67"
-            },
-            {
-              "label": "5.",
-              "value": "00"
+              "label": "모든 저항",
+              "value": "12"
             },
             {
               "label": "거래 상대방",
@@ -621,56 +620,48 @@
               "value": "00"
             },
             {
-              "label": "예정",
-              "value": "392"
+              "label": "로베르자",
+              "value": "102"
             },
             {
-              "label": "총 방어력",
-              "value": "110"
+              "label": "5.",
+              "value": "00"
             },
             {
-              "label": "엘리",
-              "value": "109"
-            },
-            {
-              "label": "피해%",
-              "value": "9"
-            },
-            {
-              "label": "얼음 보주(원소술사 전용)",
-              "value": "2"
-            },
-            {
-              "label": "시전 속도%",
-              "value": "10"
-            },
-            {
-              "label": "적중당 마나 훔침%",
+              "label": "방어력%",
               "value": "6"
             },
             {
-              "label": "번개 저항%",
-              "value": "22"
+              "label": "총 방어력",
+              "value": "861"
             },
             {
-              "label": "화염 저항%",
-              "value": "17"
+              "label": "맹수포메",
+              "value": "34"
             },
             {
-              "label": "독 저항%",
-              "value": "5"
+              "label": "4.",
+              "value": "90"
             },
             {
-              "label": "옵션",
-              "value": "0"
+              "label": "pkel",
+              "value": "36"
             },
             {
-              "label": "1,",
-              "value": "000"
+              "label": "방어력%",
+              "value": "186"
             },
             {
-              "label": "사업자등록번호:",
-              "value": "148"
+              "label": "적 처치 시 마나 회복",
+              "value": "4"
+            },
+            {
+              "label": "김치치즈참치볶음",
+              "value": "67"
+            },
+            {
+              "label": "방어력%",
+              "value": "178"
             }
           ],
           "url": "https://www.playnote.co.kr/customer/noticedetail?Index=5"
@@ -678,122 +669,180 @@
       ]
     },
     {
-      "name": "래더 그림자 춤꾼 뮈르미돈 그리브",
-      "category": "부적",
+      "name": "래더 기드의 내기 트롤 벨트",
+      "category": "기타",
       "listingCount": 1,
       "price": {
         "currency": "P",
-        "min": 500,
-        "median": 500,
-        "max": 500
+        "min": 2000,
+        "median": 2000,
+        "max": 2000
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "0.",
-        "5.",
-        "거래 상대방",
-        "그림자 단련(어쌔신 전용)",
-        "다음",
-        "독 저항%",
-        "민첩",
+        "괴물에게서 얻는 금화%",
+        "달리기/걷기 속도%",
+        "모든 저항",
         "방어력%",
-        "번개 저항%",
         "시전 속도%",
-        "얼음 보주(원소술사 전용)",
-        "엘리",
-        "예정",
-        "적중당 마나 훔침%",
-        "총 방어력",
-        "코봉이",
-        "피해%",
-        "화염 저항%"
+        "적의 마법 저항-%",
+        "타격 회복 속도%"
       ],
       "samples": [
         {
-          "name": "래더 그림자 춤꾼 뮈르미돈 그리브",
-          "category": "부적",
+          "name": "래더 기드의 내기 트롤 벨트",
+          "category": "기타",
           "server": "악군",
-          "status": "거래완료",
+          "status": "",
           "quantity": 1,
-          "priceP": 500,
-          "unitPriceP": 500,
+          "priceP": 2000,
+          "unitPriceP": 2000,
           "options": [
             {
-              "label": "다음",
-              "value": "20"
-            },
-            {
-              "label": "그림자 단련(어쌔신 전용)",
-              "value": "1"
-            },
-            {
-              "label": "방어력%",
-              "value": "77"
-            },
-            {
-              "label": "민첩",
-              "value": "17"
-            },
-            {
-              "label": "코봉이",
-              "value": "67"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            },
-            {
-              "label": "거래 상대방",
-              "value": "1"
-            },
-            {
-              "label": "0.",
-              "value": "00"
-            },
-            {
-              "label": "예정",
-              "value": "392"
-            },
-            {
-              "label": "총 방어력",
-              "value": "110"
-            },
-            {
-              "label": "엘리",
-              "value": "109"
-            },
-            {
-              "label": "피해%",
-              "value": "9"
-            },
-            {
-              "label": "얼음 보주(원소술사 전용)",
-              "value": "2"
+              "label": "달리기/걷기 속도%",
+              "value": "14"
             },
             {
               "label": "시전 속도%",
+              "value": "16"
+            },
+            {
+              "label": "타격 회복 속도%",
               "value": "10"
             },
             {
-              "label": "적중당 마나 훔침%",
-              "value": "6"
+              "label": "적의 마법 저항-%",
+              "value": "3"
             },
             {
-              "label": "번개 저항%",
-              "value": "22"
+              "label": "방어력%",
+              "value": "104"
             },
             {
-              "label": "화염 저항%",
-              "value": "17"
+              "label": "괴물에게서 얻는 금화%",
+              "value": "64"
             },
             {
-              "label": "독 저항%",
-              "value": "5"
+              "label": "모든 저항",
+              "value": "12"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemmarket?index=1"
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 발키리 날개 윙드 헬름",
+      "category": "기타",
+      "listingCount": 1,
+      "price": {
+        "currency": "P",
+        "min": 200,
+        "median": 200,
+        "max": 200
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "방어력%",
+        "적 처치 시 마나 회복"
+      ],
+      "samples": [
+        {
+          "name": "래더 발키리 날개 윙드 헬름",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 200,
+          "unitPriceP": 200,
+          "options": [
+            {
+              "label": "방어력%",
+              "value": "186"
+            },
+            {
+              "label": "적 처치 시 마나 회복",
+              "value": "4"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 자룬",
+      "category": "룬",
+      "listingCount": 1,
+      "price": {
+        "currency": "P",
+        "min": 22000,
+        "median": 22000,
+        "max": 22000
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [],
+      "samples": [
+        {
+          "name": "래더 자룬",
+          "category": "룬",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 22000,
+          "unitPriceP": 22000,
+          "options": [],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 전쟁 여행자 배틀 부츠",
+      "category": "기타",
+      "listingCount": 1,
+      "price": {
+        "currency": "P",
+        "min": 4000,
+        "median": 4000,
+        "max": 4000
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "공격자가 받는 피해",
+        "마법 아이템 발견 확률%",
+        "방어력%"
+      ],
+      "samples": [
+        {
+          "name": "래더 전쟁 여행자 배틀 부츠",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 4000,
+          "unitPriceP": 4000,
+          "options": [
+            {
+              "label": "방어력%",
+              "value": "178"
+            },
+            {
+              "label": "공격자가 받는 피해",
+              "value": "7"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "49"
+            }
+          ],
+          "url": null
         }
       ]
     }
