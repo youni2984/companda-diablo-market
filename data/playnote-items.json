@@ -1,275 +1,381 @@
 {
   "source": "https://www.playnote.co.kr/trade/itemmarket?index=1",
   "scope": "public-listings-only",
-  "updatedAt": "2026-11-22T00:16:59.709599+00:00",
-  "listingCount": 18,
+  "updatedAt": "2026-11-22T07:23:21.189651+00:00",
+  "listingCount": 17,
   "itemCount": 10,
   "items": [
     {
-      "name": "래더 애니참",
-      "category": "부적",
-      "listingCount": 4,
-      "price": {
-        "currency": "P",
-        "min": 700,
-        "median": 725,
-        "max": 750
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "경험치 획득량%",
-        "루팡",
-        "모든 능력치",
-        "모든 저항"
-      ],
-      "samples": [
-        {
-          "name": "래더 애니참",
-          "category": "부적",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 750,
-          "unitPriceP": 750,
-          "options": [
-            {
-              "label": "모든 능력치",
-              "value": "19"
-            },
-            {
-              "label": "모든 저항",
-              "value": "16"
-            },
-            {
-              "label": "경험치 획득량%",
-              "value": "9"
-            },
-            {
-              "label": "루팡",
-              "value": "77"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=523756"
-        },
-        {
-          "name": "래더 애니참",
-          "category": "부적",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 750,
-          "unitPriceP": 750,
-          "options": [
-            {
-              "label": "모든 능력치",
-              "value": "19"
-            },
-            {
-              "label": "모든 저항",
-              "value": "16"
-            },
-            {
-              "label": "경험치 획득량%",
-              "value": "9"
-            }
-          ],
-          "url": null
-        },
-        {
-          "name": "래더 애니참",
-          "category": "부적",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 700,
-          "unitPriceP": 700,
-          "options": [
-            {
-              "label": "모든 능력치",
-              "value": "18"
-            },
-            {
-              "label": "모든 저항",
-              "value": "16"
-            },
-            {
-              "label": "경험치 획득량%",
-              "value": "9"
-            },
-            {
-              "label": "루팡",
-              "value": "77"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=523736"
-        },
-        {
-          "name": "래더 애니참",
-          "category": "부적",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 700,
-          "unitPriceP": 700,
-          "options": [
-            {
-              "label": "모든 능력치",
-              "value": "18"
-            },
-            {
-              "label": "모든 저항",
-              "value": "16"
-            },
-            {
-              "label": "경험치 획득량%",
-              "value": "9"
-            }
-          ],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 거대 부적",
-      "category": "부적",
+      "name": "래더 거미 그물띠 스파이더웹 새시",
+      "category": "룬",
       "listingCount": 2,
       "price": {
         "currency": "P",
-        "min": 200,
-        "median": 200,
-        "max": 200
+        "min": 5000,
+        "median": 5000,
+        "max": 5000
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
+        "0.",
+        "4.",
         "5.",
-        "루팡",
-        "무술(어쌔신 전용)"
+        "거래 상대방",
+        "괴물에게서 얻는 금화%",
+        "다음",
+        "마나",
+        "명중률",
+        "모든 능력치",
+        "모든 저항",
+        "방어력",
+        "방어력%",
+        "번개 저항%",
+        "소심한마술솨",
+        "알차니",
+        "적중당 마나 훔침%",
+        "적중당 생명력 훔침%",
+        "총 방어력",
+        "최대 내구도%",
+        "큐라",
+        "피해%",
+        "한방"
       ],
       "samples": [
         {
-          "name": "래더 거대 부적",
-          "category": "부적",
+          "name": "래더 거미 그물띠 스파이더웹 새시",
+          "category": "룬",
           "server": "악군",
-          "status": "",
+          "status": "거래완료",
           "quantity": 1,
-          "priceP": 200,
-          "unitPriceP": 200,
+          "priceP": 5000,
+          "unitPriceP": 5000,
           "options": [
             {
-              "label": "무술(어쌔신 전용)",
+              "label": "다음",
+              "value": "20"
+            },
+            {
+              "label": "방어력%",
+              "value": "120"
+            },
+            {
+              "label": "거래 상대방",
               "value": "1"
             },
             {
-              "label": "루팡",
-              "value": "77"
+              "label": "0.",
+              "value": "00"
+            },
+            {
+              "label": "피해%",
+              "value": "167"
+            },
+            {
+              "label": "방어력",
+              "value": "136"
+            },
+            {
+              "label": "모든 능력치",
+              "value": "17"
+            },
+            {
+              "label": "모든 저항",
+              "value": "11"
+            },
+            {
+              "label": "한방",
+              "value": "70"
             },
             {
               "label": "5.",
               "value": "00"
+            },
+            {
+              "label": "방어력%",
+              "value": "59"
+            },
+            {
+              "label": "괴물에게서 얻는 금화%",
+              "value": "73"
+            },
+            {
+              "label": "알차니",
+              "value": "30"
+            },
+            {
+              "label": "방어력%",
+              "value": "12"
+            },
+            {
+              "label": "최대 내구도%",
+              "value": "14"
+            },
+            {
+              "label": "총 방어력",
+              "value": "166"
+            },
+            {
+              "label": "큐라",
+              "value": "66"
+            },
+            {
+              "label": "4.",
+              "value": "90"
+            },
+            {
+              "label": "소심한마술솨",
+              "value": "4"
+            },
+            {
+              "label": "방어력%",
+              "value": "95"
+            },
+            {
+              "label": "적중당 생명력 훔침%",
+              "value": "8"
+            },
+            {
+              "label": "적중당 마나 훔침%",
+              "value": "6"
+            },
+            {
+              "label": "명중률",
+              "value": "15"
+            },
+            {
+              "label": "마나",
+              "value": "36"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=523699"
+          "url": "https://www.playnote.co.kr/trade/itemmarket?index=1"
         },
         {
-          "name": "래더 거대 부적",
-          "category": "부적",
+          "name": "래더 거미 그물띠 스파이더웹 새시",
+          "category": "룬",
           "server": "악군",
-          "status": "",
+          "status": "거래완료",
           "quantity": 1,
-          "priceP": 200,
-          "unitPriceP": 200,
+          "priceP": 5000,
+          "unitPriceP": 5000,
           "options": [
             {
-              "label": "무술(어쌔신 전용)",
+              "label": "방어력%",
+              "value": "120"
+            },
+            {
+              "label": "거래 상대방",
               "value": "1"
+            },
+            {
+              "label": "0.",
+              "value": "00"
+            },
+            {
+              "label": "피해%",
+              "value": "167"
+            },
+            {
+              "label": "방어력",
+              "value": "136"
+            },
+            {
+              "label": "모든 능력치",
+              "value": "17"
+            },
+            {
+              "label": "모든 저항",
+              "value": "11"
+            },
+            {
+              "label": "한방",
+              "value": "70"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            },
+            {
+              "label": "방어력%",
+              "value": "59"
+            },
+            {
+              "label": "괴물에게서 얻는 금화%",
+              "value": "73"
+            },
+            {
+              "label": "알차니",
+              "value": "30"
+            },
+            {
+              "label": "방어력%",
+              "value": "12"
+            },
+            {
+              "label": "최대 내구도%",
+              "value": "14"
+            },
+            {
+              "label": "총 방어력",
+              "value": "166"
+            },
+            {
+              "label": "큐라",
+              "value": "66"
+            },
+            {
+              "label": "4.",
+              "value": "90"
+            },
+            {
+              "label": "소심한마술솨",
+              "value": "4"
+            },
+            {
+              "label": "방어력%",
+              "value": "95"
+            },
+            {
+              "label": "적중당 생명력 훔침%",
+              "value": "8"
+            },
+            {
+              "label": "적중당 마나 훔침%",
+              "value": "6"
+            },
+            {
+              "label": "명중률",
+              "value": "15"
+            },
+            {
+              "label": "마나",
+              "value": "36"
+            },
+            {
+              "label": "번개 저항%",
+              "value": "30"
             }
           ],
-          "url": null
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=550522"
         }
       ]
     },
     {
-      "name": "래더 라이트세이버 페이즈 블레이드",
+      "name": "래더 거미 그물띠 스파이더웹 새시",
       "category": "기타",
       "listingCount": 2,
       "price": {
         "currency": "P",
-        "min": 300,
-        "median": 300,
-        "max": 300
+        "min": 2000,
+        "median": 3500,
+        "max": 5000
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "#연쇄번개",
-        "5.",
-        "루팡",
-        "적중당 마나 훔침%",
-        "피해%"
+        "방어력%"
       ],
       "samples": [
         {
-          "name": "래더 라이트세이버 페이즈 블레이드",
+          "name": "래더 거미 그물띠 스파이더웹 새시",
           "category": "기타",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 300,
-          "unitPriceP": 300,
+          "priceP": 5000,
+          "unitPriceP": 5000,
           "options": [
             {
-              "label": "피해%",
-              "value": "173"
+              "label": "방어력%",
+              "value": "120"
+            }
+          ],
+          "url": null
+        },
+        {
+          "name": "래더 거미 그물띠 스파이더웹 새시",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 2000,
+          "unitPriceP": 2000,
+          "options": [
+            {
+              "label": "방어력%",
+              "value": "95"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 금박 허리띠 헤비 벨트",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 500,
+        "median": 500,
+        "max": 500
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "5.",
+        "괴물에게서 얻는 금화%",
+        "방어력%",
+        "알차니"
+      ],
+      "samples": [
+        {
+          "name": "래더 금박 허리띠 헤비 벨트",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 500,
+          "unitPriceP": 500,
+          "options": [
+            {
+              "label": "방어력%",
+              "value": "59"
             },
             {
-              "label": "적중당 마나 훔침%",
-              "value": "6"
+              "label": "괴물에게서 얻는 금화%",
+              "value": "73"
             },
             {
-              "label": "#연쇄번개",
-              "value": "20"
-            },
-            {
-              "label": "루팡",
-              "value": "77"
+              "label": "알차니",
+              "value": "30"
             },
             {
               "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=523685"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=550521"
         },
         {
-          "name": "래더 라이트세이버 페이즈 블레이드",
+          "name": "래더 금박 허리띠 헤비 벨트",
           "category": "기타",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 300,
-          "unitPriceP": 300,
+          "priceP": 500,
+          "unitPriceP": 500,
           "options": [
             {
-              "label": "피해%",
-              "value": "173"
+              "label": "방어력%",
+              "value": "59"
             },
             {
-              "label": "적중당 마나 훔침%",
-              "value": "6"
+              "label": "괴물에게서 얻는 금화%",
+              "value": "73"
             }
           ],
           "url": null
@@ -282,17 +388,19 @@
       "listingCount": 2,
       "price": {
         "currency": "P",
-        "min": 300,
-        "median": 300,
-        "max": 300
+        "min": 500,
+        "median": 500,
+        "max": 500
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "5.",
-        "구름사자",
-        "방어력%"
+        "4.",
+        "방어력%",
+        "총 방어력",
+        "최대 내구도%",
+        "큐라"
       ],
       "samples": [
         {
@@ -301,23 +409,31 @@
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 300,
-          "unitPriceP": 300,
+          "priceP": 500,
+          "unitPriceP": 500,
           "options": [
             {
               "label": "방어력%",
-              "value": "145"
+              "value": "12"
             },
             {
-              "label": "구름사자",
-              "value": "32"
+              "label": "최대 내구도%",
+              "value": "14"
             },
             {
-              "label": "5.",
-              "value": "00"
+              "label": "총 방어력",
+              "value": "166"
+            },
+            {
+              "label": "큐라",
+              "value": "66"
+            },
+            {
+              "label": "4.",
+              "value": "90"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=546784"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=511796"
         },
         {
           "name": "래더 모너크",
@@ -325,12 +441,20 @@
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 300,
-          "unitPriceP": 300,
+          "priceP": 500,
+          "unitPriceP": 500,
           "options": [
             {
               "label": "방어력%",
-              "value": "145"
+              "value": "12"
+            },
+            {
+              "label": "최대 내구도%",
+              "value": "14"
+            },
+            {
+              "label": "총 방어력",
+              "value": "166"
             }
           ],
           "url": null
@@ -338,408 +462,120 @@
       ]
     },
     {
-      "name": "래더 탈 라샤의 호라드림 관모",
-      "category": "부적",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 150,
-        "median": 150,
-        "max": 150
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "#연쇄번개",
-        "0.",
-        "5.",
-        "거래 상대방",
-        "경험치 획득량%",
-        "구름사자",
-        "다음",
-        "루팡",
-        "명중률",
-        "모든 능력치",
-        "모든 저항",
-        "무술(어쌔신 전용)",
-        "민첩",
-        "방어력%",
-        "생명력",
-        "아누",
-        "적 처치 시 마나 회복",
-        "적의 마법 저항-%",
-        "적의 화염 저항-%",
-        "적중당 마나 훔침%",
-        "총 방어력",
-        "피해%"
-      ],
-      "samples": [
-        {
-          "name": "래더 탈 라샤의 호라드림 관모",
-          "category": "부적",
-          "server": "악군",
-          "status": "거래완료",
-          "quantity": 1,
-          "priceP": 150,
-          "unitPriceP": 150,
-          "options": [
-            {
-              "label": "다음",
-              "value": "20"
-            },
-            {
-              "label": "총 방어력",
-              "value": "130"
-            },
-            {
-              "label": "거래 상대방",
-              "value": "1"
-            },
-            {
-              "label": "0.",
-              "value": "00"
-            },
-            {
-              "label": "적의 마법 저항-%",
-              "value": "5"
-            },
-            {
-              "label": "적의 화염 저항-%",
-              "value": "6"
-            },
-            {
-              "label": "방어력%",
-              "value": "163"
-            },
-            {
-              "label": "적 처치 시 마나 회복",
-              "value": "6"
-            },
-            {
-              "label": "명중률",
-              "value": "150"
-            },
-            {
-              "label": "민첩",
-              "value": "13"
-            },
-            {
-              "label": "생명력",
-              "value": "35"
-            },
-            {
-              "label": "아누",
-              "value": "107"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            },
-            {
-              "label": "방어력%",
-              "value": "145"
-            },
-            {
-              "label": "구름사자",
-              "value": "32"
-            },
-            {
-              "label": "모든 능력치",
-              "value": "19"
-            },
-            {
-              "label": "모든 저항",
-              "value": "16"
-            },
-            {
-              "label": "경험치 획득량%",
-              "value": "9"
-            },
-            {
-              "label": "루팡",
-              "value": "77"
-            },
-            {
-              "label": "모든 능력치",
-              "value": "18"
-            },
-            {
-              "label": "무술(어쌔신 전용)",
-              "value": "1"
-            },
-            {
-              "label": "피해%",
-              "value": "173"
-            },
-            {
-              "label": "적중당 마나 훔침%",
-              "value": "6"
-            },
-            {
-              "label": "#연쇄번개",
-              "value": "20"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemmarket?index=1"
-        },
-        {
-          "name": "래더 탈 라샤의 호라드림 관모",
-          "category": "부적",
-          "server": "악군",
-          "status": "거래완료",
-          "quantity": 1,
-          "priceP": 150,
-          "unitPriceP": 150,
-          "options": [
-            {
-              "label": "총 방어력",
-              "value": "130"
-            },
-            {
-              "label": "거래 상대방",
-              "value": "1"
-            },
-            {
-              "label": "0.",
-              "value": "00"
-            },
-            {
-              "label": "적의 마법 저항-%",
-              "value": "5"
-            },
-            {
-              "label": "적의 화염 저항-%",
-              "value": "6"
-            },
-            {
-              "label": "방어력%",
-              "value": "163"
-            },
-            {
-              "label": "적 처치 시 마나 회복",
-              "value": "6"
-            },
-            {
-              "label": "명중률",
-              "value": "150"
-            },
-            {
-              "label": "민첩",
-              "value": "13"
-            },
-            {
-              "label": "생명력",
-              "value": "35"
-            },
-            {
-              "label": "아누",
-              "value": "107"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            },
-            {
-              "label": "방어력%",
-              "value": "145"
-            },
-            {
-              "label": "구름사자",
-              "value": "32"
-            },
-            {
-              "label": "모든 능력치",
-              "value": "19"
-            },
-            {
-              "label": "모든 저항",
-              "value": "16"
-            },
-            {
-              "label": "경험치 획득량%",
-              "value": "9"
-            },
-            {
-              "label": "루팡",
-              "value": "77"
-            },
-            {
-              "label": "모든 능력치",
-              "value": "18"
-            },
-            {
-              "label": "무술(어쌔신 전용)",
-              "value": "1"
-            },
-            {
-              "label": "피해%",
-              "value": "173"
-            },
-            {
-              "label": "적중당 마나 훔침%",
-              "value": "6"
-            },
-            {
-              "label": "#연쇄번개",
-              "value": "20"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=545596"
-        }
-      ]
-    },
-    {
-      "name": "래더 호라존의 장악 데몬하이드 글러브",
+      "name": "래더 워루스크의 끝",
       "category": "기타",
       "listingCount": 2,
       "price": {
         "currency": "P",
-        "min": 450,
-        "median": 450,
-        "max": 450
+        "min": 1050,
+        "median": 1050,
+        "max": 1050
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
         "5.",
-        "명중률",
-        "민첩",
-        "생명력",
-        "아누"
+        "소심한마술솨"
       ],
       "samples": [
         {
-          "name": "래더 호라존의 장악 데몬하이드 글러브",
+          "name": "래더 워루스크의 끝",
           "category": "기타",
           "server": "악군",
           "status": "",
-          "quantity": 1,
-          "priceP": 450,
-          "unitPriceP": 450,
+          "quantity": 6,
+          "priceP": 1050,
+          "unitPriceP": 1050,
           "options": [
             {
-              "label": "명중률",
-              "value": "150"
-            },
-            {
-              "label": "민첩",
-              "value": "13"
-            },
-            {
-              "label": "생명력",
-              "value": "35"
-            },
-            {
-              "label": "아누",
-              "value": "107"
+              "label": "소심한마술솨",
+              "value": "4"
             },
             {
               "label": "5.",
               "value": "00"
             }
           ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=545596"
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=550519"
         },
         {
-          "name": "래더 호라존의 장악 데몬하이드 글러브",
+          "name": "래더 워루스크의 끝",
           "category": "기타",
           "server": "악군",
           "status": "",
-          "quantity": 1,
-          "priceP": 450,
-          "unitPriceP": 450,
-          "options": [
-            {
-              "label": "명중률",
-              "value": "150"
-            },
-            {
-              "label": "민첩",
-              "value": "13"
-            },
-            {
-              "label": "생명력",
-              "value": "35"
-            }
-          ],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 이스트룬",
-      "category": "룬",
-      "listingCount": 1,
-      "price": {
-        "currency": "P",
-        "min": 1090,
-        "median": 1090,
-        "max": 1090
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [],
-      "samples": [
-        {
-          "name": "래더 이스트룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 1090,
-          "unitPriceP": 1090,
+          "quantity": 6,
+          "priceP": 1050,
+          "unitPriceP": 1050,
           "options": [],
           "url": null
         }
       ]
     },
     {
-      "name": "래더 지옥파수꾼의 의지 데스 마스크",
-      "category": "기타",
-      "listingCount": 1,
+      "name": "래더 지옥의 횃불(악마술사)",
+      "category": "부적",
+      "listingCount": 2,
       "price": {
         "currency": "P",
-        "min": 800,
-        "median": 800,
-        "max": 800
+        "min": 14000,
+        "median": 14000,
+        "max": 14000
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "방어력%",
-        "적 처치 시 마나 회복",
-        "적의 마법 저항-%",
-        "적의 화염 저항-%"
+        "5.",
+        "모든 능력치",
+        "모든 저항",
+        "한방"
       ],
       "samples": [
         {
-          "name": "래더 지옥파수꾼의 의지 데스 마스크",
-          "category": "기타",
+          "name": "래더 지옥의 횃불(악마술사)",
+          "category": "부적",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 800,
-          "unitPriceP": 800,
+          "priceP": 14000,
+          "unitPriceP": 14000,
           "options": [
             {
-              "label": "적의 마법 저항-%",
-              "value": "5"
+              "label": "모든 능력치",
+              "value": "17"
             },
             {
-              "label": "적의 화염 저항-%",
-              "value": "6"
+              "label": "모든 저항",
+              "value": "11"
             },
             {
-              "label": "방어력%",
-              "value": "163"
+              "label": "한방",
+              "value": "70"
             },
             {
-              "label": "적 처치 시 마나 회복",
-              "value": "6"
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=550522"
+        },
+        {
+          "name": "래더 지옥의 횃불(악마술사)",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 14000,
+          "unitPriceP": 14000,
+          "options": [
+            {
+              "label": "모든 능력치",
+              "value": "17"
+            },
+            {
+              "label": "모든 저항",
+              "value": "11"
             }
           ],
           "url": null
@@ -747,51 +583,147 @@
       ]
     },
     {
-      "name": "래더 탈 라샤의 호라드림 관모",
+      "name": "스탠 반지",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 45000,
+        "median": 45000,
+        "max": 45000
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "5.",
+        "나의아저씨",
+        "마나",
+        "명중률",
+        "번개 저항%",
+        "적중당 마나 훔침%",
+        "적중당 생명력 훔침%"
+      ],
+      "samples": [
+        {
+          "name": "스탠 반지",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 45000,
+          "unitPriceP": 45000,
+          "options": [
+            {
+              "label": "적중당 생명력 훔침%",
+              "value": "8"
+            },
+            {
+              "label": "적중당 마나 훔침%",
+              "value": "6"
+            },
+            {
+              "label": "명중률",
+              "value": "15"
+            },
+            {
+              "label": "마나",
+              "value": "36"
+            },
+            {
+              "label": "번개 저항%",
+              "value": "30"
+            },
+            {
+              "label": "나의아저씨",
+              "value": "2"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=464576"
+        },
+        {
+          "name": "스탠 반지",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 45000,
+          "unitPriceP": 45000,
+          "options": [
+            {
+              "label": "적중당 생명력 훔침%",
+              "value": "8"
+            },
+            {
+              "label": "적중당 마나 훔침%",
+              "value": "6"
+            },
+            {
+              "label": "명중률",
+              "value": "15"
+            },
+            {
+              "label": "마나",
+              "value": "36"
+            },
+            {
+              "label": "번개 저항%",
+              "value": "30"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 거미 그물띠 스파이더웹 새시",
       "category": "룬워드",
       "listingCount": 1,
       "price": {
         "currency": "P",
-        "min": 150,
-        "median": 150,
-        "max": 150
+        "min": 5000,
+        "median": 5000,
+        "max": 5000
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
         "0.",
+        "4.",
         "5.",
         "거래 상대방",
-        "경험치 획득량%",
-        "구름사자",
+        "괴물에게서 얻는 금화%",
         "다음",
         "디아블로",
-        "루팡",
-        "명중률",
         "모든 능력치",
         "모든 저항",
-        "무술(어쌔신 전용)",
-        "민첩",
+        "방어력",
         "방어력%",
-        "생명력",
-        "아누",
-        "적 처치 시 마나 회복",
-        "적의 마법 저항-%",
-        "적의 화염 저항-%",
+        "소심한마술솨",
+        "알차니",
+        "적중당 생명력 훔침%",
         "지금 시작하면, 멤버십 PLUS",
         "총 방어력",
-        "플레이디아 디아블로"
+        "최대 내구도%",
+        "큐라",
+        "플레이디아 디아블로",
+        "피해%",
+        "한방"
       ],
       "samples": [
         {
-          "name": "래더 탈 라샤의 호라드림 관모",
+          "name": "래더 거미 그물띠 스파이더웹 새시",
           "category": "룬워드",
           "server": "악군",
           "status": "거래완료",
           "quantity": 1,
-          "priceP": 150,
-          "unitPriceP": 150,
+          "priceP": 5000,
+          "unitPriceP": 5000,
           "options": [
             {
               "label": "지금 시작하면, 멤버십 PLUS",
@@ -810,8 +742,8 @@
               "value": "20"
             },
             {
-              "label": "총 방어력",
-              "value": "130"
+              "label": "방어력%",
+              "value": "120"
             },
             {
               "label": "거래 상대방",
@@ -822,36 +754,24 @@
               "value": "00"
             },
             {
-              "label": "적의 마법 저항-%",
-              "value": "5"
+              "label": "피해%",
+              "value": "167"
             },
             {
-              "label": "적의 화염 저항-%",
-              "value": "6"
+              "label": "방어력",
+              "value": "136"
             },
             {
-              "label": "방어력%",
-              "value": "163"
+              "label": "모든 능력치",
+              "value": "17"
             },
             {
-              "label": "적 처치 시 마나 회복",
-              "value": "6"
+              "label": "모든 저항",
+              "value": "11"
             },
             {
-              "label": "명중률",
-              "value": "150"
-            },
-            {
-              "label": "민첩",
-              "value": "13"
-            },
-            {
-              "label": "생명력",
-              "value": "35"
-            },
-            {
-              "label": "아누",
-              "value": "107"
+              "label": "한방",
+              "value": "70"
             },
             {
               "label": "5.",
@@ -859,35 +779,47 @@
             },
             {
               "label": "방어력%",
-              "value": "145"
+              "value": "59"
             },
             {
-              "label": "구름사자",
-              "value": "32"
+              "label": "괴물에게서 얻는 금화%",
+              "value": "73"
             },
             {
-              "label": "모든 능력치",
-              "value": "19"
+              "label": "알차니",
+              "value": "30"
             },
             {
-              "label": "모든 저항",
-              "value": "16"
+              "label": "방어력%",
+              "value": "12"
             },
             {
-              "label": "경험치 획득량%",
-              "value": "9"
+              "label": "최대 내구도%",
+              "value": "14"
             },
             {
-              "label": "루팡",
-              "value": "77"
+              "label": "총 방어력",
+              "value": "166"
             },
             {
-              "label": "모든 능력치",
-              "value": "18"
+              "label": "큐라",
+              "value": "66"
             },
             {
-              "label": "무술(어쌔신 전용)",
-              "value": "1"
+              "label": "4.",
+              "value": "90"
+            },
+            {
+              "label": "소심한마술솨",
+              "value": "4"
+            },
+            {
+              "label": "방어력%",
+              "value": "95"
+            },
+            {
+              "label": "적중당 생명력 훔침%",
+              "value": "8"
             }
           ],
           "url": "https://www.playnote.co.kr/customer/noticedetail?Index=5"
@@ -895,36 +827,69 @@
       ]
     },
     {
-      "name": "래더 탈 라샤의 호라드림 관모",
+      "name": "래더 눈보라 포 발리스타",
       "category": "기타",
       "listingCount": 1,
       "price": {
         "currency": "P",
-        "min": 150,
-        "median": 150,
-        "max": 150
+        "min": 500,
+        "median": 500,
+        "max": 500
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "총 방어력"
+        "방어력",
+        "피해%"
       ],
       "samples": [
         {
-          "name": "래더 탈 라샤의 호라드림 관모",
+          "name": "래더 눈보라 포 발리스타",
           "category": "기타",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 150,
-          "unitPriceP": 150,
+          "priceP": 500,
+          "unitPriceP": 500,
           "options": [
             {
-              "label": "총 방어력",
-              "value": "130"
+              "label": "피해%",
+              "value": "167"
+            },
+            {
+              "label": "방어력",
+              "value": "136"
             }
           ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 수르룬",
+      "category": "룬",
+      "listingCount": 1,
+      "price": {
+        "currency": "P",
+        "min": 7000,
+        "median": 7000,
+        "max": 7000
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [],
+      "samples": [
+        {
+          "name": "래더 수르룬",
+          "category": "룬",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 7000,
+          "unitPriceP": 7000,
+          "options": [],
           "url": null
         }
       ]
