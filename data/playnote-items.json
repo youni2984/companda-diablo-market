@@ -1,332 +1,325 @@
 {
   "source": "https://www.playnote.co.kr/trade/itemmarket?index=1",
   "scope": "public-listings-only",
-  "updatedAt": "2026-11-26T14:21:06.559294+00:00",
-  "listingCount": 18,
-  "itemCount": 10,
+  "updatedAt": "2026-11-26T23:14:59.175315+00:00",
+  "listingCount": 20,
+  "itemCount": 9,
   "items": [
     {
-      "name": "래더 로룬",
-      "category": "룬",
-      "listingCount": 3,
-      "price": {
-        "currency": "P",
-        "min": 5000,
-        "median": 5000,
-        "max": 5000
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "AAA상점"
-      ],
-      "samples": [
-        {
-          "name": "래더 로룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 5000,
-          "unitPriceP": 5000,
-          "options": [],
-          "url": null
-        },
-        {
-          "name": "래더 로룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 9,
-          "priceP": 5000,
-          "unitPriceP": 5000,
-          "options": [
-            {
-              "label": "AAA상점",
-              "value": "194"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=581934"
-        },
-        {
-          "name": "래더 로룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 9,
-          "priceP": 5000,
-          "unitPriceP": 5000,
-          "options": [],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 우움룬",
-      "category": "룬",
-      "listingCount": 3,
-      "price": {
-        "currency": "P",
-        "min": 340,
-        "median": 340,
-        "max": 340
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "쌀쌀"
-      ],
-      "samples": [
-        {
-          "name": "래더 우움룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 5,
-          "priceP": 340,
-          "unitPriceP": 340,
-          "options": [],
-          "url": null
-        },
-        {
-          "name": "래더 우움룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 30,
-          "priceP": 340,
-          "unitPriceP": 340,
-          "options": [
-            {
-              "label": "쌀쌀",
-              "value": "278"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=581980"
-        },
-        {
-          "name": "래더 우움룬",
-          "category": "룬",
-          "server": "악군",
-          "status": "",
-          "quantity": 30,
-          "priceP": 340,
-          "unitPriceP": 340,
-          "options": [],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 잠복하는 천상의 틈 거대 부적",
-      "category": "부적",
-      "listingCount": 3,
-      "price": {
-        "currency": "P",
-        "min": 1500,
-        "median": 1500,
-        "max": 1500
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "AAA상점"
-      ],
-      "samples": [
-        {
-          "name": "래더 잠복하는 천상의 틈 거대 부적",
-          "category": "부적",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 1500,
-          "unitPriceP": 1500,
-          "options": [],
-          "url": null
-        },
-        {
-          "name": "래더 잠복하는 천상의 틈 거대 부적",
-          "category": "부적",
-          "server": "악군",
-          "status": "",
-          "quantity": 18,
-          "priceP": 1500,
-          "unitPriceP": 1500,
-          "options": [
-            {
-              "label": "AAA상점",
-              "value": "194"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=578331"
-        },
-        {
-          "name": "래더 잠복하는 천상의 틈 거대 부적",
-          "category": "부적",
-          "server": "악군",
-          "status": "",
-          "quantity": 18,
-          "priceP": 1500,
-          "unitPriceP": 1500,
-          "options": [],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 보호자의 돌 주얼",
+      "name": "래더 수호자의 불 주얼",
       "category": "기타",
-      "listingCount": 2,
+      "listingCount": 4,
       "price": {
         "currency": "P",
-        "min": 6000,
-        "median": 6000,
-        "max": 6000
+        "min": 3800,
+        "median": 6150,
+        "max": 8500
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
         "5.",
-        "한교동"
+        "경험치 획득량%",
+        "괴물에게서 얻는 금화%",
+        "마늘먹다체한곰",
+        "마법 아이템 발견 확률%",
+        "적의 화염 저항-%",
+        "화염 기술 피해%"
       ],
       "samples": [
         {
-          "name": "래더 보호자의 돌 주얼",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 5,
-          "priceP": 6000,
-          "unitPriceP": 6000,
-          "options": [
-            {
-              "label": "한교동",
-              "value": "68"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=583810"
-        },
-        {
-          "name": "래더 보호자의 돌 주얼",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 5,
-          "priceP": 6000,
-          "unitPriceP": 6000,
-          "options": [],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 할리퀸 관모 샤코",
-      "category": "기타",
-      "listingCount": 2,
-      "price": {
-        "currency": "P",
-        "min": 1000,
-        "median": 1000,
-        "max": 1000
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "5.",
-        "정봉자"
-      ],
-      "samples": [
-        {
-          "name": "래더 할리퀸 관모 샤코",
+          "name": "래더 수호자의 불 주얼",
           "category": "기타",
           "server": "악군",
           "status": "",
           "quantity": 1,
-          "priceP": 1000,
-          "unitPriceP": 1000,
+          "priceP": 8500,
+          "unitPriceP": 8500,
           "options": [
             {
-              "label": "정봉자",
-              "value": "2"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=545784"
-        },
-        {
-          "name": "래더 할리퀸 관모 샤코",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 1000,
-          "unitPriceP": 1000,
-          "options": [],
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "래더 무지개 자락 주얼(독,렙업시)",
-      "category": "기타",
-      "listingCount": 1,
-      "price": {
-        "currency": "P",
-        "min": 200,
-        "median": 200,
-        "max": 200
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "독 기술 피해%",
-        "적의 독 저항-%"
-      ],
-      "samples": [
-        {
-          "name": "래더 무지개 자락 주얼(독,렙업시)",
-          "category": "기타",
-          "server": "악군",
-          "status": "",
-          "quantity": 1,
-          "priceP": 200,
-          "unitPriceP": 200,
-          "options": [
-            {
-              "label": "독 기술 피해%",
+              "label": "화염 기술 피해%",
               "value": "5"
+            },
+            {
+              "label": "적의 화염 저항-%",
+              "value": "8"
+            },
+            {
+              "label": "경험치 획득량%",
+              "value": "5"
+            },
+            {
+              "label": "괴물에게서 얻는 금화%",
+              "value": "42"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "33"
+            },
+            {
+              "label": "마늘먹다체한곰",
+              "value": "106"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=577896"
+        },
+        {
+          "name": "래더 수호자의 불 주얼",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 8500,
+          "unitPriceP": 8500,
+          "options": [
+            {
+              "label": "화염 기술 피해%",
+              "value": "5"
+            },
+            {
+              "label": "적의 화염 저항-%",
+              "value": "8"
+            },
+            {
+              "label": "경험치 획득량%",
+              "value": "5"
+            },
+            {
+              "label": "괴물에게서 얻는 금화%",
+              "value": "42"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "33"
+            }
+          ],
+          "url": null
+        },
+        {
+          "name": "래더 수호자의 불 주얼",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 3800,
+          "unitPriceP": 3800,
+          "options": [
+            {
+              "label": "화염 기술 피해%",
+              "value": "9"
+            },
+            {
+              "label": "적의 화염 저항-%",
+              "value": "6"
+            },
+            {
+              "label": "경험치 획득량%",
+              "value": "4"
+            },
+            {
+              "label": "괴물에게서 얻는 금화%",
+              "value": "26"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "17"
+            },
+            {
+              "label": "마늘먹다체한곰",
+              "value": "106"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=577877"
+        },
+        {
+          "name": "래더 수호자의 불 주얼",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 3800,
+          "unitPriceP": 3800,
+          "options": [
+            {
+              "label": "화염 기술 피해%",
+              "value": "9"
+            },
+            {
+              "label": "적의 화염 저항-%",
+              "value": "6"
+            },
+            {
+              "label": "경험치 획득량%",
+              "value": "4"
+            },
+            {
+              "label": "괴물에게서 얻는 금화%",
+              "value": "26"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "17"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 슬픔",
+      "category": "기타",
+      "listingCount": 4,
+      "price": {
+        "currency": "P",
+        "min": 4800,
+        "median": 11900,
+        "max": 19000
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "5.",
+        "공격 속도%",
+        "마늘먹다체한곰",
+        "적 처치 시 생명력 회복",
+        "적의 독 저항-%",
+        "피해"
+      ],
+      "samples": [
+        {
+          "name": "래더 슬픔",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 4800,
+          "unitPriceP": 4800,
+          "options": [
+            {
+              "label": "공격 속도%",
+              "value": "36"
+            },
+            {
+              "label": "피해",
+              "value": "356"
             },
             {
               "label": "적의 독 저항-%",
-              "value": "5"
+              "value": "22"
+            },
+            {
+              "label": "적 처치 시 생명력 회복",
+              "value": "10"
+            },
+            {
+              "label": "마늘먹다체한곰",
+              "value": "106"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=583958"
+        },
+        {
+          "name": "래더 슬픔",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 4800,
+          "unitPriceP": 4800,
+          "options": [
+            {
+              "label": "공격 속도%",
+              "value": "36"
+            },
+            {
+              "label": "피해",
+              "value": "356"
+            },
+            {
+              "label": "적의 독 저항-%",
+              "value": "22"
+            },
+            {
+              "label": "적 처치 시 생명력 회복",
+              "value": "10"
+            }
+          ],
+          "url": null
+        },
+        {
+          "name": "래더 슬픔",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 19000,
+          "unitPriceP": 19000,
+          "options": [
+            {
+              "label": "공격 속도%",
+              "value": "37"
+            },
+            {
+              "label": "피해",
+              "value": "397"
+            },
+            {
+              "label": "적의 독 저항-%",
+              "value": "22"
+            },
+            {
+              "label": "적 처치 시 생명력 회복",
+              "value": "15"
+            },
+            {
+              "label": "마늘먹다체한곰",
+              "value": "106"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=572443"
+        },
+        {
+          "name": "래더 슬픔",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 19000,
+          "unitPriceP": 19000,
+          "options": [
+            {
+              "label": "공격 속도%",
+              "value": "37"
+            },
+            {
+              "label": "피해",
+              "value": "397"
+            },
+            {
+              "label": "적의 독 저항-%",
+              "value": "22"
+            },
+            {
+              "label": "적 처치 시 생명력 회복",
+              "value": "15"
             }
           ],
           "url": null
@@ -334,53 +327,465 @@
       ]
     },
     {
-      "name": "래더 보호자의 돌 주얼",
+      "name": "래더 감시자의 천둥 주얼",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 4500,
+        "median": 4500,
+        "max": 4500
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "5.",
+        "경험치 획득량%",
+        "괴물에게서 얻는 금화%",
+        "마늘먹다체한곰",
+        "마법 아이템 발견 확률%",
+        "번개 기술 피해%",
+        "적의 번개 저항-%"
+      ],
+      "samples": [
+        {
+          "name": "래더 감시자의 천둥 주얼",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 4500,
+          "unitPriceP": 4500,
+          "options": [
+            {
+              "label": "번개 기술 피해%",
+              "value": "6"
+            },
+            {
+              "label": "적의 번개 저항-%",
+              "value": "9"
+            },
+            {
+              "label": "경험치 획득량%",
+              "value": "3"
+            },
+            {
+              "label": "괴물에게서 얻는 금화%",
+              "value": "50"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "24"
+            },
+            {
+              "label": "마늘먹다체한곰",
+              "value": "106"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=577832"
+        },
+        {
+          "name": "래더 감시자의 천둥 주얼",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 4500,
+          "unitPriceP": 4500,
+          "options": [
+            {
+              "label": "번개 기술 피해%",
+              "value": "6"
+            },
+            {
+              "label": "적의 번개 저항-%",
+              "value": "9"
+            },
+            {
+              "label": "경험치 획득량%",
+              "value": "3"
+            },
+            {
+              "label": "괴물에게서 얻는 금화%",
+              "value": "50"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "24"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 거대 부적",
+      "category": "부적",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 1200,
+        "median": 1200,
+        "max": 1200
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "5.",
+        "마늘먹다체한곰",
+        "민첩",
+        "화염 기술(원소술사 전용)"
+      ],
+      "samples": [
+        {
+          "name": "래더 거대 부적",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 1200,
+          "unitPriceP": 1200,
+          "options": [
+            {
+              "label": "화염 기술(원소술사 전용)",
+              "value": "1"
+            },
+            {
+              "label": "민첩",
+              "value": "6"
+            },
+            {
+              "label": "마늘먹다체한곰",
+              "value": "106"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=583758"
+        },
+        {
+          "name": "래더 거대 부적",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 1200,
+          "unitPriceP": 1200,
+          "options": [
+            {
+              "label": "화염 기술(원소술사 전용)",
+              "value": "1"
+            },
+            {
+              "label": "민첩",
+              "value": "6"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 망 송의 가르침 아콘 스태프",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 7000,
+        "median": 7000,
+        "max": 7000
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "5.",
+        "넷시",
+        "적의 냉기 저항-%",
+        "적의 번개 저항-%",
+        "적의 화염 저항-%"
+      ],
+      "samples": [
+        {
+          "name": "래더 망 송의 가르침 아콘 스태프",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 7000,
+          "unitPriceP": 7000,
+          "options": [
+            {
+              "label": "적의 번개 저항-%",
+              "value": "11"
+            },
+            {
+              "label": "적의 화염 저항-%",
+              "value": "11"
+            },
+            {
+              "label": "적의 냉기 저항-%",
+              "value": "10"
+            },
+            {
+              "label": "넷시",
+              "value": "65"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=585825"
+        },
+        {
+          "name": "래더 망 송의 가르침 아콘 스태프",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 7000,
+          "unitPriceP": 7000,
+          "options": [
+            {
+              "label": "적의 번개 저항-%",
+              "value": "11"
+            },
+            {
+              "label": "적의 화염 저항-%",
+              "value": "11"
+            },
+            {
+              "label": "적의 냉기 저항-%",
+              "value": "10"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 메이지 플레이트",
+      "category": "기타",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 1800,
+        "median": 1800,
+        "max": 1800
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "5.",
+        "마늘먹다체한곰",
+        "총 방어력",
+        "홈 있음(소켓)"
+      ],
+      "samples": [
+        {
+          "name": "래더 메이지 플레이트",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 1800,
+          "unitPriceP": 1800,
+          "options": [
+            {
+              "label": "총 방어력",
+              "value": "261"
+            },
+            {
+              "label": "홈 있음(소켓)",
+              "value": "3"
+            },
+            {
+              "label": "마늘먹다체한곰",
+              "value": "106"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=578773"
+        },
+        {
+          "name": "래더 메이지 플레이트",
+          "category": "기타",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 1800,
+          "unitPriceP": 1800,
+          "options": [
+            {
+              "label": "총 방어력",
+              "value": "261"
+            },
+            {
+              "label": "홈 있음(소켓)",
+              "value": "3"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 새로워진 천상의 틈 거대 부적",
+      "category": "부적",
+      "listingCount": 2,
+      "price": {
+        "currency": "P",
+        "min": 47000,
+        "median": 47000,
+        "max": 47000
+      },
+      "servers": [
+        "악군"
+      ],
+      "optionLabels": [
+        "5.",
+        "넷시",
+        "마나",
+        "마법 아이템 발견 확률%",
+        "적의 번개 저항-%",
+        "타격 회복 속도%",
+        "피해 감소"
+      ],
+      "samples": [
+        {
+          "name": "래더 새로워진 천상의 틈 거대 부적",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 47000,
+          "unitPriceP": 47000,
+          "options": [
+            {
+              "label": "타격 회복 속도%",
+              "value": "22"
+            },
+            {
+              "label": "적의 번개 저항-%",
+              "value": "10"
+            },
+            {
+              "label": "마나",
+              "value": "64"
+            },
+            {
+              "label": "피해 감소",
+              "value": "9"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "24"
+            },
+            {
+              "label": "넷시",
+              "value": "65"
+            },
+            {
+              "label": "5.",
+              "value": "00"
+            }
+          ],
+          "url": "https://www.playnote.co.kr/trade/itemdetail?index=585707"
+        },
+        {
+          "name": "래더 새로워진 천상의 틈 거대 부적",
+          "category": "부적",
+          "server": "악군",
+          "status": "",
+          "quantity": 1,
+          "priceP": 47000,
+          "unitPriceP": 47000,
+          "options": [
+            {
+              "label": "타격 회복 속도%",
+              "value": "22"
+            },
+            {
+              "label": "적의 번개 저항-%",
+              "value": "10"
+            },
+            {
+              "label": "마나",
+              "value": "64"
+            },
+            {
+              "label": "피해 감소",
+              "value": "9"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "24"
+            }
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "래더 망 송의 가르침 아콘 스태프",
       "category": "룬워드",
       "listingCount": 1,
       "price": {
         "currency": "P",
-        "min": 6000,
-        "median": 6000,
-        "max": 6000
+        "min": 7000,
+        "median": 7000,
+        "max": 7000
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "#퍼보석",
-        "-부산중구",
-        "0.",
-        "1,",
         "5.",
-        "AAA상점",
-        "개한방",
-        "거래 상대방",
+        "공격 속도%",
+        "넷시",
         "다음",
-        "독 기술 피해%",
         "디아블로",
-        "부산광역시 중구 중앙대로",
-        "사업자등록번호:",
-        "쌀쌀",
-        "연락처",
-        "옵션",
-        "자주묻는질문",
+        "마나",
+        "마늘먹다체한곰",
+        "마법 아이템 발견 확률%",
+        "민첩",
+        "적 처치 시 생명력 회복",
+        "적의 냉기 저항-%",
         "적의 독 저항-%",
-        "정봉자",
+        "적의 번개 저항-%",
+        "적의 화염 저항-%",
         "지금 시작하면, 멤버십 PLUS",
-        "통신판매신고번호: 제",
+        "총 방어력",
+        "타격 회복 속도%",
         "플레이디아 디아블로",
-        "한교동",
-        "호(대창동"
+        "피해",
+        "피해 감소",
+        "홈 있음(소켓)",
+        "화염 기술 피해%",
+        "화염 기술(원소술사 전용)"
       ],
       "samples": [
         {
-          "name": "래더 보호자의 돌 주얼",
+          "name": "래더 망 송의 가르침 아콘 스태프",
           "category": "룬워드",
           "server": "악군",
           "status": "거래완료",
-          "quantity": 5,
-          "priceP": 6000,
-          "unitPriceP": 6000,
+          "quantity": 1,
+          "priceP": 7000,
+          "unitPriceP": 7000,
           "options": [
             {
               "label": "지금 시작하면, 멤버십 PLUS",
@@ -399,84 +804,84 @@
               "value": "20"
             },
             {
-              "label": "한교동",
-              "value": "68"
+              "label": "적의 번개 저항-%",
+              "value": "11"
+            },
+            {
+              "label": "적의 화염 저항-%",
+              "value": "11"
+            },
+            {
+              "label": "적의 냉기 저항-%",
+              "value": "10"
+            },
+            {
+              "label": "넷시",
+              "value": "65"
             },
             {
               "label": "5.",
               "value": "00"
             },
             {
-              "label": "거래 상대방",
-              "value": "1"
+              "label": "타격 회복 속도%",
+              "value": "22"
             },
             {
-              "label": "0.",
-              "value": "00"
+              "label": "적의 번개 저항-%",
+              "value": "10"
             },
             {
-              "label": "독 기술 피해%",
-              "value": "5"
+              "label": "마나",
+              "value": "64"
+            },
+            {
+              "label": "피해 감소",
+              "value": "9"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "24"
+            },
+            {
+              "label": "공격 속도%",
+              "value": "36"
+            },
+            {
+              "label": "피해",
+              "value": "356"
             },
             {
               "label": "적의 독 저항-%",
-              "value": "5"
+              "value": "22"
             },
             {
-              "label": "쌀쌀",
-              "value": "278"
+              "label": "적 처치 시 생명력 회복",
+              "value": "10"
             },
             {
-              "label": "AAA상점",
-              "value": "194"
+              "label": "마늘먹다체한곰",
+              "value": "106"
             },
             {
-              "label": "#퍼보석",
-              "value": "50"
-            },
-            {
-              "label": "개한방",
-              "value": "700"
-            },
-            {
-              "label": "정봉자",
-              "value": "2"
-            },
-            {
-              "label": "옵션",
-              "value": "0"
-            },
-            {
-              "label": "1,",
-              "value": "000"
-            },
-            {
-              "label": "사업자등록번호:",
-              "value": "148"
-            },
-            {
-              "label": "통신판매신고번호: 제",
-              "value": "2021"
-            },
-            {
-              "label": "-부산중구",
-              "value": "0282"
-            },
-            {
-              "label": "부산광역시 중구 중앙대로",
-              "value": "141"
-            },
-            {
-              "label": "호(대창동",
-              "value": "2"
-            },
-            {
-              "label": "연락처",
-              "value": "070"
-            },
-            {
-              "label": "자주묻는질문",
+              "label": "화염 기술(원소술사 전용)",
               "value": "1"
+            },
+            {
+              "label": "민첩",
+              "value": "6"
+            },
+            {
+              "label": "총 방어력",
+              "value": "261"
+            },
+            {
+              "label": "홈 있음(소켓)",
+              "value": "3"
+            },
+            {
+              "label": "화염 기술 피해%",
+              "value": "5"
             }
           ],
           "url": "https://www.playnote.co.kr/customer/noticedetail?Index=5"
@@ -484,200 +889,150 @@
       ]
     },
     {
-      "name": "래더 보호자의 돌 주얼",
+      "name": "래더 망 송의 가르침 아콘 스태프",
       "category": "부적",
       "listingCount": 1,
       "price": {
         "currency": "P",
-        "min": 6000,
-        "median": 6000,
-        "max": 6000
+        "min": 7000,
+        "median": 7000,
+        "max": 7000
       },
       "servers": [
         "악군"
       ],
       "optionLabels": [
-        "#퍼보석",
-        "0.",
         "5.",
-        "AAA상점",
-        "개한방",
-        "거래 상대방",
+        "경험치 획득량%",
+        "공격 속도%",
+        "괴물에게서 얻는 금화%",
+        "넷시",
         "다음",
-        "독 기술 피해%",
-        "쌀쌀",
+        "마나",
+        "마늘먹다체한곰",
+        "마법 아이템 발견 확률%",
+        "민첩",
+        "적 처치 시 생명력 회복",
+        "적의 냉기 저항-%",
         "적의 독 저항-%",
-        "정봉자",
-        "한교동"
+        "적의 번개 저항-%",
+        "적의 화염 저항-%",
+        "총 방어력",
+        "타격 회복 속도%",
+        "피해",
+        "피해 감소",
+        "홈 있음(소켓)",
+        "화염 기술 피해%",
+        "화염 기술(원소술사 전용)"
       ],
       "samples": [
         {
-          "name": "래더 보호자의 돌 주얼",
+          "name": "래더 망 송의 가르침 아콘 스태프",
           "category": "부적",
           "server": "악군",
           "status": "거래완료",
-          "quantity": 5,
-          "priceP": 6000,
-          "unitPriceP": 6000,
+          "quantity": 1,
+          "priceP": 7000,
+          "unitPriceP": 7000,
           "options": [
             {
               "label": "다음",
               "value": "20"
             },
             {
-              "label": "한교동",
-              "value": "68"
+              "label": "적의 번개 저항-%",
+              "value": "11"
+            },
+            {
+              "label": "적의 화염 저항-%",
+              "value": "11"
+            },
+            {
+              "label": "적의 냉기 저항-%",
+              "value": "10"
+            },
+            {
+              "label": "넷시",
+              "value": "65"
             },
             {
               "label": "5.",
               "value": "00"
             },
             {
-              "label": "거래 상대방",
-              "value": "1"
+              "label": "타격 회복 속도%",
+              "value": "22"
             },
             {
-              "label": "0.",
-              "value": "00"
+              "label": "적의 번개 저항-%",
+              "value": "10"
             },
             {
-              "label": "독 기술 피해%",
-              "value": "5"
+              "label": "마나",
+              "value": "64"
+            },
+            {
+              "label": "피해 감소",
+              "value": "9"
+            },
+            {
+              "label": "마법 아이템 발견 확률%",
+              "value": "24"
+            },
+            {
+              "label": "공격 속도%",
+              "value": "36"
+            },
+            {
+              "label": "피해",
+              "value": "356"
             },
             {
               "label": "적의 독 저항-%",
+              "value": "22"
+            },
+            {
+              "label": "적 처치 시 생명력 회복",
+              "value": "10"
+            },
+            {
+              "label": "마늘먹다체한곰",
+              "value": "106"
+            },
+            {
+              "label": "화염 기술(원소술사 전용)",
+              "value": "1"
+            },
+            {
+              "label": "민첩",
+              "value": "6"
+            },
+            {
+              "label": "총 방어력",
+              "value": "261"
+            },
+            {
+              "label": "홈 있음(소켓)",
+              "value": "3"
+            },
+            {
+              "label": "화염 기술 피해%",
               "value": "5"
             },
             {
-              "label": "쌀쌀",
-              "value": "278"
+              "label": "적의 화염 저항-%",
+              "value": "8"
             },
             {
-              "label": "AAA상점",
-              "value": "194"
+              "label": "경험치 획득량%",
+              "value": "5"
             },
             {
-              "label": "#퍼보석",
-              "value": "50"
-            },
-            {
-              "label": "개한방",
-              "value": "700"
-            },
-            {
-              "label": "정봉자",
-              "value": "2"
+              "label": "괴물에게서 얻는 금화%",
+              "value": "42"
             }
           ],
           "url": "https://www.playnote.co.kr/trade/itemmarket?index=1"
-        }
-      ]
-    },
-    {
-      "name": "래더 우움룬",
-      "category": "부적",
-      "listingCount": 1,
-      "price": {
-        "currency": "P",
-        "min": 340,
-        "median": 340,
-        "max": 340
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [
-        "#퍼보석",
-        "0.",
-        "5.",
-        "AAA상점",
-        "개한방",
-        "거래 상대방",
-        "독 기술 피해%",
-        "쌀쌀",
-        "적의 독 저항-%",
-        "정봉자"
-      ],
-      "samples": [
-        {
-          "name": "래더 우움룬",
-          "category": "부적",
-          "server": "악군",
-          "status": "거래완료",
-          "quantity": 5,
-          "priceP": 340,
-          "unitPriceP": 340,
-          "options": [
-            {
-              "label": "거래 상대방",
-              "value": "1"
-            },
-            {
-              "label": "0.",
-              "value": "00"
-            },
-            {
-              "label": "독 기술 피해%",
-              "value": "5"
-            },
-            {
-              "label": "적의 독 저항-%",
-              "value": "5"
-            },
-            {
-              "label": "쌀쌀",
-              "value": "278"
-            },
-            {
-              "label": "5.",
-              "value": "00"
-            },
-            {
-              "label": "AAA상점",
-              "value": "194"
-            },
-            {
-              "label": "#퍼보석",
-              "value": "50"
-            },
-            {
-              "label": "개한방",
-              "value": "700"
-            },
-            {
-              "label": "정봉자",
-              "value": "2"
-            }
-          ],
-          "url": "https://www.playnote.co.kr/trade/itemdetail?index=581980"
-        }
-      ]
-    },
-    {
-      "name": "래더 퍼펙트보석",
-      "category": "보석",
-      "listingCount": 1,
-      "price": {
-        "currency": "P",
-        "min": 600,
-        "median": 600,
-        "max": 600
-      },
-      "servers": [
-        "악군"
-      ],
-      "optionLabels": [],
-      "samples": [
-        {
-          "name": "래더 퍼펙트보석",
-          "category": "보석",
-          "server": "악군",
-          "status": "",
-          "quantity": 50,
-          "priceP": 600,
-          "unitPriceP": 600,
-          "options": [],
-          "url": null
         }
       ]
     }
